@@ -3742,7 +3742,10 @@ Efecto de la sentencia. La sentencia recaída hará coas juzgada respecto al amp
 
 ### Artículo 580°
 
-Sentencia inmediata. Cuando por las circunstancias del caso y la urgencia con que deba concederse la tutela no fuere posible sustanciar el amparo, el juez dictará sentencia sin más trámite.
+
+> **Derogado.**
+
+> *Derogado por Ley N° 600 (1995-06-16)*
 
 ### Artículo 581°
 
@@ -3754,7 +3757,10 @@ De este recurso conocerá el Tribunal de Apelación del fuero correspondiente al
 
 ### Artículo 582°
 
-Declaración de inconstitucionalidad. El juez podrá pronunciar expresamente la inconstitucionalidad de leyes, decretos, reglamentos u otros actos normativos de autoridad, cuando ello fuere necesario para la concesión del amparo. La apelación, en este caso, será resuelta por la Corte Suprema de Justicia.
+
+Si para decidir sobre la acción de amparo fuere necesario determinar la constitucionalidad o inconstitucionalidad de alguna ley, decreto o reglamento, el Juez, una vez constatada la demanda, elevará en el día los antecedentes a la Sala Constitucional de la Corte Suprema de Justicia, la que en la mayor brevedad declarará la inconstitucionalidad si ella surgiere en forma manifiesta. El incidente no suspenderá el juicio que proseguirá hasta el estado de sentencia
+
+> *Modificado por Ley N° 600 (1995-06-16)*
 
 ### Artículo 583°
 
