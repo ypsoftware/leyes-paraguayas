@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/2460/texto
 short_title: "DE LA ORGANIZACIÓN, DENOMINACIÓN Y DOMICILIO"
+derogada: true
+derogada_por: Ley 1404
+derogada_fecha: 1999-01-28
 ---
 
 # LEY Nº 1229
@@ -647,3 +650,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL A LOS DIEZ Y OCHO DÍAS DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS OCHENTA Y SEIS.*
+
+> *Derogada en su totalidad por Ley N° 1404 (1999-01-28)*
