@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/10923/texto
 short_title: "QUE AUTORIZA A VARIAS INSTITUCIONES A ACEPTAR COMO…"
+derogada: true
+derogada_por: Ley 958
+derogada_fecha: 1996-09-13
 ---
 
 # LEY Nº 801
@@ -23,3 +26,5 @@ Artículo 3o.- Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobada por la Honorable Cámara de Senadores el veintiocho de setiembre del año un mil novecientos noventa y cinco y por la Honorable Cámara de Diputados, sancionándose la Ley, el once de diciembre del año un mil novecientos noventa y cinco.*
+
+> *Derogada en su totalidad por Ley N° 958 (1996-09-13)*
