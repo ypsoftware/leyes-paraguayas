@@ -15,9 +15,10 @@ short_title: "QUE ESTABLECE LA ACTUALIZACIÓN DE LAS JUBILACIONES DE LOS…"
 ### Artículo 1°
 
 
-Los haberes jubilatorios de los Magistrados Judiciales y de los Representantes del Ministerio Público comprendidos en el Decreto-Ley N° 23 del 11 de mayo de 1954, serán equiparadas anualmente en forma automática a las asignaciones previstas en el Presupuesto General de la Nación para los Magistrados Judiciales y Representantes del Ministerio Público en actividad, de igual jerarquía y con iguales funciones que aquellos tenían y desempeñaban al tiempo de otorgársele la Jubilación
 
-> *Modificado por Ley N° 12 (1992-05-07)*
+Las personas de cualquier nacionalidad que durante el sistema dictatorial imperante en el país entre los años 1954 y 1989 hubieran sufrido violación de sus derechos humanos, a la vida, la integridad personal o la libertad por parte de funcionarios, empleados o agentes del Estado, serán indemnizadas en los términos de la presente ley. Las mismas tendrán un plazo de treinta y seis meses, a partir de la designación del Defensor del Pueblo
+
+> *Modificado por Ley N° 1935 (2002-06-21)*
 
 ### Artículo 2°
 
