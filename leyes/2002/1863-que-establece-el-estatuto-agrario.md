@@ -190,6 +190,7 @@ Beneficiarios del Estatuto Agrario
 ### Artículo 16°
 
 
+
 **Beneficiarios de la Ley.**
 
 Se considerarán beneficiarios de esta Ley, a los efectos de la adjudicación de tierras por parte del Organismo de Aplicación, aquellas personas que cumplan con los siguientes requisitos:
