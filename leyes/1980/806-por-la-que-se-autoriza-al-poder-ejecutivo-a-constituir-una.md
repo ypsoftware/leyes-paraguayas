@@ -19,7 +19,10 @@ Autorízase al Poder Ejecutivo a constituir una entidad de economía mixta con l
 
 ### Artículo 2°
 
-Petróleos Paraguayos se regirá por las disposiciones de esta Ley, por las normas del Derecho Público y supletoriamente por las disposiciones del Derecho Privado.
+
+Autorízase a la Municipalidad de Asunción a trasladar el Monumento del Héroe Nacional de la República Oriental del Uruguay, General don Gervasio Artigas, de su ubicación actual (Jardín Botánico), al centro de la Plaza Uruguaya, ubicada entre las calles México, Antequera, Eligio Ayala y 25 de mayo del citado municipio
+
+> *Modificado por Ley N° 1855 (2001-12-28)*
 
 ### Artículo 3°
 
