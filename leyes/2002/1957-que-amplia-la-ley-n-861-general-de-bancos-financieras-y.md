@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/4370/texto
 short_title: "QUE AMPLIA LA LEY N° 861 \"GENERAL DE BANCOS, FINANCIERAS Y…"
+derogada: true
+derogada_por: Ley 2094
+derogada_fecha: 2003-04-21
 ---
 
 # LEY Nº 1957
@@ -60,3 +63,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a veintisiete días del mes de junio del año dos mil dos, quedando sancionado el mismo por la Honorable Cámara de Diputados, a dieciocho días del mes de julio del año dos mil dos, de conformidad a lo dispuesto en el Artículo 207, numeral 1) de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 2094 (2003-04-21)*
