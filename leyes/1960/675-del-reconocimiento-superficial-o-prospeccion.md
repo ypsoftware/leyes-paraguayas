@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/2617/texto
 short_title: "DEL RECONOCIMIENTO SUPERFICIAL O PROSPECCION"
+derogada: true
+derogada_por: Ley 99
+derogada_fecha: 1991-12-10
 ---
 
 # LEY Nº 675
@@ -710,3 +713,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Dada en la sala de sesiones de la Honorable Cámara de Representantes de la Nación, a nueve de setiembre del año un mil novecientos sesenta.*
+
+> *Derogada en su totalidad por Ley N° 99 (1991-12-10)*
