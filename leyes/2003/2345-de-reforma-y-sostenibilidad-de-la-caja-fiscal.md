@@ -25,7 +25,10 @@ La tasa de aporte para todos los programas administrados por la Dirección Gener
 
 ### Artículo 2°
 
-La jubilación, la pensión y los haberes de retiro dan derecho a un flujo de 12 (doce) mensualidades anuales, con excepción de lo dispuesto en el Artículo 12, inciso b) de esta ley; por lo que queda expresamente prohibido el pago de aguinaldo a cualquier jubilado, pensionado, retirado o herederos del sistema administrado por la Dirección General de Jubilaciones y Pensiones del Ministerio de Hacienda.
+
+La jubilación, la pensión y los haberes de retiro dan derecho a un flujo de doce mensualidades anuales, con excepción de lo dispuesto en el Artículo 12, inciso b) de esta Ley; por lo que queda expresamente prohibido el pago de aguinaldo a cualquier jubilado, pensionado, retirado o heredero del sistema administrado por la Dirección General de Jubilaciones y Pensiones del Ministerio de Hacienda, con excepción de los Lisiados y Veteranos de la Guerra del Chaco, quienes percibirán una remuneración extraordinaria anual.
+
+> *Modificado por Ley N° 2527 (2004-12-06)*
 
 CAPITULO II
 
