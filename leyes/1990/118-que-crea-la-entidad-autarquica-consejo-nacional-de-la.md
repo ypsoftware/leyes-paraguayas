@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/5245/texto
 short_title: "QUE CREA LA ENTIDAD AUTARQUICA \"CONSEJO NACIONAL DE LA…"
+derogada: true
+derogada_por: Ley 1920
+derogada_fecha: 2002-06-04
 ---
 
 # LEY Nº 118
@@ -321,3 +324,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobada por la Honorable Cámara de Senadores el catorce de diciembre del año un mil novecientos noventa y por la Honorable Cámara de Diputados, sancionándose la Ley, el veinte de diciembre del año un mil novecientos noventa.*
+
+> *Derogada en su totalidad por Ley N° 1920 (2002-06-04)*
