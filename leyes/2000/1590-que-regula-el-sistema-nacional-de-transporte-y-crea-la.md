@@ -63,7 +63,10 @@ Se entiende por transporte privado aquel que es prestado sin ningún tipo de ret
 
 ### Artículo 11°
 
-Considérase como servicios de transportes especiales a las ambulancias, bomberos, fúnebres, cargas peligrosas, frigoríficos con habilitación municipal, metropolitana o nacional.
+
+Considéranse como servicios de transportes especiales aquellos prestados por las ambulancias, vehículos de bomberos, transportes escolares, carros fúnebres, vehículos de cargas peligrosas y vehículos refrigerados (frigoríficos) y como servicios de transportes alternativos de pasajeros y cargas aquel que es realizado con habilitación municipal, metropolitana o nacional en cada caso
+
+> *Modificado por Ley N° 1818 (2001-11-07)*
 
 CAPITULO III
 
