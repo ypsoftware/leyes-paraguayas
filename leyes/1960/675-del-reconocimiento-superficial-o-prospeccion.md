@@ -76,7 +76,10 @@ DEL RECONOCIMIENTO SUPERFICIAL O PROSPECCION
 
 ### Artículo 13°
 
-Cualquier persona que reúna condiciones de solvencia técnica y económica podrá efectuar reconocimiento superficial prospección dentro de áreas libres de concesiones o en áreas reservadas, previo permiso del Ministerio de Obras Públicas y Comunicaciones.
+
+Inc. p) elevar al Ministerio de Agricultura y Ganadería un informe trimestral sobre la ejecución del Presupuesto y el cumplimiento de sus programas de trabajo.-
+
+> *Modificado por Ley N° 1289 (1987-12-04)*
 
 ### Artículo 14°
 
@@ -94,21 +97,40 @@ Por vía de reconocimiento, se podrá levantar planos, realizar estudios topogr�
 
 ### Artículo 17°
 
-Los beneficios de reconocimiento superficial no podrán:
 
-a) Perforar pozos que tengan por objeto descubrir o producir petróleos;
+Establécese un impuesto de ochocientos guaraníes por cabeza de ganado vacuno vendido o faenado para el consumo, la industria o la exportación cuyo producido será destinado al cumplimiento de los fines de SENACSA. Su percepción estará a cargo de la Dirección General de Impuestos Internos. Este impuesto se aplicará mediante estampillas especiales cuya emisión y control efectuarán juntamente SENACSA y el organismo fiscalizador respectivo del Ministerio de Hacienda. Dichas estampillas se aplicarán a los certificados, guías y bonos de faenado correspondientes.-
 
-b) Realizar los trabajos de reconocimientos superficial en áreas ya otorgadas para explotación y subsiguiente explotación o explotación directa, salvo con el consentimiento de los interesados.
+> *Modificado por Ley N° 1289 (1987-12-04)*
 
 ### Artículo 18°
 
-El beneficiario tendrá la obligación de resarcir los daños que pudiera causar a terceros con motivo de los trabajos que realice.
 
-En garantía de cumplimiento de esta obligación el beneficiario depositará a la orden del Ministerio de Obras Públicas y Comunicaciones en efectivo o en letra, una suma equivalente al importe de (1000) un mil jornales mínimos en vigencia en la capital. Esta garantía le será devuelta al finalizar el plazo de un permiso.
+SENACSA percibirá las siguientes tasas de servicios:
+
+a) por control de calidad de vacunas contra la fiebre aftosa, antibrucélica y antirrábica de producción nacional o extranjera, el equivalente a 14% (catorce por ciento) del precio de venta de cada dosis sin descuento de los laboratorios o importadores a sus distribuidores;
+
+b) por revacunación contra la fiebre aftosa, por inspección sanitaria (control clínico) de animales susceptibles a la fiebre aftosa, tuberculosis, rabia y brucelosis bovinas procedentes del exterior, una tasa de servicio de cien guaraníes por cada animal y el valor de las vacunas aplicadas; y
+
+c) el importe de las tasas previstas en el inciso a), será pagado por los laboratorios o importadores dentro del plazo que establezca SENACSA por resolución de su Consejo Directivo, el cual no excederá los treinta días, a partir de la fecha de notificación escrita sobre los resultados laboratoriales de control.-
+
+> *Modificado por Ley N° 1289 (1987-12-04)*
 
 ### Artículo 19°
 
-Los beneficios que desearen tener privilegios de prioridad en la selección de un área de explotación de acuerdo con el Capítulo III dentro del área en la cual se le concedió permiso de prospección, deberán pagar un canon de ( 0.03 U$S ) tres centavos de dólar americano por hectárea por año, sobre toda el área de prospección.
+
+SENACSA percibirá, además, tasas por los siguientes servicios:
+
+a) por desinfección de locales, vehículos transportadores de ganado, el importe del producto químico utilizado y el costo del trabajo de desinfección.
+
+b) por aislamiento y cuarentena de animales enfermos de fiebre aftosa o sanos, el equivalente al costo de manutención, pastaje y revacunación;
+
+c) por provisión de tuberculina para el diagnóstico de la enfermedad, el costo de la tuberculina; y
+
+d) por registro de casas expendedoras de productos veterinarios cinco mil guaraníes, y por cada inspección anual tres mil guaraníes.
+
+El Consejo de SENACSA dictará la resolución que reglamente la aplicación de estas tasas".-
+
+> *Modificado por Ley N° 1289 (1987-12-04)*
 
 CAPITULO III
 
@@ -134,7 +156,28 @@ DE LA EXPLOTACIÓN
 
 ### Artículo 22°
 
-La concesión de exploración y subsiguiente explotación confiere el derecho exclusivo de explorar el área concedida, por el término de cuatro años, prorrogables hasta por dos períodos de dos años siempre que se hayan llenado los requisitos de la presente ley.
+
+Establécese el siguiente régimen para la contratación de obras y servicios y adquisiciones de bienes a cargo de SENACSA.
+
+A. LICITACION
+
+Cuando el valor de las obras, bienes o servicios a ser contratados o adquiridos exceda el importe de cinco millones de guaraníes.
+
+B. CONCURSO DE PRECIOS
+
+Cuando dicho valor no alcance el límite anteriormente señalado pero super un millón quinientos mil guaraníes, se recurrirá al régimen de concurso de precios, a propuesta cerrada debiendo recabarse por lo menos tres ofertas de firmas legalmente constituidas.
+
+C. CONTRATACION DIRECTA
+
+Se procederá a la contratación directa:
+
+a) Cuando la operación no supere el límite indicado en el literal B;
+
+b) cuando los llamados a licitación pública hayan resultado desiertos, previa autorización del Ministerio de Agricultura y Ganadería; y
+
+c) cuando los llamados a concurso de precios hayan resultado desiertos, previa autorización del Consejo Directivo".-
+
+> *Modificado por Ley N° 1289 (1987-12-04)*
 
 ### Artículo 23°
 
@@ -142,7 +185,10 @@ Las concesiones de exploración serán concedidas en un área máxima de (1.200.
 
 ### Artículo 24°
 
-La forma y ubicación de los lotes de exploración serán establecidas antes de otorgarse la concesión y su forma, será cuadrada o rectangular con los lados orientados del Norte a Sur y de Este a Oeste; si es rectangular sus lados estarán como máximo en relación de uno a cinco.
+
+La venta de bienes, muebles, inmuebles o semovientes cuyo valor exceda de tres millones de guaraníes, por vez, se hará subasta pública previa autorización del Poder Ejecutivo. Si la venta es por un monto menor de lo indicado, se hará por concurso de precios debidamente publicado en dos periódicos de gran circulación de la capital de la República durante cinco días consecutivos, debiendo considerarse un mínimo de tres ofertas presentadas en sobre cerrado. De presentarse menos de tres ofertas será llamado a un segundo concurso, que será considerado válido con cualquier número de oferentes".-
+
+> *Modificado por Ley N° 1289 (1987-12-04)*
 
 ### Artículo 25°
 
@@ -150,11 +196,29 @@ La concesión de exploración confiere el derecho inherente al concesionario de 
 
 ### Artículo 26°
 
-El concesionario tendrá derecho de convertir lotes de exploración en explotación cuantas veces crea necesarios y solamente cuando hubiere hallado petróleo.
+
+Las importaciones de bienes destinados exclusivamente a sus fines estarán eximidas del pago de los siguientes gravámenes fiscales:
+
+a) derechos aduaneros, sus adicionales y recargos;
+
+b) derechos y aranceles consulares;
+
+c) impuesto en papel sellado y estampillas;
+
+d) recargo de cambio;
+
+e) impuesto a las ventas; y
+
+f) todo otro gravamen sobre importación de bienes, destinados a programas de SENACSA".-
+
+> *Modificado por Ley N° 1289 (1987-12-04)*
 
 ### Artículo 27°
 
-Las áreas de las concesiones de exploración que no resulten cubiertas por las exploraciones otorgadas, revertirán al Estado en calidad de reservas.
+
+Libérese a SENACSA del pago de franqueo postal y servicios telegráficos".-
+
+> *Modificado por Ley N° 1289 (1987-12-04)*
 
 ### Artículo 28°
 
@@ -382,11 +446,34 @@ Para determinar la regalía del Estado, se excluirá los volúmenes de hidrocarb
 
 ### Artículo 66°
 
-Cuando el Estado opte por recibir la regalía en especie, la Compañía entregará, libre de costo de gravámenes, el porcentaje correspondiente, en tanques de almacenaje del campo de producción.
 
-La Compañía tendrá la obligación de transportar y entregar la regalía del Estado en la estación terminar de embarque que la misma haya establecido para su propia producción, o en cualquier instalación intermedia de recibo o terminal a indicación del Estado, corriendo por cuenta de éste el costo del transporte.
+En los casos de infracción a las disposiciones de esta ley y más reglamentaciones pertinentes, SENACSA aplicará las siguientes sanciones:
 
-En caso de que el Estado tomara su regalía en especie, no pagará almacenaje durante los primeros treinta días, transcurridos los cuales la Compañía podrá vender las substancias acreditando su importe en la cuenta del Estado o cobrar almacenaje a las tarifas que se establecerán de mutuo acuerdo.
+a) multa equivalente al cincuenta por ciento del impuesto evadido, sin perjuicio del pago del impuesto creado en el Artículo 17 de esta ley;
+
+b) multa de veinte mil a doscientos mil guaraníes, de acuerdo a la gravedad de la infracción constatada, además del decomiso y destrucción del producto por la comercialización de vacunas elaboradas en el país o importadas no certificadas por SENACSA;
+
+c) multa de cuarenta mil a cuatrocientos mil guaraníes además del decomiso y la destrucción del producto, por reincidencia de la infracción mencionada en el anterior, sin perjuicio de la inhabilitación temporal o definitiva de la firma expendedora. Las escalas de las multas previstas en este inciso y en el anterior, y las condiciones de la inhabilitación serán establecidas por resolución del Consejo Directivo;
+
+d) multa de veinte a cien mil guaraníes por oposición injustificada a lo previsto en los artículos 46 y 47 de la Ley N° 675/77, independientemente de las medidas sanitarias dispuestas por SENACSA;
+
+e) multa de ochenta guaraníes por cabeza de animal, por infracción a lo dispuesto en los artículos 49 y 50 de la Ley N° 675/77, sin perjuicio del cumplimiento de las medidas sanitarias establecidas en los citados artículos, bajo control de SENACSA. En caso de reincidencia, la multa será de ciento sesenta guaraníes por cabeza;
+
+f) multa de dos mil guaraníes por cabeza de animal por la negativa de la identificación de los animales reaccionantes positivos a la brucelosis y la tuberculosis, sin perjuicio de la obligación de la identificación, a cuyo efecto se requerirá, si fuere necesario, la ayuda de la fuerza pública;
+
+g) multa de cien guaraníes por cada animal, con negativa a la identificación de las terneras vacunadas contra la brucelosis, sin perjuicio de la obligación de la identificación, a cuyo efecto se requerirá si fuere necesario, la ayuda de la fuerza pública;
+
+h) multa de veinticinco guaraníes por cabeza de animal por falta de registro de animales vacunados conforme a esta ley y sus reglamentos. En caso de reincidencia, la multa será de cincuenta guaraníes por cabeza de animal;
+
+i) multa de ciento cincuenta guaraníes por cabeza de animal por el tránsito de animales sin certificados de vacunación expedidos por SENACSA, sin perjuicio de otras sanciones que correspondan aplicar en cumplimiento de esta ley y sus reglamentos;
+
+j) multa de cinco mil guaraníes a veinte mil guaraníes por venta de cada animal identificado por SENACSA con brucelosis o tuberculosis destinados para la reproducción o para su exportación como ganado lechero;
+
+k) todo vendedor de leche deberá estar munido de un certificado de aptitud expedido por SENACSA, que deberá acompañar a los vehículos distribuidores del producto, y deberá ser exhibido a requerimiento de las autoridades pertinentes o de los consumidores. El incumplimiento de esta disposición será pasible del decomiso e inutilización del producto.
+
+l) La venta, modalidad y destino de los animales enfermos, de los productos y subproductos de los mismos, se hará de acuerdo a la reglamentación pertinente dictada por el Consejo".-
+
+> *Modificado por Ley N° 1289 (1987-12-04)*
 
 ### Artículo 67°
 
@@ -418,11 +505,29 @@ Toda inversión o gasto capitalizado conforme al artículo 68º, será amortizad
 
 ### Artículo 72°
 
-Las pérdidas netas de operación que dentro del ejercicio comercial sufra la Compañía podrán diferirse a los años subsiguientes y restarse como cantidades deducibles, dichas pérdidas no se podrán diferir a más de siete períodos de imposición sucesivos, ni deducirse en ninguna forma después de siete años de ocurrida la pérdida.
+
+Serán recurribles ante el Consejo, dentro del plazo de diez días de la notificación respectiva, las resoluciones de las autoridades de la entidad.
+
+Las resoluciones del Consejo serán recurribles ante el Tribunal de Cuentas por la vía del recurso contencioso administrativo, dentro de diez días de la notificación respectiva.
+
+La interposición de estos recursos no suspenderá los efectos de las Resoluciones de SENACSA y aquella será viable previo depósito en la cuenta especial de SENACSA en el Banco Central del Paraguay, de la multa pecuniaria aplicada.
+
+Las notificaciones serán hechas por escrito, incluso telegrama colacionado.
+
+Los juzgados y tribunales de la capital de la República serán los únicos competentes para atender los asuntos donde sea parte SENACSA, como actor o demandado.
+
+SENACSA no expedirá ningún certificado sanitario para el tránsito y la transferencia y/o faena de ganado bovino si un propietario tiene una multa pecuniaria u otra insatisfecha".-
+
+> *Modificado por Ley N° 1289 (1987-12-04)*
 
 ### Artículo 73°
 
-Los capitales incorporados al país por la Compañía salvo aquellos a que se refiere el artículo 69°, podrán ser amortizados, a opción de ésta, en anualidades no mayores a un 20% ( veinte por ciento) a contar del comienzo de la explotación comercial de las substancias materias de este contrato.
+
+SENACSA controlará con su organización administrativa propia, el cumplimiento de los impuestos, tasas y demás disposiciones establecidas en esta ley, y sus reglamentos. Asimismo, coordinará con la Dirección General de Impuestos Internos un sistema de verificación conjunta de la aplicación del Artículo 17 de esta ley.
+
+Las autoridades civiles, municipales, militares y policiales de la República están obligadas a prestar su máxima cooperación para el control del movimiento de bovinos y la aplicación de medidas sanitarias que los requiera SENACSA".-
+
+> *Modificado por Ley N° 1289 (1987-12-04)*
 
 ### Artículo 74°
 
