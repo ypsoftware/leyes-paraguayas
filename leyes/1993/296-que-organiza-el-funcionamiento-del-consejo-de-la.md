@@ -70,7 +70,12 @@ De las vacancias definitivas en el Consejo. Si se produjera una vacancia definit
 
 ### Artículo 9°
 
-De la comunicación al Senado y del Juramento e Instalación del Consejo. Producida una designación o proclamada la elección de un miembro del Consejo, la autoridad del órgano o del estamento correspondiente deberá comunicarla al Senado dentro del plazo de 3 (tres) días. El Presidente del Senado convocará al nuevo integrante para que comparezca a una sesión de la Cámara que se celebrará dentro del plazo de 10 (diez) días de la comunicación y en la cual el nuevo miembro prestará juramento o promesa de ejercer fielmente el cargo. Si se tratare de una renovación que afectare a más de la mitad del Consejo, corresponderá al Presidente del Senado, declarar instalado el mismo luego del juramento respectivo.
+
+De la comunicación al Senado y del Juramento e Instalación del Consejo. Producida una designación o proclamada la elección de un miembro del Consejo, la autoridad del órgano o del estamento correspondiente deberá comunicarla al Senado dentro del plazo de tres días. El Presidente del Senado convocará al nuevo integrante para que comparezca a una sesión de la Cámara de Senadores que se celebrará dentro del plazo de diez días de la comunicación y en la cual el nuevo miembro prestará juramento o promesa de ejercer fielmente su cargo. Si se tratare de una renovación que afectare a más de la mitad del Consejo, corresponderá al Presidente del Senado declarar instalado el mismo luego de constatarse los juramentos respectivos.
+
+Quedan exentos de lo dispuesto en el párrafo anterior, el representante titular y el respectivo suplente de la Cámara de Diputados, quienes jurarán o prestarán promesa de cumplir fielmente el cargo ante la misma Cámara y se incorporarán directamente al Consejo de la Magistratura.
+
+> *Modificado por Ley N° 1662 (2000-12-28)*
 
 ### Artículo 10°
 
