@@ -15,15 +15,16 @@ short_title: "QUE MODIFICA EL ARTICULO 1° DE LA LEY N° 1247/98 “QUE…"
 
 ### Artículo 1°
 
-Modificase el Artículo 1° de la Ley N° 1273/98 “Que modifica el Artículo 12 de la Ley N° 669/95, de Tasas Judiciales”, cuyo texto queda redactado del siguiente modo:
 
-“Art. 12.- El producido de las Tasas Judiciales, luego de deducidos el costo de las recaudaciones, que será calculado en un 1% (uno por ciento), y el 2% (dos por ciento) para el financiamiento de las indemnizaciones debidas por el Estado en caso de perjuicios causados en el marco de su función jurisdiccional, será distribuido como sigue:
+El producido de las tasas judiciales, luego de deducidos el costo de las recaudaciones, que será calculado en un 1% (uno por ciento), y el 2% (dos por ciento) para el financiamiento de las indemnizaciones debidas por el Estado en caso de perjuicios causados en el marco de su función jurisdiccional, será distribuido como sigue:
 
-SETENTA Y DOS POR CIENTO (72%) para el financiamiento de los Programas y Subprogramas Presupuestarios de la Corte Suprema de Justicia y de los institutos creados por leyes especiales. Las recaudaciones serán depositadas en una Cuenta Corriente especialmente habilitada a nombre de la Corte Suprema de Justicia en el Banco Central del Paraguay;
+a) SESENTA POR CIENTO (60%) para el financiamiento de los Programas y Subprogramas Presupuestarios de la Corte Suprema de Justicia y de los institutos creados por leyes especiales. Las recaudaciones serán depositadas en una Cuenta Corriente especialmente habilitada a nombre de la Corte Suprema de Justicia en el Banco Central del Paraguay;
 
-DIEZ Y OCHO POR CIENTO (18%) para financiar los Programas Presupuestarios de Acción e Inversión del Ministerio Público. Las recaudaciones serán depositadas diariamente por la Corte Suprema de Justicia para el Ministerio Público en una Cuenta Corriente especialmente habilitada para ese efecto en el Banco Central del Paraguay; y,
+b) DIECINUEVE POR CIENTO (19%) para financiar los Programas Presupuestarios de Acción e Inversión del Ministerio Público. Las recaudaciones serán depositadas diariamente por la Corte Suprema de Justicia para el Ministerio Público en una Cuenta Corriente especialmente habilitada para ese efecto en el Banco Central del Paraguay; y,
 
-DIEZ POR CIENTO (10%) para la construcción y mejoramiento de la infraestructura penitenciaria de la República, que incluye además el funcionamiento de centros alternativos de reclusión penitenciaria, centros de asistencia post-penitenciaria y de talleres escuelas de artes y oficios. El monto respectivo deberá incluirse en el Presupuesto del Ministerio de Justicia y Trabajo en el rubro correspondiente, y depositado en la Cta. Cte. N° 128 a nombre del Ministerio de Justicia y Trabajo en el Banco Central del Paraguay.
+c) VEINTIUN POR CIENTO (21%) de los cuales hasta el 30% se destinará a financiar programas de acción, y el 70% a programas de inversión física para la construcción y mejoramiento de la infraestructura penitenciaria de la República, que incluye, además, el funcionamiento de centros alternativos de reclusión penitenciaria, centros de asistencia post-penitenciaria y de talleres escuelas de artes y oficios. El monto respectivo deberá incluirse en el Presupuesto del Ministerio de Justicia y Trabajo en el rubro correspondiente, y depositado en la Cta.Cte.N° 128, a nombre del Ministerio de Justicia y Trabajo en el Banco Central del Paraguay.
+
+> *Modificado por Ley N° 2388 (2004-05-07)*
 
 ### Artículo 2°
 
