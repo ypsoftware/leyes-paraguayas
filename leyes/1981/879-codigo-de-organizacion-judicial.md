@@ -898,11 +898,14 @@ DE LOS REGISTROS
 
 ### Artículo 99°
 
-La creación de los Registros Notariales se hará por ley atendiendo a las necesidades del país.
 
-Dichos Registros serán numerados por la Corte Suprema de Justicia.
+La creación de los Registros Notariales se hará por Ley atendiendo a las necesidades del país.
 
-Los Notarios y Escribanos obtendrán el usufructo de Registros, del Poder Ejecutivo con acuerdo de la Corte Suprema de Justicia.
+Dichos registros serán numerados por la Corte Suprema de Justicia.
+
+Los Notarios y Escribanos obtendrán el usufructo de registros, de la Corte Suprema de Justicia
+
+> *Modificado por Ley N° 903 (1996-07-02)*
 
 ### Artículo 100°
 
@@ -916,23 +919,38 @@ DE LOS NOTARIOS Y ESCRIBANOS PUBLICOS
 
 ### Artículo 101°
 
-Los Notarios y Escribanos Públicos son depositarios de la fe pública notarial y ejercerán sus funciones como Titular, Adscripto o Suplente de un registro notarial dentro de la demarcación geográfica para la cual se creó el registro notarial, excepto cuando se disponga de otro modo en la ley.
+
+Los Notarios y Escribanos Públicos son depositarios de la fe pública notarial y ejercerán sus funciones como titulares de
+
+un registro notarial dentro de la demarcación geográfica para la cual se creó el Registro Notarial, excepto cuando se disponga de otro modo en la Ley
+
+> *Modificado por Ley N° 903 (1996-07-02)*
 
 ### Artículo 102°
 
+
 Las condiciones requeridas para desempeñar las funciones de Escribano de Registro son:
 
-a) ser paraguayo natural o naturalizado;
+a) Ser paraguayo natural o naturalizado;
 
-b) ser mayor de edad;
+b) Ser mayor de edad;
 
-c) tener título de Notario y Escribano Público expedido por una Universidad Nacional, o por una extranjera con equiparación o reválida por la Universidad Nacional; y,
+c) Residir permanentemente en la localidad donde funcione la Oficina Notarial del Registro que se le asigne;
 
-d) ser de conducta, antecedentes y honradez intachables.
+d) Tener título de notario o de doctor en notariado otorgado por una universidad nacional o del extranjero debidamente revalidado;
+
+e) No registrar antecedentes de carácter penal con sentencia firme y ejecutoriada y gozar de notoria honorabilidad y buena conducta; y,
+
+f) Aprobar un concurso de oposición
+
+> *Modificado por Ley N° 903 (1996-07-02)*
 
 ### Artículo 103°
 
-Los Escribanos Titulares de Registro y sus Adscriptos, antes de tomar posesión de sus cargos prestarán ante la Corte Suprema de Justicia o ante el Miembro designado, el juramento de cumplir fielmente los deberes y obligaciones de su cargo y serán personal, solidaria e ilimitadamente responsables de la legalidad de su proceder.
+
+Los Escribanos Titulares de Registro, antes de tomar posesión de sus cargos, prestarán juramento o promesa ante la Corte Suprema de Justicia o ante el Miembro designado por élla, de cumplir los deberes y obligaciones inherentes a sus funciones y serán personal e ilimitadamente responsables de la legalidad de los actos que formalicen
+
+> *Modificado por Ley N° 903 (1996-07-02)*
 
 ### Artículo 104°
 
@@ -944,9 +962,14 @@ El Adscripto deberá reunir las mismas condiciones que el Titular y desempeñar�
 
 ### Artículo 106°
 
-Los Adscriptos, por orden de antigüedad, reemplazarán al Titular en caso de impedimento o ausencia transitoria de éste.
 
-Si no tuviere adscripto el Escribano Titular propondrá al Poder Ejecutivo, por intermedio de la Corte Suprema de Justicia, un suplente que actuará bajo la responsabilidad del Titular. El propuesto será también un Escribano y donde no lo haya será un Juez de paz de la localidad.
+El Notario de Registro, para ausentarse del asiento de su notaría por más de diez días, deberá contar con la autorización expresa del Tribunal de Apelaciones en lo Civil y Comercial en la circunscripción judicial respectiva.
+
+Se considerará concedida la autorización si el Tribunal no se pronuncia en el plazo de cuarenta y ocho horas.
+
+Cuando el Notario de Registro deba ausentarse por más de diez días y hasta un máximo de un año, deberá proponer a la Corte Suprema de Justicia la designación de un Notario Suplente
+
+> *Modificado por Ley N° 903 (1996-07-02)*
 
 ### Artículo 107°
 
@@ -958,13 +981,19 @@ El Escribano Titular podrá pedir a la Corte Suprema de Justicia la cancelación
 
 ### Artículo 109°
 
-Los Escribanos de Registro no podrán ser separados de su función mientras dure su buena conducta.
+
+Los Escribanos de Registro sólo podrán ser separados de sus funciones por incumplimiento de lo establecido en el artículo 111 de la presente Ley, por mala conducta en el ejercicio de la profesión o por las demás causales o causas previstas en la Ley
+
+> *Modificado por Ley N° 903 (1996-07-02)*
 
 ### Artículo 110°
 
-En caso de muerte o destitución, del Titular, será reemplazado por lo adscripto más antiguo, o por el único que exista.
 
-El nombrado recibirá la oficina bajo formal inventario, con intervención del funcionario que designe la Corte Suprema de Justicia.
+En caso de renuncia, fallecimiento o destitución de un Notario Público, el Registro Notarial quedará vacante hasta su nuevo otorgamiento.
+
+En los casos contemplados en el presente artículo y en el caso establecido en el artículo 106, el Presidente del Tribunal de Apelación en lo Civil de la correspondiente circunscripción judicial recibirá el Registro Notarial bajo formal inventario y dispondrá su traslado al archivo respectivo
+
+> *Modificado por Ley N° 903 (1996-07-02)*
 
 SECCION III
 
@@ -1058,15 +1087,21 @@ DE LA ESCRIBANIA Y SU REGISTRO
 
 ### Artículo 118°
 
-Las escrituras y demás actos públicos sólo podrán ser autorizados por los Notarios y Escribanos de Registro.
 
-En los Distritos donde no haya Escribanos Públicos, serán autorizados por los Jueces de Paz.
+Las escrituras y demás actos públicos sólo pueden ser autorizados por los Escribanos de Registro, salvo la situación contemplada en el artículo 107.
 
-En los Distritos donde no haya Escribanos Públicos, serán autorizados por los Jueces de Paz.
+La elección del Escribano para los actos bilaterales será libre para las partes dentro de los límites de la Ley, salvo lo que corresponde al Escribano Mayor de Gobierno. Las reparticiones de la administración central, los entes descentralizados y las instituciones bancarias o financieras, cualquiera sea su denominación, no podrán imponer listas de escribanos y en los casos de préstamos prevalecerá la elección del deudor
+
+> *Modificado por Ley N° 903 (1996-07-02)*
 
 ### Artículo 119°
 
-Las escrituras se extenderán en cuadernos de papel sellado para Registros Públicos, de diez folios cada uno con sello y timbre especial para protocolo, del valor que le asigne la ley respectiva. Sin perjuicio de la numeración fiscal que lleven, sus folios deberán ser numerados, poniéndose en letras y guarismos la numeración correlativa que les corresponda en cada una de sus divisiones. No podrán ser desglosados. Si su exhibición fuere requerida por Juez competente, éste le decretará por el término estrictamente necesario.
+
+Las escrituras se extenderán en hojas de protocolo habilitadas para Registros Notariales, excepto las actuaciones extraprotocolares reguladas por Ley. Estas hojas no podrán ser desglosadas y deberán tener numeración correlativa, debiendo además ser foliadas por el Escribano, quien deberá hacerlo en números y letras.
+
+Las copias o testimonios serán expedidos en hojas de actuación notarial o en fotocopias e irán acompañadas de una hoja de seguridad notarial. Estos materiales y los demás que fueren necesarios para el desempeño de la función, serán impresos, administrados y controlados por la Corte Suprema de Justicia, la que podrá delegar dicha función en el Colegio de Escribanos del Paraguay
+
+> *Modificado por Ley N° 903 (1996-07-02)*
 
 ### Artículo 120°
 
@@ -1206,7 +1241,10 @@ Toda queja sobre las actuaciones de los Escribanos, Escribanos de Registro, ser�
 
 ### Artículo 150°
 
-En caso de muerte o incapacidad del Titular, sus adscriptos, si los tuviere y a falta de ellos, los familiares del primero o el empleado principal de la Escribanía, deberán comunicar el hecho dentro de las 48 horas de producido, a la Corte Suprema de Justicia. La omisión del cumplimiento de esta obligación por parte del Adscripto, será considerada falta grave.
+
+En caso de muerte o incapacidad del titular, los familiares o el empleado principal de la Escribanía, deberán comunicar el hecho dentro de las 48 horas de producida, a la Corte Suprema de Justicia
+
+> *Modificado por Ley N° 903 (1996-07-02)*
 
 SECCION VI
 
