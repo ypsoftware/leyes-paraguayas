@@ -860,11 +860,12 @@ Para el cálculo de los límites señalados para la persona del obligado o emiso
 
 ### Artículo 66°
 
-Límites para operación con warrant.
 
-Un banco no podrá recibir en garantía warrant emitidos por un solo almacén general de depósito por encima del 40% (cuarenta por ciento) de su patrimonio efectivo.
+**Límites para operaciones con Warrants.**
 
-LIMITES TEMPORALES
+Facúltase al Directorio del Banco Central del Paraguay a establecer reglamentariamente los límites para las operaciones con Warrants de las Entidades Financieras sujetas a la Ley N° 861/96 “GENERAL DE BANCOS, FINANCIERAS Y OTRAS ENTIDADES DE CREDITOS”.
+
+> *Modificado por Ley N° 2451 (2004-08-25)*
 
 ### Artículo 67°
 
