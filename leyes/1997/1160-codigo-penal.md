@@ -1566,13 +1566,10 @@ Extrañamiento de personas
 
 ### Artículo 126°
 
-Secuestro
 
-1º El que con el fin de obtener para sí o para un tercero un rescate u otra ventaja indebida, privara a una persona de su libertad, será castigado con pena privativa de libertad de hasta ocho años.
+Secuestro1°) El que con el fin de obtener para sí o para un tercero un rescate u otra ventaja indebida, privara a una persona de su libertad, será castigado con pena privativa de libertad de siete a quince años.2°) El que con el fin de obtener para sí o para un tercero un beneficio pecuniario en concepto de rescate u otra ventaja indebida y con intención de causar la angustia de la víctima o la de terceros, privara a una persona de su libertad o utilizara para el mismo fin tal situación creada por otro, será castigado con pena privativa de libertad de quince hasta veinticinco años.3°) Cuando el autor, renunciando a la ventaja pretendida, pusiera en libertad a la víctima en su ámbito de vida, la pena podrá ser atenuada con arreglo al Artículo 67. Si la víctima hubiera regresado a su ámbito de vida por otras razones, será suficiente para aplicar la atenuación indicada, que el autor haya tratado de hacerlo voluntaria y seriamente.
 
-2° El que con el fin de obtener para sí o para un tercero un rescate u otra ventaja indebida, y con intención de causar la angustia de la víctima o la de terceros, privara de su libertad a una persona, o utilizara para el mismo fin tal situación creada por otro, será castigado con pena privativa de libertad de hasta diez años.
-
-3º Cuando el autor, renunciando a la ventaja pretendida, pusiera en libertad a la víctima en su ámbito de vida, la pena podrá ser atenuada con arreglo al artículo 67. Si la víctima hubiera regresado a su ámbito de vida por otras razones, será suficiente para aplicar la atenuación indicada, que el autor haya tratado de hacerlo voluntaria y seriamente.
+> *Modificado por Ley N° 2212 (2003-09-08)*
 
 ### Artículo 127°
 
