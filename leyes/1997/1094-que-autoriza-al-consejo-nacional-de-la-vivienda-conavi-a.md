@@ -38,7 +38,10 @@ A partir de la fecha de la promulgación de esta ley, la unidad de reajuste que 
 
 ### Artículo 7°
 
-Los beneficios acordados en los Artículos 3º, 4º y 5º de esta ley regirán exclusivamente para los contratos vigentes de unidades habitacionales adjudicadas por el Consejo Nacional de la Vivienda y no afectarán a los contratos de préstamos para compra, construcción, ampliación o mejoras de viviendas en lote propio, otorgados directamente o a través de Asociaciones, Cooperativas y Sindicatos.
+
+Los beneficios acordados en los Artículos 3°, 4° y 5° de la Ley N° 1094/97, regirán para los contratos vigentes de unidades habitacionales adjudicadas por el Consejo Nacional de la Vivienda y para los contratos de préstamos para compra, construcción, ampliación o mejoras de viviendas en lote propio, otorgados directamente o a través de asociaciones, cooperativas y sindicatos
+
+> *Modificado por Ley N° 1519 (1999-12-13)*
 
 ### Artículo 8°
 
