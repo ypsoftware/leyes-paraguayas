@@ -20,11 +20,23 @@ DE LA INSTITUCION DEL SISTEMA Y DE SU COMPETENCIA
 
 ### Artículo 1°
 
-De la institución del sistema. Por la presente ley se instituye el sistema nacional de ciencia y tecnología integrado por el conjunto de organismos, instituciones nacionales públicas y privadas, personas físicas y jurídicas dedicadas o relacionadas a las actividades científicas y tecnológicas.
+
+De la institución de los sistemas. Por la presente ley, se instituye el Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI) integrado por el conjunto de organismos, instituciones nacionales públicas y privadas, personas físicas y jurídicas dedicadas o relacionadas a las actividades científicas, tecnológicas y de innovación.
+
+Se instituye asimismo el Sistema Nacional de Calidad (SNC) integrado por el conjunto de organismos nacionales públicos y privados y por las personas físicas y jurídicas que desarrollan actividades vinculadas con la calidad.
+
+El Consejo Nacional de Ciencia y Tecnología (CONACYT) podrá instituir otros Sistemas Nacionales, en áreas específicas de las Ciencias y las Tecnologías, cuando el avance en un campo determinado y la importancia de las mismas para el desarrollo científico y tecnológico del país, lo hagan conveniente.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 2°
 
-De la competencia. Compete al sistema nacional de ciencia y tecnología estimular y promover la investigación científica y tecnológica, la generación, difusión y transferencia del conocimiento; la invención, la innovación, la educación científica y tecnológica; los servicios de metrología, normalización y aseguramiento de la calidad de los productos, el desarrollo de tecnologías nacionales y la gestión en materia de ciencia y tecnología.
+
+De las competencias. Compete al Sistema Nacional de Ciencia, Tecnología e Innovación estimular y promover la investigación científica y tecnológica, la generación, difusión y transferencia del conocimiento; la invención, la innovación, la educación científica y tecnológica, el desarrollo de tecnologías nacionales y la gestión en materia de ciencia, tecnologías e innovación.
+
+Compete al Sistema Nacional de Calidad promover la investigación científica y tecnológica en el área de calidad y la aplicación y difusión de los servicios de acreditación, de metrología, de normalización y del sistema de evaluación de la conformidad.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 CAPÍTULO II
 
@@ -32,11 +44,12 @@ POLÍTICA Y PROGRAMACIÓN
 
 ### Artículo 3°
 
-De la ciencia y la tecnología y la política de desarrollo. El desarrollo científico y tecnológico del país estará orientado por políticas y programas específicos impulsados por el sector público, debidamente coordinados y en concertación o correlación con el sector privado.
 
-Las políticas de largo plazo contendrán las pautas y estrategias generales para el desarrollo científico y tecnológico del país. Las de mediano plazo, basadas en aquélla y en las necesidades prioritarias del desarrollo nacional, tendrán proyecciones quinquenales.
+De la ciencia, la tecnología, la innovación, la calidad y la política de desarrollo. El desarrollo de actividades científicas y tecnológicas y de innovación en el país, así como el desarrollo de actividades en el ámbito de la calidad, estarán orientados por políticas y programas específicos impulsados por el sector público y, cuando correspondiere, debidamente coordinados con el sector privado. Estas políticas y programas deben responder a la política de desarrollo social y económico del país.
 
-Las políticas de ciencia y tecnología se desarrollarán en base a programas preferentemente intersectoriales, interdisciplinarios e interinstitucionales.
+Las políticas nacionales de ciencia, tecnología e innovación y las políticas nacionales de calidad se desarrollarán basándose en programas preferentemente intersectoriales y multidisciplinarios.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 4°
 
@@ -62,65 +75,111 @@ DE LA CREACIÓN DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
 ### Artículo 5°
 
-De la dirección del sistema. La dirección, coordinación y evaluación del sistema nacional de ciencia y tecnología estará a cargo del Consejo Nacional de Ciencia y Tecnología (CONACYT), que queda instituido por la presente ley como un organismo público autárquico, de composición mixta, dependiente de la Presidencia de la República.
 
-Las resoluciones del CONACYT, consideradas por ésta como fundamentales y referidas a las políticas de desarrollo científico y tecnológico serán homologadas por decreto del Poder Ejecutivo.
+De la coordinación de los sistemas. La coordinación, orientación y evaluación general del Sistema Nacional de Ciencia, Tecnología e Innovación y del Sistema Nacional de Calidad estarán a cargo del Consejo Nacional de Ciencia y Tecnología (CONACYT), organizado como institución pública, autárquica, de composición mixta, dependiente de la Presidencia de la República.
+
+CONACYT tendrá competencia nacional y las resoluciones del mismo, que sean consideradas por el Consejo como fundamentales y referidas a las políticas de desarrollo científico o tecnológico y de los procesos innovativos, así como de la calidad, serán homologadas por decreto del Poder Ejecutivo.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 6°
 
-De la representación. El Ministerio de Relaciones Exteriores habilitará al CONACYT para representar al país en la gestión y ejecución de aquellos programas de ciencia y tecnología en los que cooperan organismos internacionales o estados extranjeros.
+
+De la representación. El Ministerio de Relaciones Exteriores habilitará al CONACYT para representar al país en la gestión y ejecución de aquellos programas de ciencia, tecnología, innovación y calidad en los que cooperan o participan organismos internacionales o estados extranjeros.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 7°
 
+
 De las atribuciones del CONACYT. Son atribuciones del Consejo Nacional de Ciencia y Tecnología:
 
-a) formular y proponer al gobierno nacional las políticas y estrategias de desarrollo científico y tecnológico para el país, en concordancia con la política de desarrollo económico y social del Estado;
+a) formular y proponer al Gobierno Nacional las políticas nacionales y estrategias de ciencia, tecnología e innovación y de calidad para el país, en concordancia con la política de desarrollo económico y social del Estado. En coordinación con las instituciones relacionadas, supervisar y evaluar la implementación de estas políticas y estrategias;
 
-b) coordinar los programas de becas y de intercambio de estudiantes, de científicos y tecnólogos mediante la búsqueda de oportunidades y fuentes de financiamiento y su divulgación entre los sectores interesados así como la supervisión de su utilización y aprovechamiento adecuado;
+b) concertar los esfuerzos científicos, tecnológicos, de innovación y de calidad nacionales con los que se realizan en el extranjero, promoviendo las redes de investigación y desarrollo de los mismos;
 
-c) articular los esfuerzos científicos y tecnológicos que se realizan en el país, con los que se realizan en el extranjero, promoviendo un amplio intercambio;
+c) seleccionar, aprobar, supervisar y evaluar las investigaciones financiadas por el FONACYT, para que las mismas se lleven a cabo dentro de los lineamientos de la política nacional de ciencia, tecnología e innovación y de la política nacional de calidad, formuladas por el CONACYT;
 
-d) supervisar las investigaciones externas financiadas por el FONACYT para que éstas se lleven a cabo dentro de los lineamientos de la política de desarrollo científico y tecnológico formulados por el CONACYT;
+d) asesorar a los Poderes del Estado en todos los aspectos relacionados con las áreas de la competencia del CONACYT;
 
-e) asesorar a los Poderes del Estado en todos los aspectos relacionados con la investigación y las aplicaciones científicas y tecnológicas;
+e) determinar los criterios y/o principios de ciencia, tecnología e innovación y de calidad a ser incorporados en la formulación de políticas nacionales;
 
-f) reglamentar la política de asignaciones de recursos del FONACYT para la consecución de los fines del Consejo y administrar el programa de apoyo a la investigación;
+f) reglamentar y ejecutar la política de asignaciones de recursos del FONACYT para la consecución de los fines de la política nacional de ciencia, tecnología e innovación de la política nacional de la calidad;
 
-g) promover la difusión de actividades científicas y tecnológicas nacionales y realizar su ordenamiento y sistematización;
+g) promover la difusión de actividades científicas, tecnológicas, de innovación y de la calidad, así como realizar su ordenamiento y sistematización;
 
-h) promover la normalización y el control de calidad de la producción y de la generación, uso y aplicación de la tecnología;
+h) promover la normalización y la evaluación de la conformidad de los procesos, productos y servicios y la generación, uso y aplicación de la tecnología;
 
-i) auspiciar programas de formación y especialización de investigadores;
+i) auspiciar programas de formación y especialización de los recursos humanos necesarios para el desarrollo del Sistema Nacional de Calidad y del Sistema Nacional de Ciencia, Tecnología e Innovación;
 
-j) incentivar la aplicación de tecnologías que sean cultural, social y ambientalmente sustentables;
+j) incentivar la generación, uso, difusión y aplicación de conocimientos científicos, tecnológicos, de innovación y calidad que sean cultural, social y ambientalmente sustentables;
 
-k) establecer y mantener relaciones con organismos similares públicos y privados del extranjero, propiciar la participación del país en congresos u otro tipo de reuniones, así como apoyar el intercambio científico, la cooperación y la información recíproca, y
+k) establecer y mantener relaciones con organismos similares públicos y privados del extranjero, así como propiciar la participación de representantes del país en congreso u otro tipo de actividades científicas o técnicas y apoyar el intercambio, la cooperación y la información recíproca en las áreas de competencia del CONACYT;
 
-l) racionalizar la gestión y aplicación de los recursos públicos y privados destinados a la investigación científica y al desarrollo tecnológico.
+l) concertar y apoyar la acción de entes públicos nacionales, asociaciones civiles y organismos no gubernamentales en materias de su competencia;
+
+m) promover la racionalización y transparencia en la gestión y aplicación de los recursos públicos y privados destinados a la investigación científica, el desarrollo tecnológico, la innovación y la calidad;
+
+n) definir los conceptos relacionados con las áreas de su competencia, de acuerdo con los criterios establecidos y aceptados a nivel internacional;
+
+o) constituir comisiones permanentes o comisiones ad hoc para el tratamiento y estudio de temas específicos, así como para la evaluación de proyectos específicos, dentro de las áreas de su competencia;
+
+p) participar en las actividades, comisiones o colegiados de cualquier tipo o denominación vinculados a organismos oficiales relacionados con ciencia, tecnología, innovación y calidad;
+
+q) fomentar el desarrollo de la ciencia, tecnología, innovación y calidad por medio de mecanismos de incentivos a instituciones, empresas y personas;
+
+r) autorizar la realización de convenios, acuerdos, contrataciones y otros instrumentos afines relacionados con el cumplimiento de sus objetivos;
+
+s) administrar sus recursos presupuestarios, realizando las gestiones administrativas que sean necesarias a tal efecto;
+
+t) dictar los reglamentos y resoluciones que se relacionen con las funciones del CONACYT;
+
+u) fijar los montos a percibir por prestación de servicios y actualizarlos periódicamente;
+
+v) fijar remuneraciones adicionales y extraordinarias a los funcionarios del CONACYT, a ser pagadas con los fondos del FONACYT;
+
+w) aprobar el Informe Anual de Actividades, la Memoria y el Balance del año anterior, el anteproyecto de Presupuesto debidamente justificado y los planes de trabajo que el Presupuesto asignado al CONACYT, permitan ejecutar;
+
+x) designar a los miembros del Consejo y a los funcionarios que, juntos con el Presidente del CONACYT, han de suscribir los valores, títulos y otros documentos, e
+
+y) realizar los demás actos necesarios al cumplimiento de los fines del CONACYT.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 8°
 
-De la composición. El CONACYT estará compuesto de diez consejeros titulares e igual número de suplentes, quienes representarán a cada una de las instituciones y sectores siguientes:
 
-1. la Secretaría Técnica de Planificación de la Presidencia de la República - STP;
+De la composición. El CONACYT estará compuesto de catorce Consejeros titulares e igual número de suplentes, quienes representarán a cada una de las instituciones y sectores siguientes:
 
-2. el Ministerio de Industria y Comercio - MIC, a través del Instituto Nacional de Tecnología y Normalización - INTN;
+1. la Secretaría Técnica de Planificación de la Presidencia de la República, STP;
 
-3. el Ministerio de Agricultura y Ganadería - MAG;
+2. el Ministerio de Industria y Comercio, a través de Instituto Nacional de Tecnología y Normalización, INTN;
 
-4. las universidades estatales;
+3. el Ministerio de Agricultura y Ganadería;
 
-5. las universidades privadas;
+4. el Ministerio de Educación y Cultura;
 
-6. la Unión Industrial Paraguaya - UIP;
+5. el Ministerio de Salud Pública y Bienestar Social;
 
-7. la Asociación Rural del Paraguay - ARP;
+6. las Universidades Estatales;
 
-8. la Federación de la Producción, la Industria y el Comercio - FEPRINCO;
+7. las Universidades Privadas;
 
-9. la Asociación de Pequeñas y Medianas Empresas, y
+8. la Unión Industrial Paraguaya, UIP;
 
-10. las centrales sindicales.
+9. la Asociación Rural del Paraguay, ARP;
+
+10. la Federación de la Producción, la Industria y el Comercio, FEPRINCO;
+
+11. la Asociación de Pequeñas y Medianas Empresas;
+
+12. las Centrales Sindicales;
+
+13. la Sociedad Científica del Paraguay, y
+
+14. la Asociación Paraguaya para la Calidad.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 9°
 
@@ -138,15 +197,42 @@ c) haber ejercido la docencia universitaria o poseer experiencia comprobada en e
 
 ### Artículo 11°
 
-De la presidencia del CONACYT. El Presidente del Consejo será designado por el Presidente de la República de una terna propuesta de entre sus miembros por el CONACYT. El Presidente del Consejo durará dos años en sus funciones y podrá ser reelecto. La elección de la terna se hará de conformidad con la reglamentación que establezca para tal efecto el mismo Consejo.
+
+De la Presidencia del CONACYT. El Presidente del Consejo será designado por el Presidente de la República, de una terna propuesta de entre sus miembros por el CONACYT. El Presidente del Consejo durará dos años en sus funciones y podrá ser reelecto. La elección de la terna se hará de conformidad con la reglamentación que establezca para tal efecto el mismo Consejo. Le compete al Presidente de CONACYT:
+
+a) convocar al Consejo y presidir las sesiones ordinarias y extraordinarias del CONACYT;
+
+b) cumplir y hacer cumplir las resoluciones del CONACYT;
+
+c) ejercer la representación legal y oficial del CONACYT, y conferir poderes generales y especiales, previa aprobación del Consejo, en cuanto fuere necesario para el desarrollo de su actividad y el cumplimiento de sus fines;
+
+d) suscribir con los miembros del Consejo y/o los funcionarios que hubieren sido designados especialmente para el efecto los valores, títulos, contratos y otros documentos;
+
+e) ordenar, previa aprobación del Consejo, la instrucción de sumarios administrativos y adoptar en consecuencia las medidas que correspondan, conforme a las leyes y los reglamentos internos del CONACYT;
+
+f) someter a consideración del Consejo las evaluaciones de las auditorias;
+
+g) presentar un informe detallado de las actividades realizadas en cada sesión del Consejo y trimestralmente el informe del avance de ejecución presupuestaria, y
+
+h) someter a consideración del Consejo el Informe Anual de Actividades, la Memoria y el Balance del año anterior; el Anteproyecto de presupuesto debidamente justificado y los planes de trabajo con las modificaciones que el presupuesto asignado al CONACYT para el año fiscal, permitan ejecutar.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 12°
 
-Del carácter honorario de la función. Los miembros del CONACYT no percibirán remuneración ni dieta del Estado, pero se hallarán equiparados al rango de viceministros en materia de derechos, obligaciones y responsabilidades.
+
+De la función honoraria de miembro del CONACYT. Los miembros del CONACYT no percibirán remuneración ni dieta del Estado. Se hallarán equiparados al rango de viceministros en materia de derechos, obligaciones y responsabilidades.
+
+El Presidente del CONACYT será Asesor de la Presidencia de la República en el área de ciencia, tecnología, innovación y calidad. Como tal, se hallará equiparado al rango de Ministro del Poder Ejecutivo, en materia de derechos, obligaciones y responsabilidades.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 13°
 
-De la formulación del presupuesto. El CONACYT formulará anualmente su anteproyecto de presupuesto general, previendo los gastos del personal remunerado, juntamente con todos los gastos e ingresos propios previstos para su funcionamiento. Igualmente incluirá, en programa separado, los rubros destinados al FONACYT para el desarrollo de los proyectos y programas de investigación.
+
+De la formulación del presupuesto. El CONACYT formulará anualmente su anteproyecto de presupuesto general, previendo los gastos del personal remunerado, los gastos de viaje y viáticos necesarios para el cumplimiento de las actividades que fueran requeridas a los miembros del Consejo, conjuntamente con todos los gastos e ingresos propios previstos para su funcionamiento. Igualmente, incluirá los rubros destinados al FONACYT para el desarrollo de los proyectos y programas de investigación.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 CAPITULO IV
 
@@ -154,29 +240,33 @@ DE LA SECRETARÍA EJECUTIVA
 
 ### Artículo 14°
 
-Del Secretario Ejecutivo. El CONACYT contará con un Secretario Ejecutivo subordinado al Consejo, que tendrá las siguientes funciones y atribuciones:
 
-a) ejecutar las resoluciones del CONACYT ;
+De los Secretarios Ejecutivos. El CONACYT y el Organismo Nacional de Acreditación, dependiente del CONACYT, contarán con Secretarios Ejecutivos subordinados al Presidente del Consejo, que tendrán las siguientes funciones y atribuciones:
 
-b) proponer al Consejo los lineamientos generales de la política nacional de ciencia y tecnología, los planes y programas;
+a) ejecutar las resoluciones del CONACYT;
 
-c) elaborar y proponer al Consejo convenios de cooperación científica y tecnológica a nivel nacional e internacional;
+b) proponer al Consejo los lineamientos generales de las políticas nacionales de ciencia, tecnología, innovación y de calidad, y los planes y programas;
 
-d) desempeñar funciones de enlace, coordinación y armonización entre el sistema nacional de ciencia y tecnología o sus organismos integrantes, los organismos internacionales, regionales, sub-regionales, multilaterales y bilaterales, de conformidad con las directivas del CONACYT;
+c) elaborar y proponer al Consejo convenios de cooperación científica y tecnológicas a nivel nacional e internacional;
+
+d) desempeñar funciones de enlace, coordinación y armonización entre los sistemas nacionales de ciencia, tecnología e innovación y de calidad o sus organismos integrantes, los organismos internacionales, regionales, sub-regionales, multilaterales y bilaterales, de conformidad con las directivas del CONACYT;
 
 e) presentar al Consejo propuestas para designar o inscribir delegados oficiales del país a foros internacionales;
 
 f) organizar y coordinar las actividades de las unidades operativas de su dependencia;
 
-g) proponer al Consejo el nombramiento de los responsables de las unidades operativas de su dependencia, previa consulta con el Consejo;
+g) proponer al Consejo el nombramiento de los responsables de las unidades operativas de su dependencia y del personal técnico y auxiliar, permanente o temporario; y,
 
-h) preparar el anteproyecto de presupuesto del CONACYT y someterlo a consideración del Consejo, e
+h) cumplir y hacer cumplir las resoluciones del CONACYT.
 
-i) oficiar de secretario en las reuniones del CONACYT.
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 15°
 
-De la categoría del Secretario Ejecutivo. El Secretario Ejecutivo será nombrado por decreto del Poder Ejecutivo a propuesta del Consejo. Tendrá carácter de funcionario público con la categoría de funcionario de confianza del Consejo, y gozará de la remuneración que le asigne el presupuesto.
+
+De la categoría de los Secretarios Ejecutivos. Los Secretarios Ejecutivos serán nombrados por decreto del Poder Ejecutivo a propuesta del Consejo. Tendrán carácter de funcionario público con la categoría de funcionario de confianza del Consejo, y gozarán de la remuneración que les asigne el presupuesto.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 CAPITULO V
 
@@ -184,7 +274,10 @@ DEL FONACYT
 
 ### Artículo 16°
 
-De la creación del Fondo Nacional de Ciencia y Tecnología. Créase el Fondo Nacional de Ciencia y Tecnología (FONACYT). Este fondo se destinará al financiamiento de los programas y proyectos de investigación científica y tecnológica, a la adaptación de nuevas tecnologías y a la difusión de las mismas.
+
+De la creación del Fondo Nacional de Ciencia y Tecnología. Créase el Fondo Nacional de Ciencia y Tecnología – FONACYT. Este fondo se destinará al financiamiento de los programas y proyectos de investigación científica y tecnológica; a la generación y adaptación de nuevas tecnologías y a la difusión de las mismas; al pago de remuneraciones adicionales y extraordinarias fijadas por el CONACYT y al financiamiento de actividades de acreditación y de capacitación apoyados por el CONACYT.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 17°
 
@@ -196,27 +289,41 @@ Del financiamiento básico. Para garantizar el financiamiento estable y permanen
 
 ### Artículo 19°
 
-Otros recursos del Consejo Nacional de Ciencia y Tecnología. Además de los recursos públicos, son recursos del FONACYT:
 
-a) los legados y donaciones que reciba, que estarán exentos de todo tributo nacional, departamental o municipal;
+Otros recursos del Fondo Nacional de Ciencia y Tecnología. Además de los recursos públicos previstos en el Presupuesto General de Gastos de la Nación, son recursos del FONACYT:
 
-b) el producto de la venta de servicios y de publicaciones propias;
+a) los fondos provenientes de legados, donaciones, convenios y/o acuerdos que reciba, que estarán exentos de todo tributo nacional, departamental o municipal;
 
-c) los aportes en dinero u otros recursos que se otorguen al país, de conformidad con los convenios internacionales y que el gobierno estime que deben ser administrados por el CONACYT, y
+b) los fondos recaudados por la venta de servicios prestados y de publicaciones propias;
 
-d) los fondos especiales, para programas específicos, habilitados por el sector privado en favor del FONACYT y cuya administración la llevará con conocimiento del aportante.
+c) los aportes en dinero u otros recursos que se otorguen al país, de conformidad con los convenios internacionales y que el gobierno estime que deben ser administrados por el CONACYT;
+
+d) los fondos especiales, para programas específicos, habilitados por el sector privado en favor del FONACYT y cuya administración la llevará con conocimiento del aportante; y,
+
+e) los ingresos propios por cualquier otro concepto lícito.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 20°
 
-De las deducciones del impuesto a la renta. Las donaciones que realicen los contribuyentes del impuesto a la renta a CONACYT serán deducibles hasta el 5% del monto imponible. Las sumas que excedan dicho porcentaje serán deducidas de conformidad con lo previsto en las Leyes N°s. 302/93 y 125/91 en sus partes pertinentes.
+
+De las deducciones del Impuesto a la Renta. Las donaciones que realicen los contribuyentes al CONACYT serán deducibles en su totalidad del Impuesto a la Renta, hasta el monto máximo del 5% de lo que le corresponda abonar. Las sumas que excedan dicho porcentaje serán deducidas de conformidad con lo previsto en las Leyes Nos. 302/93 y 125/91 en sus partes pertinentes.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 21°
 
-Presupuesto nacional para ciencia y tecnología. Con el fin de aumentar la eficiencia y eficacia del gasto público destinado a ese efecto, la inclusión de asignaciones presupuestarias para programas de investigación científica o desarrollo tecnológico en órganos de la administración central, entidades descentralizadas y gobernaciones, se hará con conocimiento del CONACYT.
+
+Presupuesto Nacional para Ciencia, Tecnología, Innovación y Calidad. Con el fin de aumentar la eficiencia y eficacia de gasto público destinado a esos efectos, la inclusión de asignaciones presupuestarias para programas de investigación científica, desarrollo tecnológico, innovación y calidad en órganos de la administración central, entidades descentralizadas y gobernaciones, se hará con conocimiento del CONACYT.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 22°
 
-Deducción por donaciones para ciencia y tecnología. Para el reconocimiento de las deducciones fiscales, los legados o donaciones deberán ser canalizados a través del FONACYT, para apoyo a los programas de investigación científica o tecnológica que respondan a la política nacional de ciencia y tecnología.
+
+Deducción por donaciones para Ciencia, Tecnología, Innovación y Calidad. Para el reconocimiento de las deducciones fiscales, los legados o donaciones deberán ser canalizados a través del FONACYT, y destinados a los programas de investigación científica o tecnológica que respondan a la política nacional de ciencia, tecnología, innovación y calidad.
+
+> *Modificado por Ley N° 2279 (2003-11-07)*
 
 ### Artículo 23°
 
