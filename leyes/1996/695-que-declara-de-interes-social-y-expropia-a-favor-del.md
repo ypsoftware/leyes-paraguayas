@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/9962/texto
 short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA A FAVOR DEL…"
+derogada: true
+derogada_por: Ley 1952
+derogada_fecha: 2002-08-01
 ---
 
 # LEY Nº 6951995
@@ -41,3 +44,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobada por la H. Cámara de Diputados, a ocho días del mes de junio del año un mil novecientos noventa y cinco , y por la H. Cámara de Senadores, sancionándose la Ley a doce días del mes de setiembre, del año un mil novecientos noventa y cinco.*
+
+> *Derogada en su totalidad por Ley N° 1952 (2002-08-01)*
