@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/2431/texto
 short_title: "QUE ESTABLECE NORMAS QUE REGLAMENTA LA EXTRACCION, LOS…"
+derogada: true
+derogada_por: Ley 1422
+derogada_fecha: 1999-05-13
 ---
 
 # LEY Nº 106/91
@@ -114,3 +117,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobada por la H. Cámara de Diputados a veintiún días del mes de noviembre del año un mil novecientos noventa y uno y por la H. Cámara de Senadores, sancionándose la Ley, a once días del mes de diciembre del año un mil novecientos noventa y uno.*
+
+> *Derogada en su totalidad por Ley N° 1422 (1999-05-13)*
