@@ -88,19 +88,28 @@ La Comisión Interinstitucional colaborará operativamente con las Comisiones de
 
 ### Artículo 12°
 
+
 La Comisión Interinstitucional tendrá además las siguientes funciones:
 
-a) Definir las zonas o áreas de erradicación;
+a) definir las zonas o áreas de erradicación;
 
-b) Declarar predios o áreas de riesgo para los Programas Sanitarios;
+b) declarar predios o áreas de riesgo para los Programas Sanitarios;
 
-c) Administrar los recursos del Fondo Especial del Programa Nacional de Erradicación;
+a) administrar los recursos del Fondo Especial del Programa Nacional de Erradicación;
 
-d) Aplicar las medidas sanitarias en situaciones emergenciales a nivel nacional, regional o local;
+b) aplicar las medidas sanitarias en situaciones emergenciales a nivel nacional, regional o local;
 
-e) Reglamentar las disposiciones de la presente Ley por Decreto del Poder Ejecutivo; y,
+c) reglamentar las disposiciones de la presente ley por decreto del Poder Ejecutivo;
 
-f) Realizar la programación anual del uso de los recursos, la cual será remitida al Ministerio de Hacienda así como su aplicación mensual.
+d) realizar la programación anual del uso de los recursos, la cual será remitida al Ministerio de Hacienda así como su aplicación mensual; y,
+
+e) dictar medidas sanitarias, técnicas y administrativas que guarden relación en todo hecho de erradicación de la Fiebre Aftosa”.
+
+CAPITULO IV
+
+DE LOS PREDIOS Y AREAS DE RIESGO
+
+> *Modificado por Ley N° 1700 (2001-12-10)*
 
 Capítulo III
 
@@ -132,19 +141,16 @@ De los Predios y Areas de Riesgo
 
 ### Artículo 15°
 
-La Comisión Interinstitucional podrá declarar predios que por sus antecedentes histórico-sanitarios y resultados epidemiológicos de explotación y ubicación geográficas, sean considerados "PREDIOS O AREAS DE RIESGO PARA LOS PROGRAMAS SANITARIOS". La declaración de predios o áreas de riesgo se hará de acuerdo al informe técnico de la oficina regional del Servicio Nacional de Salud Animal (SENACSA) y avalada por la Comisión de Salud Animal de su jurisdicción. Será causante:
 
-a) La falta de vacunación y de registro oportuno;
+La Comisión Interinstitucional podrá declarar “PREDIO O AREAS DE RIESGO PARA LOS PROGRAMAS SANITARIOS”, a los lugares considerados tales, por sus antecedentes histórico–sanitarios y resultados epidemiológicos de explotación y ubicación geográficas. La declaración se hará de acuerdo al informe técnico de la Oficina Regional del Servicio Nacional de Salud Animal (SENACSA) y previo dictamen favorable de la Comisión de Salud Animal de su jurisdicción. Son causales:
 
-b) La movilización del ganado sin vacunación;
+a) la inobservancia de las disposiciones legales referentes a las medidas sanitarias vigentes sobre la Fiebre Aftosa en el país;
 
-c) La aparición de fiebre aftosa en ganado no vacunado;
+b) la introducción en los predios o áreas de animales susceptibles de contraer la enfermedad de Fiebre Aftosa provenientes de áreas de menor status sanitario, o que carezcan de documentación zoosanitaria del país de origen; y,
 
-d) La no tenencia de certificado de vacunación;
+c) la identificación de animales de riesgo por investigaciones epidemiológicas y laboratoriales
 
-e) El transporte de ganado enfermo de fiebre aftosa; y,
-
-f) La no vacunación de la totalidad de la población bovina.
+> *Modificado por Ley N° 1700 (2001-12-10)*
 
 ### Artículo 16°
 
@@ -244,21 +250,12 @@ De las Sanciones
 
 ### Artículo 34°
 
-a) Se establece una multa de un jornal mínimo diario legal para actividades diversas no especificadas, por cabeza de animal sensible a la fiebre aftosa no vacunado, sin perjuicio del cumplimiento de las medidas sanitarias correspondientes;
 
-b) Multa del 50% (cincuenta por ciento) del jornal mínimo diario legal para actividades diversas no especificadas, por cabeza de animal por falta de registro de animales vacunados conforme a esta Ley y sus reglamentos;
+Será decomisado todo animal, producto o subproducto de origen animal, susceptibles de vehiculizar virus de Fiebre Aftosa, que fuesen descubiertos dentro del territorio nacional, sin reunir las condiciones sanitarias exigidas por el SENACSA y disponer inmediatamente el sacrificio del animal o, en su caso, la destrucción del producto o subproducto, sin derecho a indemnización alguna.
 
-c) Multa de cinco jornales mínimos diarios legales para actividades diversas no especificadas, por cabeza de animal, movilizado sin certificado sanitario expedido por el Servicio Nacional de Salud Animal (SENACSA), sin perjuicio de otras sanciones que correspondan aplicar en cumplimiento de esta Ley y sus reglamentos;
+En el caso de que los animales que deban ser sacrificados constituyan el único sustento de una familia, se procederá a la indemnización de los propietarios, hasta un límite de cinco animales por familia
 
-d) Multa de dos jornales mínimos diarios legales para actividades diversas no especificadas por cabeza de ganado, en caso de constatarse falsas declaraciones de su rebaño y sub-registro de vacunación sin perjuicio de la aplicación de las medidas sanitarias correspondientes;
-
-e) Los conductores de medios de transporte que contravengan las disposiciones vigentes, I independientemente de las sanciones impuestas a los propietarios del ganado transportado, serán pasibles de:
-
-Multa de treinta jornales mínimos diarios legales para actividades diversas no especificadas, por conducir animales enfermos de fiebre aftosa, carecer de Certificado de Vacunación para tránsito y carecer de habilitación del transporte. En caso de reincidencia, se duplicará la multa. Al propietario de transporte o empresa se le inhabilitará su medio por treinta días hábiles, sin perjuicio de los
-
-efectos legales contra terceros. La repetición por tercera vez inhabilitará al conductor para transportar animales bajo programa, y al propietario del transporte se le inhabilitará por noventa días hábiles, y se le aplicará una multa de cien jornales mínimos diarios legales para actividades diversas no especificadas; y,
-
-f) Las casas expendedoras de vacuna antiaftosa que no estén habilitadas por el Servicio Nacional de Salud Animal (SENACSA) y estén comercializando productos no autorizados por el mismo, serán pasibles de una multa de cuarenta jornales mínimos diarios legales para actividades diversas no especificadas, con decomiso del producto. En caso de reincidencia se aplicará el doble de la multa y la inhabilitación definitiva para comercializar dicho producto.
+> *Modificado por Ley N° 1700 (2001-12-10)*
 
 Capítulo IX
 
