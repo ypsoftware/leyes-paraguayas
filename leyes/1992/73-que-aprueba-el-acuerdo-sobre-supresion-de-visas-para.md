@@ -52,21 +52,16 @@ Presente
 
 ### Artículo 7°
 
-Tomando en cuenta el orden o la seguridad pública, cada uno de los Estados puede suspender temporalmente la vigencia del presente Acuerdo, en forma parcial o en su totalidad. La decisión sobre tal suspensión, así como de la revocación de la misma, deberán ser transmitidas al otro Estado mediante comunicación escrita, con un plazo mínimo de 7 (siete) días antes de que la medida entre en vigor.
 
-El presente Acuerdo se contrae por tiempo indefinido. Las Partes podrán denunciarlo mediante la notificación hecha por cada uno de los Estados. En este caso, el Acuerdo perderá su vigencia transcurridos 90 (noventa) días desde la fecha de entrega de la correspondiente Nota.
+Son afiliados a la Caja, con arreglo a las disposiciones de esta ley:
 
-En caso de ser aceptados los términos del presente proyecto, la presente Nota y la de respuesta de Vuestra Excelencia constituirán un Acuerdo entre nuestros dos Gobiernos, que entrará en vigencia a partir de la fecha en que ambas Partes se comuniquen haber cumplido con los requisitos que dispongan sus legislaciones.
+a)los empleados administrativos, de servicios y asesores financieros, jurídicos y técnicos, de los bancos oficiales y privados, nacionales, de las agencias y sucursales de bancos extranjeros legalmente establecidos en la República, del Fondo Ganadero y de la Caja, siempre que sean mayores de dieciocho años de edad y presten servicios mediante el pago de una remuneración directa o indirecta, cualquiera sea su categoría, tipo de trabajo y forma de nombramiento, inclusive los suministrados por empresas prestadoras de servicios aunque sean temporales;
 
-Expreso a Vuestra Excelencia mi convicción de que el presente Acuerdo contribuirá al fortalecimiento y futuro desarrollo de las cordiales relaciones de amistad que vinculan a nuestros dos países.
+b) los jubilados y pensionados en el régimen de jubilaciones y pensiones de empleados de las entidades afiliadas a la Caja; y,
 
-Saludo a Vuestra Excelencia con mi consideración más distinguida. Firmado: Dr. Krzkysztof Skubiszewski. Ministro de Relaciones Exteriores de la República de Polonia".
+c) los funcionarios que llegaren a ocupar cargos de administradores, representantes, apoderados, presidente o miembros del Consejo o Directorio, de las instituciones señaladas en el inciso a) de este artículo
 
-Por tanto, tengo el honor de confirmar en nombre del Gobierno de la República del Paraguay el Acuerdo antes transcripto y acordar que la Nota de Vuestra Excelencia y la presente sean consideradas como las que constituyen un Acuerdo entre nuestros dos Gobiernos que entrará en vigor a partir de la fecha en que ambas Partes se comuniquen haber cumplido con los requisitos que dispongan sus legislaciones.
-
-Hago propicia la oportunidad para reiterar a Vuestra Excelencia las seguridades de mi más alta y distinguida consideración.
-
-FDO: Por el Gobierno de la República del Paraguay, Alexis Frutos Vaesken, Ministro de Relaciones Exteriores.
+> *Modificado por Ley N° 1802 (2001-12-24)*
 
 ### Artículo 2°
 
