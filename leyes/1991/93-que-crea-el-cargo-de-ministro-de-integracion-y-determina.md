@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/10282/texto
 short_title: "QUE CREA EL CARGO DE MINISTRO DE INTEGRACION Y DETERMINA…"
+derogada: true
+derogada_por: Ley 1389
+derogada_fecha: 1999-01-18
 ---
 
 # LEY Nº 931991
@@ -53,3 +56,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobada por la H. Cámara de Senadores el veinte y tres de octubre del año un mil novecientos noventa y uno y por la Cámara de Diputados, sancionándose la Ley, el diez de diciembre del año un mil novecientos noventa y uno .*
+
+> *Derogada en su totalidad por Ley N° 1389 (1999-01-18)*
