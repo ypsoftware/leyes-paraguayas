@@ -86,7 +86,12 @@ En caso de muerte de los Mutilados, Lisiados y Veteranos de la Guerra del Chaco 
 
 ### Artículo 15°
 
-Las Jubilaciones y pensiones otorgadas en virtud de esta ley a los Mutilados, Lisiados de 1a Guerra del Chaco, y a sus herederos, serán inembargables, salvo en los casos de prestación de alimentos
+
+Las jubilaciones y pensiones otorgadas en virtud de la presente ley a los mutilados, lisiados y veteranos de la Guerra del Chaco y a sus herederos, serán inembargables, salvo en los casos de prestación de alimentos.
+
+El Ministerio de Hacienda, a partir del año 2001, dispondrá los medios administrativos necesarios para efectuar el pago de los haberes que por cualquier concepto perciban los Veteranos de la Guerra del Chaco o sus herederos en virtud de la presente ley, en los lugares donde éstos residan, cumpliendo con todas las formalidades exigidas por los procedimientos respectivos
+
+> *Modificado por Ley N° 1654 (2000-12-28)*
 
 ### Artículo 16°
 
