@@ -19,9 +19,14 @@ BONOS EN DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA
 
 ### Artículo 1°
 
-Autorización de emisión
 
-Autorízase al Poder Ejecutivo a emitir bonos del Tesoro Nacional denominados en dólares de los Estados Unidos de América hasta el equivalente de un capital de U$A. 400.000.000,oo (Cuatrocientos millones de dólares estadounidenses). Los títulos deberán llevar la firma impresa del Ministro de Hacienda y del Director General del Tesoro.
+**Autorización de emisión.**
+
+Autorízase al Poder Ejecutivo a emitir Bonos del Tesoro Nacional denominados en dólares de los Estados Unidos de América hasta el equivalente de un capital de U$A 400.000.000 (cuatrocientos millones de dólares estadounidenses). Los títulos deberán llevar la firma impresa del Ministro de Hacienda y del Director General del Tesoro.
+
+A fin de implementar la emisión de los bonos, se autoriza al Poder Ejecutivo a suscribir y otorgar documentos; a formalizar actos, contratos y acuerdos y a realizar las diligencias necesarias y convenientes, de acuerdo con la práctica internacional, para obtener el financiamiento a través de bonos; a tales efectos se faculta al Poder Ejecutivo a establecer o estipular cláusulas, obligaciones, compromisos, declaraciones, garantías, indemnizaciones, renuncias, cláusulas de impago, cláusulas de rescisión anticipada y otras causales específicas de incumplimiento y recursos con respecto a las referidas causales específicas
+
+> *Modificado por Ley N° 1441 (1999-06-15)*
 
 ### Artículo 2°
 
@@ -31,17 +36,22 @@ Los recursos financieros obtenidos de la colocación de los bonos contemplados e
 
 ### Artículo 3°
 
-Condiciones financieras
 
-La emisión autorizada en el artículo 1º deberá realizarse necesariamente con las siguientes condiciones:
+**Condiciones financieras.**
+
+La emisión autorizada en el artículo 1° deberá realizarse necesariamente con las siguientes condiciones:
 
 a) el plazo de vencimiento será de por lo menos veinte años;
 
 b) se establecerá un período de gracia para amortización de capital de por lo menos cinco años;
 
-c) la tasa de interés efectiva no excederá de la tasa LIBOR a 180 días más un punto porcentual de interés anual, pagadero semestralmente; y,
+c) la tasa de interés efectiva de los bonos, cuyo monto está expresado en los cupones, no excederá de la tasa LIBOR a ciento ochenta días más un punto porcentual de interés anual, pagadero semestralmente;
 
-d) los gastos de emisión y colocación no excederán del 1,25% (uno con veinticinco por ciento) y serán deducidos del resultante de las colocaciones.
+d) los gastos de emisión y colocación no excederán del 1,25% (uno con veinticinco por ciento) y serán deducidos del resultante de las colocaciones; y,
+
+e) la amortización se efectuará en 31 cuotas pagaderas semestralmente, y el vencimiento de la primera cuota se verificará el día inmediatamente siguiente al día en el que expire el período de gracia, fijado de conformidad al inciso b) de este artículo
+
+> *Modificado por Ley N° 1441 (1999-06-15)*
 
 ### Artículo 4°
 
@@ -69,7 +79,8 @@ El producido de la colocación de los bonos contemplados en este Capítulo será
 
 ### Artículo 8°
 
-Aplicación de los fondos
+
+**Aplicación de los fondos.**
 
 El Banco Central del Paraguay sólo podrá girar contra la cuenta establecida en el artículo anterior en los siguientes casos:
 
@@ -77,15 +88,20 @@ a) para cumplir con los objetivos de la ley de saneamiento financiero;
 
 b) para colocar depósitos en entidades financieras del exterior de primera línea, en cuyo caso los intereses devengados se capitalizarán periódicamente;
 
-c) para rescatar anticipadamente los bonos contemplados en este Capítulo; y,
+c) para fomento del sector productivo; y,
 
-d) para preservar la estabilidad monetaria.
+d) para preservar la estabilidad monetaria
+
+> *Modificado por Ley N° 1441 (1999-06-15)*
 
 ### Artículo 9°
 
-Rescate anticipado
 
-Los recursos remanentes de los fondos provenientes de la colocación de los bonos serán destinados al rescate anticipado, y a la mayor brevedad posible. Solamente en el caso de que el costo del rescate sea superior al rendimiento de la colocación del remanente en un Banco de primera línea del exterior podrá suspenderse la aplicación de esta norma hasta que se den las condiciones convenientes para el rescate.
+**Rescate anticipado.**
+
+Los recursos remanentes de los fondos provenientes de la colocación de los bonos serán destinados al rescate anticipado, que podrá efectuarse después de cinco años, contados a partir de la fecha de la emisión de los bonos. Solamente en el caso de que el costo del rescate sea superior al rendimiento de la colocación del remanente en un banco de primera línea del exterior, podrá suspenderse la aplicación de esta norma hasta que se den las condiciones convenientes para el rescate
+
+> *Modificado por Ley N° 1441 (1999-06-15)*
 
 ### Artículo 10°
 
