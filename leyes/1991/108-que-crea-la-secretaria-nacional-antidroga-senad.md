@@ -18,7 +18,10 @@ Créase la Secretaría Nacional Antidroga (SENAD), que coordinará las acciones 
 
 ### Artículo 2°
 
-La Secretaría mencionada en el Artículo 1º dependerá directamente de la Presidencia de la República y estará a cargo de un Secretario Ejecutivo y un Secretario Adjunto, nombrados por el Poder Ejecutivo.
+
+La Secretaría Nacional Antidroga es la autoridad gubernamental con la misión de ejecutar y hacer ejecutar la política del Gobierno Nacional en la lucha contra el narcotráfico; la prevención, recuperación y el control del lavado de dinero proveniente del tráfico ilícito de estupefacientes; la drogadicción; el control de drogas peligrosas y su prevención; dependerá directamente de la Presidencia de la República; y estará a cargo de un Secretario Ejecutivo y un Secretario Adjunto, quienes deberán ser técnicos o especializados en el tema, nombrados por el Poder Ejecutivo
+
+> *Modificado por Ley N° 396 (1994-08-18)*
 
 ### Artículo 3°
 
