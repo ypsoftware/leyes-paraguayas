@@ -14,7 +14,10 @@ short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA DOS INMUEBLES…"
 
 ### Artículo 1°
 
-Decláranse de interés social y exprópianse a favor del Instituto de Bienestar Rural (I.B.R.), dos inmuebles adyacentes, ambos situados en el Distrito de Mingá Guazú, Departamento Alto Paraná: Finca Nº 10.067 de Puerto Presidente Stroessner, actual Ciudad del Este de 254 Has. 3.670 m2 (doscientos cincuenta y cuatro hectáreas, tres mil seiscientos setenta metros cuadrados) y parte de la Finca Nº 934, Padrón Nº 1.121 identificado en los títulos de propiedad como inmueble Dos Fracción I que consta de 508 has. 7.335 m2 (quinientos ocho hectáreas, siete mil trescientos treinta y cinco metros cuadrados) para ser adjudicadas a sus actuales ocupantes.
+
+Declárase de interés social y exprópiase a favor del Instituto de Bienestar Rural (I.B.R.), el inmueble situado en el Distrito de Puerto Presidente Stroessner, actual Ciudad del Este, individualizada como Finca N° 10.067, de 254 Has 3.670 m2 (doscientos cincuenta y cuatro hectáreas, tres mil seiscientos setenta metros cuadrados)
+
+> *Modificado por Ley N° 837 (1996-04-16)*
 
 ### Artículo 2°
 
