@@ -31,15 +31,10 @@ DE LAS INCOMPATIBILIDADES E INHABILIDADES
 
 ### Artículo 3°
 
-La condición de miembro titular del Consejo es incompatible con el desempeño:
 
-1) De la profesión de abogado. Los abogados que al tiempo de su elección como titulares tuvieren juicios pendientes como patrocinantes o apoderados deberán renunciar a su patrocinio o mandato.
+De las designaciones. En las actuaciones o resoluciones de la Corte Suprema de Justicia para las designaciones a su cargo, elegirá a uno de cada terna de candidatos propuestos por el Consejo para llenar los cargos.
 
-2) De cualquier otro cargo público, exceptuando la docencia y la investigación científica a tiempo parcial y salvo los casos del Ministro de la Corte Suprema de Justicia, del Senador y del Diputado;
-
-3) De cargos políticos partidarios.
-
-Las mismas incompatibilidades son aplicables a los suplentes que accedan a la titularidad.
+> *Modificado por Ley N° 1983 (2004-01-31)*
 
 ### Artículo 4°
 
