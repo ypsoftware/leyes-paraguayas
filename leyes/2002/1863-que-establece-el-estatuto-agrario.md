@@ -189,31 +189,36 @@ Beneficiarios del Estatuto Agrario
 
 ### Artículo 16°
 
-Beneficiarios de la ley.
 
-Se considerarán beneficiarios de esta ley, a los efectos de la adjudicación de tierras por parte del Instituto de Bienestar Rural, aquellas personas que cumplan con los siguientes requisitos:
+**Beneficiarios de la Ley.**
+
+Se considerarán beneficiarios de esta Ley, a los efectos de la adjudicación de tierras por parte del Organismo de Aplicación, aquellas personas que cumplan con los siguientes requisitos:
 
 Para asentamientos agrícolas:
 
-a) tener ciudadanía paraguaya sin distinción de sexo, mayoría de edad acreditada con la respectiva Cédula de Identidad Policial y observar buena conducta;
+a) tener ciudadanía paraguaya natural sin distinción de sexo, mayoría de edad, acreditada con la respectiva Cédula de Identidad Policial y observar buena conducta;
 
 b) dedicarse directa y habitualmente a la agricultura, como actividad económica principal;
 
-c) no ser propietario de inmuebles, salvo la de un lote urbano o suburbano, o ser propietario de un inmueble rural con superficie menor a una UBEF; y,
+c) no haber sido adjudicado anteriormente con tierra por parte del Instituto de Bienestar Rural; y,
 
-d) no haber sido adjudicado anteriormente con tierra por parte del Instituto de Bienestar Rural, salvo la excepción del inciso “c” de este artículo.
+d) no haber sido adjudicado anteriormente con tierra por parte del Organismo de Aplicación.
 
 Para asentamientos ganaderos en la Región Occidental:
 
-a) tener ciudadanía paraguaya sin distinción de sexo, mayoría de edad acreditada con la respectiva Cédula de Identidad Policial y observar buena conducta;
+a) tener ciudadanía paraguaya natural sin distinción de sexo, mayoría de edad, acreditada con la respectiva Cédula de Identidad Policial y observar buena conducta;
 
 b) dedicarse habitualmente a la producción ganadera o manifestar su intención formal de hacerlo;
 
-c) no haber sido adjudicado anteriormente con tierra por parte del Instituto de Bienestar Rural, salvo la excepción del inciso “c” del párrafo precedente;
+c) no haber sido adjudicado anteriormente con tierra por parte del Instituto de Bienestar Rural;
 
-d) poseer registro de marca de ganado; y,
+d) no haber sido adjudicado anteriormente con tierra por parte del Organismo de Aplicación;
 
-e) garantizar, de acuerdo con el reglamento que dictará el Instituto de Bienestar Rural, la realización de inversiones para la ocupación efectiva y el desarrollo productivo ambientalmente sostenible del inmueble solicitado.
+e) poseer registro de marca de ganado; y,
+
+f) garantizar, de acuerdo con el reglamento que dictará el Organismo de Aplicación, la realización de inversiones para la ocupación efectiva y el desarrollo productivo ambientalmente sostenible del inmueble solicitado.
+
+> *Modificado por Ley N° 2531 (2004-12-29)*
 
 ### Artículo 17°
 
