@@ -261,7 +261,10 @@ DEL SUBSIDIO Y DEL REAJUSTE
 
 ### Artículo 26°
 
-El subsidio, será una ayuda directa, sin cargo de restitución, que se otorgará por una sola vez a las personas naturales que sean beneficiarias de los del CONAVI, para financiar una vivienda de interés social, destinada a la habilitación permanente del beneficiario y su grupo familiar.
+
+El Subsidio Habitacional Directo constituirá una ayuda estatal, sin cargo de restitución, que se otorgará por una sola vez a las personas naturales que sean beneficiarias de los planes del Consejo Nacional de la Vivienda (CONAVI), para posibilitar la adquisición, construcción, ampliación o mejora de una vivienda económica o de una vivienda de interés social, destinada a la habitación permanente del beneficiario y su grupo familiar
+
+> *Modificado por Ley N° 815 (1996-01-24)*
 
 ### Artículo 27°
 
