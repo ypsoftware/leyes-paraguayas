@@ -14,7 +14,10 @@ short_title: "QUE ESTABLECE LA ACTUALIZACIÓN DE LAS JUBILACIONES DE LOS…"
 
 ### Artículo 1°
 
-Las jubilaciones de los Magistrados y Funcionarios Judiciales y de los Representantes del Ministerio Público comprendidos en el Decreto-Ley Nº 23 del 11 de mayo de 1954 que se otorguen en lo sucesivo, serán actualizadas automáticamente cada vez que se produzcan incrementos de sueldos en el Presupuesto General de la Nación para los Funcionarios de la Administración Central y en el mismo porcentaje de dichos aumentos.
+
+Los haberes jubilatorios de los Magistrados Judiciales y de los Representantes del Ministerio Público comprendidos en el Decreto-Ley N° 23 del 11 de mayo de 1954, serán equiparadas anualmente en forma automática a las asignaciones previstas en el Presupuesto General de la Nación para los Magistrados Judiciales y Representantes del Ministerio Público en actividad, de igual jerarquía y con iguales funciones que aquellos tenían y desempeñaban al tiempo de otorgársele la Jubilación
+
+> *Modificado por Ley N° 12 (1992-05-07)*
 
 ### Artículo 2°
 
