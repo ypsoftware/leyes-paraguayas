@@ -14,17 +14,20 @@ short_title: "QUE DESAFECTA DEL DOMINIO PUBLICO MUNICIPAL Y AUTORIZA A LA…"
 
 ### Artículo 1°
 
-Desaféctase del dominio público municipal y autorízase a la Municipalidad de Asunción a transferir a título oneroso a favor del Arzobispado de Asunción una fracción de terreno, asiento de la Vicaría Santa Elena, individualizada como parte de la Finca No. 9.480, ubicada en el Distrito de la Recoleta, del citado municipio, cuyas dimensiones y linderos son los siguientes:
 
-LINEA 1-2: Con rumbo magnético N-19º 08' 28"-E (Norte diez y nueve grados, ocho minutos, veinte y ocho segundos Este), mide 97,50 ms. (noventa y siete metros con cincuenta centímetros), linda con Plaza;
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de Asunción a transferir a título oneroso a favor del Arzobispado de Asunción una fracción de terreno, asiento de la Vicaría Santa Elena, individualizada como parte de la Finca N° 9.480, ubicada en el Distrito de la Recoleta, del citado Municipio, cuyas dimensiones y linderos son los siguientes:
 
-LINEA 2-3: Con rumbo magnético S-70º 51' 32"-E (Sur setenta grados, cincuenta y un minutos, treinta segundos Este), mide 45,50 ms. (cuarenta y cinco metros con cincuenta centímetros), linda con calle Azara;
+AL NORTE: Con rumbo magnético N-71° 49' 45"-W (Norte setenta y un grados, cuarenta y nueve minutos, cuarenta y cinco segundos, Oeste), mide 45,50 ms. (Cuarenta y cinco metros con cincuenta centímetros), linda con la calle Azara;
 
-LINEA 3-4: Con rumbo magnético S-25º 17' 16"-W (Sur veinte y cinco grados, diez y siete minutos, diez y seis segundos Oeste), mide 98,06 ms. (noventa y ocho metros con seis centímetros), linda con la calle Morice; y,
+AL SUR: Con rumbo magnético N-71° 12' 45"-E (Norte setenta y un grados, doce minutos, cuarenta y cinco segundos, Este), mide 35 ms. (Treinta y cinco metros), linda con la calle Luis A. de Herrera;
 
-LINEA 4-1: Con rumbo magnético N-70º 51' 32"-W (Norte setenta grados, cincuenta y un minutos, treinta y dos segundos Oeste), mide 35 ms. (treinta y cinco metros), linda con la calle Herrera.
+AL ESTE: Con rumbo magnético N-26° 33' 45"-E (Norte veintiséis grados, treinta y tres minutos, cuarenta y cinco segundos, Este), mide 100,95 ms. (Cien metros con noventa y cinco centímetros), linda con la calle Capitán Jorge F. Morices; y,
 
-SUPERFICIE: 3.923,7.291 ms2 (TRES MIL NOVECIENTOS VEINTE Y TRES METROS CUADRADOS CON SIETE MIL DOSCIENTOS NOVENTA Y UN CENTIMETROS CUADRADOS).
+AL OESTE: Con rumbo magnético S-20° 36' 28"-W (Sur veinte grados, treinta y seis minutos, veintiocho segundos, Oeste), mide 99,58 ms. (Noventa y nueve metros con cincuenta y ocho centímetros), linda con la fracción "A".
+
+SUPERFICIE: 4.013,8.831 ms2. (Cuatro mil trece metros cuadrados con ocho mil ochocientos treinta y un centímetros cuadrados)
+
+> *Modificado por Ley N° 980 (1996-10-24)*
 
 ### Artículo 2°
 
