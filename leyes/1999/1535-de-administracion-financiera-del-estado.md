@@ -343,11 +343,14 @@ El cumplimiento de las obligaciones financieras será simultáneo a la incorpora
 
 ### Artículo 23°
 
-Ampliación del Presupuesto General de la Nación.
 
-Las modificaciones a la Ley del Presupuesto General de la Nación que impliquen la ampliación de los gastos previstos, deberán asignar explícitamente los recursos con que se sufragará la ampliación.
+**Ampliación del Presupuesto General de la Nación.**
 
-Los recursos provenientes de operaciones de crédito serán incorporados al Presupuesto General de la Nación correspondiente al ejercicio en que la referida operación se hubiere concretado. A tal efecto, el Poder Ejecutivo remitirá al Congreso el proyecto de ampliación presupuestaria acompañando al pedido de aprobación del respectivo convenio de crédito.
+Las modificaciones a la Ley del Presupuesto General de la Nación que impliquen la ampliación de los gastos previstos, deberán asignar explícitamente los recursos con que se sufragará la ampliación y deberán ser presentadas al Ministerio de Hacienda por los organismos de la Administración Central o por las Entidades Descentralizadas hasta el 30 de junio. El Ministerio de Hacienda elevará los respectivos Proyectos de Ley a consideración del Congreso Nacional hasta el 31 de julio del ejercicio en vigencia.
+
+Los recursos provenientes de operaciones de crédito serán incorporados al Presupuesto General de la Nación correspondiente al ejercicio en que la referida operación se hubiere concretado. A tal efecto, el Poder Ejecutivo remitirá al Congreso el proyecto de ampliación presupuestaria, acompañando al pedido de aprobación del respectivo convenio de crédito.
+
+> *Modificado por Ley N° 1954 (2002-07-30)*
 
 ### Artículo 24°
 
