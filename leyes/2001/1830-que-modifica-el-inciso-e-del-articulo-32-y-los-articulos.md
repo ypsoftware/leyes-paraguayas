@@ -61,13 +61,10 @@ La propaganda electoral a través de los medios masivos de comunicación social 
 
 ### Artículo 2°
 
-Amplíanse las Disposiciones Finales y Transitorias de la Ley N° 834 del 17 de abril de 1996 “QUE ESTABLECE EL CODIGO ELECTORAL PARAGUAYO”, con la inclusión de los siguientes artículos:
 
-“Art. 348.- Las autoridades municipales a ser electas en los comicios del mes de noviembre del año 2001, durarán cuatro años en sus mandatos”.
+Las autoridades municipales electas en los comicios de noviembre del año 2001, durarán cinco años en sus mandatos
 
-“Art. 349.- Los estatutos de los partidos políticos serán adaptados a las disposiciones de este Código dentro del plazo de un año”.
-
-“Art. 350.- La asamblea o convención de los partidos políticos determinará la duración del mandato de las autoridades de los actuales órganos de dirección nacional, departamental y distrital dentro del plazo de un año”.
+> *Modificado por Ley N° 2450 (2004-08-27)*
 
 ### Artículo 3°
 
