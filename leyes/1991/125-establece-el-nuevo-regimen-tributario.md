@@ -115,11 +115,10 @@ Los fletes internacionales serán en un 50% (cincuenta por ciento) de fuente par
 
 ### Artículo 6°
 
-Nacimiento de la obligación tributaria. El nacimiento de la obligación tributaria se configurará al cierre del ejercicio fiscal, el que coincidirá con el año civil.
 
-La Administración Tributaria queda facultada para admitir, o establecer en caso de que se lleve contabilidad de acuerdo con los principios de contabilidad generalmente aceptados y a las disposiciones legales vigentes, que el ejercicio fiscal coincida con el ejercicio económico.
+> **Derogado.**
 
-El método de imputación de las rentas y de los gastos, será el de lo devengado, en el ejercicio fiscal.
+> *Derogado por Ley N° 2115 (2003-06-10)*
 
 ### Artículo 7°
 
