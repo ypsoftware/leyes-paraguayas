@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/11415/texto
 short_title: "QUE CREA LA DIRECCIÓN DE COLONIZACIÓN MILITAR"
+derogada: true
+derogada_por: Ley 710
+derogada_fecha: 1995-10-06
 ---
 
 # LEY Nº 593
@@ -439,3 +442,5 @@ El Poder Ejecutivo reglamentará la presente ley.
 ### Artículo 48°
 
 Comuníquese al Poder Ejecutivo.
+
+> *Derogada en su totalidad por Ley N° 710 (1995-10-06)*
