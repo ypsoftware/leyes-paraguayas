@@ -296,9 +296,10 @@ Posteriormente, los balances actuariales del Fondo serán realizados de acuerdo 
 
 ### Artículo 38°
 
-El Instituto enviará anualmente un informe analítico a ambas Cámaras Legislativas sobre la administración y el estado financiero del Fondo, asimismo el balance actuarial cuando corresponda conforme a la ley.
 
-En base a dichos informes y balances actuariales se procederá al ajuste, por ley, si fuere necesario, de los términos y condiciones de las jubilaciones y pensiones para los miembros del Poder Legislativo de la Nación.
+La Comisión Co-Administradora presentará, en el mes de diciembre de cada año, a las entidades representadas en la comisión, la memoria de sus actividades y un informe sobre la situación financiera con el dictamen del auditor.
+
+> *Modificado por Ley N° 2023 (2002-11-13)*
 
 ### Artículo 39°
 
@@ -306,11 +307,45 @@ Las jubilaciones y pensiones son vitalicias, salvo las excepciones establecidas 
 
 ### Artículo 40°
 
-Los beneficios de jubilaciones y pensiones se lo serán acordados a partir del 1º de abril de 1983, salvo las jubilaciones por invalidez, y los pagos que corresponden por fallecimiento del Afiliado que serán otorgados a partir de la promulgación de la presente ley.
+
+La Comisión Co-Administradora del Fondo de Jubilaciones y Pensiones para Miembros del Poder Legislativo de la Nación, prevista en la Ley N° 08/92, modificada por Ley N° 1.301/98, queda compuesta del siguiente modo:
+
+a) un senador en funciones, designado por la Cámara de Senadores;
+
+b) un diputado en funciones, designado por la Cámara de Diputados;
+
+c) un representante del Instituto de Previsión Social;
+
+d) dos representantes de la Asociación de Jubilados y Pensionados del Poder Legislativo de la Nación, que serán nombrados por la Asociación.
+
+Los miembros de la Comisión Co-Administradora durarán treinta meses en sus funciones, pudiendo ser reelectos. La función de miembro de la Comisión Co-Administradora no será remunerada. La presidencia de la Comisión Co-Administradora será ejercida en forma alternada por los miembros de las entidades representadas.
+
+> *Modificado por Ley N° 2023 (2002-11-13)*
 
 ### Artículo 41°
 
-Los miembros del Poder Legislativo, sujetos de las leyes Nº 1.189 del 31 de Agosto de 1966 y Nº 235 del 26 de Diciembre de 1970, optarán su participación en el Fondo, a cuyo efecto presentarán la solicitud respectiva al Instituto.
+
+Son funciones de la Comisión:
+
+a) la coadministración del Fondo, juntamente con el Instituto de Previsión Social, particularmente en lo relativo a la inversión de los recursos acumulados;
+
+b) la coordinación entre el Instituto de Previsión Social, el Poder Legislativo y otras entidades del sector público y privado, en lo relacionado al funcionamiento del Fondo;
+
+c) contratar obras y servicios, adquirir, arrendar, hipotecar, y transferir bienes, conceder y contraer préstamos, autorizar gastos, concertar acuerdos judiciales y extrajudiciales;
+
+d) las gestiones en beneficio de parlamentarios, jubilados y pensionados que las requieran;
+
+e) conceder las jubilaciones y pensiones y demás beneficios;
+
+f) la vigilancia permanente para el cumplimiento de las leyes y reglamentos que rigen el Fondo, particularmente en lo relativo a su estado financiero y a los beneficios que corresponden a los afiliados, jubilados y pensionados;
+
+g) otorgar poderes generales o especiales para ejercer acciones en esferas judiciales o administrativas en defensa de los intereses del fondo.
+
+h) la realización de estudios para el mejoramiento legislativo del Fondo; e,
+
+i) otras que, a criterio de la Comisión, sean necesarias para el mejor funcionamiento del Fondo.
+
+> *Modificado por Ley N° 2023 (2002-11-13)*
 
 ### Artículo 42°
 
