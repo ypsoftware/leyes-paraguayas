@@ -423,7 +423,10 @@ DISPOSICIONES ESPECIALES
 
 ### Artículo 57°
 
-PETROPAR podrá participar en sociedades que tengan relación con el objeto y fines de la entidad, con autorización del Poder Ejecutivo, previo dictamen del Consejo Nacional de Coordinación Económica.
+
+La creación de empresas en las que PETROPAR sea socio, el consorciamiento de PETROPAR con otras entidades en emprendimientos de riesgo compartido (joint ventures), la participación de PETROPAR en otras empresas, así como los estatutos, convenios o contratos que se elaboren a tales efectos, deberán previamente ser autorizados por el Poder Ejecutivo y aprobados por Ley.
+
+> *Modificado por Ley N° 1658 (2000-12-29)*
 
 ### Artículo 58°
 
