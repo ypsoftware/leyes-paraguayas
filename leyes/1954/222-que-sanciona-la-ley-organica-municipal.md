@@ -752,7 +752,16 @@ En la Capital de la República y en los Municipios aludidos en el artículo vein
 
 ### Artículo 91°
 
-Para ser Intendente Municipal se requiere no estar incluido en los casos de inhabilidad previstos por el Artículo treinta de esta Ley, ser ciudadano paraguayo, tener cuando menos veinte y cinco años de edad, ser natural del Municipio o haber residido por lo menos tres años en él. El cargo de Intendente es incompatible con el de Concejal.-
+
+La pensión a concederse en virtud de esta Ley estará sujeta a las variaciones del sueldo previstas en el Presupuesto General de la Nación y se liquidará desde la fecha del fallecimiento del causante, de acuerdo con la siguiente escala:
+
+a los herederos de Oficiales y Sub-Oficiales muertos en actos de servicios, el total de sueldo que corresponde al grado inmediato superior.
+
+a los herederos de Oficiales y Sub-Oficiales muertos en situación de actividad, retiro, inactividad o disponibilidad, el 75% (setenta y cinco por ciento) del sueldo que corresponde al causante.
+
+amplíanse los beneficios otorgados en este artículo, a los herederos de Oficiales y Sub-Oficiales especificados en los dos incisos anteriores, que a la fecha se hallan pensionados por las leyes N°s.106 del 28 de agosto de 1951 y 309 del 24 de noviembre de 1971 ya contemplados en las leyes 877 del 20 de noviembre de 1981 y 222 del 9 de julio de 1993
+
+> *Modificado por Ley N° 632 (1995-07-19)*
 
 ### Artículo 92°
 
