@@ -1,0 +1,25 @@
+---
+bacn_id: 10922
+numero: "958"
+titulo: "QUE DEROGA LA LEY N° 801 DE FECHA 22 DE DICIEMBRE DE 1995, \"QUE AUTORIZA A VARIAS INSTITUCIONES A ACEPTAR COMO INSTRUMENTO DE PAGO EL CERTIFICADO DE CUMPLIMIENTO DE ARRANQUE Y QUEMA DE RASTROJOS DEL ALGODONERO, EXPEDIDO EN EL MARCO DEL PROGRAMA NACIONAL DE LUCHA CONTRA EL PICUDO\"."
+fecha_promulgacion: 1996-09-13
+fuente: bacn.gov.py
+status: in_force
+source: https://www.bacn.gov.py/leyes-paraguayas/10922/texto
+short_title: "QUE DEROGA LA LEY N° 801 DE FECHA 22 DE DICIEMBRE DE 1995,…"
+---
+
+# LEY Nº 958
+## QUE DEROGA LA LEY N° 801 DE FECHA 22 DE DICIEMBRE DE 1995, "QUE AUTORIZA A VARIAS INSTITUCIONES A ACEPTAR COMO INSTRUMENTO DE PAGO EL CERTIFICADO DE CUMPLIMIENTO DE ARRANQUE Y QUEMA DE RASTROJOS DEL ALGODONERO, EXPEDIDO EN EL MARCO DEL PROGRAMA NACIONAL DE LUCHA CONTRA EL PICUDO".
+
+### Artículo 1°
+
+Derógase la Ley N° 801 de fecha 22 de diciembre de 1995, "QUE AUTORIZA A VARIAS INSTITUCIONES A ACEPTAR COMO INSTRUMENTO DE PAGO EL CERTIFICADO DE CUMPLIMIENTO DE ARRANQUE Y QUEMA DE RASTROJOS DEL ALGODONERO, EXPEDIDO EN EL MARCO DEL PROGRAMA NACIONAL DE LUCHA CONTRA EL PICUDO".
+
+### Artículo 2°
+
+Comuníquese al Poder Ejecutivo.
+
+---
+
+*Aprobada por la Honorable Cámara de Diputados, a veintitrés días del mes de mayo del año un mil novecientos noventa y seis, y por la Honorable Cámara de Senadores, sancionándose la Ley, a veintinueve días del mes de agosto del año un mil novecientos noventa y seis.*
