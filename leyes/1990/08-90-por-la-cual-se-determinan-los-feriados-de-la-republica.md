@@ -15,25 +15,10 @@ short_title: "POR LA CUAL SE DETERMINAN LOS FERIADOS DE LA REPUBLICA"
 
 ### Artículo 1°
 
-Los feriados de la República, además de los domingos, serán los siguientes:
 
-1º de enero, Año Nuevo;
+Amplíase el Artículo 1° de la Ley N° 08/90 "POR LA CUAL SE DETERMINAN LOS FERIADOS DE LA REPÚBLICA", incluyendo el 29 de setiembre entre los feriados de la República
 
-1º de marzo, Día de los Héroes de la Patria.
-
-1º de mayo, Día de los Trabajadores
-
-15 de mayo, Día de la Independencia Nacional;
-
-12 de junio, Día de la Paz del Chaco;
-
-15 de agosto, Día de la Fundación de Asunción;
-
-8 de diciembre, Día de la Virgen de Caacupé;
-
-25 de diciembre, Día de la Navidad;
-
-Jueves y Viernes Santo.
+> *Modificado por Ley N° 1601 (2000-09-28)*
 
 ### Artículo 2°
 
