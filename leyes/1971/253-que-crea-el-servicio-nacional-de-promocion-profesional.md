@@ -251,11 +251,10 @@ A los efectos de la recaudación de los aportes creados por esta ley se faculta 
 
 ### Artículo 30°
 
-Además del aporte patronal establecido en esta ley, constituirán recursos del Servicio los siguientes ingresos:
 
-a) la suma asignada anualmente en el Presupuesto General de Gastos de la Nación,
+El aporte de los empleadores establecido será depositado mensualmente en el Banco Nacional de Fomento, en una cuenta habilitada a nombre del SNPP, incluyendo el de las entidades bancarias privadas. El SNPP ejercerá el control de las recaudaciones mensuales, implementando los mecanismos para el mismo. El Banco Nacional de Fomento percibirá como agente de retención, hasta el 0,50% de lo recaudado
 
-b) Los legados, donaciones y otros ingresos.
+> *Modificado por Ley N° 1405 (1999-01-21)*
 
 ### Artículo 31°
 
