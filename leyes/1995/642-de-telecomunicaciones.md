@@ -16,7 +16,10 @@ TITULO PRELIMINAR
 
 ### Artículo 1°
 
-La emisión y la propagación de las señales de comunicación electromagnéticas son del dominio público del Estado y su empleo se hará de conformidad a lo establecido por la Constitución Nacional, los tratados y demás instrumentos internacionales vigentes sobre la materia, la presente ley y sus disposiciones reglamentarias, con el fin de lograr una mejor calidad, confiabilidad, eficiencia y disponibilidad de las mismas.
+
+Modifícanse los Artículos 12, inciso c); 73, inciso b) y 131 de la Ley N° 642/95 “De Telecomunicaciones”, que quedan redactados de la siguiente forma:
+
+> *Modificado por Ley N° 2495 (2004-10-15)*
 
 TITULO I
 
@@ -97,11 +100,12 @@ Los funcionarios de la Comisión Nacional de Telecomunicaciones no podrán ser d
 ### Artículo 12°
 
 
+
 Los miembros de la Comisión Nacional de Telecomunicaciones cesarán en sus cargos por:
 
 c) decreto del Poder Ejecutivo, fundado en inconducta, mala gestión, incapacidad, o por quedar incursos en alguna causal de incompatibilidad o de inhabilidad, debidamente comprobada.
 
-> *Modificado por Ley N° 2478 (2004-10-14)*
+> *Modificado por Ley N° 2495 (2004-10-15)*
 
 ### Artículo 13°
 
@@ -578,11 +582,12 @@ Las concesiones, licencias y autorizaciones se prorrogarán precariamente en la 
 ### Artículo 73°
 
 
+
 Las concesiones, licencias y autorizaciones otorgadas de acuerdo con la presente Ley tendrán un plazo mínimo de:
 
-b) diez años para los servicios de difusión, renovables por igual periodo por única vez, conforme con los términos establecidos en la licencia. Quedan exceptuadas de la restricción prevista en este inciso, las licencias de servicios de difusión cuyas vigencias tengan más de diez años de antigüedad, las cuales podrán ser renovadas por más de una vez, siempre y cuando se adecuen al Plan Nacional de Atribución de Frecuencias y a las demás reglamentaciones vigentes de la CONATEL en un plazo no mayor de un año.
+b) diez años para los servicios de difusión, renovables por igual período por única vez, conforme con los términos establecidos en la licencia. Quedan exceptuadas de la restricción prevista en este inciso, las licencias de servicios de difusión cuyas vigencias tengan más de diez años de antigüedad, las cuales podrán ser renovadas por más de una vez, siempre y cuando se adecuen al Plan Nacional de Atribución de Frecuencias y a las demás reglamentaciones vigentes de la CONATEL en un plazo no mayor de un año.
 
-> *Modificado por Ley N° 2478 (2004-10-14)*
+> *Modificado por Ley N° 2495 (2004-10-15)*
 
 CAPITULO II
 
@@ -1019,9 +1024,10 @@ El detalle de dichos activos y documentos será aprobado por la Comisión Nacion
 ### Artículo 131°
 
 
-Las licencias y autorizaciones, para el uso de frecuencias del espectro radioeléctrico otorgadas a los operadores de los servicios de Radiodifusión Sonora y Radiodistribución Televisiva por ondas métricas y ondas decimétricas definidos en el Artículo 28 de la Ley N° 642/95, y los correspondientes decretos reglamentarios, otorgadas con anterioridad al 14 de diciembre del año 1995 por decreto y que no hayan sido modificadas por la CONATEL, quedarán vigentes hasta el año 2014, a excepción de las que hayan sido canceladas por la CONATEL en uso de sus facultades legales. Sin embargo, éstos en el plazo de trescientos sesenta y cinco días, contados a partir de la promulgación de la presente Ley, deberán adecuarse al Plan Nacional de Atribución de Frecuencias y a las reglamentaciones vigentes de la CONATEL y deberán abonar el derecho de licencia correspondiente al periodo 2004-2014, que será fijado por la CONATEL.
 
-> *Modificado por Ley N° 2478 (2004-10-14)*
+Las licencias y autorizaciones, para el uso de frecuencias del espectro radioeléctrico otorgadas a los operadores de los servicios de Radiodifusión Sonora, Televisión y Radiodistribución Televisiva por ondas métricas y ondas decimétricas definidos en el Artículo 28 de la Ley N° 642/95, y los correspondientes decretos reglamentarios, otorgadas con anterioridad al 14 de diciembre del año 1995 por decreto y que no hayan sido modificadas por la CONATEL, quedarán vigentes hasta el año 2014, a excepción de las que hayan sido canceladas por la CONATEL en uso de sus facultades legales. Sin embargo, éstos en el plazo de trescientos sesenta y cinco días, contados a partir de la promulgación de la presente Ley, deberán adecuarse al Plan Nacional de Atribución de Frecuencias y a las reglamentaciones vigentes de la CONATEL y deberán abonar el derecho de licencia correspondiente al periodo 2004-2014, que será fijado por la CONATEL.
+
+> *Modificado por Ley N° 2495 (2004-10-15)*
 
 ### Artículo 132°
 
