@@ -26,9 +26,10 @@ Modifícase el Artículo 44 de la Ley No. 296 que queda redactado en los siguien
 
 ### Artículo 3°
 
-Modifícase el Artículo 45 de la Ley No. 296 que queda redactado en los siguientes términos:
 
-"Art. 45.- De las designaciones. En las actuaciones o resoluciones de la Corte Suprema de Justicia para las designaciones a su cargo, se adoptará, en lo que corresponda, el procedimiento previsto en el Artículo 39 de esta Ley."
+De las designaciones. En las actuaciones o resoluciones de la Corte Suprema de Justicia para las designaciones a su cargo, elegirá a uno de cada terna de candidatos propuestos por el Consejo para llenar los cargos.
+
+> *Modificado por Ley N° 1983 (2004-01-31)*
 
 ### Artículo 4°
 
