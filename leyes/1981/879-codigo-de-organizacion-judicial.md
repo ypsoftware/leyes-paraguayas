@@ -553,21 +553,26 @@ DEL MINISTERIO PUBLICO
 
 ### Artículo 61°
 
-El Ministerio Público, constituido de conformidad con el Capítulo X de la Constitución Nacional, será ejercido por:
+
+El Ministerio Público, constituido de conformidad con lo establecido en el artículo 266 de la Constitución Nacional, será ejercido por:
 
 a) el Fiscal General del Estado;
 
-b) el agente Fiscal de Cuentas;
+b) los Fiscales Adjuntos;
 
-c) los Agentes Fiscales en lo Civil y Comercial;
+c) los Agentes Fiscales de Cuenta;
 
-d) los Agentes Fiscales del Trabajo;
+d) los Agentes Fiscales en lo Civil y Comercial;
 
-e) los Agentes Fiscales en lo Criminal; y
+e) los Agentes Fiscales del Trabajo;
 
-f) los Procuradores Fiscales.
+f) los Agentes Fiscales en lo Criminal;
 
-DEL FISCAL GENERAL DEL ESTADO
+g) los Agentes Fiscales en lo Electoral; y,
+
+h) los Procuradores Fiscales
+
+> *Modificado por Ley N° 860 (1996-05-29)*
 
 ### Artículo 62°
 
