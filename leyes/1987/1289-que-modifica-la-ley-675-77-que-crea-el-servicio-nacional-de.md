@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/2471/texto
 short_title: "QUE MODIFICA LA LEY 675/77, QUE CREA EL SERVICIO NACIONAL…"
+derogada: true
+derogada_por: Ley 99
+derogada_fecha: 1991-12-10
 ---
 
 # LEY Nº 1289
@@ -128,3 +131,5 @@ Comuníquese al Poder Ejecutivo.-
 ---
 
 *DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL, A LOS CUATRO DIAS DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS OCHENTA Y SIETE.*
+
+> *Derogada en su totalidad por Ley N° 99 (1991-12-10)*
