@@ -201,7 +201,10 @@ Sección 1. ORGANIZACION
 
 ### Artículo 34°
 
-La Comisión Interamericana de Derechos Humanos se compondrá de siete miembros, que deberán ser personas de alta autoridad moral y reconocida versación en materia de derechos humanos.
+
+f) Adopción del Sistema de representación proporcional establecido en el Art. 273 de este Código para la elección de sus autoridades, que garantice explícitamente el derecho de las minorías Internas de los Partidos a participar del gobierno partidario y en los cargos públicos electivos
+
+> *Modificado por Ley N° 3 (1991-05-16)*
 
 ### Artículo 35°
 
