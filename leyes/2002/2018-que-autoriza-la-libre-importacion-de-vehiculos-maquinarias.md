@@ -13,7 +13,14 @@ short_title: "QUE AUTORIZA LA LIBRE IMPORTACION DE VEHICULOS, MAQUINARIAS…"
 
 ### Artículo 1°
 
-Autorizase la libre importación de vehículos usados de cualquier procedencia y modelo, con una antigüedad máxima de diez años, contados a partir del año de su fabricación, maquinarias agrícolas usadas y maquinarias de construcción usadas, de cualquier procedencia, modelo o año de fabricación, sujetas al cumplimiento de las disposiciones de la Ley Nº 125/91 “Que Establece el Nuevo Régimen Tributario” y la Ley Nº 1034/83 “Del Comerciante”, y sus modificaciones.
+
+Autorízase la libre importación de vehículos usados de cualquier procedencia y modelo, con una antigüedad de diez años, contados a partir del año de su fabricación, camiones de capacidad mayor a veinte toneladas de carga transportada, tractocamiones, maquinarias agrícolas usadas y maquinarias de construcción usadas, de cualquier procedencia, modelo o año de fabricación, sujetas al cumplimiento de las disposiciones de la Ley N° 125/91 “Que establece el nuevo Régimen Tributario” y la Ley N° 1034/83 “Del Comerciante” y sus modificaciones.
+
+A los efectos de lo dispuesto en el párrafo primero, queda prohibida cualquier discriminación en lo que se refiere a la ubicación original del sistema de dirección del vehículo a ser importado, y que vayan más allá de las restricciones vinculadas al sistema de aire acondicionado, que no podrán utilizar CFC011 y/o CFC-12.
+
+Para su circulación en el territorio nacional en todo los casos, la dirección del autovehículo estará ubicada o reubicada en el lado izquierdo del mismo.
+
+> *Modificado por Ley N° 2153 (2003-07-04)*
 
 ### Artículo 2°
 
