@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/916/texto
 short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA A FAVOR DE LA…"
+derogada: true
+derogada_por: Ley 1549
+derogada_fecha: 2000-04-19
 ---
 
 # LEY Nº 1344
@@ -28,3 +31,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a veinticinco días del mes de junio del año un mil novecientos noventa y ocho, y por la Honorable Cámara de Senadores, a veinticuatro días del mes de setiembre del año un mil novecientos noventa y ocho, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 1549 (2000-04-19)*
