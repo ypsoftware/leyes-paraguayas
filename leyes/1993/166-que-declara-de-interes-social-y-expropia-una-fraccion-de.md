@@ -14,7 +14,10 @@ short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA UNA FRACCION DE…"
 
 ### Artículo 1°
 
-Declárase de interés social y exprópiase a favor del Instituto de Bienestar Rural (IBR), una fracción de 200 Has. (Doscientas hectáreas), de una superficie mayor, propiedad de las Hermanas Angela y Martina Ghetz Drechsler, ubicada en el Distrito de Minga Guazú, Departamento de Alto Paraná, individualizada como Finca Nº 2.954, Padrón 4.777, 4.778 y 4.782.
+
+Declárase de interés social y exprópiase a favor del Instituto de Bienestar Rural (IBR), una fracción de 200 Has. (Doscientas Hectáreas), de una superficie mayor, propiedad de las hermanas Angela y Martina Ghetz Drechsler, ubicada en el Distrito de Hernandarias, Departamento de Alto Paraná, individualizada como Finca Nº 2.954, Padrón 4.777, 4.778 y 4.782
+
+> *Modificado por Ley N° 435 (1994-10-11)*
 
 ### Artículo 2°
 
