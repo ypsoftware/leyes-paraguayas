@@ -14,59 +14,20 @@ short_title: "QUE DESAFECTA DEL DOMINIO PUBLICO MUNICIPAL Y AUTORIZA A LA…"
 
 ### Artículo 1°
 
-Desaféctase del dominiio público municipal y autorízase a la Municipalidad de Asunción, a transferir a título oneroso a sus actuales ocupantes, fracciones de terreno ubicadas en el Distrito de Santísima Trinidad, Zeballos Cué, individualizadas como Fincas N°s. 3.905 y 2.016 respectivamente, cuyas dimensiones y linderos son las siguientes:
 
-FINCA N° 3.905 - Cta. Cte. Ctral. N° 15-617-00
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de Asunción, a transferir a título oneroso a favor de sus actuales ocupantes, fracciones de terreno ubicadas en el Distrito de Santísima Trinidad, Barrio Zeballos-Cué, individualizada como Finca N° 3.905 con Cta. Cte. Ctral. N° 15-0617-00 del citado Municipio, cuyas dimensiones y linderos son los siguientes:
 
-Al Norte: compuesta de tres líneas:
+AL NORTE: Forma una quebrada de cuatro líneas que van de Oeste a Este; con rumbo magnético N-38°47'-E (Norte, treinta y ocho grados cuarenta y siete minutos, Este), mide 62,77 m. (sesenta y dos metros con setenta y siete centímetros), linda con parte de la manzana con Cta. Cte. Ctral. N° 15-0616-00; la segunda con rumbo magnético N-48°52'-E (Norte, cuarenta y ocho grados cincuenta y dos minutos, Este), mide 121,69 m. (ciento veintiún metros con sesenta y nueve centímetros), linda con parte de la manzana con Cta. Cte. Ctral. N° 15-0616-00, la calle Tte. Segundo Claudio Acosta y con parte de la manzana con Cta. Cte. Ctral. N° 15-0615-00; la tercera con rumbo magnético N-59°15'55"-E (Norte, cincuenta y nueve grados quince minutos cincuenta y cinco segundos, Este), mide 28,54 m. (veintiocho metros con cincuenta y cuatro centímetros), linda con parte de la manzana con Cta. Cte. Ctral. N° 15-0615-00; la cuarta con rumbo magnético N-6909'-E (Norte, sesenta y nueve grados nueve minutos, Este), mide 123,83 m. (ciento veintitrés metros con ochenta y tres centímetros), linda con parte de la manzana con Cta. Cte. Ctral. N° 15-0615-00, la calle San Ramón y con la manzana con Cta. Cte. Ctral. N° 15-0613-00.
 
-La 1ra. línea (1-2), mide 137 metros;
+AL SUR: Forma una quebrada de tres líneas; la primera va de Este a Oeste, con rumbo magnético S-38°47'-W (Sur, treinta y ocho grados cuarenta y siete minutos, Oeste), mide 126,65 m. (ciento veintiséis metros con sesenta y cinco centímetros), linda con parte de la manzana con Cta. Cte. Ctral. N° 15-0622-00, la calle Amador de Montoya, la manzana con Cta. Cte. Ctral. N° 15-0621-00 y la calle San Ramón respectivamente; la segunda va de Sur a Norte con rumbo magnético N-51°13'-W (Norte, cincuenta y un grados trece minutos, Oeste), mide 147,25 m. (ciento cuarenta y siete metros con veinticinco centímetros), linda con la calle XXX y la manzana con Cta. Cte. Ctral. N° 15-0619-00; la tercera va de Este a Oeste con rumbo magnético S-38°47'-W (Sur, treinta y ocho grados cuarenta y siete minutos, Oeste), mide 46 m. (cuarenta y seis metros), linda con la manzana con Cta. Cte. Ctral. N° 15-0619-00 y la calle Tte. Segundo Claudio Acosta.
 
-La 2da. línea (2-3), mide 127 metros; y,
+AL ESTE: Forma una quebrada de dos líneas que van de Norte a Sur, la primera con rumbo magnético S-20°51'-E (Sur, veinte grados cincuenta y un minutos, Este), mide 212,61 m. (doscientos doce metros con sesenta y un centímetros), la segunda con rumbo magnético S-76°25'20"-E (Sur, setenta y seis grados veinticinco minutos veinte segundos, Este), mide 126,74 m. (ciento veintiséis metros con setenta y cuatro centímetros), ambas lindan con la manzana con Cta. Cte. Ctral. N° 15-0618-00.
 
-La 3ra. línea (3-4), mide 61 metros, lindando estas tres líneas con la Avenida 4 que lo separa del Barrio San Miguel y el Club Gral. Caballero.
+AL OESTE: Forma una quebrada de cuatro líneas que van de Sur a Norte; la primera con rumbo magnético N-51°13'-W (Norte, cincuenta y un grados trece minutos, Oeste), mide 16 m. (dieciséis metros); la segunda con rumbo magnético N-52°50'17"-W (Norte, cincuenta y dos grados cincuenta minutos diecisiete segundos, Oeste), mide 162,26 m. (ciento sesenta y dos metros con veintiséis centímetros), la tercera con rumbo magnético N-71°21'45"-W (Norte, setenta y un grados veintiún minutos cuarenta y cinco segundos, Oeste), mide 82,76 m. (ochenta y dos metros con setenta y seis centímetros); estas tres líneas lindan con reservas; la cuarta con rumbo magnético N-18°03'13"-W (Norte, dieciocho grados tres minutos trece segundos, Oeste), mide 26,26 m. (veintiséis metros con veintiséis centímetros), linda con la intersección de las calles Grito de Ipiranga y Ricardo E. Leiva.
 
-Al Oeste: compuesta de dos líneas:
+SUPERFICIE: 6 ha. 5.076 m2 7.944 cm2 (SEIS HECTAREAS CINCO MIL SETENTA Y SEIS METROS CUADRADOS CON SIETE MIL NOVECIENTOS CUARENTA Y CUATRO CENTÍMETROS CUADRADOS).
 
-La 1ra. línea (4-5), mide 81 metros; y,
-
-La 2da. línea (5-6), mide 167 metros, lindando estas dos líneas con la fracción III a deslindarse, (hoy R.C.4 - Regimiento de Caballería Cuatro).
-
-Al Sur: compuesta de tres líneas:
-
-La 1ra. línea (6-7), mide 75 metros;
-
-La 2da. línea (7-8), mide 132 metros; lindando estas dos líneas con el loteamiento fracción Zeballos-Cué; y,
-
-La 3ra. línea (8-9), mide 119 metros, lindando esta línea con más derecho de la fracción Zeballos-Cué.
-
-Al Este: compuesta de dos líneas;
-
-La 1ra. línea (9-10), mide 109 metros; y,
-
-La 2da. línea (10-1), mide 189 metros; lindando estas dos líneas con derecho de la fracción Las Colinas (Municipio Mariano Roque Alonso).
-
-Superficie: 24.225,01 m2 (Veinticuatro mil doscientos veinte y cinco metros cuadrados con un decímetro cuadrado).
-
-FINCA N° 2.016 - Cta. Cte. Ctral. N° 15-618-00
-
-Al Norte: línea 1-2 mide 80 metros y linda con la Calle 22.
-
-Al Oeste: línea 2-3 mide 190,61 metros y linda con terreno municipal.
-
-Al Sur: compuesta de dos líneas:
-
-La 1ra. línea 3-4 mide 112,39 metros y linda con terreno municipal; y,
-
-La 2da. línea 4-5 mide 90,09 metros y linda con la calle 2.
-
-Al Este: compuesta de dos líneas:
-
-La 1ra. línea 5-6 mide 141 metros; y,
-
-La 2da. línea 6-1 mide 94 metros, lindando estas dos líneas con la calle 45.
-
-Superficie: 17.886,52 m2. (Diez y siete mil ochocientos ochenta y seis metros cuadrados con cincuenta y dos decímetros cuadrados).
+> *Modificado por Ley N° 1011 (1996-12-13)*
 
 ---
 
