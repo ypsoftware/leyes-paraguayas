@@ -221,7 +221,10 @@ DE LOS JUECES ELECTORALES
 
 ### Artículo 17°
 
-Creación de Juzgados. Requisitos para ser Juez. Habrá un Juzgado Electoral como mínimo en cada Capital departamental, salvo los correspondientes a la Capital de los departamentos de Alto Paraguay y Concepción que se unifican en la Capital de Concepción, y los de Boquerón y Villa Hayes que se concentran en la Capital de éste último. El Juez deberá reunir los siguientes requisitos: ser de nacionalidad paraguaya, haber cumplido veintiocho años, poseer título de abogado y haber ejercido dicha profesión o desempeñado funciones en la magistratura judicial o ejercido la cátedra universitaria en materia jurídica conjunta, separada o alternativamente durante tres años y no haber ocupado cargos político-partidarios en los últimos dos años inmediatamente anteriores a su selección por el Consejo de la Magistratura.
+
+Creación de Juzgados. Requisitos para ser Juez. Habrá un Juzgado Electoral como mínimo en la Ciudad de Asunción y en cada capital departamental, salvo los correspondientes a la capital de los Departamentos Alto Paraguay y Concepción que se unifican en la capital de Concepción, y la capital de los Departamentos de Boquerón y Presidente Hayes que se concentran en la Ciudad de Benjamín Aceval. El Juez deberá reunir los siguientes requisitos: ser de nacionalidad paraguaya, haber cumplido veintiocho años, poseer título de abogado y haber ejercido dicha profesión o desempeñado funciones en la magistratura judicial o ejercido la cátedra universitaria en materia jurídica conjunta, separada o alternativamente durante tres años y no haber ocupado cargos político-partidarios en los últimos dos años inmediatamente anteriores a su selección por el Consejo de la Magistratura
+
+> *Modificado por Ley N° 744 (1995-10-30)*
 
 ### Artículo 18°
 
@@ -273,7 +276,10 @@ DE LOS FISCALES ELECTORALES
 
 ### Artículo 21°
 
-Creación de Fiscalías Electorales. En defensa del interés público, actuarán ante la Justicia Electoral los Fiscales Electorales. Habrá un Fiscal, como mínimo, en cada Capital departamental, salvo los correspondientes a la Capital de los departamentos de Alto Paraguay y Concepción que se unifican en la Capital de Concepción, y los de Boquerón y Villa Hayes que se concentran en la Capital de éste último.
+
+Creación de Fiscalías Electorales. En defensa del interés público, actuarán ante la Justicia Electoral los Fiscales Electorales. Habrá un Fiscal, como mínimo en la Ciudad de Asunción y en cada capital departamental, salvo los correspondientes a la capital de los Departamentos Alto Paraguay y Concepción que se unifican en la capital de Concepción, y la capital de los Departamentos Boquerón y Presidente Hayes que se unifican en la Ciudad de Benjamín Aceval
+
+> *Modificado por Ley N° 744 (1995-10-30)*
 
 ### Artículo 22°
 
