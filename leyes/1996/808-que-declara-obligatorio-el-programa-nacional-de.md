@@ -122,11 +122,10 @@ Del Fondo Permanente de Indemnización
 ### Artículo 13°
 
 
-Créase el Fondo Permanente de Indemnización que será aplicado exclusivamente al Programa Nacional de Erradicación de la Fiebre Aftosa, para los casos de necesidad de sacrificio obligatorio o faena anticipada obligatoria de animales enfermos, así como los gastos derivados de ello. Dicho fondo se formará con un mínimo del 10% (diez por ciento) del total de las recaudaciones anuales emergentes de esta Ley, que tendrá carácter acumulativo e inembargable, y será depositado en moneda norteamericana en una cuenta especial en el Banco Nacional de Fomento, a la orden de la Comisión Interinstitucional / Fondo Permanente de Indemnización.
 
-A partir de la sanción y promulgación de la presente Ley, se autoriza a la Comisión Interinstitucional a constituir al Fondo Permanente de Indemnización con un techo equivalente a U$S 1.000.000 (Un millón de Dólares estadounidenses), debiendo destinarse el remanente de la disponibilidad existente a lo indicado en el Artículo 3° de esta Ley
+Créase el Fondo Permanente de Indemnización que será aplicado exclusivamente al Programa Nacional de Erradicación de la Fiebre Aftosa, para los casos de necesidad de sacrificio obligatorio o faena anticipada obligatoria de animales enfermos, así como los gastos derivados de ello. Dicho fondo se formará con un mínimo del 10% (diez por ciento) del total de las recaudaciones anuales emergentes de esta Ley, que tendrá carácter acumulativo e inembargable, y será depositado en moneda norteamericana en una cuenta especial en el Banco Nacional de Fomento a la orden de la Comisión Interinstitucional/Fondo Permanente de Indemnización. A partir de la sanción y promulgación de la presente Ley, se autoriza a la Comisión Interinstitucional a constituir el Fondo Permanente de Indemnización con un techo equivalente a US$ 1.000.000 (Un millón de dólares estadounidenses), debiendo destinarse el remanente de la disponibilidad existente, a lo indicado en el Artículo 2° de esta Ley.
 
-> *Modificado por Ley N° 2044 (2002-12-19)*
+> *Modificado por Ley N° 2337 (2003-12-12)*
 
 ### Artículo 14°
 
