@@ -1,0 +1,698 @@
+---
+bacn_id: 1639
+numero: "1568"
+titulo: "QUE APRUEBA EL CONTRATO SUSCRITO ENTRE EL GOBIERNO NACIONAL Y LA EMPRESA MINERA YAMANA INC., PARA LA EXPLORACIÓN, EXTRACCIÓN Y TRANSFORMACIÓN DE MINERALES DE METALES PRECIOSOS Y COMUNES, EN ÁREAS DE LA REGIÓN ORIENTAL DE LA REPÚBLICA DEL PARAGUAY"
+fecha_promulgacion: 2000-07-06
+fecha_publicacion: 2000-07-07
+fuente: bacn.gov.py
+status: in_force
+source: https://www.bacn.gov.py/leyes-paraguayas/1639/texto
+short_title: "QUE APRUEBA EL CONTRATO SUSCRITO ENTRE EL GOBIERNO NACIONAL…"
+---
+
+# LEY Nº 1568
+## QUE APRUEBA EL CONTRATO SUSCRITO ENTRE EL GOBIERNO NACIONAL Y LA EMPRESA MINERA YAMANA INC., PARA LA EXPLORACIÓN, EXTRACCIÓN Y TRANSFORMACIÓN DE MINERALES DE METALES PRECIOSOS Y COMUNES, EN ÁREAS DE LA REGIÓN ORIENTAL DE LA REPÚBLICA DEL PARAGUAY
+
+### Artículo 1°
+
+Apruébase el “Contrato suscrito entre el Gobierno Nacional y la Empresa MINERA YAMANA INC., para la Exploración, Extracción y Transformación de Minerales de Metales Preciosos y Comunes, en Areas de la Región Oriental de la República del Paraguay”, cuyo texto es como sigue:
+
+"CONTRATO DE CONCESIÓN
+
+Este Contrato de Concesión (en adelante el “Contrato”) celebrado entre el Gobierno de la República del Paraguay (en adelante el “Gobierno”) representado por su Excelencia el Señor Ministro de Obras Públicas y Comunicaciones, Dr. JOSÉ ALBERTO PLANAS, y por su Excelencia el Señor Ministro de Hacienda, Dr. FEDERICO ZAYAS CHIRIFE, debidamente autorizados por Decreto del Poder Ejecutivo Nº. 6924 de fecha 29 de diciembre de 1999 y la empresa Minera Yamana Inc., domiciliada en Calle Bruselas Nº. 2019, Asunción, Paraguay (en adelante la “Concesionaria”), representada por su Apoderado General Señor Delfor Aníbal Cadario.
+
+Este Contrato se celebra ad referéndum de la sanción legislativa exigida por los Artículos 112 y 202, inciso 11 de la Constitución Nacional. Este Contrato tiene por objeto establecer las condiciones para la exploración, extracción y transformación de minerales de metales preciosos y comunes, en áreas de la Región Oriental de la República del Paraguay tal como se establece en los siguientes Artículos.
+
+ARTÍCULO 1
+
+OTORGAMIENTO DE PERMISO DE INVESTIGACIÓN Y CATEO, Y CONCESIÓN DE EXPLORACIÓN Y EXPLOTACIÓN
+
+1.1. El Gobierno otorga a la Concesionaria Permiso de Investigación y Cateo y una exclusiva Concesión de Exploración y Explotación de los Recursos Minerales de metales preciosos y comunes definidos como oro, plata, grupo de metales de platino, cobre, níquel, plomo, zinc cobalto, y minerales metálicos relacionados (en adelante denominados a los efectos de este Contrato “Minerales”), en las áreas definidas en el Anexo A de este Contrato y según las condiciones expresadas en este Contrato.
+
+1.2. Los objetivos de la concesionaria bajo este Contrato son:
+
+a) Identificar áreas que contenga y produzca minerales;
+
+b) Investigar y evaluar depósitos minerales localizados durante la exploración, determinando su parámetro que incluyen el tonelaje, calidad, características metalúrgicas, y procesos de beneficiación a fin de definir las posibilidades de explotación;
+
+c) Proporcionar la infraestructura e instalaciones requeridas para la adecuada explotación de los recursos minerales localizados durante la exploración; y,
+
+d) Realizar cualquier actividad minera requerida para la explotación de los recursos minerales, incluyendo la minería de piedra y grava necesarias para el desarrollo de la mina, y el procesamiento de material para obtener minerales o concentrados para los mercados nacionales y extranjeros.
+
+1.3. Las Coordenadas geográficas y el plano de ubicación del área de la Concesión se indican en el Anexo A de este Contrato:
+
+1.3.1. La superficie máxima del área de investigación y Cateo será de 117.300 has. mineras
+
+1.3.2. La superficie máxima de Exploración será de 75.000 has. mineras.
+
+1.3.3. La superficie máxima de Explotación será de 37.500 has. mineras.
+
+1.3.4. Los siguientes términos tendrán el significado atribuido a cada uno de ellos a los efectos de este Contrato.
+
+1.3.5. Gobierno significa el gobierno de la República del Paraguay incluyendo el Ministerio de Obras Públicas y Comunicaciones y cualquier otro Ministerio, agencia, organismo, departamento o entidad de la República del Paraguay que tenga jurisdicción sobre el asunto de este Contrato.
+
+1.3.6. Minerales significa recursos minerales preciosos y comunes definidos como oro, plata, grupo de materiales de platino, cobre, níquel, plomo, zinc, cobalto, y minerales metálicos relacionados, excluyendo: hidrocarburos sólidos, líquidos y gaseosos, y sustancias pétreas, terrosas y calcáreas.
+
+1.3.7. Fecha de Vigencia significa la fecha de promulgación de la Ley que aprueba el presente Contrato, que será la fecha en que el Poder Ejecutivo ordena la publicación y registro de la citada Ley en el Registro Oficial.
+
+1.3.8. Comercialización es la compra-venta de minerales o la celebración de otros Contratos que tengan por objeto la negociación de cualquier producto resultante de la actividad minera.
+
+1.3.9. Año significa un período de doce meses que comienza a partir de la Fecha de Vigencia de este Contrato o (según lo requiera el contexto) a partir de cualquier aniversario de la misma, y que termina en el siguiente aniversario de la misma. Si en este Contrato se hace referencia a más de un Año, cada Año tal podrá ser identificado consecutivamente como Año “1”, Año “2”, y así en adelante durante todo el plazo de este Contrato.
+
+ARTÍCULO 2
+
+APROBACIÓN DEL CONGRESO NACIONAL
+
+El Gobierno someterá este Contrato a consideración del Congreso Nacional en cumplimiento de los Artículos 112 y 202, inciso 11 de la Constitución Nacional, solicitando su aprobación y la declaración de interés público. Si hubiera alguna objeción del Congreso Nacional en relación a este Contrato, el Gobierno y la Concesionaria realizarán sus mejores esfuerzos para solucionar esa situación.
+
+ARTÍCULO 3
+
+PLAZO DEL PERÍODO DE INVESTIGACIÓN Y CATEO Y DEL PERÍODO DE EXPLORACIÓN
+
+3.1. La duración del Período de Investigación y Cateo será de un año a partir de la Fecha de Vigencia de este Contrato. A pedido de la Concesionaria, formulado cuanto menos tres meses antes del vencimiento del plazo, podrá ser prorrogado por única vez por un plazo de un año adicional. La prórroga se concederá por resolución del Ministerio de Obras Públicas y Comunicaciones.
+
+3.1.1. La Concesionaria dará inicio al Programa de Trabajo de Investigación y Cateo dentro del plazo de ciento veinte días a partir de la Fecha de Vigencia de este Contrato.
+
+3.1.2. La Concesionaria podrá suspender sus trabajos de Investigación y Cateo por un plazo que no exceda de cuatro meses, mediante presentación fundada al Ministerio de Obras Públicas y Comunicaciones, exponiendo las razones que justifiquen tal suspensión. El Ministerio de Obras Públicas y Comunicaciones otorgará la suspensión solicitada, si correspondiera, por el plazo adecuado a las razones alegadas por la Concesionaria.
+
+3.2. La Duración del Período de Exploración será de dos años a partir de la fecha de la resolución del Ministerio de Obras Públicas y Comunicaciones que señale el inicio del Período de Exploración. A pedido de la Concesionaria, formulado cuando menos tres meses antes del vencimiento del plazo, podrá ser prorrogado por única vez por un plazo de un año adicional. La prórroga se concederá por resolución del Ministerio de Obras Públicas y Comunicaciones.
+
+3.2.1. La Concesionaria dará inicio al Programa de Trabajo de Exploración dentro del plazo de ciento ochenta días a partir de la fecha de la resolución Ministerial que señale el inicio del Período de Exploración bajo este Contrato.
+
+3.2.2. La Concesionaria podrá suspender sus trabajos de Exploración por un plazo que no exceda de seis meses, mediante presentación fundada al Ministerio de Obras Públicas y Comunicaciones exponiendo las razones que justifiquen tal suspensión. El Ministerio de Obras Públicas y Comunicaciones otorgará la suspensión solicitada, si correspondiera, por el plazo adecuado a las razones alegadas por la Concesionaria.
+
+3.3. Los plazos señalados en este Artículo 3, podrán ser prorrogados por el Ministerio de Obras Públicas y Comunicaciones por razones debidamente comprobadas de fuerza mayor o caso fortuito.
+
+ARTÍCULO 4
+
+PROGRAMA DE TRABAJOS DE INVESTIGACIÓN Y CATEO Y EXPLORACIÓN
+
+Durante los Período de Investigación y Cateo y de Exploración, la Concesionaria realizará el siguiente Programa de Trabajo.
+
+I. INVESTIGACIÓN Y CATEO
+
+A. Objetivo
+
+El programa de actividades que se delinea es de naturaleza general. Cualesquiera programas específicos serán determinados en base a información disponible o nueva que sea generada. El conocimiento del potencial mineral del Paraguay abarca desde el reducido conocimiento de las áreas inexploradas hasta los sitios donde investigaciones anteriores por el Ministerio de Obras Públicas y Comunicaciones y otros han completado estudios detallados. En consecuencia, se realizarán reconocimientos en áreas inexploradas y al mismo tiempo se podrán realizar investigaciones concentradas en áreas previamente revisadas.
+
+B. Programa de Investigación y Cateo
+
+1. La investigación de la información sobre las áreas delineadas será completada poniendo énfasis en la revisión de registros, informes, virutas de barreno y registros de barreno disponibles.
+
+2. Los trazados de reconocimiento aéreo y terrestre serán iniciados durante las investigaciones en el terreno. Se utilizarán los métodos geológicos y geoquímicos que se consideren aplicables.
+
+3. Levantamientos geofísicos – Se anticipa la realización de investigaciones aéreas selectivas aplicando técnicas magnéticas y electromagnéticas. Dentro de las áreas delineadas durante los levantamientos aéreos se utilizarán diversos métodos geofísicos terrestres a fin de confirmar las áreas que merecen más estudio.
+
+4. Se utilizarán estudios fotogeológicos como ayuda a la exploración. Se utilizarán estudios aerofotográficos a baja altura e imágenes de satélite sobre áreas específicas dentro de la concesión.
+
+5. Se iniciarán investigaciones bajo la superficie a fin de confirmar anomalías geológicas, geoquímicas y geofísicas. Esta investigación incluirá la excavación de trincheras, barrenos de prueba y barrenos preliminares. Los resultados de muestreo de la investigación bajo la superficie ayudarán a definir las áreas que presentan concentraciones anómalas de minerales metálicos.
+
+6. Cualesquiera otras técnicas de investigación que sean consideradas necesarias por la Concesionaria serán utilizadas en el Programa de Investigación y Cateo.
+
+7. La evaluación simultánea será realizada a medida que se completa el programa de Investigación y Cateo. Sin embargo, al acercarse el final de dicho programa, la Concesionaria realizará una evaluación intensiva del trabajo realizado. Los datos geológicos, geoquímicos, geofísicos combinados con la información subsuperficial serán revisados y comparados con modelos de depósitos minerales existentes. La información obtenida durante el programa podrá llevar a la formulación de modelos existentes modificados o conceptos de modelo enteramente nuevos.
+
+II. EXPLORACIÓN
+
+A. Objetivos
+
+El programa de actividades para el Programa de Exploración incluye dos sub-etapas: 1. Exploración General; y 2. Exploración Detallada. La implementación de estas etapas se basa en las interpretaciones y conclusiones de la información obtenida en la Investigación y Cateo. Algunos proyectos de la Exploración podrán proceder más rápidamente por las sub-etapas de Exploración General y Detallada, en base al tipo de depósito mineral potencial y su localización y accesibilidad. Ambas sub-etapas podrán realizarse simultáneamente en diversas áreas dentro de la Concesión.
+
+B. Exploración General
+
+1. Geología y geoquímica – La información obtenida en el Programa de Investigación y Cateo será utilizada para extenderse desde las áreas anómalas conocidas hasta aquellas áreas que contengan las mismas características aparentes.
+
+2. Fotogeología – Se podrá necesitar la reinterpretación de estudios fotogeológicos anteriores al incorporar información obtenida en la Investigación y Cateo. Esta reinterpretación podrá consistir en nuevas aerofotográfias o imágenes de satélite.
+
+3. Levantamientos Geofísicos – Podrán usarse levantamientos aéreos para delinear anomalías encontradas en la Investigación y Cateo. También podrán implementarse levantamientos aéreos en nuevas áreas delineadas para mayor estudio durante trabajos anteriores.
+
+C. Exploración Detallada
+
+1. Se pondrá énfasis en los estudios geológicos y geofísicos de áreas particulares definidas en la Investigación y Cateo y en la sub-etapa de Exploración General. Esto incluirá el mapeo geológico sistemático y la recolección de muestras.
+
+2. Se anticipan detalles geofísicos del terreno en áreas definidas. Se podrán utilizar métodos geofísicos en las perforaciones al hacer los barrenos de prueba.
+
+3. Los programas de barreno incluirán testigos de perforación y barrenos rotativos en áreas definidas durante la Investigación y Cateo. La perforación semidetallada de barrenos de prueba será realizada a fin de obtener parámetros preliminares de calidad y tonelaje. Esta perforación podría indicar los depósitos minerales con potencial económico.
+
+4. Se utilizarán otras técnicas de investigación que la Concesionaria considere necesaria a fin de completar la Exploración Detallada.
+
+ARTÍCULO 5
+
+COMPROMISO DE INVERSIÓN
+
+5.1. La Concesionaria se compromete a invertir un mínimo de US$ 1.500.000 (un millón quinientos mil dólares americanos) en sus trabajos de Investigación y Cateo y de Exploración, de la siguiente manera:
+
+INVESTIGACIÓN Y CATEO US$ 500.000
+
+EXPLORACIÓN US$ 1.000.000
+
+5.2. Las inversiones incurridas por la Concesionaria durante cualquier año o período en observancia al Artículo 5.1 en exceso del monto señalado para dicho año o período podrá ser traspasado a los años o períodos sucesivos y acreditada a la inversión correspondiente de la siguiente etapa.
+
+5.3. A fin de garantizar el cumplimiento del Compromiso de Trabajo de los Períodos de Investigación y Cateo y de Exploración expresado en este Artículo, la Concesionaria deberá gestionar un seguro de cumplimiento y otorgar una garantía bancaria de cumplimiento a favor del Ministerio de Obras Públicas y Comunicaciones, librado por una institución financiera de primera línea, a razón de US$ 0,30 (treinta centavos de dólar americano) por hectárea.
+
+5.4. La Concesionaria mantendrá un seguro de responsabilidad civil con una aseguradora de primera línea por daños a terceros de un monto mínimo de US$ 3.000.000 (tres millones de dólares) durante el plazo de esta concesión.
+
+ARTÍCULO 6
+
+CANON TERRITORIAL
+
+Para asegurar la disposición eficiente de las áreas otorgadas a la Concesionaria para Investigación y Cateo, Exploración y Explotación, la Concesionaria pagará al Gobierno un Canon Territorial de la manera indicada más abajo. Los cánones serán pagados por un Año o fracción de Año, mediante depósito en dólares americanos, en la "Cuenta Minera" habilitada por el Ministerio de Obras Públicas y Comunicaciones en el Banco Central del Paraguay. El Depósito en la Cuenta Minera será realizado dentro del primer mes de cada Año o Fracción del Año.
+
+Fases Áreas Por Ha. Canon Anual
+
+Investigación y Cateo 117.300 has. US$ 0.55 US$ 64.515
+
+Exploración 58.650 has. US$ 1.30 US$ 76.245
+
+Explotación hasta 29.325 has. US$ 1.30 monto resultante
+
+ARTÍCULO 7
+
+REDUCCIÓN DEL ÁREA DE LA CONCESIÓN
+
+Completado el Período de Investigación y Cateo y su prórroga, si la hubiere, la Concesionaria deberá reducir las 117.300 hectáreas (ciento diecisiete mil trescientos hectáreas) de la Concesión descrita en el Anexo A de este Contrato en no menos del 50% (cincuenta por ciento), hasta una superficie máxima de 58.650 hectáreas mineras. Al completarse el Período de Exploración y su prórroga, si la hubiere, la Concesionaria podrá proceder al período de Explotación en las áreas seleccionadas para explotación de conformidad al Artículo 11 de este Contrato, reduciendo el área de la Concesión en no menos del 50% (cincuenta por ciento), hasta una superficie máxima de 29.325 hectáreas mineras. Durante cada etapa las áreas específicas a ser renunciadas quedarán a la exclusiva elección de la Concesionaria, las cuales serán revertidas al Estado Paraguayo.
+
+ARTÍCULO 8
+
+SERVIDUMBRES
+
+8.1. Desde la Fecha de Vigencia de la Concesión, los predios superficiales están sujetos a las siguientes servidumbres:
+
+a. de uso, de refinación y de beneficio de minerales, para construir habitaciones, galpones y demás obras complementarias;
+
+b. de paso, mediante sistemas de transportes mineros y convencional, por canales, tanques, cañerías, acueductos, túneles, planos inclinados, andariveles, cintas transportadoras, líneas férreas, y todo otro sistema que sirva para unir la Concesión con caminos públicos, establecimientos mineros, estaciones de ferrocarril, puertos, aeródromos y centro de consumo; y,
+
+c. de electroductos.
+
+8.2. Las servidumbres se constituirán previa determinación del monto de la indemnización por todo perjuicio que se cause al dueño de los terrenos o al de la Concesión sirviente en su caso, o cualquier otra persona.
+
+8.3. Los interesados acordarán en Escritura Pública la constitución de las servidumbres, su ejercicio y las indemnizaciones correspondientes. Si para la constitución de servidumbre de ocupación temporal sobre inmuebles de propiedad privada, no se llegare a acuerdo entre el propietario del suelo y la Concesionaria, el Ministerio de Obras Públicas y Comunicaciones, a petición de éste último tendrá la facultad de constituir administrativamente la servidumbre, precisando su plazo, objeto, alcance y determinando la indemnización que debe abonar la Concesionaria al propietario.
+
+Si cualquiera de las partes no estuviere conforme con la indemnización fijada, podrán demandar ante el Poder Judicial su revisión. La demanda no impedirá que la Concesionaria haga uso de la servidumbre de ocupación temporal constituida administrativamente. Recaída la sentencia definitiva, si la Concesionaria no realizare la prestación prevista en la misma dentro del plazo de ocho días, la servidumbre constituida administrativamente se extinguirá de pleno derecho.
+
+8.4. Las servidumbres son esencialmente transitorias. No podrán aprovecharse con fines distintos de aquellos propios de la respectiva Concesión Minera para los cuales hayan sido constituidas y cesarán cuando termine ese aprovechamiento. Podrán ampliarse o restringirse según lo requieran las actividades propias de la respectiva Concesión Minera.
+
+8.5. Mientras se tramita la servidumbre el Ministerio de Obras Públicas y Comunicaciones o el Juez, en su caso, podrá autorizar al solicitante a hacer uso de las servidumbres pedidas, siempre que preste caución suficiente para responder de las indemnizaciones a que pueda estar obligado.
+
+8.6. La Concesión Minera en cuyo favor se haya constituido alguna de las servidumbres del presente artículo, está sujeta al gravamen de que esa servidumbre sea utilizada también en provecho de otra Concesión Minera y, en general, a cualquier gravamen que sirva a otra concesión minera.
+
+Tales gravámenes no podrán, en caso alguno, impedir o dificultar considerablemente la actividad minera de la Concesión que los soporte.
+
+8.7. Las concesiones mineras están especialmente sujetas a servidumbres mineras, destinadas a dar o facilitar la ventilación, desagüe o acceso a otras concesiones mineras. Se entenderá por socavón o galería minera cualquier labor que tengan algunos de los objetos indicados en el párrafo anterior.
+
+8.7.1. Si la Concesionaria necesitare iniciar un socavón dentro de una concesión ajena o atravesarla y no se llegare a acuerdo entres las partes, el Ministerio de Obras Públicas y Comunicaciones, a petición de la Concesionaria, tendrá la facultad de constituir administrativamente la servidumbre, precisando su plazo, objeto, alcance y determinando la indemnización que debe abonar la Concesionaria.
+
+Si cualquiera de las partes no estuviere conforme con la indemnización fijada podrán demandar ante el Poder Judicial su revisión. La demanda no impedirá que la Concesionaria haga uso de la servidumbre de ocupación temporal constituida administrativamente. Recaída la sentencia definitiva, si la Concesionaria no realizare la prestación prevista en la misma dentro de un plazo de ochenta días, la servidumbre constituida administrativamente se extinguirá de pleno derecho.
+
+8.7.2. El socavonero no podrá, dentro de la Concesión sirviente, variar el rumbo ni la amplitud fijados al socavón en el acuerdo o en la resolución ministerial o judicial en su caso, a menos que obtenga nueva servidumbre, en igual procedimiento.
+
+8.7.3. El socavonero deberá prestar caución antes de empezar la obra para indemnizar los daños que causen al titular de la Concesión sirviente.
+
+8.7.4. El titular de la Concesión sirviente no podrá modificar las fortificaciones del socavón ni extraer minerales dentro de las labores de la Concesión, cuando comprometan la seguridad del socavón, salvo que refuerce convenientemente dichas fortificaciones.
+
+El socavonero lo indemnizará de los gastos y daños que el cumplimiento de esta obligación le irrogue.
+
+8.7.5. Si el socavonero encuentra substancias minerales en concesión ajena, no podrá explotarlas. Las que tuviere que extraer dentro de la amplitud del socavón las entregará a su titular, deducidos los gastos de extracción, salvo que éste se niegue a recibirlas, caso en el cual las hará suyas. En el mismo caso, si el socavón atraviesa concesión de exploración ajena, las sustancias extraídas quedarán en el terreno.
+
+8.8. Todo camino construido para una concesión minera podrá ser utilizado por otras concesiones mineras. Los costos de reparación y conservación se repartirán entre todos a prorrata del uso que de él hagan.
+
+ARTÍCULO 9
+
+INFORMACIÓN TÉCNICA
+
+9.1. Durante la vigencia de este Contrato, la Concesionaria entregará al Gobierno un informe trimestral que exprese los resultados del Programa en curso, los trabajos realizados, las inversiones efectuadas, los resultados y producción obtenidos, y los avances técnicos logrados. La información contenida en el informe se considerará confidencial durante la vigencia de este Contrato.
+
+9.2. La Concesionaria conviene en entregar al Gobierno todos los datos técnicos no interpretativos obtenidos en el Período de Investigación y Cateo y de Exploración correspondientes a las áreas devueltas de la Concesión. La Concesionaria entregará los datos técnicos no interpretativos al Gobierno dentro de los sesenta días de realizada la devolución de cualquier área de la Concesión. Tales datos no serán considerados confidenciales.
+
+9.3. Todos los trabajos ejecutados por la Concesionaria en los períodos de Investigación y Cateo, y de Exploración y de Explotación serán fizcalizados por geólogos designado por el Ministerio de Obras Públicas y Comunicaciones. Los fiscales tendrán acceso a todos los trabajos realizados por la Concesionaria, sean de gabinete, de campo, de laboratorio y evaluación.
+
+9.4. La Concesionaria mantendrá registros contables, financieros, técnicos, de empleo, datos estadísticos de producción, de avance de trabajo, consumo de materiales, 0energía y otros que reflejen adecuadamente el desarrollo de sus operaciones; y facilitará el acceso de funcionarios del Gobierno a los efectos de fiscalizar y evaluar la actividad minera realizada.
+
+ARTÍCULO 10
+
+EVALUACIÓN DE LOS DESCUBRIMIENTOS MINERALES
+
+10.1. La Concesionaria informará al Ministerio de Obras Públicas y Comunicaciones los descubrimientos de Minerales, como resultado de sus operaciones, dentro de un plazo máximo de quince días hábiles contados desde la fecha de confirmación de tal descubrimiento.
+
+10.2. Si la Concesionaria descubre un yacimiento de Minerales durante el Período de Exploración, la Concesionaria tendrá el derecho de determinar si el descubrimiento constituye un Descubrimiento Comercial. La Concesionaria tendrá el derecho de realizar todo el trabajo que considere necesario para determinar la existencia de un Descubrimiento Comercial. Esto incluirá barrenado sistemático y muestreo mediante métodos de perforación piloto, excavación a cielo abierto y/o túneles con el fin de verificar el tonelaje y la calidad del yacimiento mineral descubierto y su adecuación al procesamiento metalúrgico. Desde el descubrimiento inicial hasta la determinación de que el yacimiento mineral es comercial, la duración del Período del Exploración, si lo hubiera, quedará automáticamente suspendido, previéndose que dicha determinación no excederá de un plazo de más de seis meses a partir de la fecha en la que se inicia la evaluación del descubrimiento mineral. El término de la suspensión será agregado al Período de Exploración, si lo hubiera, dependiendo de que ocurra dentro del período inicial o de prórroga del mismo, con el objeto de fijar la fecha de su expiración.
+
+10.3. Ante la confirmación de un Descubrimiento Comercial de un yacimiento Mineral, la Concesionaria tendrá el derecho de elegir lotes de explotación (“Lotes”) de la forma y dimensiones establecidas en el Artículo 11 de este Contrato. La determinación de que un descubrimiento sea o no un Descubrimiento Comercial será efectuada exclusivamente por la Concesionaria.
+
+ARTÍCULO 11
+
+PERÍODO DE EXPLOTACIÓN
+
+11.1. En cualquier momento durante el Período de Exploración, la Compañía, habiendo realizado el trabajo e invertido las sumas correspondientes a la Etapa de Exploración respectiva hasta esa fecha, podrá optar, a su entero y exclusivo criterio, por pasar al Período de Explotación otorgado por este Contrato. A fin de ejercer sus derechos de explotación, la Compañía deberá elevar una solicitud por escrito al Ministerio de Obras Públicas y Comunicaciones. La solicitud expresará una descripción del Lote o Lotes seleccionados para su explotación, la determinación del mineral o los minerales a ser explotados, muestra del Mineral correspondiente, los programas mínimos de Trabajo y de Inversiones, y los requisitos de capital necesarios. El área total de los Lotes de Explotación seleccionados no excederá de 29.325 hectáreas mineras. Los lotes de Explotación seleccionados serán delimitados en hectáreas mineras, contiguos o no e independientes en cuanto a forma, ubicación y tamaño de cada Lote de Explotación. El tamaño y cantidad final de área de explotación, sujetos a las condiciones de este Contrato, serán determinados a criterio de la Concesionaria basado sobre los resultados del Programa de Exploración. Los derechos de explotación de la Concesionaria dentro de las áreas restantes de la Concesión permanecerán en plena vigencia y efecto durante el remanente del plazo del Período de Exploración.
+
+11.2. El Período de Explotación será otorgado por un plazo inicial de veinticinco años para cada Lote de Explotación seleccionado, a partir de la fecha de selección de los Lotes de Explotación, señalada en la respectiva resolución del Ministerio de Obras Públicas y Comunicaciones.
+
+11.3. A petición de la Concesionaria al Gobierno, los derechos de Explotación otorgados respecto a los Lotes de Explotación podrán ser prorrogados por única vez por un plazo de hasta veinticinco años, en base a un programa de obras, trabajos e inversiones, incluyendo un plan de producción anual, aprobado por el Ministerio de Obras Públicas y Comunicaciones. Dicha prorroga se otorgará por Decreto del Poder Ejecutivo y autorizada por Ley del Congreso Nacional.
+
+ARTÍCULO 12
+
+SUSPENSIÓN DEL PERÍODO DE EXPLOTACIÓN
+
+12.1. La Concesionaria podrá notificar al Gobierno respecto a la selección de Lotes de Explotación y, al mismo tiempo, peticionar al Gobierno la suspensión temporaria de todos los plazos antes de declarar el inicio del Período de Explotación hasta que las instalaciones mineras necesarias y/o la infraestructura haya sido construida o conseguida a fin de permitir el desarrollo, la minería y el mercadeo del yacimiento mineral descubierto.
+
+12.2. Si la petición de la Concesionaria tuviera mérito, el Gobierno establecerá el plazo de suspensión del inicio del Período de Explotación mediante resolución del Ministerio de Obras Públicas y Comunicaciones.
+
+12.3. El plazo de suspensión del Período de Explotación podrá ser de hasta un año. El plazo señalado podrá ser prorrogado por el Ministerio de Obras Públicas y Comunicaciones, por un período de hasta un año por razones debidamente comprobadas de fuerza mayor o caso fortuito, o cuando las condiciones del Mercado así lo aconsejen, o si las instalaciones e infraestructura necesaria no pudieran entrar en operación. Tanto la suspensión como el plazo de prórroga o suspensión adicional serán otorgados mediante resolución del Ministerio de Obras Públicas y Comunicaciones, siempre que la Concesionaria haya cumplido con sus obligaciones bajo este Contrato.
+
+ARTÍCULO 13
+
+CONTRATACIÓN DEL PERSONAL Y EMPRESAS PARAGUAYAS
+
+13.1. La Concesionaria y sus Subcontratistas contratarán personal y empresas paraguayas que estén técnica y financieramente capacitadas y que ofrezcan precios y plazos competitivos, y el personal y empresas extranjeras necesarios para el cumplimiento del objeto de este Contrato. La Concesionaria mantendrá programas de entrenamiento y capacitación de su personal paraguayo especializado durante el Período de Exploración. Asimismo, como reconoce el beneficio tanto para la Concesionaria como para el Interés Nacional, suministrará oportunidades de formación y promoción a los funcionarios del Ministerio de Obras Públicas y Comunicaciones y estudiantes universitarios paraguayos. El personal técnico extranjero que trabaje en el país estará sujeto al requisito de cumplir con las ordenanzas policiales aplicables a extranjeros, pero no será necesario que los mismos obtengan el permiso de Residencia Temporaria cuando ejecuten labores accidentales por plazos no mayores de noventa días continuos.
+
+13.2. La Concesionaria y/o sus Subcontratistas (combinados) emplearán personal paraguayo a razón del 80% (ochenta por ciento) de la mano de obra requerida por la Concesionaria para la operación y realización eficiente de todas sus actividades comprendidas en el Área de Concesión y de acuerdo con prácticas generalmente aceptadas en la Industria Minera.
+
+13.3. Si la Concesionaria y/o sus Subcontratistas no pudieran obtener en el país la mano de obra mencionada más arriba, la Concesionaria notificará al Ministerio de Obras Públicas y Comunicaciones de la carencia de disponibilidad de obreros y la liberación del cumplimiento de la mencionada cuota no deberá ser retenida sin razón por el Ministerio de Obras Públicas y Comunicaciones. Si el Ministerio de Obras Públicas y Comunicaciones dejare de responder dentro de los treinta días de dicha notificación se considerará producida la autorización tácita.
+
+13.4. El personal ejecutivo de la Concesionaria y de sus Subcontratistas que desarrolle las funciones de gerente general, asistente de gerencia y gerentes de campo o sus equivalentes, y otro personal técnico dotados de cualidades y experiencias específicas están excluidos del cupo mencionados en el Artículo 13.2 y no estará sujeto a ninguna restricción.
+
+ARTÍCULO 14
+
+VENTAS DE PRODUCTOS MINERALES
+
+14.1. La Concesionaria es propietaria de los Minerales que extraiga y de los desmontes, relaves y escorias, dentro del Área de Concesión. La Concesionaria podrá exportar y vender libremente todos los Minerales, en cualquier forma, producido en el Área de Concesión. El Gobierno garantiza a la Concesionaria la libre disponibilidad de las divisas provenientes de la Exportación y venta de los productos minerales obtenida por la misma. Si la Concesionaria debiera vender al Gobierno o en el mercado interno nacional algunos de los productos minerales provenientes del Area de Concesión, fijará por ellos el precio en el mercado internacional, aplicándose el mismo criterio utilizado para la percepción de regalías.
+
+14.2. De acuerdo con las estipulaciones de este Contrato, los Minerales y/o Productos Minerales serán producidos, retenidos, manipulados, vendidos y contratados en ciclo trimestral de noventa días a partir del primer día de cada año calendario, basado en el calendario Gregoriano.
+
+ARTÍCULO 15
+
+ARRENDAMIENTO Y CESIÓN
+
+15.1. La Concesionaria y cualquier cesionario de este Contrato podrá arrendar o transmitir por cesión libremente cualquier parte, pero no la totalidad, de su participación o derechos bajo este Contrato, con autorización previa del Ministerio de Obras Públicas y Comunicaciones, a cualquier tercero capacitado legalmente para ser arrendatario o cesionario. Dicho tercero que adquiera una participación de derechos en este Contrato asumirá conjunta y solidariamente la responsabilidad por las obligaciones y los correspondientes derechos según este Contrato, pero esto no implicará una reducción de la responsabilidad de la Concesionaria respecto a sus obligaciones. Cualquier arrendamiento o cesión se formalizará en escritura pública. Cualquier persona que adquiera una participación en este Contrato gozará de los mismos derechos que la Concesionaria tiene como consecuencia de dicha cesión o arrendamiento. Las Cesiones y Arrendamientos contemplados en este Artículo estarán exonerados de todos los impuestos fiscales, departamentales y municipales, vigentes o futuros.
+
+ARTÍCULO 16
+
+DESISTIMIENTO DE LA CONCESIÓN
+
+16.1. En cualquier momento dentro de algún período o al final de un período (ya sea el Período de Investigación y Cateo, o el Período de Exploración o el Período de Explotación) o cualquier prórroga de los mismos, la Concesionaria podrá dar por terminado este Contrato mediante el desistimiento de la Concesión, con notificación escrita al Ministerio de Obras Públicas y Comunicaciones, sin obligación alguna de pagar multas o penalidades salvo de las garantías estipuladas en los Artículos 5.3 y 20.8, siempre que correspondan y el pago de cualquiera y todo canon y regalías adeudados.
+
+16.2. La Concesionaria podrá extinguir su Concesión por renuncia, la que podrá referirse a todo o parte del área de la Concesión, en cuyo caso se operará una reducción proporcional de las obligaciones a su cargo, siempre que resulte compatible con la finalidad del Derecho, a criterio del Gobierno.
+
+16.3. Para renunciar a parte o toda la Concesión, la Concesionaria deberá previamente cancelar todos los tributos y todas las deudas fiscales exigibles a esa fecha. La renuncia debe constar en escritura pública y da lugar a la cancelación de los respectivos registros, quedando libre el área minera renunciada.
+
+ARTÍCULO 17
+
+TRIBUTOS E IMPUESTOS
+
+17.1. Los servicios prestados a la Concesionaria durante los períodos de Investigación y Cateo y Exploración, relacionados directa o indirectamente a estas actividades por Subcontratistas, sean personas físicas o jurídicas, están exonerados de todo tributo fiscal, municipal y departamental, con excepción de las tasas y del Impuesto a la Renta que tributarán conforme al sistema de renta presunta estableciéndose para el efecto un coeficiente de rentabilidad de 6% (seis por ciento) sobre el monto de los trabajos.
+
+17.2. Durante el Período de Explotación, la Concesionaria está exonerada de todo tipo de impuesto y contribución fiscal, municipal y departamental, inclusive aquellos tributos cuya exoneración requiera mención especial en la ley, conforme a las condiciones señaladas en este Contrato. No está exonerada de las tasas, del Impuesto a la Renta y del Impuesto al Valor Agregado, siempre que estos sean de aplicación general y no discriminatoria para la industria minera.
+
+17.3. El titular de una concesión de explotación estará obligado al pago del Impuesto a la Renta sobre las utilidades líquidas. La tasa de Impuesto a la Renta para el concesionario será del 30% (treinta por ciento) sobre las utilidades líquidas determinadas de acuerdo con lo dispuesto en este Contrato.
+
+17.4. Para los fines del pago del Impuesto a la Renta, el balance de operaciones será preparado con sujeción a reconocidas normas de contabilidad utilizadas en la industria minera, pudiendo seguirse cualquier sistema contable generalmente empleado en ella, siempre que fuera usado de año en año, sin variaciones de consideración. La contabilidad será escriturada en castellano.
+
+Podrá deducirse anualmente como gastos de operación, el monto de todos o cualquiera de los siguientes conceptos correspondientes al ejercicio: gastos de investigación y cateo y exploración dentro del territorio nacional; costos intangibles de perforación y/o gasto de perforación de minas improductivas o producto de volúmenes no explotables en cantidades comerciales. A elección del concesionario dichos montos podrán ser incluidos en la cuenta de capital del ejercicio.
+
+17.5. Por utilidad líquida se entiende el monto de los ingresos obtenidos por las operaciones accesorias de manufactura, almacenaje, transporte y/o comercialización del Mineral, menos los gastos generales de administración, los castigos por depreciación de activo tangible y amortización del activo intangible y todos los demás gastos y costos que fueran necesarios para obtener dichos ingresos comprendidas las pérdidas de operación y las provenientes de daños, destrucción, extravíos o pérdidas de bienes. Con respecto a estos últimos cuatro casos, se hará el correspondiente abono a tiempo de cobrarse el seguro.
+
+Además, se deducirá por concepto de factor agotamiento una suma que estará libre de todo impuesto y que será igual al 15% (quince por ciento) del valor bruto de la producción del Mineral comercializado. El 15% (quince por ciento) se aplicará después de restarse los gastos de transporte del Mineral desde el lugar de extracción al de venta. La deducción por agotamiento tendrá como límite el 50% (cincuenta por ciento) de las utilidades líquidas establecidas en el respectivo balance anual de la Concesionaria.
+
+17.6. A los fines del pago del Impuesto a la Renta, todos los bienes de la Concesionaria sujetos a depreciación empleados de la concesión otorgada por el Gobierno, serán depreciados en línea recta proporcional a una tasa del 25% (veinticinco por ciento) anual.
+
+17.7. Los servicios prestados a la Concesionaria bajo este Contrato de Concesión por los Subcontratistas tendrán el mismo tratamiento fiscal previsto en el Artículo 17.3.
+
+17.8. Los capitales incorporados al país por el Concesionario, podrán ser amortizados a opción de éste, en anualidades no mayores a un 20% (veinte por ciento), al contar del comienzo de la comercialización de la substancia material de este Contrato.
+
+17.9. Todas las maquinarias, útiles, implementos, materiales que no se produzcan en el país y que sean necesarias para la investigación, exploración, explotación, industrialización y comercialización del mineral, están exentas de derechos de importación y de todo tributo fiscal, departamental y municipal, por todo el tiempo que dure la Concesión. Todos los bienes importados de conformidad a las excepciones mencionadas en este artículo podrán ser retirados de las aduanas y puertos mediante declaración jurada sin necesidad de otros requisitos.
+
+Estas importaciones deberán ser regularizadas de acuerdo a la legislación pertinente dentro de los noventa días de retirados los bienes. Asimismo, el mineral y su transporte quedan exentos de todo tributo fiscal, departamental y municipal y de todo derecho de exportación, bajo cualquier forma que se establezca durante la vigencia del Contrato de Concesión.
+
+17.10. Los bienes necesarios para los trabajos bajo este Contrato, que hayan ingresado al país bajo el régimen de admisión temporaria, podrán ser nacionalizados en el país, abonando previamente los gravámenes, sobre el valor que resulte del valor imponible, menos la depreciación que corresponda al momento de la terminación de los trabajos, fecha que será certificada por la Sub-Secretaría de Minas y Energía. Los bienes que se encuentren totalmente depreciados a la determinación de los trabajos bajo este Contrato, podrán ser nacionalizados libre del pago de impuestos.
+
+17.11. Establécese una tasa de depreciación mensual de 3% (tres por ciento) para los bienes introducidos al país por la Concesionaria y/o sus Subcontratistas, en el caso en que las mismas deseen enajenar a terceras personas dichos bienes. Si la depreciación no fuera del 100% (cien por ciento), la Dirección General de Aduana procederá a la liquidación y percepción de los gravámenes sobre el valor imponible resultante. En el momento de la nacionalización de los bienes deberán pagar el Impuesto al Valor Agregado sobre el Base Imponible establecida en el penúltimo párrafo del Artículo 82 de la Ley No.125/91, menos la depreciación correspondiente.
+
+17.12. La Concesionaria y sus Subcontratistas también podrán re-exportar los artículos importados al amparo de la Concesión, libres de todo impuesto. Las solicitudes de re-exportación de bienes introducidos al país tendrán el mismo trámite establecido en el artículo primero del presente Contrato. La re-exportación estará exonerada del pago de cualquier impuesto aduanero e interno, presente o a crearse en el futuro.
+
+17.13. La Concesionaria y sus Subcontratistas solo estarán obligados a pagar tasas de usuarios en el caso de servicios efectivamente prestados por agencia de Administración Central y/o de las Municipalidades de acuerdo con las tarifas establecidas para tales servicios y fijadas por ley.
+
+17.14. El personal calificado y los ejecutivos extranjeros de la Concesionaria y de sus Subcontratistas no están sujetos a las leyes laborales y de seguridad social, ni están obligados a pagar impuesto a la Renta, si lo hubiera. La Concesionaria y sus Subcontratistas están exonerados del Impuesto al Valor Agregado sobre las remuneraciones de éstos.
+
+ARTÍCULO 18
+
+REGALÍAS DE EXPLOTACIÓN
+
+18.1. Durante el Período de Explotación, la Concesionaria pagará al Estado una Regalía equivalente al 2,5% (dos y medio por ciento) sobre el valor FOB de la producción comerciable de la Concesión, libre en puerto de embarque en el sitio de la mina.
+
+18.2. La Regalía se pagará total o parcialmente en especie o en dinero a elección del Gobierno. Si éste optare en percibirlo en dinero, se tendrá en cuenta el precio FOB, puerto de embarque sitio de mina, por la cual la Concesionaria pudiera vender el Mineral en el mercado internacional. Dichos precios deberán ser siempre competitivos a transacciones similares entre terceras partes. El Gobierno notificará a la Concesionaria la forma de percibir su Regalía, sea total o parcialmente en especie; la Concesionaria tendrá la obligación de transportar y entregar la Regalía en el lugar que el Gobierno indique, corriendo por cuenta del Gobierno el costo del transporte.
+
+18.3. El pago en dinero de la Regalía será efectuado por la Concesionaria mediante el depósito de la suma correspondiente en dólares americanos, en la "Cuenta de Minería" del Ministerio de Obras Públicas y Comunicaciones abierta en el Banco Central del Paraguay.
+
+18.4. El pago de la Regalía establecido será efectuado trimestralmente dentro de los treinta días del cierre de cada trimestre del año calendario. La Regalía pagadera al Estado será determinada por las Partes y reflejará los esfuerzos de buena fe de ésta. Dentro de los treinta días del cierre del primer trimestre de cada año calendario, la Concesionaria proporcionará al Gobierno un balance final de las Regalías pagadas durante el año calendario anterior. En el caso de que se hubieran efectuado pagos inferiores al Gobierno, el pago de los montos adeudados más intereses deberá acompañar al balance final. El dinero adeudado habrá devengado intereses equivalentes a la tasa interbancaria ofrecida en Londres (Libor) para los depósitos a seis meses en dólares de los Estados Unidos según cotización de la Sucursal Londres del Citibank, Londres, Inglaterra, a las 11:00 horas, hora de Londres, en la fecha en que la Regalía estimada en menos haya sido pagada. En el caso de haberse efectuado un pago en exceso al Gobierno dicho pago en exceso será deducido del siguiente pago trimestral estimado.
+
+18.5. El Gobierno tendrá acceso a los libros de Registros Contables y Financieros de la Concesionaria a los efectos de fiscalizar el pago de la Regalía determinado por la Concesionaria.
+
+18.6. A los efectos del Impuesto a la Renta establecido en el Artículo 17, las Regalías constituyen ítems de gastos deducibles de Impuestos a la Renta de la Concesionaria.
+
+ARTÍCULO 19
+
+DERECHOS DE LA CONCESIONARIA
+
+19.1. La Concesionaria puede, libremente, instalar y operar plantas de beneficio, fundición y refinación, y realizar transporte minero; a tal efecto no será necesaria la obtención del concesión alguna.
+
+La comercialización y el transporte convencional de productos minerales son libres, y para su ejercicio no se requiere concesión.
+
+19.2. La Concesionaria puede construir e instalar, dentro del área incluida en la concesión, edificios, campamentos, depósitos, ductos, plantas de bombeo y fuerza motriz, cañerías, talleres, líneas transmisión de energía eléctrica, estanques, sistemas de comunicación, líneas férreas y demás sistemas de transporte local. Si dichas construcciones e instalaciones fueren afectadas al servicio público, deberán sujetarse a las leyes generales que sobre cada materia se dictaren.
+
+19.3. En el Período de Explotación, dentro del área incluida en la concesión, la Concesionaria podrá instalar plantas de beneficio, fundición y refinación, depósitos de acumulación de residuos; podrán igualmente construir muelles y otros sistemas de embarque, así como realizar actividades necesarias para el desarrollo de sus operaciones, sujetándose en todo a las disposiciones de este Contrato y a las normas legales correspondientes.
+
+19.4. Los titulares de Concesiones colindantes de yacimientos compartidos, o por razones de conveniencia económica para la explotación del yacimiento, podrán celebrar toda clase de Contratos sociales previstos en el Código Civil.
+
+19.5. La Concesionaria podrá solicitar al Ministerio de Obras Públicas y Comunicaciones, con carácter perentorio, la inspección de las labores mineras de concesiones colindantes cuando sospechen internación, teman inundación, derrumbe o incendio, por el mal estado de las minas adyacentes o por el desarrollo de los trabajos efectuados en éstas.
+
+En caso de extrema urgencia, el fiscal del Ministerio de Obras Públicas y Comunicaciones destacado en el lugar de la Concesión podrá realizar la inspección inmediatamente con cargo de informar al Ministerio de Obras Públicas y Comunicaciones de lo ocurrido dentro de las veinticuatro horas siguientes.
+
+19.6. La Concesionaria puede convenir con los propietarios de suelos o superficies la utilización servidumbres o compraventas del suelo o superficie y del subsuelo útil, en su caso, y sus retribuciones correspondientes, para el desarrollo de sus actividades mineras.
+
+19.7. El espacio libre de suelo o subsuelo existente entre dos o más concesiones mineras que no alcancen en total una hectárea minera, aunque en total contenga más de diez mil metros cuadrados, se denominará demasía. La demasía se concederá al concesionario colindante que primero la solicite, debiendo determinarse a través de una mensura, deslinde y amojonamiento judicial. Los derechos y obligaciones del Concesionario que obtuviere una demasía aumentarán proporcionalmente.
+
+ARTÍCULO 20
+
+PROTECCIÓN DEL MEDIO AMBIENTE
+
+20.1. La Concesionaria está obligada a ejecutar sus labores con métodos y técnicas que protejan el medio ambiente y minimicen los daños al suelo y a las concesiones colindantes y, en todos los casos, a resarcir los daños que causen en la realización de sus trabajos. Deberán, asimismo, adoptar, todas las medidas de seguridad necesarias para evitar accidentes como consecuencia del desarrollo de sus actividades. La Concesionaria está obligada a cumplir con la legislación nacional sobre protección al medio ambiente y los recursos naturales, en particular, los Decretos vigentes y futuros que reglamentan la Ley 294/93 "Evaluación de Impacto Ambiental". En caso de incumplimiento, el Ministerio de Obras Públicas y Comunicaciones aplicará las sanciones establecidas en la legislación especial y en este Contrato, pudiendo determinar la caducidad de la Concesión de conformidad al Artículo 21. Estas sanciones no liberarán a la Concesionaria de su responsabilidad emergente por situaciones y hechos que signifiquen daños y perjuicios al medio ambiente.
+
+20.2. Si la Concesionaria utiliza aguas para sus trabajos deberán arrojarlas libres de contaminación para que no afecten a la salud humana o el desarrollo de la flora y fauna.
+
+20.3. Si la actividad minera requiere de trabajos a tajo abierto y otros que obliguen a la tala de árboles, será obligación del titular del derecho minero reforestar el área afectada con las especies propias de la zona.
+
+20.4. La Concesionaria debe tomar estrictas precauciones contra la contaminación del suelo o del ambiente, construyendo los depósitos o represas necesarios, para acumular residuos tóxicos o contaminantes.
+
+20.5. Será obligación de la Concesionaria conservar las especies de flora y fauna de comprobado valor científico o económico, o en vía de extinción, que se encuentren dentro del área de su Concesión.
+
+20.6. El manejo de desechos y residuos sólidos, líquidos o gaseosos que la actividad minera produzca está sujeto a los siguientes tratamientos:
+
+a. los desechos con presencia de material reactivo serán almacenados conforme a las normas internacionales, y se dispondrá de ellos en coordinación con la Comisión Nacional de Energía Atómica;
+
+b. los desechos que por su naturaleza no sean biodegradables serán trasladados a sitios preestablecidos para su disposición; y,
+
+c. los desechos que por su naturaleza sean biodegradables serán reciclados, a fin de obtener productos que sirvan a los programas de rehabilitación de las áreas afectadas.
+
+20.7. La Concesionaria está obligada a restablecer razonablemente el paisaje y el equilibrio del entorno, de conformidad al plan de restauración ambiental.
+
+A tal efecto deberá presentar durante el Período de Exploración y de Explotación un Estudio de Impacto Ambiental, del régimen de tratamiento de residuos y desechos, y Plan de restauración Ambiental para la aprobación del Ministerio de Agricultura y Ganadería.
+
+20.8. La Concesionaria deberá constituir una garantía de fiel cumplimiento del plan de restauración ambiental presentado. El Ministerio de Obras Públicas y Comunicaciones determinará el monto de la garantía en función del presupuesto contenido en dicho plan.
+
+La garantía deberá ser constituida a través de una fianza bancaria o de una póliza de seguros, a satisfacción del Ministerio de Obras Públicas y Comunicaciones.
+
+La garantía será constituida un año antes de extinguida la Concesión y se extenderá hasta que la obligación o el plazo previsto en el Plan de Restauración Ambiental, se haya cumplido.
+
+20.9. Cuando la Zona concedida se encuentre sobre Áreas Silvestres protegidas, según las definiciones de la Ley 352 del 21 de junio de 1994, se tendrá en cuenta el Decreto que reglamenta la Ley (Art. 148) que establece que "Son usos y actividades restringidas en cualquier categoría de áreas silvestres protegidas, los siguientes: La prospección, explotación o extracción de minerales,...." y además "La explotación de minerales y metales de interés económico podrá ser permitida cuando sea de importancia vital para el país, con una autorización especial por escrito, y en concordancia con las leyes nacionales vigentes en la materia, debiendo realizarse para el particular estudios económicos de costo-beneficio de la actividad en relación a los costos - beneficios del recurso natural en su estado natural".
+
+En cumplimiento de la citada norma, el presente Contrato de Concesión, es instrumento válido para las etapas de Prospección y Exploración a fin de poder obtener los parámetros que determinen la factibilidad del proyecto y el cálculo de la relación costo - beneficio.
+
+ARTÍCULO 21
+
+CADUCIDAD DE LA CONCESIÓN
+
+21.1. Esta Concesión caducará:
+
+1. Por vencimiento de los plazos fijados;
+
+2. Por no haberse dado comienzo a los trabajos en los plazos fijados;
+
+3. Por paralización de los trabajos de exploración o explotación por plazo que excedan los previstos en este contrato;
+
+4. Por incumplimiento de los programas mínimos de trabajos de inversión;
+
+5. Por falta de pago de los Cánones y Regalías establecidos en este Contrato;
+
+6. Por infringir la Concesionaria obligaciones esenciales que este Contrato impone; y,
+
+7. Por no proporcionar al Ministerio de Obras Públicas y Comunicaciones las informaciones que fueren necesarias para el cumplimiento de sus obligaciones contractuales y tributarias.
+
+Las causales de caducidad previstas en este Artículo serán notificadas por el Gobierno a la Concesionaria y la Concesionaria tendrá el derecho de remediar, normalizar o corregir dichas causales de caducidad dentro de un plazo de sesenta días a partir de la fecha de recepción por la Concesionaria de la notificación por escrito que indica las causales de caducidad. El Gobierno podrá dar por terminado este Contrato si la Concesionaria no se hallare en cumplimiento luego del vencimiento de período de corrección.
+
+ARTÍCULO 22
+
+CASOS DE FUERZA MAYOR
+
+22.1. Ninguna penalidad se aplicará a cualquier omisión o falla de la Concesionaria en el cumplimiento de sus obligaciones establecidas en este contrato o en la Ley o las reglamentaciones de la Ley debido a casos de fuerza mayor que demoren a la Concesionaria en el cumplimiento de sus obligaciones.
+
+El tipo de demora causado por casos de fuerza mayor será agregado al plazo correspondiente establecido en este Contrato o la Ley o las Reglamentaciones de la Ley. Si el caso de fuerza mayor que impidiera que el trabajo de la Concesionaria se prolongara por un plazo de tiempo que no pueda ser determinado, las Partes tendrán el derecho de rescindir este Contrato en la etapa en que se encuentre, sin incurrir en obligación de ningún tipo.
+
+22.2. A los efectos de este contrato algunos conceptos de "fuerza mayor" se definen como la ocurrencia de actos de la naturaleza o humanos tales como guerra o conflicto internacional, insurrección rebelión, huelga, disturbios civiles, o sabotaje, o actos de la naturaleza tales como terremotos, avalanchas, huracanes, lluvias, inundaciones, epidemias, etc.
+
+22.3. La Concesionaria notificará al Gobierno cuando haya ocurrido un hecho de "fuerza mayor" y salvo que el Gobierno rechace dicha decisión dentro de los quince días siguientes a la recepción de la notificación del mismo, se entenderá que el Gobierno comparte la opinión de la Concesionaria en cuanto que haya ocurrido dicho hecho de "fuerza mayor". La Concesionaria notificará al Gobierno luego de cada período de sesenta días subsiguientes respecto a que el hecho de "fuerza mayor" continúe. La Concesionaria también está obligada a notificar al Gobierno cuando un hecho de "fuerza mayor" haya cesado. Si el Gobierno no notifica a la Concesionaria de cualquier objeción que pudiera tener en relación con el plazo antedicho, se tendrá por entendido por el Gobierno y la Concesionaria que el Gobierno ha prestado su aprobación de la notificación dada, y el hecho de "fuerza mayor" será agregado al final del plazo debido al cual hubiera ocurrido el hecho de "fuerza mayor" a fin de prorrogar por un plazo de sesenta días cada período durante los cuales haya persistido el hecho "fuerza mayor".
+
+ARTÍCULO 23
+
+OPERACIONES DE LA CONCESIONARIA
+
+23.1. En cumplimiento de sus obligaciones correspondientes el presente contrato, incluyendo las prácticas de explotación, la Concesionaria aplicará las prácticas comunes observadas internacionalmente en la industria minera.
+
+ARTÍCULO 24
+
+PROGRAMA DE FORMACIÓN
+
+24.1. La Concesionaria acuerda ofrecer un programa de formación por un término de cuatro años, apoyado en un presupuesto anual de por lo menos US$ 25.000 (Veinticinco Mil dólares de los Estados Unidos) por año, en beneficio del personal paraguayo designado por el Ministerio de Obras Públicas y Comunicaciones. El primer programa anual será sometido dentro de los ciento ochenta días posteriores al inicio de la etapa de Explotación. La Concesionaria someterá al presupuesto anual que especifique el programa de formación anual al Ministerio de Obras Públicas y Comunicaciones. Los presupuestos anuales de formación incluirán actividades educativas, presupuestadas por la Concesionaria y la proyección de costos y gastos.
+
+24.2. Si la Concesionaria diera por terminado este Contrato antes de completarse el programa de formación de cuatro años, la Concesionaria pagará la diferencia entre US$ 100,000 (Cien Mil dólares de los Estados Unidos) y el monto acumulado de cada presupuesto erogado para el Programa de Formación hasta la fecha de terminación de este Contrato; dicha diferencia será pagadera al Ministerio de Obras Públicas y Comunicaciones, mediante depósito en dólares americanos en la "Cuenta Minera" habilitada por el Ministerio de Obras Públicas y Comunicaciones en el Banco Central del Paraguay.
+
+ARTÍCULO 25
+
+EXPROPIACIÓN
+
+25.1. La Concesionaria podrá gestionar, por intermedio del Poder Ejecutivo ante el Congreso Nacional, la sanción de la ley pertinente para expropiar inmuebles de propiedad de particulares, en la medida necesaria para el completo desenvolvimiento de sus actividades y el pleno aprovechamiento de sus derechos.
+
+Se presume la necesidad de obras en los casos de apertura de galerías, perforaciones y anexos, instalaciones de ductos, campamentos, almacenes, depósitos, plantas refinadoras, transformadoras, industrias, vías de comunicación terrestre, marítimas o aéreas para transporte, terminales y puertos, y a tal efecto, declárase de utilidad pública la prospección, exploración, extracción y transformación de minerales.
+
+La solicitud se procesará únicamente si existiera necesidad justificada ante el Ministerio de Obras Públicas y Comunicaciones de construir tales obras e instalaciones proyectadas por la Concesionaria, la que correrá con todos los gastos correspondientes a las expropiaciones autorizadas por ley, quedando la concesionaria obligada a abonar al propietario del inmueble expropiado la previa y la justa indemnización prevista en el Artículo 109 de la Constitución Nacional, y los gastos que deriven de la misma.
+
+25.2. La Concesionaria pagará al propietario del suelo la indemnización correspondiente y los gastos que se deriven de esa expropiación.
+
+ARTÍCULO 26
+
+PROTECCIÓN
+
+El Gobierno dispondrá la protección por la Fuerza Pública para los sitios de minas, otras propiedades y los empleados de la Compañía y de sus subcontratistas en aquellos momentos en que medie razón justificable, cuando la Concesionaria lo solicite y durante período de contienda civil o desasosiego que pudieran poner en peligro la producción de las operaciones de la compañía y/o la seguridad de sus bienes y empleados.
+
+ARTÍCULO 27
+
+27.1. Los derechos y obligaciones del Gobierno y de la Concesionaria serán regidos por las estipulaciones de este Contrato y de la ley que apruebe el mismo, por las normas contenidas en la Ley de Minería, en el Código Civil, en el Código Procesal Civil, y en las leyes especiales, suplementados por los Principios Generales del Derecho reconocidos internacionalmente.
+
+27.2. Las leyes que en el futuro se promulguen, incluyendo las leyes que otorguen otras concesiones mineras, y las enmiendas a las actuales leyes y Códigos de la República del Paraguay, que contuvieran disposiciones más favorables a la Concesionaria o a la Industria Minera, serán de aplicación automática, en su totalidad, por la restante duración de este Contrato, y serán aplicables a todos los Artículos establecidos en este Contrato.
+
+27.3. Toda y cualquier diputa, controversia, reclamo o diferencia que surja entre el Gobierno y la Concesionaria relacionada a o en conexión con este Contrato, o con la existencia, validez, interpretación o significado, cumplimiento o incumplimiento, ejecución, efecto, infracción, duración o terminación de este Contrato que no pueda ser resuelta amigablemente por el Gobierno y la Concesionaria por medio de negociación oportuna y de buena fe, será sometida a los Tribunales de la República del Paraguay con sede en la ciudad de Asunción.
+
+ARTÍCULO 28
+
+NOTIFICACIÓN
+
+28.1. Todas las comunicaciones, notificaciones por escrito o entregas entre el Gobierno y la Concesionaria que fueran necesarias según las estipulaciones de este Contrato se considerarán debidamente dadas y recibidas cuando dichas comunicaciones por escrito, o entregas se realizan en persona o por escrito, o por telegrama dirigido a un ejecutivo o funcionario del Gobierno o de la Concesionaria en los siguientes domicilios respectivos:
+
+Minera Yamana Inc.Suc.Paraguay Ministerio de Obras
+
+calle bruselas 2019 Publicas y Comunicaciones
+
+Asunción - Paraguay Calle Oliva esquina Alberdi Asunción - Paraguay
+
+28.2 Cualquier cambio de domicilio entrará en vigencia entre el Gobierno y la Concesionaria, en el caso del Gobierno en el momento en que dicho cambio adquiere estado público y en el caso de la Concesionaria cuando la Concesionaria diera aviso por escrito de dicho cambio.
+
+En fe del acuerdo correspondiente, este Contrato se firma en cuatro ejemplares en la Ciudad de Asunción, Capital de la República del Paraguay, este día 19 de enero de 2000.
+
+Fdo.: Por el Gobierno de la República del Paraguay, Dr. José Alberto Planás, Ministro de Obras Públicas y Comunicaciones.
+
+Fdo.: Por el Gobierno de la República del Paraguay, Dr. Federico Zayas Chirife, Ministro de Hacienda.
+
+Fdo.: El Apoderado General de la Minera Yamana Inc., Ing. Delfor Aníbal Cadario.
+
+ANEXO A
+
+ÁREAS DE CONCESIÓN
+
+El área de la Concesión está delimitada de la siguiente manera:
+
+BLOQUE B BIS
+
+Punto A: E1200 o UTM 512000
+
+N5800 o UTM 7158000
+
+Punto B: E1600 o UTM 516000
+
+N5800 o UTM 7158000
+
+Punto C: E1600 o UTM 516000
+
+N5050 o UTM 7150500
+
+Punto D: E2300 o UTM 523000
+
+N5050 o UTM 7150500
+
+Punto E: E2300 o UTM 523000
+
+N3950 o UTM 7139500
+
+Punto F: E1200 o UTM 512000
+
+N3950 o UTM 7139500
+
+Total de 15.100 hectáreas.
+
+Puntos referidos según Cuadrícula Transversal Universal Mercator de la Carta Nacional San José, Escala 1:100.00, hoja 5569.
+
+BLOQUE B1
+
+Punto A: E6100 o UTM 461000
+
+N7400 o UTM 7174000
+
+Punto B: E8500 o UTM 485000
+
+N7400 o UTM 7174000
+
+Punto C: E8500 o UTM 485000
+
+N7000 o UTM 7170000
+
+Punto D: E0000 o UTM 500000
+
+N7000 o UTM 7170000
+
+Punto E: E0000 o UTM 500000
+
+N6200 o UTM 7162000
+
+Punto F: E8500 o UTM 485000
+
+N6200 o UTM 7162000
+
+Punto G: E8500 o UTM485000
+
+N6750 o UTM7167500
+
+Punto H: E6100 o UTM461000
+
+N6750 o UTM7167500
+
+Total de 27.600 hectáreas.
+
+Puntos referidos según Cuadrícula Transversal Universal Mercator de la Carta Nacional Paraguarí, Escala 1:100.00, hoja 5469.
+
+BLOQUE B2
+
+Punto A: E8000 o UTM 480000
+
+N5300 o UTM 7153000
+
+Punto B: E9000 o UTM 490000
+
+N5300 o UTM 7153000
+
+Punto C: E9000 o UTM 490000
+
+N4600 o UTM 7146000
+
+Punto D: E8000 o UTM 480000
+
+N4600 o UTM 7146000
+
+Total de 7.000 hectáreas.
+
+Puntos referidos según Cuadricula Transversal Universal Mercator de la Carta Nacional Paraguarí, Escala 1:100.00, hoja 5469.
+
+BLOQUE E
+
+Punto A: E8000 o UTM 478000
+
+N4000 o UTM 7144000
+
+Punto B: E8000 o UTM 488000
+
+N4000 o UTM 7144000
+
+Punto C: E8000 o UTM 488000
+
+N3500 o UTM 7133500
+
+Punto D: E8000 o UTM 478000
+
+N3500 o UTM 7133500
+
+Total de 10.500 hectáreas.
+
+Dentro de este bloque solicitado de 10.500 Hectáreas, se encuentran las 2.500 Hectáreas del Cerro Acahay (Area Silvestre Protegida por Decreto 13682/92) en la que las actividades de explotación son restringidas y sólo podrán ser permitidas, cuando sea de importancia vital para el país, con una autorización especial por escrito y en concordancia con las leyes nacionales vigentes en la materia, debiéndose realizar para el mismo estudios económicos de costo-beneficio de la actividad en relación a los costos beneficios del recurso natural en su estado original.
+
+Puntos referidos según Cuadrícula Transversal Universal Mercator de la Carta Nacional San José, Escala 1:100.00, hoja 5569.
+
+BLOQUE F
+
+Punto A: E4000 o UTM 494000
+
+N0000 o UTM 7130000
+
+Punto B: E2000 o UTM 512000
+
+N0000 o UTM 7130000
+
+Punto C: E2000 o UTM 512000
+
+N2000 o UTM 7162000
+
+Punto D: E4000 o UTM 494000
+
+N2000 o UTM 7162000
+
+Total de 57.600 hectáreas.
+
+A este bloque solicitado para la Concesión por la Ley debe extraerse la cantidad de 2.500 Hectáreas concedidas previamente por la Ley 894/96, en etapa próxima de Exploración, cuyas coordenadas son las siguientes:
+
+BLOQUE B - BAJO LEY DE CONCESIÓN 894/96
+
+Punto A: E4000 o UTM 504000
+
+N8500 o UTM 7158500
+
+Punto B: E9000 o UTM 509000
+
+N8500 o UTM 7158500
+
+Punto C: E9000 o UTM 509000
+
+N3500 o UTM 7153500
+
+Punto D: E4000 o UTM 504000
+
+N3500 o UTM 7153500
+
+Total de 2.500 hectáreas.
+
+Quedando en consecuencia un remanente para el Bloque F de 55.100 hectáreas.
+
+Puntos referidos según Cuadrícula Transversal Universal Mercator de la Carta Nacional San José, Escala 1:100.00, hoja 5569.
+
+BLOQUE G
+
+Punto A: E3500 o UTM 503500
+
+N0000 o UTM 7130000
+
+Punto B: E7500 o UTM 507500
+
+N0000 o UTM 7130000
+
+Punto C: E7500 o UTM 507500
+
+N5000 o UTM 7125000
+
+Punto D: E3500 o UTM 503500
+
+N5000 o UTM 7125000
+
+Total de 2.000 hectáreas.
+
+Superficie total de los bloques: 117.300. hectáreas."
+
+### Artículo 2°
+
+Comuníquese al Poder Ejecutivo.
+
+---
+
+*Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores el veintitrés de marzo del año dos mil y por la Honorable Cámara de Diputados, el ocho de junio del año dos mil, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional.-*
