@@ -255,15 +255,18 @@ El orden establecido en la numeración precedente no importa prelación.
 
 ### Artículo 34°
 
-De las vacancias. Producida una vacancia en la Corte Suprema de Justicia, su Presidente comunicará el hecho al Consejo, en el plazo perentorio de 3 (tres) días.
 
-Dentro de los 10 (diez) días de recibida la comunicación el Consejo publicará un edicto para que los candidatos se postulen para el cargo en cuestión dentro del plazo de 30 (treinta) días, a partir del día siguiente de la última publicación.
+De las vacancias. Producida una vacancia en la Corte Suprema de Justicia, su Presidente comunicará el hecho al Consejo, en el plazo perentorio de tres días.
 
-El edicto deberá publicarse por 5 (cinco) días consecutivos en dos periódicos de circulación nacional.
+Dentro de los cinco días de recibida la comunicación, el Consejo publicará un edicto para que los candidatos se postulen para el cargo en cuestión dentro de plazo de diez días, a partir del día siguiente de la última publicación.
+
+El edicto deberá publicarse por tres días consecutivos en dos periódicos de circulación nacional.
 
 El Consejo por mayoría absoluta podrá adoptar además otros medios para convocar a candidatos.
 
 Los mismos procedimientos se adoptarán para las vacancias en el Tribunal Superior de Justicia Electoral.
+
+> *Modificado por Ley N° 2349 (2004-01-07)*
 
 ### Artículo 35°
 
@@ -283,7 +286,10 @@ DE LA DESIGNACIÓN DE LOS MINISTROS DE LA CORTE SUPREMA DE JUSTICIA Y DE LOS MIE
 
 ### Artículo 38°
 
-El Consejo de la Magistratura propondrá a la Cámara de Senadores las ternas de candidatos para integrar la Corte Suprema de Justicia y el Tribunal Superior de Justicia Electoral. El Senado designará en el plazo previsto en esta Ley a los candidatos, los designará y remitirá su nómina al Poder Ejecutivo.
+
+El Consejo de la Magistratura propondrá a la Cámara de Senadores las ternas de candidatos para integrar la Corte Suprema de Justicia y el Tribunal Superior de Justicia Electoral, dentro del plazo de treinta días de vencidos los plazos establecidos en el Artículo 34 de esta Ley. El Senado designará en el plazo previsto en esta Ley a los candidatos y remitirá su nómina al Poder Ejecutivo.
+
+> *Modificado por Ley N° 2349 (2004-01-07)*
 
 ### Artículo 39°
 
