@@ -43,21 +43,30 @@ De la Financiación
 
 ### Artículo 5°
 
+
 Los recursos del Fondo serán los siguientes:
 
-a) el aporte mensual obligatorio del Afiliado del catorce por ciento sobre el monto de la dieta mensual;
+a) El aporte mensual obligatorio del afiliado del 18% (diez y ocho por ciento), sobre el monto de la dieta mensual;
 
-b) la amortización mensual obligatoria del Afiliado, resultante de la deuda por Reconocimiento de Servicios Anteriores;
+b) El aporte mensual del Estado del 5% (cinco por ciento), calculado sobre el monto total de las dietas parlamentarias;
 
-c) el aporte mensual obligatorio del Afiliado Voluntario del catorce por ciento sobre el monto de la dieta mensual referida en el inc. a) de este articulo, durante el tiempo que le falta aportar para obtener la clase de jubilación próxima inmediata que le corresponda;
+c) El importe del aumento de la dieta establecida en el Presupuesto General de la Nación correspondiente al primer mes;
 
-d) las rentas de las inversiones del capital disponible del Fondo;
+d) El importe del aumento en concepto de actualización de las jubilaciones y pensiones correspondiente al primer mes;
 
-e) el monto de las multas que se perciban de acuerdo con esta ley;
+e) La amortización mensual obligatoria del afiliado resultante de la deuda por reconocimiento de servicios anteriores;
 
-f) las donaciones y legados; y
+f) El aporte mensual obligatorio del afiliado voluntario del 18% (diez y ocho por ciento), sobre el monto de la dieta mensual referida en el inciso a) de este artículo, durante el tiempo que le falta aportar para obtener la clase de jubilación próxima inmediata que le corresponda;
 
-g) otros ingresos de cualquier naturaleza, no contemplados expresamente en los incisos anteriores.
+g) Las rentas de las inversiones del capital disponible del fondo;
+
+h) El monto de las multas que se perciben;
+
+i) Los legados, donaciones y otros aportes previstos en el Presupuesto General de la Nación; y,
+
+j) Otros ingresos de cualquier naturaleza no contemplados expresamente en los incisos anteriores
+
+> *Modificado por Ley N° 191 (1993-06-17)*
 
 ### Artículo 6°
 
