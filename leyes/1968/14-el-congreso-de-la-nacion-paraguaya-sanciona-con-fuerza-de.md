@@ -450,6 +450,7 @@ A los fines presupuestarios denomínase Entidades Descentralizadas a los entes p
 ### Artículo 71°
 
 
+
 Las Entidades Descentralizadas se clasificarán en la forma siguiente:
 
 Gobiernos Departamentales;
