@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/2343/texto
 short_title: "QUE ESTABLECE EL PAGO DE TASAS EN EL PODER JUDICIAL Y EL…"
+derogada: true
+derogada_por: Ley 669
+derogada_fecha: 1995-09-14
 ---
 
 # LEY Nº 284
@@ -123,3 +126,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Dada en la sala de sesiones del Congreso Nacional, a los veinticuatro días de setiembre del año un mil novecientos setenta y uno.*
+
+> *Derogada en su totalidad por Ley N° 669 (1995-09-14)*
