@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/10597/texto
 short_title: "QUE CONCEDE PENSIÓN VITALICIA A LOS EX-PRESIDENTES DE LA…"
+derogada: true
+derogada_por: Ley 1101
+derogada_fecha: 1997-08-18
 ---
 
 # LEY Nº 855
@@ -29,3 +32,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Dada en la Sala de Sesiones del Congreso Nacional, a los veinte días del mes de Agosto del año un mil novecientos ochenta y uno.*
+
+> *Derogada en su totalidad por Ley N° 1101 (1997-08-18)*
