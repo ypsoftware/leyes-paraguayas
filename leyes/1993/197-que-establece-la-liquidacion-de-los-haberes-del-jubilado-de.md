@@ -19,7 +19,10 @@ Los haberes jubilatorios de los Funcionarios de la Administración Central, con 
 
 ### Artículo 2°
 
-Los haberes jubilatorios de los Funcionarios de la Administración Central, que por cualquier motivo fueron fijados en porcentajes menores al 93% (noventa y tres por ciento), para las jubilaciones ordinarias, serán actualizados por el Ministerio de Hacienda, a petición de parte.
+
+Los haberes jubilatorios de los funcionarios de la Administración Central, incluyendo los docentes, que por cualquier motivo fueron fijados en porcentajes menores al 93% (noventa y tres por ciento), para las jubilaciones ordinarias, serán actualizados por el Ministerio de Hacienda, de oficio desde el primero de enero de 1998
+
+> *Modificado por Ley N° 1138 (1997-10-10)*
 
 ### Artículo 3°
 
