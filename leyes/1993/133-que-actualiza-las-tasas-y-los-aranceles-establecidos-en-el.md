@@ -15,7 +15,70 @@ short_title: "QUE ACTUALIZA LAS TASAS Y LOS ARANCELES ESTABLECIDOS EN EL…"
 
 ### Artículo 1°
 
-Modifícase el Decreto Nº 46, "Del Arancel Consular", del 11 de febrero de 1972, estableciendo un aumento del 50% (Cincuenta por Ciento) de todas las tasas y los aranceles en él contemplados, con la sola excepción de los dispuestos en materia de pasaportes consulares.
+
+Quedarán sujetos al pago de una tasa, que será percibida en guaraníes o su equivalente de la moneda del país en donde se expide el documento, por cada actuación del Departamento de Legalizaciones del Ministerio de Relaciones Exteriores, sobre los documentos públicos y privados destinados a producir efectos jurídicos fuera del territorio de la República, de acuerdo con la siguiente escala de salarios mínimos diarios vigentes para actividades diversas no especificadas".
+
+DOCUMENTOS NACIONALES
+
+Certificado de nacimiento : medio salario mínimo diario.
+
+Certificado de defunción : un salario mínimo diario.
+
+Certificado de matrimonio : medio salario mínimo diario.
+
+Certificado de antecedentes : medio salario mínimo diario.
+
+Permiso de menor : medio salario mínimo diario.
+
+Poderes : un salario mínimo diario.
+
+Permiso para conducir : un salario mínimo diario.
+
+Legalización de pasaportes policiales : un salario mínimo.
+
+Legalización de documentos comerciales : tres salarios mínimos.
+
+Certificado fitosanitario : un salario mínimo.
+
+Sentencia : tres salarios mínimos.
+
+Exhorto : tres salarios mínimos.
+
+Varios : un salario mínimo.
+
+DOCUMENTOS EXTRANJEROS
+
+Todo documento redactado o
+
+procesado en Consulados
+
+Nacionales : tres salarios mínimos diarios.
+
+Documentos relacionados a estudios : dos salarios mínimos diarios.
+
+Certificado de nacimiento : tres salarios mínimos diarios.
+
+Certificado de defunción : tres salarios mínimos diarios.
+
+Certificado de matrimonio : tres salarios mínimos diarios.
+
+Certificado de antecedentes : tres salarios mínimos diarios.
+
+Certificado de vida y residencia : tres salarios mínimos diarios.
+
+Cualquier documento relativo a adopción : diez salarios mínimos diarios.
+
+Constitución de sociedades : cinco salarios mínimos diarios.
+
+Poderes : cinco salarios mínimos diarios.
+
+Contratos : cinco salarios mínimos diarios.
+
+Todo documento referente a licitaciones : cinco salarios mínimos diarios.
+
+Varios : cinco salarios mínimos diarios.
+
+> *Modificado por Ley N° 624 (1995-07-20)*
 
 ### Artículo 2°
 
