@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/3506/texto
 short_title: "QUE ESTABLECE EL RÉGIMEN TRIBUTARIO PARA LAS…"
+derogada: true
+derogada_por: Ley 1352
+derogada_fecha: 1998-10-21
 ---
 
 # LEY Nº 620
@@ -1081,3 +1084,5 @@ Deróganse las Leyes de impuestos Municipales del año 1909 N° 499 del 20 de di
 ### Artículo 139°
 
 Comuníquese al Poder Ejecutivo.
+
+> *Derogada en su totalidad por Ley N° 1352 (1998-10-21)*
