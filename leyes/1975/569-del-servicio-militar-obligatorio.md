@@ -321,7 +321,10 @@ El que admita en empleos públicos o privados a los infractores de esta ley y a 
 
 ### Artículo 48°
 
-Los Escribanos Públicos y los Jueces de Paz no podrán autorizar ningún acto jurídico sin tener a la vista la Libreta del Servicio Militar presentado por el interesado, en el cual conste haber dado cumplimiento a las disposiciones de la ley del Servicio Militar Obligatorio. Igual formalidad exigirán las Municipalidades para conceder patentes. Los Escribanos o jueces harán constar en los actos formalizados en sus respectivos registros, el cumplimiento de este requisito y por cada contravención, éstos sufrirán una multa del equivalente a la suma de cuatro salarios.
+
+> **Derogado.**
+
+> *Derogado por Ley N° 2440 (2004-08-13)*
 
 ### Artículo 49°
 
