@@ -1,0 +1,60 @@
+---
+bacn_id: 1718
+numero: "1637"
+titulo: "QUE APRUEBA EL CONTRATO DE PRESTAMO SUSCRITO ENTRE LA REPUBLICA DEL PARAGUAY Y EL BANCO INTERAMERICANO DE DESARROLLO (BID) POR UN MONTO DE U$S 40.000.000 (DOLARES DE LOS ESTADOS UNIDOS DE AMERICA CUARENTA MILLONES), DESTINADO AL FINANCIAMIENTO DEL PROGRAMA DE FORTALECIMIENTO DE LA REFORMA EDUCATIVA EN LA EDUCACION ESCOLAR BASICA, CUYA EJECUCION ESTARA A CARGO DEL MINISTERIO DE EDUCACION Y CULTURA (MEC)"
+fecha_promulgacion: 2000-12-27
+fecha_publicacion: 2000-12-28
+fuente: bacn.gov.py
+status: in_force
+source: https://www.bacn.gov.py/leyes-paraguayas/1718/texto
+short_title: "QUE APRUEBA EL CONTRATO DE PRESTAMO SUSCRITO ENTRE LA…"
+---
+
+# LEY Nº 1637
+## QUE APRUEBA EL CONTRATO DE PRESTAMO SUSCRITO ENTRE LA REPUBLICA DEL PARAGUAY Y EL BANCO INTERAMERICANO DE DESARROLLO (BID) POR UN MONTO DE U$S 40.000.000 (DOLARES DE LOS ESTADOS UNIDOS DE AMERICA CUARENTA MILLONES), DESTINADO AL FINANCIAMIENTO DEL PROGRAMA DE FORTALECIMIENTO DE LA REFORMA EDUCATIVA EN LA EDUCACION ESCOLAR BASICA, CUYA EJECUCION ESTARA A CARGO DEL MINISTERIO DE EDUCACION Y CULTURA (MEC)
+
+“Resolución DE- 52/00CONTRATO DE PRESTAMO N°. 1254/OC.PRentre laREPUBLICA DEL PARAGUAY y elBANCO INTERAMERICANO DE DESARROLLO
+
+Programa de Fortalecimiento de la Reforma Educativa en la Educación Escolar Básica3 de agosto de 2000
+
+CONTRATO DE PRESTAMOESTIPULACIONES ESPECIALES INTRODUCCION
+
+CAPITULO ICosto, Financiamiento y Recursos Adicionales
+
+CAPITULO IIAmortización, Intereses, Inspección y Vigilancia y Comisión de Crédito
+
+CAPITULO IIIDesembolsos
+
+CAPITULO IVEjecución del Proyecto
+
+CAPITULO VRegistros, Inspecciones e Informes
+
+CAPITULO VIDisposiciones Varias
+
+CAPITULO VIIArbitraje
+
+SEGUNDA PARTE NORMAS GENERALES CAPITULO IAplicación de las Normas Generales
+
+CAPITULO IIDefiniciones
+
+CAPITULO IIIAmortización, Intereses y Comisión de Crédito
+
+CAPITULO IVNormas Relativas a Desembolsos
+
+CAPITULO VSuspensión de Desembolsos y Vencimiento Anticipado
+
+CAPITULO VIEjecución del Proyecto
+
+CAPITULO VIIRegistros, Inspecciones e Informes
+
+CAPITULO VIIIDisposición sobre Gravámenes y Exenciones
+
+CAPITULO IXProcedimiento Arbitral
+
+ANEXO APrograma de Fortalecimiento de la Reforma Educativaen la Educación Escolar Básica
+
+ANEXO BPROCEDIMIENTO DE LICITACIONESPrograma de Fortalecimiento de la Reforma Educativa en la Educación Escolar Básica
+
+ANEXO CPROCEDIMIENTO PARA LA SELECCION Y CONTRATACIONDE FIRMAS CONSULTORAS O EXPERTOS INDIVIDUALES
+
+Programas de Fortalecimiento de la Reforma Educativa en la Educación Escolar Básica
