@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/4135/texto
 short_title: "DE LOS BANCOS OFICIALES"
+derogada: true
+derogada_por: Ley 2094
+derogada_fecha: 2003-04-21
 ---
 
 # LEY Nº 861
@@ -1924,3 +1927,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobada por la Honorable Cámara de Senadores el primero de abril del año un mil novecientos noventa y seis y por la Honorable Cámara de Diputados, sancionándose la Ley, el nueve de mayo del año un mil novecientos noventa y seis.*
+
+> *Derogada en su totalidad por Ley N° 2094 (2003-04-21)*
