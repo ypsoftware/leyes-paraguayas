@@ -15,11 +15,18 @@ short_title: "QUE AMPLIA EL ARTICULO 106 DE LA LEY Nº 903/96, “QUE…"
 
 ### Artículo 1°
 
-Ampliáse el artículo 106 de la Ley Nº 903/96 "QUE MODIFICA Y DEROGA ALGUNOS ARTICULOS DEL LIBRO I, TITULO V, CAPITULO III DE LA LEY Nº 879/81, CODIGO DE ORGANIZACION JUDICIAL", que queda redactado de la siguiente forma:
 
-"Art. 106.- El Notario de registro, para ausentarse del asiento de su notaría por más de diez días, deberá contar con la autorización expresa del Tribunal de Apelaciones en lo Civil y Comercial en la circunscripción judicial respectiva Se considerará concedida la autorización si el Tribunal no se pronuncia en el plazo de cuarenta y ocho horas.
+En caso de que un notario de registro sea nombrado para ejercer un cargo público, deberá pedir permiso al Tribunal de Apelaciones en lo Civil y Comercial de la Circunscripción Judicial respectiva, y proponer la designación de un notario suplente a la Corte Suprema de justicia.
 
-Cuando el Notario de Registro deba ausentarse por más de diez días y hasta un máximo de un año, deberá proponer a la Corte Suprema de Justicia la designación de un Notario Suplente. En caso de que un Notario de Registro sea nombrado o elegido para ejercer un cargo público, deberá proponer la designación de un Notario Suplente de conformidad con lo establecido en los párrafos anteriores. La autorización al suplente será concedida por el tiempo que dure el mandato o nombramiento".
+Se considerará concedida la autorización, si el Tribunal no se pronuncia en el término de cuarenta y ocho horas.
+
+Igual procedimiento deberá seguirse para ausentarse del asiento de la notaría por más de diez días.
+
+La autorización al suplente será concedida por el tiempo que dura el nombramiento o la ausencia.
+
+Para los casos en que el notario fuese elegido por elección popular para ejercer un cargo público no habrá incompatibilidad con el ejercicio de la profesión, siempre que dicho ejercicio no impida la atención normal del registro
+
+> *Modificado por Ley N° 2124 (2003-06-11)*
 
 ### Artículo 2°
 
