@@ -57,7 +57,10 @@ DEL CAPITAL
 
 ### Artículo 6°
 
-El Capital autorizado del Banco será de Cinco mil millones de guaraníes, a ser integrado por aportes de los trabajadores, del Estado y otras personas físicas o jurídicas. La participación del Estado y de las empresas o entidades mencionadas en el artículo 11, será del diez por ciento, como mínimo del capital autorizado y el máximo, hasta el treinta por ciento, mediante aportes contemplados en el Presupuesto General de la nación, según corresponda y de las utilidades que anualmente pueda corresponder al Estado.
+
+El capital autorizado del Banco será de G. 150.000.000.000 (Ciento cincuenta mil millones de guaraníes), a ser integrado con aportes de los trabajadores, del Estado, u otras personas físicas o jurídicas. La participación del Estado y de las empresas o entidades mencionadas en el artículo 11 podrá ser de hasta el 30 % (treinta por ciento) del Capital integrado, mediante aportes contemplados en el Presupuesto General de la Nación, según corresponda y las utilidades que anualmente puedan corresponder al Estado
+
+> *Modificado por Ley N° 711 (1995-10-09)*
 
 ### Artículo 7°
 
