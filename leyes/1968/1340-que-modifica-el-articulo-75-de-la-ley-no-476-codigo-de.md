@@ -14,9 +14,12 @@ short_title: "QUE MODIFICA EL ARTICULO 75 DE LA LEY Nº 476 “CÓDIGO DE…"
 
 ### Artículo 1°
 
-Modificase el Articulo 75 de la Ley Nº 476 “Código de Navegación Fluvial y Marítima”, el cual queda redactado así:
 
-“El practicaje en aguas jurisdiccionales de la república es obligatorio para todas las embarcaciones con propulsión propia, de más de 220 toneladas de arqueo total. Así mismo, las embarcaciones con propia menores de 250 toneladas de arqueo total que remolques en convoy chatas gabarras y otros, embarcarán el o los prácticos correspondientes para su navegación, cuando la suma de los tonelajes de arqueo total de los componentes del convoy sobrepasen las 440 toneladas de arqueo total”.
+Decláranse de interés social y exprópianse a favor del Instituto de Bienestar Rural (IBR), para su posterior adjudicación a los integrantes de la Comisión Vecinal Alto Verá, la Finca No. 5746, con una superficie de 500 has. (quinientas hectáreas), del Distrito de Jesús y Trinidad y la Finca No. 439, con una superficie de 877 has. (ochocientas setenta y siete hectáreas), del Distrito de Vicente Antonio Matiauda, del Departamento Itapúa, cuyos linderos son:
+
+AL NORTE: derechos de Natan Rossin, Yohanes Munillo y Mario Mathia; AL SUR: derechos de Luis Escobar Monti; AL ESTE: derechos de Katupyry S.A.; y, AL OESTE: fincas Ns. 5237, 5257 y 3080.
+
+> *Modificado por Ley N° 1608 (2000-10-31)*
 
 ### Artículo 2°
 
