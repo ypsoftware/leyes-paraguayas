@@ -84,7 +84,10 @@ De la Intercomunicación Informática. Todos los datos que integran la matricula
 
 ### Artículo 13°
 
-De la obligatoriedad de la matriculación. Los propietarios de automotores legalmente introducidos en el país, cuyos títulos se encuentran inscriptos en el Registro de Automotores, dependiente de la Dirección General de los Registros Públicos, a la fecha de la promulgación de esta Ley, deberán realizar la matriculación y cedulación en un plazo máximo de seis meses, a contar desde la fecha de reglamentación de esta Ley.
+
+De la obligación de la matriculación. Los propietarios de automotores legalmente introducidos en el país cuyos títulos se encuentran inscriptos en el Registro de Automotores, dependiente de la Dirección General de los Registros Públicos, a la fecha de promulgación de esta ley, deberán realizar la matriculación y cedulación en un plazo máximo de doce meses, a contar desde la habilitación del Registro de Automotores
+
+> *Modificado por Ley N° 1375 (1998-12-31)*
 
 ### Artículo 14°
 
