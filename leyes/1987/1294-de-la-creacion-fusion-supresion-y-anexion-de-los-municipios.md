@@ -229,13 +229,16 @@ También podrán ser electos los extranjeros con una residencia mínima de siete
 
 ### Artículo 26°
 
+
 Las Juntas Municipales se compondrán:
 
-a) En la Municipalidad de Asunción, de veinticuatro miembros titulares y diez y ocho suplentes;
+a) en la Municipalidad de Asunción, de veinticuatro miembros titulares y veinticuatro suplentes;
 
-b) en las Municipalidades de las capitales de las capitales departamentales y en las que se hallen comprendidas en los Grupos Primero y Segundo establecidos en el artículo 10 de esta ley, de doce miembros titulares y seis suplentes; y,
+b) en las municipalidades de las capitales departamentales y en las que se hallan comprendidas en los grupos primero y segundo establecidos en el Artículo 10 de esta Ley, de doce miembros titulares y doce suplentes; y,
 
-c) en las Municipalidades que se hallan comprendidas en los grupos Tercero y Cuarto de nueve miembros titulares y seis suplentes.
+c) en las municipalidades que se hallan comprendidas en los grupos tercero y cuarto, de nueve miembros titulares y nueve suplentes.
+
+> *Modificado por Ley N° 2454 (2004-09-07)*
 
 ### Artículo 27°
 
