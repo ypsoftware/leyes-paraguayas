@@ -18,13 +18,17 @@ Las entidades de la Administración Central, Entes Descentralizados y Centros Mu
 
 ### Artículo 2°
 
-Las entidades públicas del país que realizan prestación de servicios de salud, remitirán al Ministerio de Salud Pública y Bienestar Social, mensualmente, la nómina completa del personal médico y paramédico que cumplen funciones en ella, según su especialidad.
+
+Las entidades públicas que realizan prestación de servicios de salud o tengan en su anexo a personal de blanco, remitirán dos veces al año al Ministerio de Hacienda y al Congreso Nacional la nómina completa del personal de blanco afectado al servicio de la salud que cumple funciones en ella, con especificación de sus respectivos cargos, tareas específicas, retribución, institución donde presta servicio, días y horas de trabajo, y el monto presupuestado como remuneración del mismo
+
+> *Modificado por Ley N° 1937 (2002-06-26)*
 
 ### Artículo 3°
 
-En los casos en que el personal médico y paramédico tengan que prestar sus servicios en distintos centros de atención médica en días y horas diferenciados, recibirán por dichos servicios una sola remuneración, acorde con los servicios realizados.
 
-La suma de las remuneraciones no implica modificación de la posición que ocupa en la escala de categorías de cada una de las instituciones.
+En los casos en que el personal de blanco afectado al servicio de la salud tenga que realizar sus tareas en distintos centros de atención médica en días y horas diferenciados, recibirá por ellas una sola remuneración integrada por pagos parciales que efectuarán las diferentes instituciones en que desenvuelva su actividad, por los montos previstos en sus respectivos presupuestos. La remuneración integrada de esa manera no implicará modificación de la categoría y antigüedad que dicho personal ostenta
+
+> *Modificado por Ley N° 1937 (2002-06-26)*
 
 ### Artículo 4°
 
