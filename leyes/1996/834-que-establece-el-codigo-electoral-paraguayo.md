@@ -26,7 +26,10 @@ El sufragio es un derecho, deber y función pública que habilita al elector a p
 
 ### Artículo 2°
 
-Son electores los ciudadanos paraguayos radicados en el territorio nacional y los extranjeros con radicación definitiva que hayan cumplido diez y ocho años de edad, que reúnan los requisitos exigidos por la ley y que estén inscriptos en el Registro Cívico Permanente.
+
+Las autoridades municipales electas en los comicios de noviembre del año 2001, durarán cinco años en sus mandatos
+
+> *Modificado por Ley N° 2450 (2004-08-27)*
 
 ### Artículo 3°
 
