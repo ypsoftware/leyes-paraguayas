@@ -1,0 +1,14 @@
+---
+bacn_id: 1719
+numero: "1638"
+titulo: "QUE RECONOCE A LA ESCUELA NACIONAL DE BELLAS ARTES COMO INSTITUTO SUPERIOR DE EDUCACION ARTISTICA"
+fecha_promulgacion: 2000-12-20
+fecha_publicacion: 2000-12-22
+fuente: bacn.gov.py
+status: in_force
+source: https://www.bacn.gov.py/leyes-paraguayas/1719/texto
+short_title: "QUE RECONOCE A LA ESCUELA NACIONAL DE BELLAS ARTES COMO…"
+---
+
+# LEY Nº 1638
+## QUE RECONOCE A LA ESCUELA NACIONAL DE BELLAS ARTES COMO INSTITUTO SUPERIOR DE EDUCACION ARTISTICA
