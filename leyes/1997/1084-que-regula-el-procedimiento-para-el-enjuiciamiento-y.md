@@ -83,7 +83,10 @@ En los casos de renuncias, inhabilidad, vacancia o muerte de cualquiera de los m
 
 ### Artículo 10°
 
-La inhabilidad, excusación o recusación de cualquiera de los miembros del Jurado será considerada y resuelta exclusivamente por este órgano. La renuncia será presentada ante el órgano designante y será éste el único competente para considerarla. Cada parte podrá recusar a no más de cuatro miembros del Jurado durante la tramitación del enjuiciamiento.
+
+La inhabilidad, excusación o recusación de cualquiera de los miembros del Jurado será considerada y resuelta exclusivamente por este órgano. La renuncia será presentada ante el órgano designante y será éste el único competente para considerarla. Cada parte podrá recusar a no más de tres miembros del Jurado durante la tramitación del enjuiciamiento
+
+> *Modificado por Ley N° 1752 (2001-08-21)*
 
 ### Artículo 11°
 
@@ -105,47 +108,18 @@ Sin perjuicio de lo establecido por el Artículo 255 de la Constitución Naciona
 
 ### Artículo 14°
 
+
 Constituye mal desempeño de funciones que autoriza la remoción de magistrados judiciales, agentes fiscales, procuradores fiscales y jueces de paz:
 
-a) no observar las incompatibilidades previstas en el Artículo 254 de la Constitución Nacional, o incumplir lo establecido en los Artículos 104 y 136 de la misma;
+g) mostrar manifiesta parcialidad o ignorancia de las Leyes en juicios, revelada por actos reiterados.
 
-b) incumplir en forma reiterada y grave las obligaciones previstas en la Constitución Nacional, Códigos Procesales y otras leyes referidas al ejercicio de sus funciones;
+El Jurado podrá prescindir del requisito de la reiteración para proceder a la remoción, cuando la parcialidad o ignorancia de la Ley sea grave y notoria;
 
-c) no conservar la independencia personal en el ejercicio de sus funciones y someterse, sin que ley alguna les obligue, a órdenes e indicaciones de magistrados de jerarquía superior o de funcionarios de otros poderes u órganos del Estado;
+u) inhibirse de entender en casos de su competencia, sin causa debidamente justificada, entendida como tal la inhibición que busque evadir la responsabilidad de entender en los juicios que le correspondiesen y, en consecuencia, hubiese sido rechazada por el órgano de alzada o cuando la causal alegada haya sido la de decoro y delicadeza, sin que ella se funde en hechos o situaciones concretas que la motiven y se hayan expresado en la resolución respectiva.
 
-d) dictar tres sentencias definitivas que fueran declaradas inconstitucionales en el lapso de un año judicial. El Jurado evaluará los antecedentes de cada caso;
+El Jurado podrá prescindir del requisito de la impugnación para proceder a la remoción cuando, a criterio del mismo, los fundamentos de la causal de decoro y delicadeza sean notoriamente insuficientes
 
-e) no dictar sentencia definitiva dentro del plazo que el superior le hubiese fijado en el incidente de queja por retardo de justicia en por lo menos tres casos en el lapso de un año judicial. Si se trata de magistrados integrantes de órganos colegiados, sólo se eximirán de responsabilidad los que acrediten haber realizado las gestiones a su alcance para que el órgano dicte sentencia y las haya comunicado a la Corte Suprema de Justicia;
-
-f) haber admitido el Tribunal de alzada cinco quejas por retardo de justicia durante el año judicial;
-
-g) mostrar manifiesta parcialidad o ignorancia de las leyes en juicios, revelada por actos reiterados;
-
-h) cometer actos u omisiones que constituyan inmoralidad en su vida pública o privada y sean lesivos a su investidura;
-
-i) cometer actos de desacato contra la Corte Suprema de Justicia, cuando ésta actúe en ejercicio de sus funciones de superintendencia;
-
-j) frecuentar y participar reiteradamente en juegos de azar en lugares públicos;
-
-k) delegar la elaboración intelectual de sentencias, resoluciones o dictámenes, o encomendar la redacción material de ellos a personas u otros funcionarios extraños a la magistratura, salvo las providencias de mero trámite;
-
-l) ejercer el comercio, la industria o cualquiera otra actividad profesional o cargos oficiales o privados, o actividad política en partidos o movimientos políticos;
-
-m) participar en manifestaciones públicas cuando tales actos pudieran comprometer seria y gravemente su independencia o imparcialidad, como también el uso de distintivos e insignias partidarias;
-
-n) proporcionar información o formular declaraciones o comentarios a la prensa o a terceros, sobre los juicios a su cargo, cuando ellos puedan perturbar su tramitación o afectar el honor, la reputación o la presunción de inocencia establecida en la Constitución Nacional; o mantener polémicas sobre juicios en trámite;
-
-o) faltar reiteradamente al despacho o abandonarlo sin causa justificada en los días y horas establecidos por la Corte Suprema de Justicia;
-
-p) recibir dádivas o aceptar promesas u otros beneficios, directa o indirectamente, de las personas que de cualquier manera tengan o puedan tener intervención o interés en los juicios a su cargo;
-
-q) permitir o tolerar reiteradamente a sus dependientes o subordinados, sin adoptar los recaudos pertinentes, que infrinjan leyes, reglamentos, acordadas u órdenes en el desempeño de sus funciones;
-
-r) abstenerse de su excusación en un pleito a sabiendas de que se halla comprendido en alguna de las causales previstas por la ley, si de ello resulte grave perjuicio o si dicha actitud menoscabe ostensiblemente la investidura del magistrado;
-
-s) contraer obligaciones pecuniarias con sus subalternos o con litigantes o letrados que tengan juicio pendiente en que intervenga; y,
-
-t) estar concursado civilmente, haber sido declarada su quiebra o, como consecuencia de una sentencia definitiva, decretada su inhibición general de vender y gravar bienes.
+> *Modificado por Ley N° 1752 (2001-08-21)*
 
 ### Artículo 15°
 
@@ -153,9 +127,12 @@ Será también causal de remoción la incapacidad física o mental sobreviniente
 
 ### Artículo 16°
 
-El juicio será iniciado ante el Jurado de Enjuiciamiento de Magistrados por acusación del litigante o del profesional afectado, quienes podrán hacerlo personalmente o mediante mandatario con poder especial; por acusación de la Corte Suprema de Justicia, del Ministerio de Justicia y Trabajo, del Ministerio Público, de la Cámara de Senadores, de la Cámara de Diputados y del Consejo de la Magistratura y de oficio por el propio Jurado.
 
-Las personas y entidades citadas podrán limitarse a formalizar una denuncia ante la Fiscalía General del Estado, la cual, de considerarlo procedente, formulará la acusación correspondiente.
+El juicio será iniciado ante el Jurado de Enjuiciamiento de Magistrados por acusación del litigante o del profesional afectado, quien podrá hacerlo personalmente o mediante mandatario con poder especial; por acusación de la Corte Suprema de Justicia, del Ministerio Público, de la Cámara de Senadores, de la Cámara de Diputados, del Consejo de la Magistratura y de oficio por el propio Jurado. El Jurado podrá disponer la información sumaria previa sobre los hechos denunciados o imputados.
+
+Las personas y entidades citadas podrán limitarse a formalizar una denuncia ante la Fiscalía General del Estado, la cual, de considerarlo procedente, formulará la acusación correspondiente
+
+> *Modificado por Ley N° 1752 (2001-08-21)*
 
 ### Artículo 17°
 
@@ -273,9 +250,10 @@ Si no fuere posible recibir todas las pruebas en el acto de la audiencia, el Pre
 
 ### Artículo 30°
 
-Inmediatamente después de substanciada la prueba, las partes producirán oralmente su alegato en la misma audiencia de vista de la causa. Ese alegato oral podrá ser substituido por uno escrito que será presentado dentro de los cinco días de agregado al expediente el acta de la audiencia.
 
-Producidos los alegatos o vencido el término para su presentación, el Presidente del Jurado llamará a autos para sentencia.
+Inmediatamente después de substanciada la prueba, las partes producirán oralmente su alegato en la misma audiencia de vista de la causa. Ese alegato oral podrá ser sustituido por uno escrito que será presentado dentro de los cinco días posteriores a la notificación de la providencia por la cual se ordena la agregación del acta de trascripción de la audiencia de substanciación
+
+> *Modificado por Ley N° 1752 (2001-08-21)*
 
 ### Artículo 31°
 
@@ -305,7 +283,10 @@ Si la acusación fuera desestimada, el Jurado podrá, a petición de parte, disp
 
 ### Artículo 36°
 
-El enjuiciamiento de los Jueces de Paz será de carácter sumario. El Jurado, después de oírle sobre los hechos, ordenará una información sumarísima, para luego dictar sentencia.
+
+El enjuiciamiento de los Jueces de Paz será de carácter sumario. El Jurado después de oír al enjuiciado sobre los hechos imputados y de practicadas las actuaciones que considere necesarias, dictará sentencia definitiva
+
+> *Modificado por Ley N° 1752 (2001-08-21)*
 
 ### Artículo 37°
 
