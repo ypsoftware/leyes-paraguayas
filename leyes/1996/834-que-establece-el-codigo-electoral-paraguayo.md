@@ -220,53 +220,10 @@ ESTATUTOS
 
 ### Artículo 32°
 
-La carta orgánica o estatuto del partido político establecerá las normas a las cuales deberá ajustarse su organización y funcionamiento. Es la ley fundamental del partido político y deberá contener cuando menos las siguientes cuestiones:
 
-a) la denominación, siglas, colores, lemas, símbolos y distintivos atendiendo a las prescripciones de la presente ley;
+inciso e) La duración del mandato de las autoridades partidarias deberá ser de dos años y medio o cinco años. La elección de las autoridades de los órganos de dirección nacional, departamental, o distrital, deberá realizarse por el voto directo, igual y secreto de todos sus afiliados
 
-b) la expresión de sus fines, en concordancia con sus bases ideológicas;
-
-c) la determinación de los cargos y órganos ejecutivos, deliberativos y disciplinarios que ejercerán el gobierno y administración del partido; y sus respectivas competencias;
-
-d) la declaración expresa de que la Asamblea General, Convención o Congreso es el órgano supremo de la asociación política, y que de ella participarán los compromisarios, convencionales o delegados electos por el voto directo, secreto e igual de todos los afiliados agrupados en los distritos electorales o unidades de base del respectivo partido político, en la proporción que determinen sus estatutos;
-
-e) el tiempo y la forma de la elección de las autoridades de los órganos de dirección nacional del partido político, tales como directorio, juntas, comisiones o comité central, las que deberán realizarse por el voto directo, igual y secreto de todos sus afiliados. Asimismo, toda directiva de organismos de base tales como: seccionales, comité, o cualquier denominación que tuvieren deberá ser electa mediante el voto directo, igual y secreto de todos los afiliados vinculados a dicho organismo;
-
-f) la adopción del sistema de representación proporcional establecido en este Código para la distribución de escaños que garantice la participación de las minorías internas en el gobierno partidario y en los cargos electivos;
-
-g) las previsiones que garanticen la existencia y el funcionamiento de las corrientes o movimientos Internos;
-
-h) la garantía de igualdad de todos sus afiliados para elegir y ser elegidos en cargos partidarios o candidaturas propuestas por el partido político;
-
-i) el reconocimiento del derecho de sus afiliados a presentar iniciativas, manifestar su opinión, expresar sus quejas ante los organismos pertinentes, ser informados de sus actividades y participar de las mismas;
-
-j) la participación y control de los afiliados de la administración y fiscalización del patrimonio y contabilidad del partido político a través de los organismos pertinentes, conforme a los estatutos asegurándose la adecuada publicidad interna;
-
-k) la habilitación y actualización permanente del Registro de afiliados y las previsiones para que los padrones sean entregados a los movimientos internos por lo menos treinta días antes de las elecciones;
-
-l) las pautas para la determinación de los aportes económicos que deben hacer sus afiliados para sufragar los gastos de funcionamiento. Los aportes económicos obligatorios para quienes ejerzan cargos electivos no podrán exceder el cinco por ciento de la remuneración del cargo;
-
-m) las normas de conducta interna, las sanciones para quienes las contravengan y el órgano que las aplique. Las sanciones sólo serán impuestas con observancia de las garantías del debido proceso;
-
-n) las reglas para la reelegibilidad en los cargos partidarios, asegurando la alternancia en los mismos;
-
-o) las previsiones para la educación cívica de sus afiliados;
-
-p) las reglas para la proclamación de candidaturas del partido político para cargos electivos y para su sustitución en casos de impedimentos sobrevinientes;
-
-q) los mecanismos de elaboración y aprobación de la plataforma electoral;
-
-r) los mecanismos adecuados para la promoción de la mujer a cargos electivos en un porcentaje no inferior al veinte por ciento y el nombramiento de una proporción significativa de ellas en los cargos públicos de decisión.
-
-A los efectos de garantizar la participación de la mujer en los cuerpos colegiados a elegirse, su postulación interna como candidatas deberá darse a razón de una candidata mujer por cada cinco lugares en las listas, de suerte que este estamento podrá figurar en cualquier lugar pero a razón de una candidata por cada cinco cargos a elegir. Cada partido, movimiento o alianza propiciador de listas queda en libertad de fijar la precedencia.
-
-Los partidos políticos, movimientos o alianzas, que no cumplan en las postulaciones de sus elecciones internas con éstas disposiciones, serán sancionados con la no inscripción de sus listas en los Tribunales electorales respectivos.
-
-s) el quórum legal para el funcionamiento de los órganos deliberantes;
-
-t) el procedimiento para la modificación de sus estatutos; y,
-
-u) el procedimiento para la extinción o fusión del partido político y la mención del destino que en tales casos deberá darse a sus bienes.
+> *Modificado por Ley N° 1830 (2001-11-16)*
 
 ### Artículo 33°
 
@@ -1122,19 +1079,37 @@ CONVOCATORIA
 
 ### Artículo 153°
 
-Las elecciones para llenar cargos de elección popular serán convocadas por el Tribunal Superior de Justicia Electoral con seis meses como mínimo de antelación a la fecha de los comicios. La convocatoria debe expresar:
 
-a) fecha de la elección;
+Las elecciones nacionales y municipales serán convocadas por el Tribunal Superior de Justicia Electoral, con por lo menos seis meses de antelación a la fecha de los comicios. La resolución que convoque a elecciones deberá ser fundada y comunicada a los tres Poderes del Estado y a la Dirección del Registro Electoral, la cual de inmediato adoptará las providencias del caso y dará amplia publicidad a la convocatoria en la que deberán expresarse:
 
-b) cargos a ser llenados (clase y número);
+a) Fecha de elección nacional o municipal;
 
-c) distritos electorales en que debe realizarse; y,
+b) Fecha de realización de las elecciones en los partidos y movimientos políticos para la elección de candidatos;
 
-d) determinación de los colegios electorales de acuerdo con los cargos a ser llenados.
+c) Cargos a ser llenados (clase y número);
+
+d) Distritos electorales en los que deben realizarse; y,
+
+e) Determinación de los colegios electorales de acuerdo con los cargos a ser llenados
+
+> *Modificado por Ley N° 1830 (2001-11-16)*
 
 ### Artículo 154°
 
-La resolución que convoque a elecciones deberá ser fundada y se publicará en la Gaceta Oficial y comunicada a los tres Poderes del Estado y a la Dirección del Registro Electoral, la cual de inmediato adoptará las providencias del caso y dará amplia publicidad a la convocatoria.
+
+Se establecen dos períodos electorales para las elecciones de autoridades nacionales, departamentales, municipales y partidarias.
+
+Período Electoral Nacional. Las elecciones nacionales se realizarán en el mes de abril o mayo del año respectivo. Los partidos y movimientos políticos elegirán su candidato a presidente y vicepresidente de la República, senadores, diputados, gobernadores, concejales departamentales y, según corresponda, autoridades partidarias, en elecciones que se realizarán en forma simultánea, el día domingo ubicado entre los noventa y ciento veinte días antes de la fecha de elección señalada en la convocatoria respectiva.
+
+Período Electoral Municipal. Las elecciones de intendentes y concejales municipales se realizarán en el mes de octubre o de noviembre del año correspondiente, treinta meses después de las elecciones generales. Los partidos y movimientos políticos elegirán sus candidatos a intendentes y concejales municipales y, según corresponda, autoridades partidarias, en las que se realizarán en forma simultánea en el día domingo ubicado entre los noventa y ciento veinte días antes de fecha de elección señalada en la convocatoria respectiva.
+
+Vacancia Definitiva de la Vicepresidencia. Si se produjera la vacancia definitiva de la Vicepresidencia de la República durante los tres primeros años del período constitucional, se convocará a elecciones para cubrirla dentro de los treinta días de producida y la elección se realizará dentro de los ciento veinte días posteriores a la convocatoria. Los partidos y movimientos políticos elegirán sus candidatos a la Vicepresidencia de la República en elecciones que se realizarán en forma simultánea, el día domingo ubicado entre los sesenta y sesenta y seis días antes de la fecha de elección señalada en la convocatoria respectiva.
+
+Destitución de Gobernadores e Intendente. En caso de destitución de gobernadores e intendentes, la convocatoria a elecciones para cubrir la vacancia deberá ser efectuada dentro de los diez días de producido el hecho y las elecciones deberán realizarse dentro de los ochenta días después de la convocatoria. Los partidos y movimientos políticos elegirán sus candidatos a gobernadores e intendentes en elecciones que se realizarán en forma simultánea, el día domingo ubicado entre los cuarenta y los cuarenta y seis días antes de la fecha de elección señalada en la convocatoria respectiva.
+
+Vacancia Definitiva de la Gobernación. Si se produjere la vacancia por renuncia, impedimento definitivo o muerte del Gobernador durante los tres primeros años del período constitucional, se convocará a elecciones para cubrirla dentro de los mismos plazos previstos para los casos de destitución de Gobernadores e Intendentes. Si la vacancia se produjera en los últimos dos años, la Junta Departamental, por mayoría absoluta, designará de entre sus miembros al que cumplirá con dichas funciones hasta completar el período respectivo
+
+> *Modificado por Ley N° 1830 (2001-11-16)*
 
 CAPITULO II
 
@@ -1734,7 +1709,12 @@ Las autoridades de la Junta Municipal serán electas mediante comicios que se re
 
 ### Artículo 251°
 
-Para ser candidato a miembro de las Juntas Municipales es necesario ser ciudadano nacional o extranjero, inscripto en los padrones respectivos, reunir los requisitos establecidos en la Ley Orgánica Municipal y hallarse en el ejercicio del derecho de sufragio pasivo.
+
+Para ser candidato a miembro de las Juntas Municipales es necesario ser ciudadano nacional o extranjero, inscripto en los padrones respectivos, reunir los requisitos establecidos en la Ley “Orgánica Municipal” y hallarse en el ejercicio del derecho de sufragio pasivo.
+
+Los Intendentes Municipales o los que se hallaren desempeñando tales funciones por designación podrán ser candidatos a miembros de las Juntas Municipales siempre que hubieren renunciado al cargo tres meses antes de la fecha convocada para las elecciones
+
+> *Modificado por Ley N° 1830 (2001-11-16)*
 
 CAPITULO VI
 
@@ -1752,7 +1732,10 @@ La elección se hará mediante boletín de voto separado de aquél en que se suf
 
 ### Artículo 254°
 
-Las incompatibilidades para el ejercicio del cargo son las establecidas en la Constitución Nacional y en este código.
+
+Las incompatibilidades para el ejercicio del cargo son las establecidas en la Constitución Nacional y en este Código. El ejercicio de funciones de miembros de la Junta Municipal no constituye causal de inhabilidad para la designación como Intendente Municipal
+
+> *Modificado por Ley N° 1830 (2001-11-16)*
 
 ### Artículo 255°
 
@@ -1766,7 +1749,10 @@ En el mismo día el intendente municipal electo tomará posesión de su cargo an
 
 ### Artículo 257°
 
-El intendente municipal no podrá ser reelecto en el cargo, en el período inmediato siguiente. Quedan excluidos de esta prohibición los concejales municipales o ciudadanos que hayan sido designados o electos para llenar una intendencia vacante, siempre que renunciaren al cargo por lo menos seis meses antes de la elección. Los miembros de las Juntas Municipales podrán ser reelectos.
+
+El Intendente podrá ser reelecto en el cargo por una sola vez en el período inmediato siguiente, siempre que hubiera renunciado al cargo tres meses antes de la fecha convocada para las elecciones. Los miembros de las Juntas Municipales podrán ser reelectos
+
+> *Modificado por Ley N° 1830 (2001-11-16)*
 
 CAPITULO VII
 
@@ -2030,13 +2016,16 @@ DE LA PROPAGANDA ELECTORAL
 
 ### Artículo 290°
 
-El objeto de la propaganda electoral es la difusión de la plataforma electoral, así como los planes y programas de los partidos, movimientos políticos y alianzas con la finalidad de concitar la adhesión del electorado. Es de responsabilidad de los partidos, movimientos políticos y alianzas que propician las candidaturas, cuidar que el contenido de los mensajes constituya una alta expresión de adhesión a los valores del sistema republicano y democrático y contribuya a la educación cívica del pueblo.
 
-Se entiende por propaganda electoral la exposición en la vía y espacios públicos de pasacalles, pintadas y afiches que contengan propuestas de candidatos o programas para cargos electivos; espacios radiales o televisivos con mensajes que llamen a votar por determinados candidatos o propuestas; espacios en periódicos (diarios, revistas, semanarios) con propuestas de candidaturas o programas de gobierno.
+El objeto de la propaganda electoral es la difusión de la plataforma electoral, así como los planes y programas de los partidos, movimiento políticos y alianzas, con la finalidad de concitar la adhesión del electorado. Es de responsabilidad de los partidos, movimientos políticos y alianzas que propician las candidaturas, cuidar que el contenido de los mensajes constituya una alta expresión de adhesión a los valores del sistema republicano y democrático y contribuya a la educación cívica del pueblo.
 
-La propaganda electoral se extenderá por un máximo de ciento veinte días, contados retroactivamente desde dos días antes de los comicios, en los que está prohibida toda clase de propaganda electoral. En los comicios internos de los partidos políticos la propaganda electoral no podrá exceder de sesenta días.
+Se entiende por propaganda electoral la exposición en la vía y espacios públicos de pasacalles, pintatas y afiches que contengan propuestas de candidatos o programas para los cargos electivos; espacios radiales o televisivos con mensajes que llamen a votar por determinados candidatos o propuestas; espacios en periódicos (diarios, revistas, semanarios) con propuestas de candidaturas o programas de gobierno.
 
-La propaganda electoral a través de los medios masivos de comunicación social se extenderá por un máximo de sesenta días, contados retroactivamente desde dos días antes de los comicios. En los comicios internos de los partidos políticos la propaganda electoral no podrá exceder de treinta días.
+La propaganda electoral se extenderá por un máximo de sesenta días, contados retroactivamente desde dos días antes de los comicios, en los que está prohibida toda clase de propaganda electoral. En los comicios internos de los partidos políticos, la propaganda electoral no podrá exceder de treinta días.
+
+La propaganda electoral a través de los medios masivos de comunicación social se extenderá por un máximo de treinta días, contados retroactivamente desde dos días antes de los comicios. En los comicios internos de los partidos políticos, no podrá exceder de diez días
+
+> *Modificado por Ley N° 1830 (2001-11-16)*
 
 ### Artículo 291°
 
