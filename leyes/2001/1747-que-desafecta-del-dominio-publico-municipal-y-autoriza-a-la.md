@@ -1,0 +1,40 @@
+---
+bacn_id: 2650
+numero: "1747"
+titulo: "QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA MUNICIPALIDAD DE SAN LORENZO A TRANSFERIR A TITULO ONEROSO A FAVOR DE SU ACTUAL OCUPANTE, EL INMUEBLE INDIVIDUALIZADO COMO LOTE N° 7 DE LA FINCA N° 7.676, UBICADO EN EL BARRIO BARCEQUILLO DEL CITADO MUNICIPIO."
+fecha_promulgacion: 2001-08-10
+fecha_publicacion: 2001-08-16
+fuente: bacn.gov.py
+status: in_force
+source: https://www.bacn.gov.py/leyes-paraguayas/2650/texto
+short_title: "QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA…"
+---
+
+# LEY Nº 1747
+## QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA MUNICIPALIDAD DE SAN LORENZO A TRANSFERIR A TITULO ONEROSO A FAVOR DE SU ACTUAL OCUPANTE, EL INMUEBLE INDIVIDUALIZADO COMO LOTE N° 7 DE LA FINCA N° 7.676, UBICADO EN EL BARRIO BARCEQUILLO DEL CITADO MUNICIPIO.
+
+### Artículo 1°
+
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo a transferir a título oneroso a favor de su actual ocupante, señora Teresa López Vda. de Pereira, un inmueble individualizado como Lote N° 7 de la Finca N° 7.676, Distrito San Lorenzo, bajo el N° 1 y al folio 1 y siguientes del 12 de diciembre de 1973, ubicado en el barrio Barcequillo del citado municipio, cuyas dimensiones y linderos son los siguientes:
+
+AL NORTE: Mide 12 ms. (doce metros), linda con la excalle 1, actual calle Lapacho;
+
+AL SUR: Mide 12 ms. (doce metros), linda con derechos particulares;
+
+AL ESTE: Mide 30 ms. (treinta metros), linda con derechos privados; y,
+
+AL OESTE: Mide 30 ms. (treinta metros), linda con el resto de la fracción destinado para plaza y edificios públicos.
+
+SUPERFICIE: 360 ms². (trescientos sesenta metros cuadrados).
+
+### Artículo 2°
+
+La suma obtenida por la venta del inmueble individualizado en el Artículo 1° de la presente ley, será destinada exclusivamente para la adquisición de otro inmueble para espacio verde o plaza.
+
+### Artículo 3°
+
+Comuníquese al Poder Ejecutivo.
+
+---
+
+*Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a cinco días del mes de junio del año dos mil uno, y por la Honorable Cámara de Senadores, a veintiséis días del mes de julio del año dos mil uno, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional.*
