@@ -29,7 +29,20 @@ Establécese un régimen de reconocimiento de servicios anteriores para todos lo
 
 ### Artículo 4°
 
-El período de reconocimiento de servicios anteriores abarcará 1 (un) año a partir de la promulgación de esta Ley. Las solicitudes para su reconocimiento, se recepcionarán en la Institución en la cual presta servicio el funcionario.
+
+Establécese el período de un año más para el reconocimiento de servicios anteriores, a partir de la promulgación de esta Ley.
+
+Las solicitudes se recibirán en la Institución en la cual presta servicios el funcionario, debiendo adjuntar a tal efecto los siguientes documentos:
+
+a) Disposición legal de nombramiento y/o planilla de sueldos y/o constancia de cobro de la asignación correspondiente por lo menos 1 (uno) por cada semestre de los años a ser reconocidos.
+
+b) Fotocopia de Cédula de Identidad.
+
+c) Certificado de trabajo de la Institución donde presta servicios actualmente.
+
+d) Constancia del monto del sueldo percibido en el mes de diciembre del año 1992
+
+> *Modificado por Ley N° 557 (1995-04-28)*
 
 ### Artículo 5°
 
@@ -45,11 +58,17 @@ En el caso en que el funcionario obtuviere reconocimiento por años de servicios
 
 ### Artículo 8°
 
-Reconocidos los servicios anteriores, dicho monto será descontado en un 5% (cinco por ciento) del sueldo mensual del funcionario, hasta cubrir el importe de la deuda, siempre que no hubiere efectuado el pago de dicho monto de una sola vez. A pedido del afiliado, éste podrá efectuar el pago adelantado de varias cuotas o del saldo que el mismo adeudare.
+
+Reconocidos los años de servicios anteriores y establecido el monto a ser ingresado a la Caja Fiscal de Jubilaciones y Pensiones, dicho monto (deuda) será descontado a través de una cuota equivalente al 5% (cinco por ciento) del sueldo mensual del funcionario, hasta cubrir el importe de la deuda, siempre que no hubiere efectuado el pago de una sola vez. A pedido del beneficiario, éste podrá efectuar el pago adelantado de varias cuotas o del saldo que el mismo adeudare
+
+> *Modificado por Ley N° 557 (1995-04-28)*
 
 ### Artículo 9°
 
-En el caso de que al tiempo de jubilarse, el afiliado siguiere adeudando en concepto de reconocimiento de servicios anteriores, a partir del otorgamiento de la jubilación, el descuento obligatorio se hará en un 10% (diez por ciento) mensual del haber jubilatorio.
+
+Si al tiempo de jubilarse el afiliado no ha ingresado a la Caja Fiscal el monto total de lo adeudado para el reconocimiento de años de servicios anteriores, a partir del otorgamiento de la jubilación, el descuento obligatorio se hará en un 25% (veinticinco por ciento) mensual del haber jubilatorio, el que deberá ser realizado por la Dirección de Jubilaciones y Pensiones
+
+> *Modificado por Ley N° 557 (1995-04-28)*
 
 ### Artículo 10°
 
