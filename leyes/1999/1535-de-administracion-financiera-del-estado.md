@@ -836,9 +836,10 @@ Dentro de los cuatro meses posteriores a la fecha de presentación del informe a
 
 ### Artículo 70°
 
-Tratamiento por el Congreso Nacional.
 
-A los efectos mencionados en el artículo anterior, y a fin de dar cumplimiento a lo establecido en el Artículo 282 de la Constitución Nacional, las Cámaras de Senadores y de Diputados conformarán una Comisión Bicameral integrada por cinco Senadores y ocho Diputados. La Comisión Bicameral así constituida tendrá un plazo máximo e improrrogable de treinta días para expedirse sobre el informe presentado por el Presidente de la República conforme a la presente ley. Cada Cámara del Congreso tendrá un plazo de treinta días para aprobar o rechazar el informe del Presidente de la República, a cuyo efecto podrá solicitar todos los informes adicionales que requiera, tanto a los organismos y entidades del Estado como a la Contraloría General de la República. Si las Cámaras disintieran, se estará a lo dispuesto por el Artículo 206 de la Constitución, pero los plazos serán de quince días por Cámara
+Tratamiento por el Congreso Nacional.A los efectos mencionados en el artículo anterior, y a fin de dar cumplimiento a lo establecido en el Artículo 282 de la Constitución Nacional, las Cámaras de Senadores y de Diputados conformarán una Comisión Bicameral integrada con cinco senadores y cinco diputados. La Comisión Bicameral así constituida tendrá un plazo máximo e improrrogable de cuarenta y cinco días para expedirse sobre el informe presentado por el Presidente de la República conforme a la presente Ley, a cuyo efecto podrá solicitar todos los informes adicionales que requiera, tanto a los organismos y entidades del Estado, como a la Contraloría General de la República. Cada Cámara del Congreso tendrá un plazo de treinta días para aprobar o rechazar el informe del Presidente de la República. Si las Cámaras disintieran, se estará a lo dispuesto por el Artículo 206 de la Constitución Nacional, pero los plazos serán de quince días por Cámara.
+
+> *Modificado por Ley N° 2515 (2004-11-24)*
 
 TÍTULO VIII
 
