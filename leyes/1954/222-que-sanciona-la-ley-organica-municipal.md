@@ -1293,7 +1293,36 @@ La Junta Municipal podrá ratificarse por los dos tercios de votos de la totalid
 
 ### Artículo 176°
 
-Aprobado el Proyecto de Presupuesto presentado por el Departamento Ejecutivo, se remitirá a los efectos legales al Ministerio del Interior, de acuerdo con lo dispuesto en los artículos Nºs. ciento catorce y ciento quince de esta Ley.-
+
+La Dirección General de Bienestar Policial es el organismo que se encarga de la búsqueda permanente de protección al personal policial y su familia, en lo referente a salud, vivienda, recreación, ayuda social, educativa y otros, relativos al bienestar de los mismos.
+
+Lo integran:
+
+- La Dirección de Sanidad;
+
+- El Departamento de Vivienda;
+
+- Los Clubes Policiales;
+
+- El Departamento Financiero y Económico;
+
+- El Departamento de Asistencia Social;
+
+- El Departamento de Asistencia Jurídica;
+
+- El Departamento de Asistencia Educativa;
+
+- La Capellanía;
+
+- El Hogar de Reposo y de Menores; y,
+
+- La Junta de Reconocimiento Médico y Policial.
+
+La Dirección de Sanidad es el organismo encargado de la planificación, organización, funcionamiento y supervisión de la asistencia a la salud en todo el territorio nacional. Será ejercido por un Comisario General Inspector de Sanidad Médico, y los demás Departamentos serán ejercidos por Oficiales Superiores.
+
+La organización y funcionamiento de los Departamentos se regirán por reglamento
+
+> *Modificado por Ley N° 2143 (2003-06-20)*
 
 ### Artículo 177°
 
