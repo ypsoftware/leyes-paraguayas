@@ -55,15 +55,22 @@ Además, estos mecanismos servirán para asegurar el cumplimiento de los requeri
 
 ### Artículo 3°
 
-Recursos. El FGD dispone de los siguientes recursos:
 
-1.- Aportes del Estado por un monto equivalente a dólares americanos cincuenta millones (U$S. 50.000.000), que serán constituidos total o parcialmente por bonos del Estado, los cuales podrán ser redescontados por, o utilizados en operaciones de venta con pacto de recompra con el Banco Central del Paraguay para satisfacer las necesidades de liquidez del FGD. Este aporte del Estado deberá realizarse dentro de los treinta días de la entrada en vigor de esta Ley. Por la presente Ley, queda autorizado el Ministerio de Hacienda a realizar la emisión de bonos, a establecer sus condiciones financieras y a efectuar la redefinición de partidas presupuestarias por el señalado importe de dólares americanos cincuenta millones (U$S. 50.000.000) sin necesidad de ulterior trámite parlamentario. Los bonos serán devueltos al Ministerio de Hacienda una vez que el Fondo de Garantía de Depósitos cuente con los recursos suficientes para su funcionamiento, conforme a la reglamentación que emita el Banco Central del Paraguay.
+El Banco Nacional de Fomento tendrá las siguientes funciones y actividades:
 
-2.- Aportes privados, constituidos con contribuciones trimestrales obligatorias de las entidades de intermediación financiera. Estas serán calculadas en función al saldo promedio de los depósitos mantenidos por la entidad financiera durante cada trimestre. Las contribuciones serán debitadas automáticamente por el Banco Central del Paraguay de la Cuenta Corriente de cada entidad al cierre de operaciones del tercer día hábil del trimestre siguiente, si la entidad no hiciera la contribución voluntariamente. Se aplicará una tasa trimestral de contribuciones del 0,12% sobre los saldos promedios del trimestre de depósitos en moneda nacional y extranjera
+1) prestación de servicios y operaciones bancarias en todo el país, incluyendo operaciones de comercio exterior.
 
-Las contribuciones deberán ser suspendidas mediante resolución del Directorio del Banco Central del Paraguay, previo informe favorable de la Superintendencia de Bancos, cuando el saldo neto operativo del FGD, a que hace referencia el párrafo anterior, sea igual a un diez por ciento (10%) del total de depósitos del sistema. El Banco Central del Paraguay establecerá mediante reglamento las normas de contribución al FGD de entidades de nueva creación, con el objeto de procurar un adecuado reparto de la carga contributiva en función del riesgo depositario aportado por cada entidad al sistema. Los aportes de las entidades al FGD serán deducibles para el pago de Impuesto a la Renta.
+2) conceder préstamos al sector agropecuario, a las pequeñas y medianas empresas, al sector de consumo, bajo estricto cumplimiento de las normas que rigen la materia.
 
-3.- El Estado podrá emitir bonos con cargo a contribuciones futuras cuando los recursos disponibles no sean suficientes para llevar a cabo las funciones encomendadas por esta Ley. Dichos bonos podrán ser descontados por el Banco Central del Paraguay a tasas de mercado, si el FGD necesitare efectivo para llevar a cabo sus funciones. La emisión no precisará del cumplimiento de los requisitos de emisión establecidos en la normativa del mercado de valores.
+3) los préstamos que conceda no excederán, por persona y empresa, la suma de USD. 150.000 (Ciento cincuenta mil dólares americanos) o su contravalor en moneda local. Este límite será ajustado mensualmente con la variación del Indice de Precios al Consumidor calculados por el Banco Central del Paraguay. Esta limitación no rige para los préstamos que se concedan a Cooperativas de Producción y Consumo del país, operaciones de exportación, operaciones con entidades financieras nacionales y extranjeras, operaciones de financiamiento de venta de activos, así como el refinanciamiento o reestructuración de préstamos concedidos con anterioridad a la presente Ley.
+
+Los créditos otorgados con cargo a recursos de organismos internacionales se regirán por sus respectivos reglamentos.
+
+4) las operaciones de comercio exterior (importaciones y exportaciones) y de cambio de moneda de las instituciones públicas – entidades autónomas y autárquicas y entidades con mayoría accionaria del Estado - serán realizadas con exclusividad a través del Banco Nacional de Fomento.
+
+5) ningún servicio que preste el Banco Nacional de Fomento podrá ser a título gratuito o bajo condiciones desfavorables. En dicho sentido los costos directos de aquellos servicios prestados sin compensación económica a instituciones públicas, deberán ser cubiertos por los ordenantes y establecidas las condiciones por convenios firmados con el Banco.
+
+> *Modificado por Ley N° 2502 (2004-12-30)*
 
 ### Artículo 4°
 
