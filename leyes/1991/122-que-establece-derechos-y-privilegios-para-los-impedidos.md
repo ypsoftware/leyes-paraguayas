@@ -36,7 +36,26 @@ Es obligatorio que todos los medios de transporte público de personas cuenten c
 
 ### Artículo 5°
 
-En los lugares de concurrencia de personas, como oficinas de la administración pública, bancos, espectáculos públicos de toda clase, los impedidos serán atendidos inmediatamente, sin necesidad de esperar turnos o formen filas.
+
+Son afiliados de la Caja:
+
+1) Con carácter obligatorio:
+
+a) los funcionarios, asesores, empleados y obreros nacionales y extranjeros, mayores de dieciocho años de edad, al servicio de las instituciones municipales, cualquiera sea su categoría, forma de la remuneración, tipo de trabajo y forma de nombramiento siempre que figure en el Anexo del Personal del Presupuesto de la institución municipal; y,
+
+b) los miembros del Consejo y el personal de la Caja mayores de dieciocho años de edad.
+
+2) Con carácter voluntario:
+
+a) el afiliado que se retira voluntaria o involuntariamente de las instituciones municipales o de la Caja y que solicite su continuidad en tal carácter en un plazo no superior a ciento veinte días, contados desde la fecha de su desvinculación; y,
+
+b) los concejales, intendentes municipales y los miembros de la Junta Directiva del Instituto de Desarrollo Municipal (IDM) que soliciten su incorporación en el plazo improrrogable de ciento veinte días, contados a partir de la fecha de toma de posesión del cargo.
+
+Los funcionarios y empleados municipales contratados y los funcionarios y empleados de las asociaciones de municipalidades, que soliciten su incorporación dentro de los noventa días de iniciar sus actividades como tales.
+
+Trascurridos los plazos señalados en este artículo prescribe el derecho de afiliación voluntaria
+
+> *Modificado por Ley N° 2102 (2003-05-13)*
 
 ### Artículo 6°
 
