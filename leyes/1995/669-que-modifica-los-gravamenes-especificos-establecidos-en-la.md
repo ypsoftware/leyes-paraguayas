@@ -14,45 +14,16 @@ short_title: "QUE MODIFICA LOS GRAVAMENES ESPECIFICOS ESTABLECIDOS EN LA…"
 
 ### Artículo 1°
 
-Las actuaciones ante el Poder Judicial estarán sujetas al pago de las Tasas que se establecen en esta Ley, según la naturaleza e importancia del juicio o trámite;
 
-I. CON EL EQUIVALENTE AL 40% (CUARENTA POR CIENTO) DEL SALARIO MINIMO DIARIO PARA ACTIVIDADES DIVERSAS NO ESPECIFICADAS:
+El producido de las Tasas Judiciales, luego de deducidos el costo de las recaudaciones, que será calculado en un 1% (uno por ciento), y el 2% (dos por ciento) para el financiamiento de las indemnizaciones debidas por el Estado en caso de perjuicios causados en el marco de su función jurisdiccional, será distribuido como sigue:
 
-a) Los juicios no susceptibles de apreciación pecuniaria y cualquier otra actuación ante la justicia no prevista específicamente en esta Ley;
+SETENTA Y DOS POR CIENTO (72%) para el financiamiento de los Programas y Subprogramas Presupuestarios de la Corte Suprema de Justicia y de los institutos creados por leyes especiales. Las recaudaciones serán depositadas en una Cuenta Corriente especialmente habilitada a nombre de la Corte Suprema de Justicia en el Banco Central del Paraguay;
 
-b) La inscripción registral de documentos en los Registros Públicos obligatorios, así como las rectificaciones en los mismos; y,
+DIEZ Y OCHO POR CIENTO (18%) para financiar los Programas Presupuestarios de Acción e Inversión del Ministerio Público. Las recaudaciones serán depositadas diariamente por la Corte Suprema de Justicia para el Ministerio Público en una Cuenta Corriente especialmente habilitada para ese efecto en el Banco Central del Paraguay; y,
 
-c) La rubricación de los libros diario, inventario, caja, así como los demás libros de Comercio y por cada 100 (cien) hojas de formularios continuos.
+DIEZ POR CIENTO (10%) para la construcción y mejoramiento de la infraestructura penitenciaria de la República, que incluye además el funcionamiento de centros alternativos de reclusión penitenciaria, centros de asistencia post-penitenciaria y de talleres escuelas de artes y oficios. El monto respectivo deberá incluirse en el Presupuesto del Ministerio de Justicia y Trabajo en el rubro correspondiente, y depositado en la Cta. Cte. N° 128 a nombre del Ministerio de Justicia y Trabajo en el Banco Central del Paraguay.
 
-II. CON EL EQUIVALENTE A 1 (UN) SALARIO MINIMO DIARIO PARA ACTIVIDADES DIVERSAS NO ESPECIFICADAS:
-
-a) La querella criminal o la intervención de un querellante particular, en cualquier estado del juicio;
-
-b) Divorcio controvertido; y,
-
-c) Tercería de dominio.
-
-III. CON EL EQUIVALENTE A 2 (DOS) SALARIOS MINIMOS LEGALES DIARIOS PARA ACTIVIDADES DIVERSAS NO ESPECIFICADAS:
-
-a) Inconstitucionalidad, salvo cuando la acción sea interpuesta en defensa de los derechos políticos y sociales; y,
-
-b) Convocatoria de acreedores o quiebra a cargo del peticionante.
-
-IV. CON EL EQUIVALENTE AL 0,60% (CERO SESENTA POR CIENTO) APLICADO SOBRE EL MONTO DEL JUICIO, SIEMPRE QUE EXCEDA EL EQUIVALENTE A CUARENTA SALARIOS MINIMOS PARA ACTIVIDADES DIVERSAS NO ESPECIFICADAS:
-
-a) Los juicios administrativos sujetos a apreciación pecuniaria;
-
-b) La verificación de créditos en los juicios universales;
-
-c) Obligación de hacer escritura pública, calculadas sobre el valor del contrato o sobre el valor del objeto;
-
-d) Reivindicación de acuerdo al valor fiscal del objeto, correspondiente al año de iniciación del juicio;
-
-e) Rescisión de contratos;
-
-f) Prescripción de objetos o bienes; y,
-
-g) La inscripción registral de transferencia de dominio de bienes.
+> *Modificado por Ley N° 2046 (2002-12-16)*
 
 ### Artículo 2°
 
