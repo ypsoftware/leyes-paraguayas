@@ -490,25 +490,22 @@ Disposiciones Generales.
 
 ### Artículo 60°
 
-Cada Junta Municipal para crear ambiente propicio al bienestar colectivo y solucionar los problemas de la vida urbana con previsión del desarrollo en lo futuro, está obligada a tener un plan estable de urbanización o Plan Regulador, al cual ha de someterse el desarrollo de las municipalidades.-
 
-Dicho Plan considerará lo siguiente:
+1. El sueldo es la parte básica del salario y corresponde a la asignación mensual de acuerdo al grado y tiempo de servicio.
 
-a) División en zonas de las poblaciones; coordinación de los distintos aspectos de la vida urbana; ubicación de los barrios de las diversas actividades de la ciudad y determinación de los materiales y tipos de construcción en cada uno de dichos barrios;
+2. El sueldo del Comisario General Comandante de la Policía Nacional será igual al del Ministro del Interior, siendo el de los sucesivos grados el que se determina en la siguiente escala automática de sueldos, en porcentajes referidos a la diferencia resultante entre el sueldo del Ministro del Interior (SMAX) menos el Sueldo Mínimo (SMIN):
 
-b) Distribución en cada zona, de los servicios indispensables para la vida urbana, tanto en el aspecto material como en el cultural;
+OFICIALES:
 
-c) Forma en que se atenderá en cada zona a los problemas de salubridad, garantizando los servicios indispensables para la vida sana de los habitantes;
+El Comisario General Comandante será igual al 100% del Sueldo del Ministro del Interior.
 
-d) Determinación de espacios verdes y abiertos dedicados a la recreación y cultura física que se deben exigir de acuerdo a la distribución y composición de la población y a la ubicación de escuelas;
+Para los demás rangos será igual al Sueldo Mínimo más un porcentaje de la diferencia del Sueldo Máximo menos el Sueldo Mínimo. Se establece dicho porcentaje según los siguientes escalafones:
 
-e) Trazado y ensanchamiento de vías de circulación y lugares de estacionamiento de vehículos;
+3. Ningún personal policial percibirá un sueldo inferior al salario mínimo legal vigente, para lo cual el rango policial inferior (Sub Oficial Ayudante) deberá percibir un sueldo igual al salario mínimo legal vigente sirviendo como base de la escala automática de sueldos.
 
-f) Procedimientos ejecutivos que empleará la Junta y Procedimientos normativos a que deberán someterse los propietarios particulares para la ejecución del Plan;
+4. El sueldo y otros beneficios del Comisario General Comandante es exclusivo de quien ejerce o haya ejercido el cargo de Comandante de la Policía Nacional
 
-g) Procedimientos educativos para la divulgación de los fines del plan, a fin de obtener la colaboración de los habitantes para la ejecución del mismo;
-
-h) Forma de financiación del plan que pueda incluir la constitución de reservas territoriales que permitan a la Junta obtener los fondos necesarios para ello.-
+> *Modificado por Ley N° 2397 (2004-05-27)*
 
 ### Artículo 61°
 
