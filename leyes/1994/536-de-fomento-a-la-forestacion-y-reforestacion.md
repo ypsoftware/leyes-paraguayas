@@ -81,9 +81,12 @@ Los certificados de forestación o reforestación serán otorgados a partir de l
 
 ### Artículo 10°
 
-Los montos totales de las bonificaciones anuales deberán ser previstos en el Presupuesto General de la Nación en función a los costos por hectáreas establecidos de acuerdo al Artículo 8º de esta Ley y a las superficies de forestación y de reforestación establecidas en los planes de manejo.
 
-El Ministerio de Hacienda pagará los certificados de forestación y reforestación en un plazo no mayor de 30 (treinta) días contados desde su presentación. La demora en el pago generará, a favor del forestador y reforestador, un interés equivalente al interés corriente de plaza para el descuento bancario de los documentos comerciales con un incremento del 20% (veinte por ciento).
+Los montos totales de las bonificaciones anuales deberán ser previstos en el Presupuesto General de la Nación en función a los costos por hectárea establecidos de acuerdo al Artículo 8° de esta ley y las superficies de forestación y reforestación establecidas en los planes de manejo.
+
+El Ministerio de Hacienda pagará los certificados de forestación y reforestación en un plazo no mayor de sesenta días, contados desde su presentación.
+
+> *Modificado por Ley N° 1639 (2000-12-20)*
 
 ### Artículo 11°
 
