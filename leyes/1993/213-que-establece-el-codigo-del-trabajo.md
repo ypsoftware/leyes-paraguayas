@@ -3017,9 +3017,20 @@ Cuando este Código se refiere a "jornales mínimos", debe entenderse en todos l
 
 ### Artículo 385°
 
-Las faltas de cumplimiento de las disposiciones de este Código que carezcan de pena especial, serán sancionadas con multa correspondiente al importe de diez a treinta jornales mínimos por cada trabajador afectado, que se duplicará en caso de reincidencia.
 
-El incumplimiento de cada obligación legal del empleador con la Administración del Trabajo será sancionada con multa equivalente de diez a treinta jornales mínimos diarios que será duplicada en caso de reincidencia, sin perjuicio del cumplimiento de la Ley.
+La falta de cumplimiento de las disposiciones de este Código que carezcan de pena especial, será sancionada con multas correspondientes al importe de diez a treinta jornales mínimos diarios por cada trabajador afectado, que se duplicará en caso de reincidencia.
+
+La autoridad administrativa del Trabajo dispondrá la suspensión temporal hasta ocho días de las actividades que desarrolle el empleador, con pago de salarios caídos a sus dependientes, cuando dentro del termino de un año reincida más de una vez en él:
+
+a) incumplimiento de las disposiciones del Código del Trabajo que afecte a más del 10% (diez por ciento) de la nómina de sus trabajadores; o,
+
+b) incumplimiento de los Artículos 393, 394 y 395 de este Código.
+
+Dispuesta la suspensión temporal y ante una nueva reincidencia en el término señalado la autoridad administrativa del Trabajo podrá duplicar la sanción establecida o cancelar el registro patronal. Si se dispone la cancelación del registro patronal, el trabajador tendrá derecho a las indemnizaciones como despido por causa injustificada.
+
+El incumplimiento de cada obligación legal del empleador con la autoridad administrativa del Trabajo será sancionada con multa equivalente de diez a treinta jornales mínimos diarios, por cada trabajador afectado, que será duplicado en caso de reincidencia, sin perjuicio del cumplimiento de la ley
+
+> *Modificado por Ley N° 1416 (1999-04-16)*
 
 ### Artículo 386°
 
