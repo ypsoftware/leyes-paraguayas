@@ -108,15 +108,24 @@ Superficie líquida: Son 29.582 has., 587 ms2., 3.330 cms2. (veintinueve mil qui
 
 ### Artículo 2°
 
-Las tierras así deslindadas serán transferidas al Instituto de Bienestar Rural (IBR) y, una vez parceladas, vendidas de conformidad a las disposiciones de las Leyes Nºs. 622 del 19 de agosto de 1960, DE COLONIZACIONES Y URBANIZACIONES DE HECHO y 854 del 29 de marzo de 1963, QUE ESTABLECE EL ESTATUTO AGRARIO.
+
+Las tierras rurales así deslindadas serán transferidas al Instituto de Bienestar Rural por la Industria Nacional del Cemento, a título gratuito, para ser destinadas a la colonización de conformidad a las prescripciones establecidas en las Leyes N° 852/63 "QUE CREA EL INSTITUTO DE BIENESTAR RURAL" y 854/63 "QUE ESTABLECE EL ESTATUTO AGRARIO
+
+> *Modificado por Ley N° 1559 (2000-06-20)*
 
 ### Artículo 3°
 
-El precio de la venta será establecido de conformidad con las disposiciones mencionadas en el Artículo anterior y en ningún caso será inferior al valor fiscal de las mismas. Lo producido de las ventas deberá ser aplicado por el Instituto de Bienestar Rural (IBR) para el desarrollo de Vallemí.
+
+> **Derogado.**
+
+> *Derogado por Ley N° 1559 (2000-06-20)*
 
 ### Artículo 4°
 
-Autorízase a la Industria Nacional del Cemento (INC) a vender y transferir al Instituto de Bienestar Rural (IBR) los inmuebles y mejoras introducidas en las mismas, que conforman el casco urbano de la ciudad de Vallemí y de las Colonias Santa Elena, Pagani, Tres Cerros y Cerro Morado, que son parte de las Fincas Nºs. 1.011, 1.013 y 4 del Distrito de San Lázaro, Departamento de Concepción y autorízase al Instituto de Bienestar Rural (IBR), una vez parceladas, a vender preferentemente a sus ocupantes respetando las normas básicas de urbanismo, las ocupaciones que existan y un posible crecimiento. Las superficies afectadas para estos objetivos serán determinadas conjuntamente por el Consejo de Administración de la Industria Nacional del Cemento (INC) y el Instituto de Bienestar Rural (IBR) cuando se traten de tierras ubicadas fuera de la superficie deslindada en el Artículo 1º, así como la fracción de terreno ocupada por la Administración Nacional de Electricidad (ANDE) para asiento de la Sub Estación Eléctrica de salida para la electrificación del Chaco Central.
+
+Autorízase a la Industria Nacional del Cemento (INC) a transferir a favor de la Municipalidad de San Lázaro para legalizar las ocupaciones existentes en las Colonias Santa Elena, Pagani, Tres Cerros y Cerro Morado, los inmuebles y las mejoras en ellos introducidas, que conforman el casco urbano de las referidas localidades. Tales inmuebles forman parte de las Fincas Ns. 1011, 1013 y 4 del Distrito de San Lázaro, Departamento Concepción. Las superficies afectadas, que serán, vendidas preferentemente a sus ocupantes, respetando las normas básicas de urbanismo y previendo el crecimiento poblacional, serán delimitadas conjuntamente por la Industria Nacional del Cemento (INC), el Instituto de Bienestar Rural (IBR) y la Municipalidad de San Lázaro. Se reservará la fracción de terreno ocupada por la Administración Nacional de Electricidad (ANDE) para asiento de la Sub-Estación Eléctrica de salida para la electrificación del Chaco Central
+
+> *Modificado por Ley N° 1559 (2000-06-20)*
 
 ### Artículo 5°
 
@@ -206,7 +215,10 @@ Autorízase a la Dirección del Tesoro Nacional a transferir a la Industria Naci
 
 ### Artículo 8°
 
-La Industria Nacional del Cemento (INC) y el Instituto de Bienestar Rural (IBR) deberán establecer un área de reserva consistente en una franja de defensa ecológica de los núcleos urbanos, a lo largo de la línea divisoria entre las fracciones "A" y "B" a ser trazados sobre la Fracción "B", conforme al mapa anexo que forma parte de la presente ley.
+
+El Instituto de Bienestar Rural procederá, conjuntamente con la Industria Nacional del Cemento y la Municipalidad de San Lázaro, a determinar en el terreno las distintas fracciones a ser transferidas conforme a la presente Ley, realizando para ello los trabajos técnicos de mensura y la formulación del catastro respectivo. Deberán, asimismo, establecer un área de reserva consistente en una franja de defensa ecológica de los núcleos urbanos, a lo largo de la línea divisoria entre las fracciones A y B a ser trazadas sobre la fracción B, conforme al plano anexo que forma parte de la presente Ley
+
+> *Modificado por Ley N° 1559 (2000-06-20)*
 
 ### Artículo 9°
 
