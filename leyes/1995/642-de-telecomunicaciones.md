@@ -96,13 +96,12 @@ Los funcionarios de la Comisión Nacional de Telecomunicaciones no podrán ser d
 
 ### Artículo 12°
 
+
 Los miembros de la Comisión Nacional de Telecomunicaciones cesarán en sus cargos por:
 
-a) Expiración del término de su designación;
+c) decreto del Poder Ejecutivo, fundado en inconducta, mala gestión, incapacidad, o por quedar incursos en alguna causal de incompatibilidad o de inhabilidad, debidamente comprobada.
 
-b) Renuncia presentada al Poder Ejecutivo; y,
-
-c) Destitución por Decreto del Poder Ejecutivo por faltas graves debidamente comprobadas, previo sumario administrativo.
+> *Modificado por Ley N° 2478 (2004-10-14)*
 
 ### Artículo 13°
 
@@ -578,13 +577,12 @@ Las concesiones, licencias y autorizaciones se prorrogarán precariamente en la 
 
 ### Artículo 73°
 
-Las concesiones, licencias y autorizaciones otorgadas de acuerdo a la presente ley tendrán un plazo máximo de:
 
-a) Veinte años para los servicios públicos de telecomunicaciones, renovables, según los términos establecidos en el contrato de concesión;
+Las concesiones, licencias y autorizaciones otorgadas de acuerdo con la presente Ley tendrán un plazo mínimo de:
 
-b) Diez años para los servicios de difusión, renovables por igual período por única vez, conforme a los términos establecidos en la licencia; y,
+b) diez años para los servicios de difusión, renovables por igual periodo por única vez, conforme con los términos establecidos en la licencia. Quedan exceptuadas de la restricción prevista en este inciso, las licencias de servicios de difusión cuyas vigencias tengan más de diez años de antigüedad, las cuales podrán ser renovadas por más de una vez, siempre y cuando se adecuen al Plan Nacional de Atribución de Frecuencias y a las demás reglamentaciones vigentes de la CONATEL en un plazo no mayor de un año.
 
-C) Cinco años para los demás servicios, renovables a solicitud del interesado.
+> *Modificado por Ley N° 2478 (2004-10-14)*
 
 CAPITULO II
 
@@ -1020,11 +1018,10 @@ El detalle de dichos activos y documentos será aprobado por la Comisión Nacion
 
 ### Artículo 131°
 
-Las licencias y autorizaciones concedidas a los operadores de servicios de radiodifusión quedarán vigentes hasta el año 2004. Sin embargo, si éstos en el plazo de trescientos sesenta días contados a partir de la promulgación de la presente Ley no se adecuan estrictamente a las normas técnicas y legales del servicio, se producirá la cancelación automática de dichas licencias o autorizaciones. Al vencimiento del plazo de vigencia arriba indicado, los operadores beneficiados con esta norma, interesados en obtener una nueva licencia o autorización, deberán someterse a lo dispuesto en el Título VIII, Capítulo I de la presente ley, así como a las normas reglamentarias dictadas por la Comisión Nacional de Telecomunicaciones, no siéndoles aplicable, por esta única vez, lo dispuesto en el Artículo 73, inciso b), respecto de la renovación de las mismas.
 
-Las licencias y autorizaciones para los demás servicios de telecomunicaciones quedarán vigentes por el plazo en que fueron otorgadas.
+Las licencias y autorizaciones, para el uso de frecuencias del espectro radioeléctrico otorgadas a los operadores de los servicios de Radiodifusión Sonora y Radiodistribución Televisiva por ondas métricas y ondas decimétricas definidos en el Artículo 28 de la Ley N° 642/95, y los correspondientes decretos reglamentarios, otorgadas con anterioridad al 14 de diciembre del año 1995 por decreto y que no hayan sido modificadas por la CONATEL, quedarán vigentes hasta el año 2014, a excepción de las que hayan sido canceladas por la CONATEL en uso de sus facultades legales. Sin embargo, éstos en el plazo de trescientos sesenta y cinco días, contados a partir de la promulgación de la presente Ley, deberán adecuarse al Plan Nacional de Atribución de Frecuencias y a las reglamentaciones vigentes de la CONATEL y deberán abonar el derecho de licencia correspondiente al periodo 2004-2014, que será fijado por la CONATEL.
 
-Los operadores de dichos servicios deberán realizar ante la Comisión Nacional de Telecomunicaciones, los trámites necesarios para su inscripción en el Registro Nacional de Servicios de Telecomunicaciones y presentar nuevas solicitudes, en el plazo de trescientos sesenta días a partir de la promulgación de la presente ley. Vencido este plazo, en el caso de no hacerlo, quedará automáticamente cancelada la licencia o autorización.
+> *Modificado por Ley N° 2478 (2004-10-14)*
 
 ### Artículo 132°
 
