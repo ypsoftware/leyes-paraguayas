@@ -1,0 +1,34 @@
+---
+bacn_id: 2796
+numero: "999"
+titulo: "QUE CONCEDE PENSION GRACIABLE A LA SEÑORA LUISA NUÑEZ VDA. DE MARTINEZ"
+fecha_promulgacion: 1996-11-07
+fecha_publicacion: 1996-12-02
+fuente: bacn.gov.py
+status: in_force
+source: https://www.bacn.gov.py/leyes-paraguayas/2796/texto
+short_title: "QUE CONCEDE PENSION GRACIABLE A LA SEÑORA LUISA NUÑEZ VDA.…"
+---
+
+# LEY Nº 999
+## QUE CONCEDE PENSION GRACIABLE A LA SEÑORA LUISA NUÑEZ VDA. DE MARTINEZ
+
+### Artículo 1°
+
+Concédese pensión graciable de G. 250.000 (doscientos cincuenta mil guaraníes) mensuales, a la señora Luisa Núñez Vda. de Martínez, esposa del Veterano de la Guerra del Chaco, Soldado Gregorio Martínez.
+
+### Artículo 2°
+
+Los fondos a ser transferidos para hacer efectiva la pensión dispuesta en esta ley serán proveídos por la Dirección General del Tesoro a la Dirección de Jubilaciones y Pensiones, dependiente de la Sub-Secretaría de Estado de Administración Financiera del Ministerio de Hacienda, conforme al código presupuestario vigente.
+
+### Artículo 3°
+
+La beneficiaria de esta pensión graciable no podrá acogerse a otros derechos jubilatorios.
+
+### Artículo 4°
+
+Comuníquese al Poder Ejecutivo.
+
+---
+
+*Aprobada por la Honorable Cámara de Diputados, a seis días del mes de agosto del año un mil novecientos noventa y seis, y por la Honorable Cámara de Senadores, sancionándose la Ley, a siete días del mes de noviembre del año un mil novecientos noventa y seis.*
