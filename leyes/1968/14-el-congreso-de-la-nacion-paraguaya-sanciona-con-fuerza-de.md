@@ -449,15 +449,20 @@ A los fines presupuestarios denomínase Entidades Descentralizadas a los entes p
 
 ### Artículo 71°
 
+
 Las Entidades Descentralizadas se clasificarán en la forma siguiente:
 
-a. Entidades encargadas de la educación superior;
+Gobiernos Departamentales;
 
-b. Entidades que tienen a su cargo funciones y programas de seguridad social;
+Entidades encargadas de la Educación Superior;
 
-c. Entidades que tienen a su cargo programas de promoción del desarrollo económico y social;
+Entidades que tienen a su cargo programas de seguridad social;
 
-d. Empresas públicas, que producen y vender bienes y servicios.
+Entidades que tienen a su cargo programas de desarrollo económico y social; y,
+
+Empresas Públicas, que producen y venden bienes y servicios
+
+> *Modificado por Ley N° 528 (1995-01-06)*
 
 ### Artículo 72°
 
