@@ -43,7 +43,12 @@ Las mismas incompatibilidades son aplicables a los suplentes que accedan a la ti
 
 ### Artículo 4°
 
-El Ministro de la Corte Suprema de Justicia y los miembros del Poder Legislativo que integren el Consejo no pueden ser al mismo tiempo miembros del Jurado de Enjuiciamiento de Magistrados, ni representantes ante el mismo.
+
+De la convocatoria para Miembros de los Tribunales Inferiores, Jueces, Agentes, Procuradores Fiscales, Síndico General de Quiebras, Agentes Síndicos y Miembros de la Defensa Pública.
+
+Propuestas las ternas para integrar la Corte Suprema de Justicia, el Tribunal Superior de Justicia Electoral y la Fiscalía General del Estado, el Consejo de la Magistratura convocará dentro de los cinco días a concurso de méritos y aptitudes de los candidatos para Miembros de los Tribunales de Apelación de los distintos fueros, del Tribunal de Cuentas, Jueces de Primera Instancia de los distintos fueros, Jueces Letrados, Jueces de Instrucción, Síndico General de Quiebras, Agentes Síndicos, Miembros del Ministerio Público, Ministerio de la Defensa Pública, el Ministerio Pupilar y Jueces de Paz
+
+> *Modificado por Ley N° 763 (1995-11-16)*
 
 ### Artículo 5°
 
@@ -293,9 +298,12 @@ DE LA DESIGNACION DE LOS MIEMBROS DE LOS TRIBUNALES INFERIORES, DE JUZGADOS Y DE
 
 ### Artículo 42°
 
-La Corte Suprema de Justicia hará saber de inmediato al Consejo las vacancias producidas en el Poder Judicial para que el Consejo, dentro del plazo de 90 (noventa) días, proponga la o las ternas de candidatos para la designación de miembros de tribunales de Apelación de los distintos fueros y circunscripciones judiciales y en las salas en que fueren necesarias, miembros del Tribunal de Cuentas, de Juzgados de Primera Instancia en los fueros y circunscripciones del país; de Juzgados Letrados para la circunscripciones judiciales de la República; de Juzgados de Paz y de Fiscalía.
 
-DEL TRIBUNAL SUPERIOR DE JUSTICIA ELECTORAL
+La Corte Suprema de Justicia hará saber de inmediato al Consejo de la Magistratura las vacancias producidas en el Poder Judicial para que aquel, dentro del plazo de noventa días, proponga la o las ternas de candidatos para la designación de Miembros de Tribunales de Apelación de los distintos fueros, del Tribunal de Cuentas, Jueces de Primera Instancia de los distintos fueros, Jueces Letrados, Jueces de Instrucción, Síndico General de Quiebras, Agentes Síndicos, Miembros del Ministerio Público, Ministerio de la Defensa Pública, el Ministerio Pupilar y Jueces de Paz".
+
+DE LAS DISPOSICIONES TRANSITORIAS
+
+> *Modificado por Ley N° 763 (1995-11-16)*
 
 ### Artículo 43°
 
