@@ -43,9 +43,12 @@ En materia de jubilaciones extraordinarias, acordadas con arreglo a lo dispuesto
 
 ### Artículo 5°
 
-Las disposiciones de los artículos 2º, 3º y 4º se aplicarán a las jubilaciones ordinarias o extraordinarias, otorgadas con posterioridad a la presente Ley, y a las pensiones que se acuerden en su consecuencia.
 
-El Poder Ejecutivo, teniendo en consideración la situación de los recursos de la Caja de Jubilaciones y Pensiones administrada por el Ministerio de Hacienda, dispondrá la forma de adecuar los haberes correspondientes a Jubilaciones y Pensiones acordadas con anterioridad a la presente Ley, hasta tanto se constituya la Caja Autónoma de Jubilaciones y Pensiones.
+Las disposiciones de los Artículos 2°, 3° y 4° se aplicarán a las jubilaciones ordinarias y extraordinarias otorgadas con psoterioridad a la presente Ley y a las pensiones que se acuerden en su consecuencia.
+
+Esas Jubilaciones y Pensiones, ordinarias o extraordinarias, acordadas con anterioridad de la presente Ley gozarán, asimismos, de los beneficios establecidos en los Artículos 2°, 3° y 4°, a cuyo efecto, el Poder Ejecutivo pondrá a disposición de la Caja de Jubilaciones y Pensiones administrada por el Ministerio de Hacienda, a partir del próximo presupuesto, los recursos necesarios para hacer frente a esa erogación
+
+> *Modificado por Ley N° 116/91 (1991-12-18)*
 
 ### Artículo 6°
 
