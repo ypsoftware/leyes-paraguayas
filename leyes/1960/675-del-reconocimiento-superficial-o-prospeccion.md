@@ -23,7 +23,10 @@ DISPOSICIONES GENERALES.
 
 ### Artículo 1°
 
-Todos los yacimientos de hidrocarburos sólidos, líquidos y gaseosos y los gases que lo acompañen que se encuentren en la superficie de la tierra, bajo cualquier forma, o en el subsuelo, a cualquier profundidad, pertenecen al Estado, como bienes privados y son declarados inalienables, inembargables e imprescriptibles.
+
+Decláranse de interés social y exprópianse a favor del Instituto de Bienestar Rural (I.B.R.) dos inmuebles ubicados en el distrito de Concepción, con una superficie de 3.607 ha. (tres mil seiscientos siete hectáreas), 4.658 m2 (cuatro mil seiscientos cincuenta y ocho metros cuadrados) y 3.529 ha. (tres mil quinientos veintinueve hectáreas), 561 m2 (quinientos sesenta y un metros cuadrados) respectivamente, con una superficie total de 7.136 ha. (siete mil ciento treinta y seis hectáreas), con 5.219 m2 (cinco mil doscientos diecinueve metros cuadrados), con Padrones Nºs. 1.194 y 5.239 respectivamente e individualizados en la Dirección de los Registros Públicos como Fincas Nºs 3.164 y 9.244 del distrito de Concepción
+
+> *Modificado por Ley N° 1076 (1997-06-30)*
 
 ### Artículo 2°
 
