@@ -1329,7 +1329,10 @@ El Ministerio podrá obligar a que los medicamentos importados se mantengan en b
 
 ### Artículo 270°
 
-La importación y exportación de muestras gratis de medicamentos, de artículos de perfumería o de tocador pueden ser realizados únicamente por sus representantes registrados en el Ministerio.
+
+La importación de medicamentos destinados a la venta o a muestras gratis puede ser hecha únicamente por su representante legal registrado en el Ministerio, salvo de aquél autorice expresamente la solicitud de otros importadores. Los precios de importación de medicamentos destinados para la venta no podrán ser superiores al precio mayorista, más favorable, establecido en el país de exportación o de origen, en su caso
+
+> *Modificado por Ley N° 115 (1991-01-04)*
 
 ### Artículo 271°
 
@@ -1337,7 +1340,10 @@ Las muestras gratis deben tener la misma composición y elaboración que los des
 
 ### Artículo 272°
 
-La importación, exportación y producción de muestras gratis que contengan estupefacientes y otras drogas peligrosas, requieren la autorización previa del Ministerio.
+
+Los medicamentos importados no podrán beneficiarse con disposición normativa alguna tendiente a regularizar la tenencia de los que hayan sido introducidos si la intervención del Ministerio y del representante legal. Ningún Despacho Aduanero de medicamentos podrán iniciarse sin la previa intervención del Ministerio
+
+> *Modificado por Ley N° 115 (1991-01-04)*
 
 SECCION II
 
