@@ -16,69 +16,68 @@ short_title: "QUE ACTUALIZA LAS TASAS Y LOS ARANCELES ESTABLECIDOS EN EL…"
 ### Artículo 1°
 
 
-Quedarán sujetos al pago de una tasa, que será percibida en guaraníes o su equivalente de la moneda del país en donde se expide el documento, por cada actuación del Departamento de Legalizaciones del Ministerio de Relaciones Exteriores, sobre los documentos públicos y privados destinados a producir efectos jurídicos fuera del territorio de la República, de acuerdo con la siguiente escala de salarios mínimos diarios vigentes para actividades diversas no especificadas".
 
-DOCUMENTOS NACIONALES
+Quedarán sujetos al pago de una tasa, que será percibida en guaraníes, por cada actuación de la Dirección de Legalizaciones del Ministerio de Relaciones Exteriores, sobre los documentos públicos y privados destinados a producir efectos jurídicos dentro y fuera del territorio de la República, de acuerdo con la siguiente escala de jornales mínimos diarios vigentes para actividades diversas no especificadas:
 
-Certificado de nacimiento : medio salario mínimo diario.
+Documentos Nacionales
 
-Certificado de defunción : un salario mínimo diario.
+Certificado de nacimiento: medio jornal mínimo diario.
 
-Certificado de matrimonio : medio salario mínimo diario.
+Certificado de defunción: un jornal mínimo diario.
 
-Certificado de antecedentes : medio salario mínimo diario.
+Certificado de matrimonio: medio jornal mínimo diario.
 
-Permiso de menor : medio salario mínimo diario.
+Certificado de antecedentes: medio jornal mínimo diario.
 
-Poderes : un salario mínimo diario.
+Permiso de menores: medio jornal mínimo diario.
 
-Permiso para conducir : un salario mínimo diario.
+Poderes: un jornal mínimo diario.
 
-Legalización de pasaportes policiales : un salario mínimo.
+Permiso para conducir: un jornal mínimo diario.
 
-Legalización de documentos comerciales : tres salarios mínimos.
+Legalización de pasaporte policial: un jornal mínimo diario.
 
-Certificado fitosanitario : un salario mínimo.
+Legalización de documento comercial: tres jornales mínimos diarios.
 
-Sentencia : tres salarios mínimos.
+Certificado fitosanitario: un jornal mínimo diario.
 
-Exhorto : tres salarios mínimos.
+Sentencia: tres jornales mínimos diarios.
 
-Varios : un salario mínimo.
+Exhorto: tres jornales mínimos diarios.
 
-DOCUMENTOS EXTRANJEROS
+Varios: un jornal mínimo diario.
+
+Documentos Extranjeros:
 
 Todo documento redactado o
 
-procesado en Consulados
+procesado en Consulados Nacionales: tres jornales mínimos diarios.
 
-Nacionales : tres salarios mínimos diarios.
+Documentos relacionados a estudios: dos jornales mínimos diarios.
 
-Documentos relacionados a estudios : dos salarios mínimos diarios.
+Certificado de nacimiento: tres jornales mínimos diarios.
 
-Certificado de nacimiento : tres salarios mínimos diarios.
+Certificado de defunción: tres jornales mínimos diarios.
 
-Certificado de defunción : tres salarios mínimos diarios.
+Certificado de matrimonio: tres jornales mínimos diarios.
 
-Certificado de matrimonio : tres salarios mínimos diarios.
+Certificado de antecedentes: tres jornales mínimos diarios.
 
-Certificado de antecedentes : tres salarios mínimos diarios.
+Certificado de vida y residencia: tres jornales mínimos diarios.
 
-Certificado de vida y residencia : tres salarios mínimos diarios.
+Cualquier documento relativo a adopción: diez jornales mínimos diarios.
 
-Cualquier documento relativo a adopción : diez salarios mínimos diarios.
+Constitución de sociedades: cinco jornales mínimos diarios.
 
-Constitución de sociedades : cinco salarios mínimos diarios.
+Poderes: cinco jornales mínimos diarios.
 
-Poderes : cinco salarios mínimos diarios.
+Contratos: cinco jornales mínimos diarios.
 
-Contratos : cinco salarios mínimos diarios.
+Todo documento referente a licitaciones: cinco jornales mínimos diarios.
 
-Todo documento referente a licitaciones : cinco salarios mínimos diarios.
+Varios: cinco jornales mínimos diarios.
 
-Varios : cinco salarios mínimos diarios.
-
-> *Modificado por Ley N° 624 (1995-07-20)*
+> *Modificado por Ley N° 1030 (1996-12-20)*
 
 ### Artículo 2°
 
