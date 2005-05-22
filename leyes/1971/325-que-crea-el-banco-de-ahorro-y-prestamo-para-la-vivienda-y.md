@@ -440,9 +440,10 @@ DEL SEGURO DE CREDITOS HIPOTECARIOS
 
 ### Artículo 49°
 
-Los préstamos para vivienda otorgados por las Sociedades quedarán asegurados de pleno derecho por el Banco siempre que se den cumplimiento a los requisitos establecidos por el mismo.
 
-El seguro de préstamo hipotecario garantiza al acreedor del préstamo asegurado, mediante el pago puntual de la prima pactada, el cobro del capital, intereses y demás obligaciones accesorias del crédito, en la forma y condiciones establecidas en esta ley, sus reglamentos, las normas dictadas por el Banco y demás disposiciones aplicables.
+Las sociedades integrantes del Sistema Nacional de Ahorro y Préstamo para la Vivienda deberán contratar seguros que cubran sus préstamos hipotecarios para viviendas, pudiendo hacerlo, opcionalmente, con el Banco o con compañías aseguradoras que cumplan con los requisitos exigidos por la Superintendencia de Seguros. En ambos casos, las cláusulas del seguro contratado deberán contener las prescripciones que rigen para los seguros contratados con el Banco, establecidas en los artículos 50 al 53 de la presente Ley
+
+> *Modificado por Ley N° 1896 (2005-05-22)*
 
 ### Artículo 50°
 
@@ -766,9 +767,10 @@ DE LA INSPECCIÓN Y CONTROL DE LAS SOCIEDADES
 
 ### Artículo 99°
 
-Las Sociedades estarán sujetas a la inspección, examen y auditoria del Banco. El Banco tendrá a tal efecto pleno acceso a todos los libros, registros, documentos y papeles de las Sociedades y podrá exigirles en cualquier tiempo los informes y explicaciones que juzguen convenientes para el eficaz desempeño de sus funciones.
 
-Las Sociedades deberán presentar anualmente a la realización de la asamblea general ordinaria, un informe detallado que comprenda la memoria, el balance general y el informe de auditoria. La publicación del balance de las Sociedades se hará previa aprobación del Banco.
+Las sociedades del Sistema Nacional de Ahorro y Préstamo para la Vivienda estarán sujetas al control, inspección y vigilancia de la Superintendencia de Bancos y observarán estrictamente las prescripciones establecidas en el Título IX, Capítulo I, artículos 102 y siguientes de la Ley N° 861/96 "General de Bancos, Financieras y otras Entidades de Crédito", quedando afectadas a las limitaciones establecidas en el artículo 23 y sujetas a las demás disposiciones que le sean aplicables de la Ley N° 861/96
+
+> *Modificado por Ley N° 1896 (2005-05-22)*
 
 CAPÍTULO VIII
 
