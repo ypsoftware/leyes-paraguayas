@@ -23,7 +23,10 @@ Salvo autorización por decreto del Poder Ejecutivo, fundada en razones de inter
 
 ### Artículo 3°
 
-Las disposiciones del Artículo 2° de la presente Ley no afectarán los derechos adquiridos antes de la vigencia de esta Ley.
+
+Las disposiciones del Artículo 2° de la presente Ley no afectarán los derechos adquiridos debidamente comprobados antes de la vigencia de esta Ley. Tampoco podrán invocarse contra los derechos sucesorios de los ciudadanos oriundos de los países limítrofes, cuando los mismos versen sobre inmuebles o sociedades incursos en la mencionada zona. Asimismo, quedan excluidos de esta normativa los inmuebles que por subasta pública fueren adjudicados judicialmente o entregados en concepto de dación en pago a favor de bancos o entidades financieras, reguladas por la Ley N° 861 del 24 de junio de 1996 “GENERAL DE BANCOS, FINANCIERAS Y OTRAS ENTIDADES DE CREDITO”, de dichos países, cualquiera sea la fecha de formalización de la garantía; y los derechos de los extranjeros oriundos de cualquiera de los países limítrofes, con radicación permanente en la República. Igualmente, no afectará a gravámenes constituidos antes de la vigencia de esta normativa legal a favor de las personas físicas o jurídicas caracterizadas en la presenta Ley.
+
+> *Modificado por Ley N° 2647 (2005-08-18)*
 
 ### Artículo 4°
 
