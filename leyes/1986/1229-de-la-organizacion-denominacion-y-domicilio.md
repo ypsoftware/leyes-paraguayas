@@ -652,3 +652,5 @@ Comuníquese al Poder Ejecutivo.
 *DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL A LOS DIEZ Y OCHO DÍAS DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS OCHENTA Y SEIS.*
 
 > *Derogada en su totalidad por Ley N° 1404 (1999-01-28)*
+
+> *Derogada en su totalidad por Ley N° 2672 (2005-09-09)*
