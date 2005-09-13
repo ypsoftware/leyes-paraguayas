@@ -15,13 +15,16 @@ short_title: "QUE REGULA EL OTORGAMIENTO DE VIATICOS EN LA ADMINISTRACION…"
 
 ### Artículo 1°
 
-Llámese viático al monto de dinero que se concede a los funcionarios y empleados públicos, incluyendo los de elección popular, tanto de la Administración Central como de las Entidades Autárquicas y Descentralizadas del Estado, para atender los gastos personales que les ocasione el desempeño de una comisión oficial de servicios en lugares alejados de su asiento ordinario de trabajo.
 
-Se puede extender a:
+Llámese viático al monto de dinero que se concede a los funcionarios y empleados públicos, incluidos los de elección popular, tanto de la Administración Central como de las entidades autárquicas y descentralizadas del Estado, a personas contratadas sin relación de dependencia, comisionados o trasladados, al personal de las fuerzas públicas, al personal con funciones policiales y especiales de seguridad en comisión de servicios o de seguridad en bancos oficiales y entidades públicas, para atender los gastos personales que les ocasione el desempeño de una comisión oficial de servicios en lugares alejados de su asiento ordinario de trabajo, de acuerdo a lo establecido en el Clasificador Presupuestario.
 
-a) las personas que sin ser funcionarios públicos formen parte de las comisiones oficiales, por la necesidad de contar con su concurso para el correcto cumplimiento de la comisión; y,
+Se puede extender:
 
-b) las víctimas y testigos, para los juicios orales.
+a) a las personas que sin ser funcionarios públicos formen parte de las comisiones oficiales por la necesidad de contar con su concurso para el correcto cumplimiento de la comisión; y
+
+b) a las víctimas y testigos, para los juicios orales.
+
+> *Modificado por Ley N° 2686 (2005-09-13)*
 
 ### Artículo 2°
 
@@ -45,7 +48,12 @@ A partir de la promulgación de esta Ley, los recibos de otorgamiento de viátic
 
 ### Artículo 7°
 
-A los efectos de la rendición de cuentas y liquidación de los viáticos, se debe exigir la presentación de los comprobantes de los gastos realizados hasta un mínimo del 70% (setenta por ciento) de la base del cálculo establecida en el Artículo 5°.
+
+A los efectos de la rendición de cuentas y liquidación de los viáticos, se exigirá la presentación de los comprobantes de los gastos realizados hasta un mínimo del 50% (cincuenta por ciento) de la base de cálculo establecido en el Artículo 5° de la Ley N° 2597/2005, para los traslados al exterior del país.
+
+El párrafo precedente regirá por encima de cuarenta jornales mínimos para actividades diversas no especificadas en la República para los traslados dentro del territorio nacional.
+
+> *Modificado por Ley N° 2686 (2005-09-13)*
 
 ### Artículo 8°
 
@@ -53,9 +61,10 @@ La Contraloría General de la República establece por disposición general los 
 
 ### Artículo 9°
 
-Los funcionarios facultados a administrar los viáticos y los que los utilizan son personalmente responsables de la correcta utilización de los recursos y de la violación de las normas o procedimientos. Estas son consideradas faltas graves a los efectos de la Ley de la Función Pública.
 
-El equivalente al monto no rendido o indebidamente liquidado más un monto del 10% (diez por ciento) en concepto de multa serán deducidos de sus asignaciones mensuales, cuando las faltas sean cometidas por funcionarios no pasibles de sanción por la Ley N° 1626/2000 “DE LA FUNCION PUBLICA”.
+Los funcionarios que utilizan los viáticos son personalmente responsables de la correcta utilización de los recursos y de la violación de las normas o procedimientos. Estas son consideradas faltas graves a los efectos de la Ley N° 1626/2000 ‘De La Función Pública’, sean cometidas las mismas por funcionarios pasibles y no pasibles de sanción por la Ley N° 1626/2000 ‘De La Función Pública.
+
+> *Modificado por Ley N° 2686 (2005-09-13)*
 
 ### Artículo 10°
 
