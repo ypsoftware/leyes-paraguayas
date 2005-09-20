@@ -29,7 +29,10 @@ El Notario del registro actuante percibirá de los contratantes con los Poderes 
 
 ### Artículo 2°
 
-Comuníquese al Poder Ejecutivo.
+
+El Escribano Mayor de Gobierno será designado por el Presidente de la República, con acuerdo de la Honorable Cámara de Senadores, y gozará de una remuneración mensual prevista para un Ministro en el Presupuesto General de la Nación. También designará un Escribano Suplente.
+
+> *Modificado por Ley N° 2592 (2005-09-20)*
 
 ---
 
