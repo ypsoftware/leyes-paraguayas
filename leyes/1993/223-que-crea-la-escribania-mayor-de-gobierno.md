@@ -19,7 +19,10 @@ Créase la Escribanía Mayor de Gobierno, que estará ejercida por un Escribano 
 
 ### Artículo 2°
 
-El Escribano Mayor de Gobierno será designado por el Senado de una terna propuesta por el Consejo de la Magistratura sobre la base de su idoneidad, de sus méritos y sus aptitudes y gozará de una asignación mensual, prevista para un Ministro en el Presupuesto General de la Nación.
+
+El Escribano Mayor de Gobierno será designado por el Presidente de la República, con acuerdo de la Honorable Cámara de Senadores, y gozará de una remuneración mensual prevista para un Ministro en el Presupuesto General de la Nación. También designará un Escribano Suplente.
+
+> *Modificado por Ley N° 2592 (2005-09-20)*
 
 ### Artículo 3°
 
@@ -32,9 +35,10 @@ Para ejercer el cargo de Escribano Mayor de Gobierno se requiere ser ciudadano p
 ### Artículo 5°
 
 
-El ejercicio del cargo es incompatible con la práctica profesional del Registro Notarial Privado. No podrá ejercer otros cargos públicos ni privados remunerados, salvo la docencia o actividades de investigación científica a tiempo parcial y no podrá percibir honorarios en ninguno de los actos en que el Estado intervenga
 
-> *Modificado por Ley N° 1651 (2000-12-28)*
+El ejercicio del cargo es incompatible con el usufructo de un Registro Notarial. No podrá ejercer otros cargos públicos ni privados remunerados, salvo la docencia o actividad de investigación científica a tiempo parcial, y no podrá percibir honorarios en ninguno de los actos que formalice.
+
+> *Modificado por Ley N° 2592 (2005-09-20)*
 
 ### Artículo 6°
 
@@ -42,17 +46,18 @@ El Escribano Mayor de Gobierno tendrá competencia para ejercer sus funciones en
 
 ### Artículo 7°
 
-Son funciones del Escribano Mayor de Gobierno:
 
-a) Autorizar contratos en que el Poder Ejecutivo sea parte;
+Son funciones de la Escribanía Mayor de Gobierno:
 
-b) Autorizar los actos protocolares del Poder Ejecutivo;
+a) autorizar los actos protocolares del Presidente de la República;
 
-c) Labrar actas de los actos extraprotocolares de interés del Poder Ejecutivo;
+b) labrar acta de los actos extraprotocolares de interés del Presidente de la República;
 
-d) Organizar el archivo, la custodia y conservación de los protocolos y documentos de la Escribanía Mayor de Gobierno; y,
+c) organizar el archivo, la custodia y conservación de los protocolos y documentos de la Escribanía Mayor de Gobierno; y
 
-e) Guardar y conservar testimonios de los títulos de propiedad de los bienes del Estado.
+d) guardar y conservar testimonios de los títulos de propiedad de los bienes del Estado.
+
+> *Modificado por Ley N° 2592 (2005-09-20)*
 
 ### Artículo 8°
 
@@ -60,17 +65,17 @@ Todos los testimonios de escritura pública en los cuales el Estado y los entes 
 
 ### Artículo 9°
 
-El Registro Notarial de la Escribanía Mayor de Gobierno estará formado con cuadernillos rubricados por el Vice-Ministro de Justicia y contará con:
 
-a) Un protocolo de actos y contratos de escrituras públicas;
+El Registro Notarial de la Escribanía Mayor de Gobierno estará formado por hojas de protocolo, rubricadas por el Ministerio de Justicia y Trabajo.
 
-b) Un protocolo de actos oficiales en el que se labren los actos de posesión, sus delegaciones, sus reasunciones y los juramentos de los funcionarios obligados por la Constitución o por la Ley; y,
-
-c) Un protocolo de actas notariales.
+> *Modificado por Ley N° 2592 (2005-09-20)*
 
 ### Artículo 10°
 
-En los casos en que surjan impedimentos legales o materiales para el ejercicio del cargo, el Escribano Mayor de Gobierno comunicará dicha circunstancia a la Honorable Cámara de Senadores la que designará al sustituto de la misma terna propuesta por el Consejo de la Magistratura. En caso de acefalía se aplicará el mismo procedimiento.
+
+En los casos en que surjan impedimentos legales o materiales para el ejercicio del cargo, el Escribano Mayor de Gobierno será reemplazado por el suplente, quien tendrá incompatibilidad con el ejercicio de la profesión, durante el plazo que dure en sus funciones.
+
+> *Modificado por Ley N° 2592 (2005-09-20)*
 
 ### Artículo 11°
 
@@ -79,13 +84,10 @@ El Escribano Mayor de Gobierno ajustará sus funciones a las disposiciones de la
 ### Artículo 12°
 
 
-Los actos que no estén previstos en el Artículo 7o. de esta Ley, serán formalizados por ante cualquiera de los escribanos de registro, a elección de la parte privada contratante de una lista elevada por el Colegio de Escribanos del Paraguay anualmente.
 
-En los actos en los cuales el Estado y los entes descentralizados del Estado adquieran bienes o formalicen contratos, quedan liberados del pago de los honorarios y de los demás gastos que se generen por la preparación y protocolización de las respectivas escrituras públicas.
+Los actos y contratos que no estén previstos en esta Ley, serán formalizados ante los Escribanos de Registro, a elección de la parte privada contratante de una lista presentada por el Colegio de Escribanos del Paraguay anualmente. Los actos en los cuales el Estado formalice contratos, quedan liberados del pago de honorarios y gastos. El Notario del Registro actuante percibirá de los contratantes con los Poderes del Estado, hasta el 50% (cincuenta por ciento) de los aranceles y gastos previstos en la Ley N° 1.307/87 “DE ARANCEL DEL NOTARIO PUBLICO”, en caso que intervengan dos Poderes del Estado, se reembolsarán solamente los gastos.
 
-El Notario del registro actuante percibirá de los contratantes con los Poderes del Estado o los entes descentralizados del Estado, hasta el 50% (cincuenta por ciento) de los aranceles previstos en la Ley No. 1307/87 "DE ARANCEL DE NOTARIO PUBLICO
-
-> *Modificado por Ley N° 1651 (2000-12-28)*
+> *Modificado por Ley N° 2592 (2005-09-20)*
 
 ### Artículo 13°
 
