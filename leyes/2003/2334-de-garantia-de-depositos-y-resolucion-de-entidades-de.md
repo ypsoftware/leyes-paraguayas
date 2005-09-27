@@ -19,27 +19,12 @@ GARANTIA DE DEPOSITOS
 
 ### Artículo 1°
 
-Régimen de la Garantía Legal de los Depósitos del Sistema Financiero.
 
-a) Naturaleza. Es un régimen explícito, limitado, obligatorio y oneroso, constituido con financiamiento público y privado, para proteger parcialmente el ahorro del público en el sistema financiero nacional, en las entidades privadas autorizadas a operar por el Banco Central del Paraguay;
+**Régimen de Garantía Legal de los Depósitos del Sistema Financiero.**
 
-b) Alcance. La garantía sobre el conjunto de imposición de dinero de las entidades privadas del sistema financiero nacional, se aplicará por persona física o jurídica, en los términos límites previstos en la presente Ley;
+a) Naturaleza. Es un régimen explícito, limitado, obligatorio y oneroso, constituido con financiamiento público y privado, para proteger parcialmente el ahorro del público en el sistema financiero nacional conformado por las entidades privadas que se hallan bajo control de la Superintendencia de Bancos del Banco Central del Paraguay y descriptas en el Artículo 11 de la Ley N° 861/96 “General de Bancos, Financieras y Otras Entidades de Crédito”, a saber: Bancos, Financieras y Sociedades de Ahorro y Préstamo para la Vivienda.
 
-c) Depósitos con derecho a garantía. Los depósitos sujetos a protección, estarán constituidos por el conjunto de imposiciones de dinero, bajo cualquier modalidad y denominación, de las entidades privadas del sistema financiero nacional, hasta el equivalente a setenta y cinco (75) salarios mínimos mensuales establecidos para actividades no especificadas en la Capital (en adelante: Salarios mínimos);
-
-d) Orden de prelación. La prelación de las imposiciones de dinero con derecho a garantía se determinará de conformidad con lo dispuesto en el Capítulo III de esta Ley;
-
-e) Modalidad de aplicación. Antes de la ejecución de la garantía se compensarán, si corresponde, el conjunto de imposiciones de dinero de una persona física o jurídica con la deuda de la misma persona con la entidad financiera. Al solo efecto de hacer las compensaciones, las obligaciones recíprocas de las partes se tendrán por vencidas. La garantía se aplicará sobre el saldo no compensado del conjunto de imposición de dinero.
-
-Cuando el conjunto de imposiciones de dinero pertenece a más de una persona, la garantía se pagará por partes iguales hasta el límite fijado en esta Ley por persona física o jurídica. El pago de la garantía no excederá de este límite cuando una misma persona posea más de una imposición de dinero en la entidad financiera;
-
-f) Exclusión. Quedará excluido de la garantía el conjunto de imposiciones de dinero perteneciente a los empleados de la entidad financiera que ocupen cargos gerenciales y directivos, así como de las personas físicas o jurídicas vinculadas a la entidad según lo definido en los Artículos 46 y 47 de la Ley N° 861/96 “General de Bancos, Financieras y Otras Entidades de Crédito”. Igualmente, quedarán excluidos los depósitos que constituyan negocios simulados, indirectos, fraudulentos o ilegales;
-
-g) Límites globales de la garantía. El aporte del Fondo de Garantía de Depósitos (FGD) para honrar la garantía, no podrá exceder en cada entidad financiera del equivalente a setenta y cinco (75) salarios mínimos mensuales por persona física o jurídica. Esta cantidad
-
-se elevará al cien por ciento (100%) del importe del depósito cuando éste se haya constituido para garantizar una operación de comercio exterior o se trate de un depósito realizado por los órganos del Poder Judicial, con el objeto de custodiar fianzas exigidas por la legislación procesal civil o criminal;
-
-h) Ejecución. Las garantías establecidas por esta Ley se honrarán en el marco de los procedimientos establecidos por el Directorio del Banco Central del Paraguay al momento de disponer el inicio del procedimiento de resolución. La garantía deberá honrarse en un plazo no superior a quince días corridos desde que se hubiere aprobado la resolución de la entidad. Este plazo podrá ampliarse por otros quince días por resolución fundada del Directorio del Banco Central del Paraguay.
+> *Modificado por Ley N° 2723 (2005-09-27)*
 
 ### Artículo 2°
 
