@@ -15,11 +15,12 @@ short_title: "QUE AMPLIA LAS FUNCIONES DE LAS SOCIEDADES DE AHORRO Y…"
 
 ### Artículo 1°
 
-Modifícanse los artículos 49 y 99 de la Ley N° 325, del 10 de diciembre de 1971 "Que crea el Banco Nacional de Ahorro y Préstamo para la Vivienda y el Sistema Nacional de Ahorro y Préstamo para la Vivienda", los que quedan redactados como sigue:
 
-"Art. 49.- Las sociedades integrantes del Sistema Nacional de Ahorro y Préstamo para la Vivienda deberán contratar seguros que cubran sus préstamos hipotecarios para viviendas, pudiendo hacerlo, opcionalmente, con el Banco o con compañías aseguradoras que cumplan con los requisitos exigidos por la Superintendencia de Seguros. En ambos casos, las cláusulas del seguro contratado deberán contener las prescripciones que rigen para los seguros contratados con el Banco, establecidas en los artículos 50 al 53 de la presente Ley".
+**Régimen de Garantía Legal de los Depósitos del Sistema Financiero.**
 
-"Art. 99.- Las sociedades del Sistema Nacional de Ahorro y Préstamo para la Vivienda estarán sujetas al control, inspección y vigilancia de la Superintendencia de Bancos y observarán estrictamente las prescripciones establecidas en el Título IX, Capítulo I, artículos 102 y siguientes de la Ley N° 861/96 "General de Bancos, Financieras y otras Entidades de Crédito", quedando afectadas a las limitaciones establecidas en el artículo 23 y sujetas a las demás disposiciones que le sean aplicables de la Ley N° 861/96".
+a) Naturaleza. Es un régimen explícito, limitado, obligatorio y oneroso, constituido con financiamiento público y privado, para proteger parcialmente el ahorro del público en el sistema financiero nacional conformado por las entidades privadas que se hallan bajo control de la Superintendencia de Bancos del Banco Central del Paraguay y descriptas en el Artículo 11 de la Ley N° 861/96 “General de Bancos, Financieras y Otras Entidades de Crédito”, a saber: Bancos, Financieras y Sociedades de Ahorro y Préstamo para la Vivienda.
+
+> *Modificado por Ley N° 2723 (2005-09-27)*
 
 ### Artículo 2°
 
