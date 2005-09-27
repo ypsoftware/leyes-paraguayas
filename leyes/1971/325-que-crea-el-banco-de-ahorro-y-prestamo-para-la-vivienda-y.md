@@ -16,13 +16,12 @@ TÍTULO PRELIMINAR
 
 ### Artículo 1°
 
-El Banco Nacional de Ahorro y Préstamo para la Vivienda y las Sociedades de Ahorro y Préstamo autorización para operar formarán el Sistema Nacional de Ahorro y Préstamo para la Vivienda. En el texto de esta ley se usarán las siguientes denominaciones equivalentes:
 
-a) BANCO: por el Banco Nacional de Ahorro y Préstamo para la Vivienda;
+**Régimen de Garantía Legal de los Depósitos del Sistema Financiero.**
 
-b) SISTEMA: por Sistema Nacional de Ahorro y Préstamo par la Vivienda;
+a) Naturaleza. Es un régimen explícito, limitado, obligatorio y oneroso, constituido con financiamiento público y privado, para proteger parcialmente el ahorro del público en el sistema financiero nacional conformado por las entidades privadas que se hallan bajo control de la Superintendencia de Bancos del Banco Central del Paraguay y descriptas en el Artículo 11 de la Ley N° 861/96 “General de Bancos, Financieras y Otras Entidades de Crédito”, a saber: Bancos, Financieras y Sociedades de Ahorro y Préstamo para la Vivienda.
 
-c) SOCIEDAD: por Sociedad de Ahorro y Préstamo.
+> *Modificado por Ley N° 2723 (2005-09-27)*
 
 TÍTULO I
 
