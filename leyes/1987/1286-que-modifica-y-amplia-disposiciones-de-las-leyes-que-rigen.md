@@ -82,7 +82,12 @@ Los aportes correspondientes serán del cinco y medio por ciento con cargo del e
 
 ### Artículo 10°
 
-Establécese un período complementario para el reconocimiento de servicios anteriores de los Asegurados y de otras personas que lo fueron, esté o no trabajando. Este período será de ciento ochenta días contados a partir de la promulgación de esta Ley. El reconocimiento se efectuará conforme a las disposiciones pertinentes de la Ley N° 430 del 28 de setiembre de 1973.
+
+Establécese la reapertura de un período complementario para el reconocimiento de servicios anteriores de los asegurados y de otras personas que lo fueron, estén o no trabajando. Este período será de dos años y se iniciará a partir de la promulgación de esta Ley. El reconocimiento se efectuará conforme a las disposiciones pertinentes de la Ley N° 430 del 28 de diciembre de 1973, modificada por el Artículo 4° de la Ley N° 98 del 31 de diciembre de 1992. Si la reapertura del nuevo período para el reconocimiento de servicios anteriores otorgare derechos para la obtención de una jubilación, la misma deberá ser concedida a partir de la fecha de formulación de la nueva solicitud de reconocimiento de servicios anteriores, para los asegurados pasivos, y a partir del primer mes siguiente al de su retiro del trabajo para los asegurados activos, siempre que reúnan las condiciones establecidas en la ley respectiva.
+
+Exceptuándose del alcance de la presente disposición legal a los asegurados ya jubilados en virtud a lo dispuesto en la Ley N° 430 del 28 de diciembre de 1973, y la Resolución C.A. N° 2574 de fecha 30 de setiembre de 1997, dictada por el Consejo de Administración del Instituto de Previsión Social (IPS)
+
+> *Modificado por Ley N° 2755 (2005-10-18)*
 
 ### Artículo 11°
 
