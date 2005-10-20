@@ -491,21 +491,14 @@ Disposiciones Generales.
 ### Artículo 60°
 
 
-1. El sueldo es la parte básica del salario y corresponde a la asignación mensual de acuerdo al grado y tiempo de servicio.
 
-2. El sueldo del Comisario General Comandante de la Policía Nacional será igual al del Ministro del Interior, siendo el de los sucesivos grados el que se determina en la siguiente escala automática de sueldos, en porcentajes referidos a la diferencia resultante entre el sueldo del Ministro del Interior (SMAX) menos el Sueldo Mínimo (SMIN):
+2. Oficiales:
 
-OFICIALES:
+Oficial Inspector: Sueldo mínimo + 36% de la diferencia (SMAX-SMIN).
 
-El Comisario General Comandante será igual al 100% del Sueldo del Ministro del Interior.
+Oficial Primero: Sueldo mínimo + 24% de la diferencia (SMAX-SMIN).
 
-Para los demás rangos será igual al Sueldo Mínimo más un porcentaje de la diferencia del Sueldo Máximo menos el Sueldo Mínimo. Se establece dicho porcentaje según los siguientes escalafones:
-
-3. Ningún personal policial percibirá un sueldo inferior al salario mínimo legal vigente, para lo cual el rango policial inferior (Sub Oficial Ayudante) deberá percibir un sueldo igual al salario mínimo legal vigente sirviendo como base de la escala automática de sueldos.
-
-4. El sueldo y otros beneficios del Comisario General Comandante es exclusivo de quien ejerce o haya ejercido el cargo de Comandante de la Policía Nacional
-
-> *Modificado por Ley N° 2397 (2004-05-27)*
+> *Modificado por Ley N° 2763 (2005-10-20)*
 
 ### Artículo 61°
 
