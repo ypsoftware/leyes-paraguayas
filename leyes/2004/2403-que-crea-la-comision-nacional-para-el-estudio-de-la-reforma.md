@@ -23,7 +23,10 @@ La Comisión estará compuesta por tres senadores, tres diputados, dos represent
 
 ### Artículo 3°
 
-Una vez instalada la Comisión, que funcionará en la sede del Congreso Nacional, elevará a consideración del Poder Legislativo, en el plazo de seis meses, sus conclusiones.
+
+Una vez instalada la Comisión, que funcionará en la sede del Palacio Legislativo, elevará a consideración del Poder Legislativo, en el plazo de un año, sus conclusiones.
+
+> *Modificado por Ley N° 2812 (2005-11-21)*
 
 ### Artículo 4°
 
