@@ -272,37 +272,10 @@ Para valuar los bienes introducidos al país o recibidos en pago sin que exista 
 
 ### Artículo 14°
 
-Exoneraciones:
 
-1) Están exentas las siguientes rentas:
+Inciso a) del 1% (uno por ciento) del valor aforo de cada animal comercializado a nivel nacional al momento de su transferencia. Se exceptúan aquellos que sean transferidos como aporte para integración de capital de cualquier tipo de sociedades dentro de un proceso de transformación, fusión o reorganización de empresas en las que el propietario de los animales forme parte. Se tomará como referencia para este pago el valor publicado por el Ministerio de Agricultura y Ganadería para diferentes categorías de ganado.
 
-a) Los dividendos y las utilidades que se obtengan en el carácter de accionistas o de socios de entidades que realicen actividades comprendidas en este impuesto.
-
-La exoneración no regirá a los efectos de la aplicación de las tasas previstas en los numerales 2) y 3) del Art. 20.
-
-b) Los intereses de títulos de deuda pública emitidos por el Estado o por las Municipalidades.
-
-c) Las exoneradas por la Ley N° 60 del 26 de marzo de 1991.
-
-d) Los intereses sobre depósitos de ahorro, tales como los depósitos a la vista,a plazo fijo, certificados de depósitos o cualquiera sea la modalidad con que se constituya,en las entidades legalmente autorizadas para realizar estas operaciones.
-
-e) Los intereses sobre colocaciones contra letras y pagarés en las entidades financieras del país.
-
-2) Están exonerados:
-
-a) Las entidades religiosas reconocidas por las autoridades competentes, por los ingresos provenientes del ejercicio del culto, servicios religiosos y de las donaciones que se destinen a dichos fines.
-
-b) Las entidades mencionadas en el inciso precedente y las de asistencia social, caridad, beneficencia, instrucción científica, literaria, artística, gremial, de cultura física y deportiva, así como las asociaciones, federaciones, fundaciones, corporaciones,partidos políticos legalmente reconocidos y demás entidades educativas reconocidas por el Ministerio de Educación y Culto, siempre que no persigan fines de lucro y que las utilidades o excedentes no sean distribuidos directa o indirectamente entre sus asociados o integrantes, las que deben tener como único destino los fines para las que fueron creadas.
-
-c) Los contribuyentes del Tributo Unico.
-
-3) Están exoneradas temporalmente:
-
-a) Las cooperativas legalmente reconocidas ya constituidas a la vigencia del presente impuesto no comprendidas en el inciso c), por las rentas netas que obtengan en los dos primeros ejercicios fiscales siguientes.
-
-b) Las cooperativas legalmente reconocidas que constituyan con posterioridad a la vigencia del presente impuesto, por las rentas netas que obtengan en los cinco ejercicios fiscales siguientes.
-
-c) Las cooperativas legalmente reconocidas constituidas con anterioridad a la vigencia del presente impuesto y con posterioridad a 1989, por las rentas netas que obtengan en los cinco primeros ejercicios fiscales siguientes contados a partir de su constitución.
+> *Modificado por Ley N° 2655 (2005-11-28)*
 
 ### Artículo 15°
 
