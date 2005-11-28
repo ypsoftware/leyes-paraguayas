@@ -130,21 +130,10 @@ Créase el Fondo Permanente de Indemnización que será aplicado exclusivamente 
 ### Artículo 14°
 
 
-Los recursos a ser administrados por la Comisión Interinstitucional provendrán de las siguientes fuentes:
 
-a) hasta el 1% (uno por ciento) del valor aforo de cada animal comercializado a nivel nacional al momento de su transferencia. Se tomará como referencia para este pago el valor publicado periódicamente en la Revista Estadísticas Agropecuarias del Ministerio de Agricultura y Ganadería;
+Inciso a) del 1% (uno por ciento) del valor aforo de cada animal comercializado a nivel nacional al momento de su transferencia. Se exceptúan aquellos que sean transferidos como aporte para integración de capital de cualquier tipo de sociedades dentro de un proceso de transformación, fusión o reorganización de empresas en las que el propietario de los animales forme parte. Se tomará como referencia para este pago el valor publicado por el Ministerio de Agricultura y Ganadería para diferentes categorías de ganado.
 
-b) hasta el 1% (uno por ciento) del valor de cada animal bovino en pie, importado o exportado, de acuerdo a los aranceles establecidos;
-
-c) hasta el 0,25 (un cuarto) del valor de cada tonelada de carne importada y exportada;
-
-d) los ingresos provenientes de las multas establecidas en el Capítulo VIII de esta Ley; y,
-
-e) la Comisión Interinstitucional será la encargada de establecer los valores específicos a ser aplicados en los incisos a), b) y c).
-
-En caso de la recaudación de estos recursos realizada por la Dirección General de Recaudación, dependiente de la Subsecretaría de Estado de Tributación del Ministerio de Hacienda, la transferencia de los mismos a las cuentas especiales de la Comisión Interinstitucional abiertas en el Banco Nacional de Fomento, se hará en forma inmediata
-
-> *Modificado por Ley N° 2044 (2002-12-19)*
+> *Modificado por Ley N° 2655 (2005-11-28)*
 
 Capítulo IV
 
