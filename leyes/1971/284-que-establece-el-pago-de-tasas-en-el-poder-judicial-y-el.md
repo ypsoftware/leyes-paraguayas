@@ -45,31 +45,10 @@ Tratándose de inmuebles para la estimación del valor del juicio se estará al 
 
 ### Artículo 3°
 
-Estarán exonerados del pago de las tasas creadas por esta Ley :
 
-a) Los juicios promovidos por el Estado, las Municipalidades y los entes descentralizados;
+La percepción de las tasas previstas en esta Ley, podrá ser efectuada por el Departamento de Ingresos Judiciales dependiente de la Dirección Financiera u otras Entidades designadas por la Corte Suprema de Justicia, con la fiscalización del Poder Judicial.
 
-b) Los juicios del fuero Laboral;
-
-c) Los amparados por carta de pobreza;
-
-d) Los juicios de alimentos y litis expensas;
-
-e) Las acciones de amparo e inconstitucionalidad;
-
-f) Las peticiones de habeas corpus;
-
-g) Los juicios promovidos por ex-combatientes de la guerra del Chaco hasta la suma de Gs. 500.000. Igualmente estarán exentos del pago de las tasas previstas en el Art. 4°. hasta el mismo monto fijado;
-
-h) La defensa en el fuero criminal;
-
-i) Los juicios sobre expropiación y sobre interdictos;
-
-j) Los juicios sobre constitución de bien de la familia;
-
-k) Las actuaciones ante los juzgados de la Paz; y
-
-l) La inscripción de constitución , modificación de derechos reales sobre tractores y maquinarias destinados a la explotación agropecuaria.
+> *Modificado por Ley N° 2844 (2005-12-19)*
 
 ### Artículo 4°
 
