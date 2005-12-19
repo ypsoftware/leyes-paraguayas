@@ -32,7 +32,10 @@ A los efectos de la percepción de las tasas previstas en esta Ley, las obligaci
 
 ### Artículo 3°
 
-La percepción de las tasas previstas en esta Ley será efectuada por la Dirección de Tasas Judiciales, dependiente de la Dirección General Financiera y fiscalizada por el Poder Judicial.
+
+La percepción de las tasas previstas en esta Ley, podrá ser efectuada por el Departamento de Ingresos Judiciales dependiente de la Dirección Financiera u otras Entidades designadas por la Corte Suprema de Justicia, con la fiscalización del Poder Judicial.
+
+> *Modificado por Ley N° 2844 (2005-12-19)*
 
 ### Artículo 4°
 
