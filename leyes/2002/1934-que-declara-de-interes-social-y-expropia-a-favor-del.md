@@ -15,11 +15,17 @@ short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA A FAVOR DEL…"
 
 ### Artículo 1°
 
-Decláranse de interés social y exprópianse a favor del Consejo Nacional de la Vivienda (CONAVI) los inmuebles individualizados como: Finca N° 9514, inscripto en la Dirección General de los Registros Públicos, bajo el No. 1 y al folio 1 y siguientes del 23 de enero de 1976 y Finca N° 9549, inscripto en la Dirección General de los Registros Públicos, bajo el N° 1 y al folio 1 y siguientes del 10 de febrero de 1976, ambas del Distrito de San Lorenzo, ubicadas en el lugar denominado “Asentamiento Santo Domingo”, del barrio Laurelty, del citado distrito, para transferir posteriormente a título oneroso a sus actuales ocupantes.
+
+Declárase de interés social y exprópiase a favor de la Secretaría de Acción Social, dependiente de la Presidencia de la República, los inmuebles identificados como Finca N° 9514, inscripta en la Dirección General de los Registros Públicos, bajo el N° 1 y al folio 1 y siguientes del 23 de enero de 1976, y la Finca N° 9549, inscripta en la Dirección General de los Registros Públicos, bajo el N° 1 y al folio 1 y siguientes del 10 de febrero de 1976, ambas del Distrito de San Lorenzo, actual “Asentamiento Santo Domingo”, del barrio Laurelty del citado distrito, para su posterior venta a las familias asentadas en el lugar.
+
+> *Modificado por Ley N° 2845 (2005-12-19)*
 
 ### Artículo 2°
 
-Procédase a indemnizar a las personas que legítimamente acrediten la calidad de propietarios de los inmuebles expropiados, conforme con lo dispuesto por la Constitución Nacional y las leyes. El Consejo Nacional de la Vivienda (CONAVI) y los propietarios acordarán en un plazo de noventa días el precio de las fincas expropiadas. En caso de no haber acuerdo en el citado plazo, las partes recurrirán al Juzgado de Primera Instancia que corresponda, a los efectos de la determinación del precio.
+
+Procédase a indemnizar a las personas que legítimamente acrediten la calidad de propietarios de los inmuebles expropiados, conforme a lo dispuesto por la Constitución Nacional y las leyes. La Secretaría de Acción Social, dependiente de la Presidencia de la República y los propietarios acordarán en un plazo de noventa días el precio de las fincas expropiadas. En caso de no haber acuerdo en el citado plazo, las partes recurrirán al Juzgado de Primera Instancia que corresponda, a los efectos de la determinación del precio.
+
+> *Modificado por Ley N° 2845 (2005-12-19)*
 
 ### Artículo 3°
 
