@@ -15,7 +15,10 @@ short_title: "QUE AUTORIZA AL INSTITUTO DE PREVISION SOCIAL (IPS), A…"
 
 ### Artículo 1°
 
-Autorízase al Instituto de Previsión Social (IPS) a transferir a titulo oneroso a favor del Estado Paraguayo, Poder Ejecutivo – Secretaría de Acción Social (SAS), el inmueble inscripto en la Dirección General de los Registros Públicos, como Finca N° 10.085, distrito Luque, con una superficie de 5 has. 96 m2. (cinco hectáreas con noventa y seis metros cuadrados), para transferir posteriormente a título oneroso a sus actuales ocupantes, ubicado en el barrio Villa Tarumá del municipio Luque.
+
+Autorízase al Instituto de Previsión Social (IPS) a transferir a título oneroso a favor del Estado Paraguayo, Poder Ejecutivo – Secretaría de Acción Social (SAS), el inmueble inscripto en la Dirección General de los Registros Públicos, como Finca N° 10085, distrito de Luque, con una superficie de 4 has. 96 m² (cuatro hectáreas con noventa y seis metros cuadrados), para transferir posteriormente a título oneroso a sus actuales ocupantes, ubicado en barrio Villa Tarumá del municipio de Luque.
+
+> *Modificado por Ley N° 2843 (2005-12-21)*
 
 ### Artículo 2°
 
