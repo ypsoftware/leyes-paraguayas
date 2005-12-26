@@ -18,13 +18,17 @@ Prohíbese la exportación y el tráfico internacional de maderas en rollos, tro
 
 ### Artículo 2°
 
-Queda prohibida la instalación y funcionamiento de industrias procesadoras de maderas en rollos, a una distancia menor de 20 (veinte) kilómetros de la frontera con la República Federativa del Brasil, comprendida desde la desembocadura del río Apa hasta la línea del dique de contención de la Represa de Itaipú.
 
-Las industrias ubicadas en las zonas de exclusión establecidas en el párrafo anterior, tendrán un plazo de 180 (ciento ochenta) días para su reubicación, a partir de la vigencia de la presente Ley.
+> **Derogado.**
+
+> *Derogado por Ley N° 2848 (2005-12-26)*
 
 ### Artículo 3°
 
-El Servicio Forestal Nacional en ningún caso otorgará las guías para el transporte y comercialización de las maderas en rollos, trozos y vigas que tengan como destino final localidades situadas en la zona de exclusión del Artículo anterior a menos de 20 (veinte) kilómetros de la línea demarcatoria de frontera.
+
+> **Derogado.**
+
+> *Derogado por Ley N° 2848 (2005-12-26)*
 
 ### Artículo 4°
 
