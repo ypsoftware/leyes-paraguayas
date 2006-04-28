@@ -91,9 +91,10 @@ De la obligación de la matriculación. Los propietarios de automotores legalmen
 
 ### Artículo 14°
 
-De la caducidad de la Cédula. La transferencia de dominio del automotor hace caducar la cédula y obliga al vendedor a devolverla y al comprador a obtener una nueva cédula con la misma matrícula.
 
-El incumplimiento de esta disposición inhabilita la circulación del automotor.
+Una vez obtenida la Cédula del Automotor estará vigente mientras persista la titularidad del dominio sobre el correspondiente autovehículo. La formalización de un cambio en la calidad de propietario del automotor obliga al nuevo titular a obtener una nueva cédula con la misma matrícula. El incumplimiento de esta disposición inhabilita la circulación del automotor.
+
+> *Modificado por Ley N° 2904 (2006-04-28)*
 
 ### Artículo 15°
 
