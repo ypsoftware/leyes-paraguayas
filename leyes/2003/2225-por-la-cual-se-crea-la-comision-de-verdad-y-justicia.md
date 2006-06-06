@@ -47,7 +47,12 @@ La integración de los miembros de la Comisión de Verdad y Justicia deberá hac
 
 ### Artículo 9°
 
-La Comisión de Verdad y Justicia, una vez integrada, tendrá una duración de dieciocho meses en sus funciones. En caso de ser necesario, la Comisión tendrá la potestad de extender su duración por seis meses más.
+
+La Comisión de Verdad y Justicia, una vez integrada, tendrá una duración de dieciocho meses en sus funciones.
+
+En caso de ser necesario, la Comisión tendrá la potestad de extender su duración por veinticuatro meses más.
+
+> *Modificado por Ley N° 2931 (2006-06-06)*
 
 ### Artículo 10°
 
