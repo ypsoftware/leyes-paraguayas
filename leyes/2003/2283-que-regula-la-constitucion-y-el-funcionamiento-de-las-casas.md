@@ -21,23 +21,10 @@ La presente Ley tiene por objeto regular la constitución y el funcionamiento de
 
 ### Artículo 2°
 
-Definiciones:
 
-A los efectos de esta Ley, se entenderán:
+inciso c) “Préstamos Prendarios” o “Empeño”, se entenderá por la entrega de una suma de dinero realizada por una Casa de Empeño y el recibo de cualquier bien mueble no registrable que sea susceptible de posesión, en garantía del cumplimiento de la obligación de devolver dicha suma de dinero, más sus accesorios legales en la fecha establecida para el efecto.
 
-a) “Persona”, será el individuo, sociedad o asociación y cualquier otro tipo de entidad jurídica capaz de adquirir derechos y obligaciones.
-
-b) “Casas de Empeño”, serán todas las personas naturales o jurídicas que se dediquen a préstamos de dinero sobre prendas, conforme a los términos de la presente Ley.
-
-c) “Préstamos Prendarios” o “Empeño”, se entenderá por la entrega de una suma de dinero realizada por una Casa de Empeño y el recibo de cualquier bien mueble que sea susceptible de posesión, en garantía del cumplimiento de la obligación de devolver dicha suma de dinero, más sus accesorios legales en la fecha establecida para el efecto.
-
-d) “Accesorios Legales”, estarán conformados por los intereses a ser pagados por el cliente, más los gastos de tasación y las expensas por conservación, mantenimiento y guarda de los bienes muebles prendados.
-
-e) “Cliente”, será la persona que toma dinero a préstamo.
-
-f) “Prestamista”, será la persona que da dinero a préstamo.
-
-g) “Subasta Pública”, venta al mejor postor de los bienes prendados realizada por un rematador público designado por el propietario de la Casa de Empeño, de conformidad a la legislación vigente.
+> *Modificado por Ley N° 2945 (2006-06-21)*
 
 ### Artículo 3°
 
@@ -97,23 +84,10 @@ La Casa de Empeño queda obligada a facilitar a las autoridades competentes de l
 
 ### Artículo 8°
 
-Deberes de la Casa de Empeño:
 
-Toda Casa de Empeño deberá:
+inciso f) llevar un libro de registro y control de los bienes prendados no redimidos en el que se consignarán todos los datos necesarios para identificar el bien no registrable y el de su registro según lo dispone el Artículo 5°, la forma de su disposición, el nombre y el documento de identidad del adquirente, monto de la operación y el nombre del rematador si la disposición fuera por subasta.
 
-a) entregar al cliente, al formalizar el contrato de prenda un documento en el cual consten detalladamente en términos claros y precisos la cantidad y fecha cuando se efectúa el préstamo; la fecha de vencimiento de la obligación; forma de pago; una descripción de la prenda; el nombre y dirección del cliente; el tipo de interés y cargos adicionales convenidos y número de la cédula de identidad paraguaya presentada por el cliente. Deberá, asimismo, constar en dicho documento el nombre, la dirección, el número de identificación del RUC de la Casa de Empeño, la leyenda o denominación de “Comprobante de Empeño” con numeración correlativa y registrada por el negocio de Casa de Empeño.
-
-b) cuando el préstamo sea prorrogado o renovado, entregar al cliente, en el momento de recibir el pago, un comprobante de venta o factura en que se especifique la cantidad destinada al pago de intereses y cargos adicionales, así como la nueva fecha de vencimiento de dicha operación de préstamo.
-
-c) permitir, en cualquier momento, el pago anticipado del préstamo adeudado más sus intereses y accesorios legales calculados hasta la fecha de vencimiento de la obligación.
-
-d) formalizado el pago o la cancelación del préstamo, anotar claramente en el comprobante de empeño la palabra “pagado” o “cancelado”, y devolver la prenda al cliente en el mismo estado de conservación como le fue entregada. El comprobante de empeño deberá ser guardado en los archivos de la Casa de Empeño por el plazo de cinco años.
-
-e) requerir fotocopia de la cédula de identidad paraguaya del cliente, consignando en el comprobante de empeño el número de la misma.
-
-f) llevar un libro de control de los bienes subastados en el que se consignarán los mismos, sus características, nombre del rematador y monto de la subasta.
-
-g) poseer un seguro por cada prenda entregada por los clientes a la Casa de Empeño.
+> *Modificado por Ley N° 2945 (2006-06-21)*
 
 ### Artículo 9°
 
