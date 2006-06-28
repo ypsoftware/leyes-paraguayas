@@ -293,9 +293,12 @@ DE LOS SINDICOS
 
 ### Artículo 38°
 
-Los síndicos asignados por Ley para el control y fiscalización de organismos e instituciones del Estado, serán designados por la Contraloría General. Ejercerán sus funciones conforme a la Ley y responderán ilimitada y solidariamente con los responsables de la repartición pública cuya auditoría y fiscalización se les confía, por los actos y documentos que verifiquen y autoricen. Sus remuneraciones formarán parte del Presupuesto General de Gastos de la Contraloría.
 
-DE LAS RESPONSABILIDADES Y SANCIONES
+Los síndicos asignados por ley para el control y fiscalización de organismos e instituciones del Estado, serán designados por la Contraloría General de la República, previo concurso de oposición. Ejercerán sus funciones conforme a la Ley y responderán ilimitada y solidariamente con los responsables de la repartición pública cuya auditoría y fiscalización se les confía, por los actos y documentos que verifiquen y autoricen. Sus remuneraciones formarán parte del Presupuesto General de Gastos de la Contraloría, debiendo ser contemplados en el Ejercicio Fiscal del año correspondiente.
+
+Los síndicos deberán ser de nacionalidad paraguaya, graduados universitarios, con experiencia en auditoría con no menos de cinco años.
+
+> *Modificado por Ley N° 2952 (2006-06-28)*
 
 ### Artículo 39°
 
