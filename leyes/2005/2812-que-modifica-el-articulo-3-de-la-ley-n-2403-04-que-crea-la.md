@@ -15,9 +15,10 @@ short_title: "QUE MODIFICA EL ARTICULO 3° DE LA LEY N° 2403/04 “QUE CREA…"
 
 ### Artículo 1°
 
-Modifícase el Artículo 3° de la Ley N° 2403/04 “QUE CREA LA COMISION NACIONAL PARA EL ESTUDIO DE LA REFORMA DEL SISTEMA PENAL Y PENITENCIARIO”, cuyo texto queda redactado de la siguiente forma:
 
-“Art. 3°.- Una vez instalada la Comisión, que funcionará en la sede del Palacio Legislativo, elevará a consideración del Poder Legislativo, en el plazo de un año, sus conclusiones.”
+Una vez instalada la Comisión, que funcionará en la sede del Palacio Legislativo, elevará a consideración del Poder Legislativo, en el plazo de dieciocho meses, sus conclusiones
+
+> *Modificado por Ley N° 2964 (2006-07-19)*
 
 ### Artículo 2°
 
