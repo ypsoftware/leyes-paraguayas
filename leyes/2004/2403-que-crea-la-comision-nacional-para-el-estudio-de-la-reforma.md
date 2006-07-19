@@ -15,7 +15,10 @@ short_title: "QUE CREA LA COMISION NACIONAL PARA EL ESTUDIO DE LA REFORMA…"
 
 ### Artículo 1°
 
-Crear la Comisión Nacional para el Estudio de la Reforma del Sistema Penal y Penitenciario, a fin de elaborar propuestas de modificación de la Ley N° 1.160 del 26 de noviembre de 1997 “Código Penal”, de la Ley N° 1.286 del 8 de julio de 1998 “Código Procesal Penal” y de la Ley N° 210 del 2 de octubre de 1970 “Del Régimen Penitenciario”.
+
+Una vez instalada la Comisión, que funcionará en la sede del Palacio Legislativo, elevará a consideración del Poder Legislativo, en el plazo de dieciocho meses, sus conclusiones
+
+> *Modificado por Ley N° 2964 (2006-07-19)*
 
 ### Artículo 2°
 
