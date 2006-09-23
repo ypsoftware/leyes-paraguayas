@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/10783/texto
 short_title: "QUE AUTORIZA AL ESTADO PARAGUAYO (MINISTERIO DE DEFENSA…"
+derogada: true
+derogada_por: Ley 3022
+derogada_fecha: 2006-09-23
 ---
 
 # LEY Nº 8571996
@@ -35,3 +38,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobada por la H. Cámara de Diputados, a dieciocho días del mes de diciembre del año un mil novecientos noventa y cinco , y por la H. Cámara de Senadores, sancionándose la Ley, a treinta días del mes de abril, del año un mil novecientos noventa y seis.*
+
+> *Derogada en su totalidad por Ley N° 3022 (2006-09-23)*
