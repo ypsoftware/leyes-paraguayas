@@ -113,21 +113,10 @@ Quienes cumplan con los requisitos establecidos en esta ley tendrán derecho a c
 
 ### Artículo 14°
 
-Los interesados en ingresar a la función pública deberán reunir las siguientes condiciones:
 
-a) tener nacionalidad paraguaya;
+b) contar con mayoría de edad;
 
-b) contar con dieciocho años de edad como mínimo y cuarenta y cinco años como máximo;
-
-c) justificar el cumplimiento de las obligaciones personales previstas por la Constitución Nacional y las leyes;
-
-d) poseer idoneidad y capacidad, necesarias para el ejercicio del cargo, comprobadas mediante el sistema de selección establecido para el efecto;
-
-e) estar en pleno goce de los derechos civiles y políticos;
-
-f) presentar certificado de antecedentes judiciales y policiales; y,
-
-g) no registrar antecedentes de mal desempeño de la función pública.
+> *Modificado por Ley N° 3031 (2006-10-09)*
 
 ### Artículo 15°
 
