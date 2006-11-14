@@ -15,9 +15,10 @@ short_title: "QUE MODIFICA EL ARTICULO 1° DE LA LEY N° 1935/02 “QUE…"
 
 ### Artículo 1°
 
-Modifícase el Artículo 1° de la Ley N° 1935/02 “QUE INDEMNIZA A VICTIMAS DE VIOLACIONES DE DERECHOS HUMANOS DURANTE LA DICTADURA DE 1954 A 1989”, cuyo texto queda redactado como sigue:
 
-“Art. 1°.- Las personas de cualquier nacionalidad que durante el sistema dictatorial imperante en el pais entre los años 1954 y 1989 hubieran sufrido violación de sus derechos humanos, a la vida, la integridad personal o la libertad, por parte de funcionarios, empleados o agentes del Estado, serán indemnizadas en los términos de la presente Ley. Las mismas tendrán un plazo de veinticuatro meses, a partir de la promulgación de la presente Ley.”
+Las personas de cualquier nacionalidad que durante el sistema dictatorial imperante en el país entre los años 1954 y 1989 hubieran sufrido violación de sus derechos humanos, a la vida, la integridad personal o la libertad, por parte de funcionarios, empleados o agentes del Estado, serán indemnizadas en los términos de la presente Ley.
+
+> *Modificado por Ley N° 3075 (2006-11-14)*
 
 ### Artículo 2°
 
