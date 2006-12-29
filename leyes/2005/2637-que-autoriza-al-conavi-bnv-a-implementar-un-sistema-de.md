@@ -15,13 +15,16 @@ short_title: "QUE AUTORIZA AL CONAVI/BNV A IMPLEMENTAR UN SISTEMA DE…"
 
 ### Artículo 1°
 
-Facúltase al CONAVI/BNV a implementar un Sistema de Asistencia Social para todos los beneficiarios afectados por la Ley N° 1.555/00 y modificaciones, y los beneficiarios del Subsidio Habitacional Directo, en el que se contemplen situaciones de excepción y habiliten a:
 
-a) conceder esperas, por tiempo definido, en el pago de sus cuotas, sin cobro de intereses moratorios y/o punitorios; y
+Facúltase al CONAVI/BNV a establecer un Sistema de Asistencia Social para todos los beneficiarios afectados por la Ley N° 1.555/00 QUE ESTABLECE NORMAS PARA DETERMINAR PRECIO ACTUAL DE UNIDADES HABITACIONALES Y DECLARA INAPLICABLE EL ARTICULO 27 DE LA LEY N° 118/90 y sus modificaciones, y los beneficiarios del Subsidio Habitacional Directo, así como también a todos los prestatarios de créditos hipotecarios destinados a la construcción, adquisición o mejoramiento de viviendas, otorgadas por el CONAVI/BNV y las sociedades que fueran integrantes del Sistema de Ahorro y Préstamo para la Vivienda creadas por la Ley N° 325/71 QUE CREA EL BANCO DE AHORRO Y PRESTAMO PARA LA VIVIENDA Y EL SISTEMA NACIONAL DE AHORRO Y PRESTAMO, cuyos créditos otorgados no hayan superado la cifra de G. 100.000.000 (Guaraníes cien millones), en el que se contemplen situaciones de excepción y habiliten a:
 
-b) cancelar deudas en situaciones específicas en que el beneficiario no puede ya hacer frente a sus obligaciones
+a) conceder esperas, por tiempo definido, en el pago de sus cuotas, sin cobro de intereses moratorios y/o punitorios;
 
-La configuración de las situaciones de excepción, las formalidades que se deben cumplir para acceder al programa y el alcance de éste, estarán debidamente contempladas en el decreto reglamentario de la presente Ley.
+b) cancelar deudas en situaciones específicas en que el beneficiario no pueda hacer frente a sus obligaciones;
+
+c) cancelar deudas originadas de proyectos habitacionales en los que, a más de los subsidios estatales concedidos bajo el régimen de la Ley N° 815/95 ´QUE MODIFICA LA LEY N° 118/90, ASI COMO DISPOSICIONES LEGALES VINCULADAS AL SISTEMA NACIONAL DE AHORRO Y PRÉSTAMO PARA LA VIVIENDA Y REGULA EL SISTEMA DE SUBSIDIO HABITACIONAL DIRECTO PARA LA ADQUISICIÓN, CONSTRUCCIÓN, AMPLIACIÓN O MEJORA DE VIVIENDAS ECONÓMICAS Y VIVIENDAS DE INTERÉS SOCIAL’, se apliquen aportes de entidades extranjeras cubriendo en su totalidad el costo de las viviendas.
+
+> *Modificado por Ley N° 3010 (2006-12-29)*
 
 ### Artículo 2°
 
@@ -43,11 +46,17 @@ Las entidades en estado de liquidación, concordato o quiebra, mencionadas en el
 
 ### Artículo 4°
 
-Los créditos hipotecarios reestructurados conforme al Artículo 3° de la presente Ley, deberán ser transferidos por las entidades en estado de liquidación, concordato o quiebra, al CONAVI/BNV en el plazo perentorio de sesenta días, por el valor resultante de la reestructuración y conforme a los mecanismos previstos en la Ley N° 2.026/02. Los fondos provenientes de la recuperación de la cartera hipotecaria de los deudores hipotecarios del SHD, deberán ser utilizados para pagar la deuda generada por la adquisición de la cartera, conforme a esta Ley.
+
+Las entidades en estado de liquidación, concordato o quiebra, deberán transferir al Consejo Nacional de la Vivienda - CONAVI, los créditos reestructurados conforme a los mecanismos establecidos en las Leyes N°s. 2.637/05 y 2.839/05, en el plazo perentorio de ciento ochenta días.
+
+> *Modificado por Ley N° 3010 (2006-12-29)*
 
 ### Artículo 5°
 
-La reestructuración de los créditos hipotecarios deberá ser realizada por los prestatarios dentro de los ciento ochenta días de vigencia de la presente Ley. En caso contrario, los prestatarios afectados perderán los beneficios otorgados por esta Ley, debiendo, en consecuencia, iniciarse los trámites judiciales para recuperar la cartera hipotecaria conforme a las cláusulas y condiciones del contrato original.
+
+Establécese un plazo de ciento ochenta días, a partir de la promulgación de la presente Ley, para la aplicación y cumplimiento de la Ley N° 2.637/05, ampliada y modificada por la Ley N° 2.839/05, tanto para las autoridades administrativas del Consejo Nacional de la Vivienda - CONAVI, como para las entidades en estado de liquidación, concordato o quiebra y para los beneficiarios. En caso contrario, los beneficiarios que al finalizar el plazo establecido, no realicen la reestructuración de sus créditos, perderán sus derechos a acceder a los beneficios establecidos en la Ley, quedando facultado el Consejo Nacional de la Vivienda - CONAVI y las entidades en estado de liquidación, concordato o quiebra, a la recuperación de la cartera hipotecaria morosa por la vía legal que corresponda, conforme a las cláusulas y condiciones del contrato original.
+
+> *Modificado por Ley N° 3010 (2006-12-29)*
 
 ### Artículo 6°
 
@@ -59,7 +68,10 @@ Las carteras hipotecarias que aún no hayan sido transferidas por escritura púb
 
 ### Artículo 8°
 
-Se autoriza al CONAVI/BNV a conceder quitas del 15% (quince por ciento) sobre el saldo de deuda recalculado de acuerdo con el procedimiento establecido en la presente Ley, a los prestatarios que realicen la cancelación total de sus créditos hipotecarios en forma anticipada.
+
+Autorízase al Consejo Nacional de la Vivienda - CONAVI a conceder quitas del 15% (quince por ciento) a todos los prestatarios de su cartera de crédito, que realicen la cancelación total de sus créditos en forma anticipada.
+
+> *Modificado por Ley N° 3010 (2006-12-29)*
 
 ### Artículo 9°
 
