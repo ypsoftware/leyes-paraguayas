@@ -44,29 +44,10 @@ De la Financiación
 ### Artículo 5°
 
 
-Los recursos del Fondo serán los siguientes:
 
-a) El aporte mensual obligatorio del afiliado del 18% (diez y ocho por ciento), sobre el monto de la dieta mensual;
+Son sujetos de esta Ley, con carácter obligatorio, los miembros en ejercicio del Poder Legislativo de la Nación, los miembros paraguayos del Parlamento del Mercosur, los jubilados y pensionados, y con carácter voluntario los que hayan dejado de pertenecer al mismo y opten por continuar como Afiliado al Fondo.
 
-b) El aporte mensual del Estado del 5% (cinco por ciento), calculado sobre el monto total de las dietas parlamentarias;
-
-c) El importe del aumento de la dieta establecida en el Presupuesto General de la Nación correspondiente al primer mes;
-
-d) El importe del aumento en concepto de actualización de las jubilaciones y pensiones correspondiente al primer mes;
-
-e) La amortización mensual obligatoria del afiliado resultante de la deuda por reconocimiento de servicios anteriores;
-
-f) El aporte mensual obligatorio del afiliado voluntario del 18% (diez y ocho por ciento), sobre el monto de la dieta mensual referida en el inciso a) de este artículo, durante el tiempo que le falta aportar para obtener la clase de jubilación próxima inmediata que le corresponda;
-
-g) Las rentas de las inversiones del capital disponible del fondo;
-
-h) El monto de las multas que se perciben;
-
-i) Los legados, donaciones y otros aportes previstos en el Presupuesto General de la Nación; y,
-
-j) Otros ingresos de cualquier naturaleza no contemplados expresamente en los incisos anteriores
-
-> *Modificado por Ley N° 191 (1993-06-17)*
+> *Modificado por Ley N° 3196 (2007-05-07)*
 
 ### Artículo 6°
 
@@ -84,7 +65,14 @@ Del Reconocimiento de Servicios Anteriores.
 
 ### Artículo 8°
 
-El Instituto reconocerá dentro de los noventa días, a pedido del Afiliado o del derecho habiente mencionado por el Articulo 20 de esta ley, en su caso, los servicios prestados con anterioridad a esta ley como miembro del Poder Legislativo de la Nación, a partir de la fecha de la respectiva solicitud y hasta un máximo de veinte años.
+
+Las Administraciones de la Honorable Cámara de Senadores, de la Honorable Cámara de Diputados, y del Parlamento del Mercosur están obligadas a retener mensualmente las sumas a que se refieren los incisos a), c) y d) del Artículo anterior y depositarlas en la cuenta bancaria del Fondo, conforme a los reglamentos dictados sobre la materia.
+
+Las mismas administraciones gestionarán mensualmente la obtención del aporte del Estado previsto en el inciso b) del Artículo 7º de esta Ley.
+
+El aporte previsto en el Presupuesto General de la Nación, referido en el Artículo 7º, inciso h) de esta Ley, será depositado en la cuenta bancaria del Fondo. La Administración del Congreso Nacional gestionará la obtención de este aporte.
+
+> *Modificado por Ley N° 3196 (2007-05-07)*
 
 ### Artículo 9°
 
@@ -210,7 +198,14 @@ Para que la concubina tenga derecho a los beneficios establecidos en esta ley, d
 
 ### Artículo 22°
 
-La pensión del cónyuge supérstite o concubina y de los hijos, acrecerán proporcionalmente cuando los respectivos beneficiarios dejen de tener derecho a la correspondiente pensión.
+
+En los casos en que el Afiliado deje de ser miembro del Poder Legislativo o del Parlamento del Mercosur, sin haber cumplido los requisitos legales para obtener la jubilación, tendrá derecho a la restitución del 70% ( setenta por ciento) de sus aportes.
+
+El pago se efectuará en cuotas mensuales iguales, debiendo completarse en un tiempo que será la mitad del tiempo total en que fueron realizados los mencionados aportes.
+
+En éstos casos, el Afiliado perderá su antigüedad en el Fondo, sin embargo, si posteriormente el Afiliado se incorpora nuevamente al Poder Legislativo, podrá recuperar su antigüedad, previa restitución al Fondo del monto cobrado al día de terminación, incorporando sobre el porcentaje de su dieta y gastos de representación.
+
+> *Modificado por Ley N° 3196 (2007-05-07)*
 
 CAPITULO VII
 
@@ -228,7 +223,24 @@ Si falleciere un Afiliado con menos de diez años de servicios reconocidos, cuyo
 
 ### Artículo 25°
 
-En caso de fallecimiento de un Afiliado o Jubilado y no existiendo derechohabientes en las condiciones establecidas en esta ley, el Instituto pagará el servicio fúnebre correspondiente, por un equivalente no menor a setenta y cinco salarios mínimos vigentes para las actividades diversas no especificadas de la Capital de la República. Si posteriormente apareciere algún derechohabiente, los gastos realizados por el Instituto serán descontados de la pensión, en cuotas.
+
+El Fondo será dirigido y administrado por una Comisión Co- administradora que estará compuesta del siguiente modo:
+
+a) un senador en funciones, designado por la Honorable Cámara de Senadores;
+
+b) un diputado en funciones, designado por la Honorable Cámara de Diputados;
+
+c) un parlamentario paraguayo del Mercosur en funciones, designado entre sus pares;
+
+d) un representante designado por el Instituto de Previsión Social; y,
+
+e) dos representantes de la Asociación de Jubilados y Pensionados del Poder Legislativo de la Nación, que serán nombrados por la Asociación.
+
+Los miembros de la Comisión durarán treinta meses en sus funciones, pudiendo ser reelectos. La función del miembro de la Comisión no será remunerada.
+
+La presidencia de la Comisión será ejercida en forma alternada por los miembros de las entidades representadas.
+
+> *Modificado por Ley N° 3196 (2007-05-07)*
 
 CAPITULO VIII
 
@@ -236,7 +248,30 @@ De las inversiones
 
 ### Artículo 26°
 
-Las disponibilidades del Fondo serán invertidas por el Instituto conforme a las disposiciones establecidas en el Capítulo IV “De las inversiones” de la Ley Nº 375/56 y sus modificaciones.
+
+La Comisión tendrá las siguientes funciones:
+
+a) la Co-administración del Fondo, juntamente con el Instituto;
+
+b) la coordinación con el Instituto, el Poder Legislativo, los parlamentarios del Mercosur y otras entidades del sector público y privado, en lo relacionado al funcionamiento del Fondo;
+
+c) contratar obras y servicios, adquirir, arrendar, hipotecar y transferir bienes, conceder y contraer préstamos, autorizar gastos, concertar acuerdos judiciales y extrajudiciales;
+
+d) las gestiones en beneficio de parlamentarios, jubilados y pensionados que las requieran;
+
+e) conceder las jubilaciones y pensiones y demás beneficios;
+
+f) la vigilancia permanente para el cumplimiento de las leyes y reglamentos que rigen al Fondo, particularmente en lo relativo a su estado financiero y a los beneficios que corresponden a los Afiliados, Jubilados y Pensionados;
+
+g) otorgar poderes generales o especiales para ejercer acciones en esferas judiciales o administrativas en defensa de los intereses del Fondo;
+
+h) conceder la actualización, la revalorización y los ajustes anuales de los haberes jubilatorios y de las pensiones, cuando correspondan conforme a esta Ley;
+
+i) dictar el reglamento de inversiones de las reservas del Fondo; y,
+
+j) otras, que a criterio de la Comisión sean necesarias para el mejor funcionamiento del Fondo.
+
+> *Modificado por Ley N° 3196 (2007-05-07)*
 
 CAPITULO IX
 
