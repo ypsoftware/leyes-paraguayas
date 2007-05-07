@@ -37,7 +37,10 @@ El Fondo tendrá su domicilio en la ciudad de Asunción. Los juzgados y tribunal
 
 ### Artículo 5°
 
-Son sujetos de esta Ley, con carácter obligatorio, los miembros en ejercicio del Poder Legislativo de la Nación, los jubilados y pensionados, y con carácter voluntario los que hayan dejado de pertenecer al mismo y opten por continuar como Afiliado al Fondo.
+
+Son sujetos de esta Ley, con carácter obligatorio, los miembros en ejercicio del Poder Legislativo de la Nación, los miembros paraguayos del Parlamento del Mercosur, los jubilados y pensionados, y con carácter voluntario los que hayan dejado de pertenecer al mismo y opten por continuar como Afiliado al Fondo.
+
+> *Modificado por Ley N° 3196 (2007-05-07)*
 
 ### Artículo 6°
 
@@ -71,11 +74,14 @@ i) otros ingresos de cualquier naturaleza no contemplados expresamente en los in
 
 ### Artículo 8°
 
-La Administración de la Honorable Cámara de Senadores y la Honorable Cámara de Diputados, están obligadas a retener mensualmente las sumas a que se refieren los incisos a), c) y d) del artículo anterior y depositarlas en la cuenta bancaria del Fondo, conforme a los reglamentos dictados sobre la materia.
+
+Las Administraciones de la Honorable Cámara de Senadores, de la Honorable Cámara de Diputados, y del Parlamento del Mercosur están obligadas a retener mensualmente las sumas a que se refieren los incisos a), c) y d) del Artículo anterior y depositarlas en la cuenta bancaria del Fondo, conforme a los reglamentos dictados sobre la materia.
 
 Las mismas administraciones gestionarán mensualmente la obtención del aporte del Estado previsto en el inciso b) del Artículo 7º de esta Ley.
 
-El aporte previsto en el Presupuesto General de la Nación, referido en el Artículo 7º, inciso h) de esta Ley, será depositado en la cuenta bancaria del Fondo. La Administración del Congreso Nacional gestionara la obtención de este aporte.
+El aporte previsto en el Presupuesto General de la Nación, referido en el Artículo 7º, inciso h) de esta Ley, será depositado en la cuenta bancaria del Fondo. La Administración del Congreso Nacional gestionará la obtención de este aporte.
+
+> *Modificado por Ley N° 3196 (2007-05-07)*
 
 ### Artículo 9°
 
@@ -131,7 +137,10 @@ A los efectos del cómputo de los plazos previstos en los incisos anteriores, se
 
 ### Artículo 15°
 
-Cuando el Afiliado deje de ser miembro del Poder Legislativo de la Nación sin tener cumplidos los requisitos legales para obtener la Jubilación, tendrá el derecho de solicitar a la Comisión su continuidad en el Fondo, dentro del plazo de seis meses de su retiro, como Afiliado voluntario por el tiempo de aportes necesarios y la edad requerida para su jubilación.
+
+Cuando el Afiliado deje de ser miembro del Poder Legislativo de la Nación o del Parlamento del Mercosur sin tener cumplidos los requisitos legales para obtener la Jubilación, tendrá el derecho de solicitar a la Comisión su continuidad en el Fondo, dentro del plazo de seis meses de su retiro, como Afiliado voluntario por el tiempo de aportes necesarios y la edad requerida para su jubilación.
+
+> *Modificado por Ley N° 3196 (2007-05-07)*
 
 ### Artículo 16°
 
@@ -209,11 +218,14 @@ De otros beneficios
 
 ### Artículo 22°
 
-En los casos en que el Afiliado deje de ser miembro del Poder Legislativo sin haber cumplido los requisitos legales para obtener la jubilación, tendrá derecho a la restitución del 70% ( setenta por ciento) de sus aportes.
+
+En los casos en que el Afiliado deje de ser miembro del Poder Legislativo o del Parlamento del Mercosur, sin haber cumplido los requisitos legales para obtener la jubilación, tendrá derecho a la restitución del 70% ( setenta por ciento) de sus aportes.
 
 El pago se efectuará en cuotas mensuales iguales, debiendo completarse en un tiempo que será la mitad del tiempo total en que fueron realizados los mencionados aportes.
 
-En éstos casos, el Afiliado perderá su antigüedad en el fondo, sin embargo, si posteriormente el Afiliado se incorpora nuevamente al Poder Legislativo, podrá recuperar su antigüedad, previa restitución al Fondo del monto cobrado al día de terminación, incorporando sobre el porcentaje de su dieta y gastos de representación.
+En éstos casos, el Afiliado perderá su antigüedad en el Fondo, sin embargo, si posteriormente el Afiliado se incorpora nuevamente al Poder Legislativo, podrá recuperar su antigüedad, previa restitución al Fondo del monto cobrado al día de terminación, incorporando sobre el porcentaje de su dieta y gastos de representación.
+
+> *Modificado por Ley N° 3196 (2007-05-07)*
 
 ### Artículo 23°
 
@@ -233,29 +245,35 @@ De la Comisión Co-administradora del Fondo
 
 ### Artículo 25°
 
+
 El Fondo será dirigido y administrado por una Comisión Co- administradora que estará compuesta del siguiente modo:
 
 a) un senador en funciones, designado por la Honorable Cámara de Senadores;
 
 b) un diputado en funciones, designado por la Honorable Cámara de Diputados;
 
-c) un representante designado por el Instituto de Previsión Social; y,
+c) un parlamentario paraguayo del Mercosur en funciones, designado entre sus pares;
 
-d) dos representantes de la Asociación de Jubilados y Pensionados del Poder Legislativo de la Nación, que serán nombrados por la Asociación.
+d) un representante designado por el Instituto de Previsión Social; y,
+
+e) dos representantes de la Asociación de Jubilados y Pensionados del Poder Legislativo de la Nación, que serán nombrados por la Asociación.
 
 Los miembros de la Comisión durarán treinta meses en sus funciones, pudiendo ser reelectos. La función del miembro de la Comisión no será remunerada.
 
 La presidencia de la Comisión será ejercida en forma alternada por los miembros de las entidades representadas.
 
+> *Modificado por Ley N° 3196 (2007-05-07)*
+
 ### Artículo 26°
+
 
 La Comisión tendrá las siguientes funciones:
 
 a) la Co-administración del Fondo, juntamente con el Instituto;
 
-b) la coordinación con el Instituto, el Poder Legislativo y otras entidades del sector público y privado, en lo relacionado al funcionamiento del Fondo;
+b) la coordinación con el Instituto, el Poder Legislativo, los parlamentarios del Mercosur y otras entidades del sector público y privado, en lo relacionado al funcionamiento del Fondo;
 
-c) contratar obras y servicios, adquirir, arrendar, hipotecar, y transferir bienes, conceder y contraer préstamos, autorizar gastos, concertar acuerdos judiciales y extrajudiciales;
+c) contratar obras y servicios, adquirir, arrendar, hipotecar y transferir bienes, conceder y contraer préstamos, autorizar gastos, concertar acuerdos judiciales y extrajudiciales;
 
 d) las gestiones en beneficio de parlamentarios, jubilados y pensionados que las requieran;
 
@@ -265,11 +283,13 @@ f) la vigilancia permanente para el cumplimiento de las leyes y reglamentos que 
 
 g) otorgar poderes generales o especiales para ejercer acciones en esferas judiciales o administrativas en defensa de los intereses del Fondo;
 
-h) conceder la actualización, la revalorización y los ajustes anuales de los haberes jubilatorios y de las pensiones cuando correspondan conforme a esta Ley;
+h) conceder la actualización, la revalorización y los ajustes anuales de los haberes jubilatorios y de las pensiones, cuando correspondan conforme a esta Ley;
 
 i) dictar el reglamento de inversiones de las reservas del Fondo; y,
 
 j) otras, que a criterio de la Comisión sean necesarias para el mejor funcionamiento del Fondo.
+
+> *Modificado por Ley N° 3196 (2007-05-07)*
 
 ### Artículo 27°
 
