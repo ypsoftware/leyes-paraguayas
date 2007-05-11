@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/1649/texto
 short_title: "QUE DECLARA DE INTERÉS PUBLICO Y DESAFECTA A FAVOR DEL…"
+derogada: true
+derogada_por: Ley 3200
+derogada_fecha: 2007-05-11
 ---
 
 # LEY Nº 1558
@@ -24,3 +27,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a dieciocho días del mes de noviembre del año un mil novecientos noventa y nueve, y por la Honorable Cámara de Diputados, a once días del mes de mayo del año dos mil, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 3200 (2007-05-11)*
