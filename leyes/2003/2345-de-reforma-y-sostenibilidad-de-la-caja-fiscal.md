@@ -156,7 +156,12 @@ intelectualmente incapacitados. Esta condición será acreditada por la Junta M�
 
 ### Artículo 16°
 
-Los docentes del Magisterio Nacional que a la fecha de la promulgación de la ley, tengan veinte o más años de aporte, podrán optar entre las reglas anteriormente vigentes para la jubilación ordinaria o las que se establecen en esta ley.
+
+Los docentes del Magisterio Nacional que a la fecha de la promulgación de la Ley, tengan veinte o más años de aporte, podrán optar entre las reglas anteriormente vigentes para la jubilación ordinaria o las que se establecen en esta Ley.
+
+Podrán igualmente optar por la jubilación ordinaria, las mujeres docentes que aporten a la Caja de Jubilaciones y Pensiones, a quienes se les computare un año más de servicio por cada hijo nacido durante el ejercicio de la docencia, no debiendo exceder de cinco el número de años computados en esta forma, siempre que completen veinte años de aportes al 24 de diciembre de 2003. El aporte será del 16% (dieciséis) por ciento sobre doce meses de salarios mensuales por cada hijo, tomándose como base el último salario percibido. El aporte deberá realizarse de una sola vez.
+
+> *Modificado por Ley N° 3197 (2007-05-17)*
 
 ### Artículo 17°
 
