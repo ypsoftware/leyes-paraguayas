@@ -84,9 +84,10 @@ La Remuneración Base, para la determinación de las jubilaciones, pensiones y h
 
 ### Artículo 6°
 
-Tendrán derecho a pensión los sobrevivientes de los jubilados, pensionados y retirados fallecidos y del personal en actividad con derechos a haber de retiro, jubilación ordinaria o extraordinaria.
 
-Los sobrevivientes con derecho a pensión son el cónyuge, los hijos y los padres siempre que vivan a expensas del causante y que no existan otros beneficiarios. Para tener derecho a pensión, los hijos deberán ser solteros, menores de edad con excepción de los minusválidos.
+Tendrán derecho a pensión, los sobrevivientes de los jubilados, pensionados y retirados fallecidos y del personal en actividad con derechos a haber de retiro, jubilación ordinaria o extraordinaria.
+
+Los sobrevivientes con derecho a pensión son el cónyuge, los hijos y los padres siempre que vivan a expensas del causante y que no existan otros beneficiarios. Para tener derecho a pensión, los hijos deberán ser solteros, menores de edad, con excepción de los minusválidos.
 
 En el caso de un activo fallecido, el monto inicial del beneficio se calculará como porcentaje de la jubilación o haber de retiro que le hubiere correspondido o como porcentaje sobre el monto de la jubilación, pensión o haber de retiro vigente en el caso de un jubilado, retirado o pensionado fallecido. Los porcentajes son los siguientes:
 
@@ -97,6 +98,12 @@ b) si existen hijos con derecho a pensión, corresponderá el 45% para el o la c
 c) en caso de orfandad, corresponderá la distribución equitativa del 50%; y,
 
 d) 25% para cada progenitor con derecho a pensión.
+
+En caso de fallecimiento en acto de servicio de un efectivo policial o militar que aún no tuviere el haber de retiro, los sobrevivientes indicados en el segundo párrafo de este artículo, tendrán derecho a una pensión equivalente al 65% de la última remuneración percibida. La distribución de la pensión se hará en el mismo porcentaje indicado en el tercer párrafo de este artículo.
+
+Los pensionados indicados en éste párrafo serán ingresados en las planillas de la Dirección de Pensiones no Contributivas.
+
+> *Modificado por Ley N° 3217 (2007-05-24)*
 
 ### Artículo 7°
 
