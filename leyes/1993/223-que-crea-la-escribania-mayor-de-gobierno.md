@@ -47,17 +47,20 @@ El Escribano Mayor de Gobierno tendrá competencia para ejercer sus funciones en
 ### Artículo 7°
 
 
+
 Son funciones de la Escribanía Mayor de Gobierno:
 
 a) autorizar los actos protocolares del Presidente de la República;
 
-b) labrar acta de los actos extraprotocolares de interés del Presidente de la República;
+b) labrar actas de los actos extraprotocolares de interés del Presidente de la República;
 
-c) organizar el archivo, la custodia y conservación de los protocolos y documentos de la Escribanía Mayor de Gobierno; y
+c) organizar el archivo, la custodia y conservación de los protocolos y documentos de la Escribanía Mayor de Gobierno;
 
-d) guardar y conservar testimonios de los títulos de propiedad de los bienes del Estado.
+d) otorgar gratuitamente las escrituras traslativas de dominio de bienes inmuebles del Estado a favor de las Comunidades Indígenas; y,
 
-> *Modificado por Ley N° 2592 (2005-09-20)*
+e) guardar y conservar testimonios de los títulos de propiedad de los bienes del Estado.
+
+> *Modificado por Ley N° 3227 (2007-06-01)*
 
 ### Artículo 8°
 
