@@ -509,13 +509,12 @@ DE LOS JUZGADOS DE PAZ EN LO CIVIL, COMERCIAL Y LABORAL
 
 ### Artículo 57°
 
+
 Los Juzgados de Paz en lo Civil, Comercial y Laboral conocerán:
 
-a) de los asuntos civiles, comerciales o laborales en los cuales el valor del litigio no exceda del equivalente de sesenta jornales mínimo legal para actividades diversas no especificadas en la Capital de la República, con exclusión de los que se refieren al estado civil de las personas, al derecho de familia, convocación y quiebras, y acciones reales y posesorias sobre inmuebles, y sucesiones;
+a) de los asuntos civiles, comerciales o laborales en los cuales el valor del litigio no exceda del equivalente de cien jornales mínimos legales para actividades diversas no especificadas, y las acciones sucesorias de las propiedades rurales de hasta veinte (20) hectáreas, siempre que se justifique dicho inmueble como único bien con certificación de la Dirección General de los Registros Públicos, y de los arrendatarios de terreno privado municipal respecto a los derechos y acciones sobre las mejoras introducidas; con exclusión de los que se refieran al estado civil de las personas, al derecho de familia, convocación y quiebras, y acciones reales y posesorias sobre inmuebles, y las demás sucesiones;
 
-b) de las demandas por desalojo, por rescisión de contratos de locación que sólo se funden en la falta de pago de alquileres y de las reconvencionales, siempre que en todos estos casos no se exceda de la cuantía atribuida a su competencia; y,
-
-c) de las reconvenciones que se encuadren dentro de los límites de su competencia.
+> *Modificado por Ley N° 3226 (2007-06-01)*
 
 ### Artículo 58°
 
