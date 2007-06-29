@@ -19,10 +19,7 @@ Reconócese al Instituto de Lingüística Guaraní del Paraguay “Prof. Dr. Rei
 
 ### Artículo 2°
 
-
-Facúltase al Instituto de Lingüística Guaraní del Paraguay “ Prof. Dr. Reinaldo Julián Decoud Larrosa”, a implementar planes y programas en el campo de las Ciencias Lingüísticas y a expedir títulos de grado y postgrado en las carreras de Lengua Española y Guaraní, con planes y programas de alta exigencia, a través de la formación profesional, la investigación y la extensión académica.
-
-> *Modificado por Ley N° 5120 (1993-12-19)*
+Facúltase al Instituto de Lingüística Guaraní del Paraguay “Prof. Dr. Reinaldo Julián Decoud Larrosa”, a implementar planes y programas en el campo de las Ciencias Lingüísticas y a expedir títulos de grado y maestría en la carrera de Lengua Española con planes y programas de alta exigencia, a través de la formación profesional, la investigación y la extensión académica.
 
 ### Artículo 3°
 
