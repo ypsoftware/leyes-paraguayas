@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/3346/texto
 short_title: "QUE EXPROPIA 52694 HAS. 4149 M2 (CINCUENTA Y DOS MIL…"
+derogada: true
+derogada_por: Ley 3294
+derogada_fecha: 2007-08-31
 ---
 
 # LEY Nº 2730
@@ -192,3 +195,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a cuatro días del mes de agosto del año dos mil cinco, quedando sancionado el mismo por la Honorable Cámara de Diputados, a veintidós días del mes de setiembre del año dos mil cinco, de conformidad con lo dispuesto en el Articulo 204 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 3294 (2007-08-31)*
