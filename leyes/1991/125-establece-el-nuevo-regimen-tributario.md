@@ -116,9 +116,12 @@ Los fletes internacionales serán en un 50% (cincuenta por ciento) de fuente par
 ### Artículo 6°
 
 
-> **Derogado.**
 
-> *Derogado por Ley N° 2115 (2003-06-10)*
+c) Las entidades con fines de lucro reconocidas por el Ministerio de Educación y Cultura, o por Ley de la Nación, para la educación inicial y preescolar, escolar básica, media, técnica, terciaria y universitaria.
+
+Las exoneraciones previstas en los incisos a), b) y c) del presente numeral no son de aplicación a la importación y la compra local de bienes, así como la contratación de servicios que realicen las entidades mencionadas precedentemente, quedando sometidas a las obligaciones tributarias del importador o del adquirente
+
+> *Modificado por Ley N° 3358 (2007-10-18)*
 
 ### Artículo 7°
 
