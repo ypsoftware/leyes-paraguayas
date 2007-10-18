@@ -411,11 +411,12 @@ La renta neta se determinará en todos los casos sobre base real o presunta y se
 
 ### Artículo 6°
 
-Modifícanse los Artículos 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 91, del Libro III, Título 1 “Impuesto al Valor Agregado” de la Ley Nº 125/91, del 9 de enero de 1992, los cuales quedan redactados como sigue:
 
-“LIBRO III
+c) Las entidades con fines de lucro reconocidas por el Ministerio de Educación y Cultura, o por Ley de la Nación, para la educación inicial y preescolar, escolar básica, media, técnica, terciaria y universitaria.
 
-IMPUESTO AL CONSUMO
+Las exoneraciones previstas en los incisos a), b) y c) del presente numeral no son de aplicación a la importación y la compra local de bienes, así como la contratación de servicios que realicen las entidades mencionadas precedentemente, quedando sometidas a las obligaciones tributarias del importador o del adquirente
+
+> *Modificado por Ley N° 3358 (2007-10-18)*
 
 TITULO 1
 
