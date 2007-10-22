@@ -15,9 +15,10 @@ short_title: "QUE MODIFICA EL ARTICULO 1° DE LA LEY N° 2145/03 “QUE…"
 
 ### Artículo 1°
 
-Modifícase el Artículo 1° de la Ley N° 2145/03 “QUE DECLARA DE INTERES SOCIAL Y EXPROPIA A FAVOR DEL INSTITUTO DE BIENESTAR RURAL, LA FINCA N° 2127 Y SUS DESPRENDIMIENTOS, DEL DISTRITO DE PRESIDENTE STROESSNER (HOY MINGA GUAZU) DEL DEPARTAMENTO ALTO PARANA”, el cual en su parte dispositiva queda redactado como sigue:
 
-“Art. 1°.- Declárase de interés social y exprópiase a favor del Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT), ex- Instituto de Bienestar Rural, para su posterior adjudicación a los actuales ocupantes, el inmueble situado en el Distrito de Presidente Stroessner (hoy Ciudad del Este), Departamento Alto Paraná, individualizado como Finca N° 2127 y sus desprendimientos, cuyos límites y linderos son:”
+Declárase de interés social y exprópiase a favor del Instituto Nacional del Desarrollo Rural y de la Tierra (INDERT), ex Instituto de Bienestar Rural (IBR), la Finca N° 2127, cuya superficie total es de 100 hectáreas 0060 metros cuadrados 0798 centímetros cuadrados, con sus desprendimientos, las Fincas N°s. 3559, con una superficie de 40 hectáreas, 3400 metros cuadrados, y la Finca N° 2540, con una superficie de 20 hectáreas 0012 metros cuadrados, del Distrito de Presidente Stroessner (hoy Ciudad del Este), Departamento Alto Paraná.
+
+> *Modificado por Ley N° 3333 (2007-10-22)*
 
 ### Artículo 2°
 
