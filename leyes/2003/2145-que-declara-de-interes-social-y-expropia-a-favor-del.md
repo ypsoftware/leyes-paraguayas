@@ -16,9 +16,10 @@ short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA A FAVOR DEL…"
 ### Artículo 1°
 
 
-Declárase de interés social y exprópiase a favor del Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT), ex- Instituto de Bienestar Rural, para su posterior adjudicación a los actuales ocupantes, el inmueble situado en el Distrito de Presidente Stroessner (hoy Ciudad del Este), Departamento Alto Paraná, individualizado como Finca N° 2127 y sus desprendimientos, cuyos límites y linderos son:
 
-> *Modificado por Ley N° 2570 (2005-05-16)*
+Declárase de interés social y exprópiase a favor del Instituto Nacional del Desarrollo Rural y de la Tierra (INDERT), ex Instituto de Bienestar Rural (IBR), la Finca N° 2127, cuya superficie total es de 100 hectáreas 0060 metros cuadrados 0798 centímetros cuadrados, con sus desprendimientos, las Fincas N°s. 3559, con una superficie de 40 hectáreas, 3400 metros cuadrados, y la Finca N° 2540, con una superficie de 20 hectáreas 0012 metros cuadrados, del Distrito de Presidente Stroessner (hoy Ciudad del Este), Departamento Alto Paraná.
+
+> *Modificado por Ley N° 3333 (2007-10-22)*
 
 ### Artículo 2°
 
