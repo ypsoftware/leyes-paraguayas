@@ -75,7 +75,10 @@ Ningún ciudadano podrá ser nombrado para desempeñar funciones en la Administr
 
 ### Artículo 10°
 
-La incorporación a las fuerzas Armadas del ciudadano convocado o voluntario de cualquier edad, importa a los efectos de la legislación militar, la adquisición de la mayoría de edad.
+
+> **Derogado.**
+
+> *Derogado por Ley N° 3360 (2007-11-02)*
 
 ### Artículo 11°
 
