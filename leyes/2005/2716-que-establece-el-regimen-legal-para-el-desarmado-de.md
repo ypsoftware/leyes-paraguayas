@@ -19,17 +19,25 @@ Las disposiciones de esta Ley regirán para todas las personas físicas o juríd
 
 ### Artículo 2°
 
-Todo propietario de un automotor que proceda a su desarmado con el objeto de utilizar sus autopartes, deberá solicitar su baja ante el Registro General del Automotor.
+
+Todo propietario de un automotor matriculado ante la Dirección Nacional del Registro de Automotores, que quisiera desarmar o destruir su automotor, deberá solicitar su baja ante dicho registro, adjuntando el informe de no hallarse denunciado como robado, emitido por la Dirección de Desarmaderos de Automotores (DISA.).
+
+> *Modificado por Ley N° 3369 (2007-11-12)*
 
 ### Artículo 3°
 
-Los registros de la Dirección General del Registro Automotor, dependiente de la Corte Suprema de Justicia, o el organismo que lo sustituya en el futuro, deberán emitir un certificado de baja y desarme, donde constará:
+
+Los registros de la Dirección Nacional del Registro de Automotores, dependiente de la Corte Suprema de Justicia, o el organismo que lo sustituya en el futuro, deberán emitir un Certificado de Baja y Desarme, en el cual constará:
 
 a) identificación del automotor (marca, modelo, patente, Nº de motor, Nº de chasis y color);
 
-b) fecha de baja; y,
+b) fecha de baja;
 
-c) identificación del propietario.
+c) identificación del propietario; y,
+
+d) listado de piezas que podrán ser recuperadas cuando se trata de una solicitud de baja para desarme.
+
+> *Modificado por Ley N° 3369 (2007-11-12)*
 
 ### Artículo 4°
 
@@ -47,29 +55,42 @@ Las compañías o las empresas de seguros en el caso de ser titulares o poseedor
 
 ### Artículo 6°
 
-Emitido el Certificado de Baja de acuerdo a lo prescripto por el Artículo 3º, quedará autorizado el desarme del automotor.
+
+Emitido el Certificado de Baja y Desarme, de acuerdo con lo prescripto en el Artículo 3º, será entregado por el propietario al desarmadero y autorizará a éste a recibir el automotor y proceder a su desarme o destrucción.
+
+> *Modificado por Ley N° 3369 (2007-11-12)*
 
 ### Artículo 7°
 
-Toda persona física o jurídica cuya actividad principal o secundaria constituya la comercialización de repuestos usados o su transporte deberá cumplir, además de los requisitos exigidos por las autoridades administrativas pertinentes, con las siguientes condiciones:
 
-a) la factura, remite o documento equivalente deberán contener el número identificatorio o, a falta del mismo, una individualización precisa de la pieza cuando se trate de un repuesto usado;
+Toda persona física o jurídica, cuya actividad principal o secundaria constituya la comercialización de autopartes usados o su transporte, deberá cumplir, además de los requisitos exigidos por las autoridades administrativas pertinentes, con las siguientes condiciones:
 
-b) abstenerse de ofrecer a la venta o mantener en stock repuestos que carezcan del Certificado de Baja que establece el Artículo 6º.
+a) la factura, remite o documento equivalente emitido por el desarmadero autorizado deberá mencionar el elemento identificador o descripción sustitutiva del autoparte transportado, el cual deberá coincidir con el mencionado en el Certificado de Baja y Desarme; y,
+
+b) abstenerse de ofrecer a la venta, vender o mantener en stock autopartes no mencionados en el Certificado de Baja y Desarme que establece el Artículo 6º.
+
+> *Modificado por Ley N° 3369 (2007-11-12)*
 
 ### Artículo 8°
 
-Toda persona física o jurídica cuya actividad principal, secundaria o accesoria, sea la comercialización o almacenamiento de repuestos usados deberá presentar una declaración jurada, en la oportunidad y en la forma que fije la autoridad de aplicación.
+
+Toda persona física o jurídica, cuya actividad principal, secundaria o accesoria sea la comercialización o almacenamiento de autopartes usados o su transporte, deberá presentar en la Dirección de Desarmadero de Automotores una declaración jurada en la que se detalle el stock de autopartes usados que posean, su origen y el correspondiente elemento identificador de fábrica en caso de que lo posean, o en su defecto describiéndolos, de modo tal que haga posible su identificación. El Poder Ejecutivo reglamentará la forma y la oportunidad de presentación de esta declaración jurada.
+
+> *Modificado por Ley N° 3369 (2007-11-12)*
 
 ### Artículo 9°
 
-Créase en el ámbito de la Dirección Nacional del Registro del Automotor, el Registro Unico de Desarmaderos de Automotores. Deberá inscribirse en este Registro toda persona física o jurídica, cuya actividad principal, secundaria o accesoria sea desarmar y/o comercializar las partes que sean producto de su actividad.
+
+Créase la Dirección de Desarmaderos de Automotores (DISA.), dependiente de la Policía Nacional, donde deberán inscribirse las personas físicas o jurídicas cuya actividad principal, secundaria o accesoria sea el desarmado de automotores para la reutilización de sus autopartes, la comercialización de autopartes usados, y la destrucción de automotores para el reciclado u otra forma de valorización de sus materiales y componentes. Además, corresponde a la misma el control de los desarmaderos y de las actividades afines regladas por la presente Ley, siendo ella la autoridad de aplicación.
+
+> *Modificado por Ley N° 3369 (2007-11-12)*
 
 ### Artículo 10°
 
-Todas las personas físicas o jurídicas incluidas en el registro creado en el artículo anterior tendrán la obligación de documentar el ingreso y egreso de vehículos, partes de los mismos, de conformidad a lo establecido en el Artículo 3º. Por cada automotor ingresado para su desarme deberán registrar: marca, modelo, tipo de combustible utilizado, color, fecha de fabricación, país y establecimiento de fabricación, certificado de baja y desarme y destino de las autopartes extraídas con sus correspondientes números de identificación o debidamente individualizadas, en su caso.
 
-Se deberá conservar esta documentación por un plazo de diez años, a partir del ingreso del vehículo para su desarme, debiendo las mismas ser presentadas ante la autoridad de control cuando les sea requerida.
+Todas las personas físicas o jurídicas incluidas en la Dirección de Desarmaderos de Automotores (DISA.), tendrán la obligación de documentar el ingreso y egreso de automotores y sus autopartes de conformidad a lo establecido en el Artículo 3º. Por cada automotor ingresado para su desarme o destrucción, deberán registrar: marca, modelo, tipo de combustible utilizado, color, fecha de fabricación, país y establecimiento de fabricación y Certificado de Baja y Desarme. Se deberá conservar esta documentación por un plazo de diez años, a partir del ingreso del automotor para su desarme o destrucción, debiendo las mismas ser presentadas ante la autoridad de control cuando les sea requerida.
+
+> *Modificado por Ley N° 3369 (2007-11-12)*
 
 ### Artículo 11°
 
