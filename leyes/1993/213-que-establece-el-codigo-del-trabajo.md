@@ -469,45 +469,10 @@ El contrato de trabajo debe ser cumplido de buena fe, y obliga no sólo a lo que
 
 ### Artículo 62°
 
-Son obligaciones de los empleadores:
 
-a) Dar ocupación efectiva a los trabajadores por ellos contratados;
+j) Conceder, a solicitud del trabajador, tres días de licencia con goce de salario para contraer matrimonio, tres días en caso de nacimiento de un hijo/a y tres días en caso de fallecimiento del cónyuge, hijos, padres, abuelos o hermanos;
 
-b) Pagar la remuneración pactada en las condiciones, períodos y lugares convenidos en el contrato, o en las leyes o reglamentos de trabajo y cláusulas de los contratos colectivos, o en su defecto, según la costumbre;
-
-c) Pagar al trabajador el salario correspondiente al tiempo que deje de trabajar por causas imputables al empleador;
-
-d) Suministrar oportunamente a los trabajadores los útiles, instrumentos y elementos necesarios para ejecutar el trabajo convenido, los cuales serán de buena calidad y repuestos tan pronto como dejen de ser eficientes, siempre que aquéllos no se hayan obligado a usar herramientas propias;
-
-e) Proporcionar lugar seguro para la guarda de los útiles y herramientas del trabajador, bajo inventario que podrá solicitar cualquiera de las partes;
-
-f) Indemnizar al trabajador por la pérdida de sus herramientas o útiles propios, cuando confiados a la guarda del empleador, se extraviasen, o cuando se destruyesen;
-
-g) Reintegrar al trabajador los gastos debidamente autorizados que éste hubiera efectuado en ocasión de su trabajo y requeridos para su ejecución;
-
-h) Conceder licencia al trabajador para cumplir sus obligaciones personales impuestas por leyes o disposiciones gubernativas; pero el empleador no está obligado a reconocer por estas causas, más de dos días remunerados en cada mes calendario, y en ningún caso más de quince días en el mismo año;
-
-i) Otorgar licencia a los miembros directivos sindicales para desempeñar las actividades indispensables en el ejercicio de sus cargos, sin estar obligado el empleador a darles retribución;
-
-j) Conceder, a solicitud del trabajador, tres días de licencia con goce de salario para contraer matrimonio, dos días en caso de nacimiento de un hijo y cuatro días en caso de fallecimiento del cónyuge, hijos, padres, abuelos o hermanos;
-
-k) Guardar la debida consideración hacia los trabajadores, respetando su dignidad humana y absteniéndose de maltratarlos de palabra o de hecho;
-
-l) Adoptar, conforme a las leyes y reglamentos, las medidas adecuadas en los establecimientos industriales y comerciales, para crear y mantener las mejores condiciones de higiene y seguridad en el trabajo, previniendo en lo posible los riesgos profesionales;
-
-ll) Expedir gratuitamente al trabajador, cuando éste lo solicitase, una constancia escrita relativa a sus servicios;
-
-m) Preferir, en igualdad de circunstancias, a los trabajadores paraguayos, y a los que les hubieren prestado satisfactoriamente servicios con anterioridad;
-
-n) Observar buenas costumbres y moralidad durante las horas de labor;
-
-ñ) Cumplir las disposiciones del reglamento interno;
-
-o) Atender las quejas justificadas que los trabajadores elevasen;
-
-p) Capacitar al trabajador para prestar auxilio en caso de accidente; y,
-
-q) Cumplir con las demás obligaciones que les impongan las leyes o reglamentos de Trabajo.
+> *Modificado por Ley N° 3384 (2007-11-21)*
 
 ### Artículo 63°
 
