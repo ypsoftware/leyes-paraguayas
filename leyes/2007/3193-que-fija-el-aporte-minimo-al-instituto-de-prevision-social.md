@@ -23,7 +23,10 @@ Defínase al Trabajador Portuario, a los efectos del Seguro Social Obligatorio, 
 
 ### Artículo 3°
 
-Fíjase el mínimo de aporte del estibador marítimo al Instituto de Previsión Social (IPS) en diez jornales mínimos para actividades diversas no especificadas en la República del Paraguay por mes, manteniéndose todos sus derechos de jubilación, pensión, atención médica, intervención quirúrgica y medicamentos para el asegurado y su familia, en las mismas condiciones a las de cualquier otro asegurado, sin restricción alguna. La presente Ley beneficiará exclusivamente a los estibadores de buques aportantes registrados en la Marina Mercante Nacional y la Prefectura General Naval.
+
+Fijase el mínimo de aporte del estibador marítimo al Instituto de Previsión Social (IPS) en el 25,5% (veinticinco y medio por ciento) sobre 10 (diez) jornales mínimos para actividades diversas y no especificadas en la República del Paraguay por mes, manteniéndose todos sus derechos de jubilación, pensión, atención médica, intervención quirúrgica y medicamentos para el asegurado y su familia, en las mismas condiciones a las de cualquier otro asegurado, sin restricción alguna. La presente Ley beneficiará exclusivamente a los estibadores de buques aportantes registrados en la Marina Mercante Nacional y Prefectura General Naval.
+
+> *Modificado por Ley N° 3453 (2008-04-04)*
 
 ### Artículo 4°
 
