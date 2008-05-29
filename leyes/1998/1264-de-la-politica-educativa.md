@@ -787,7 +787,12 @@ LAS ORGANIZACIONES ESTUDIANTILES
 
 ### Artículo 127°
 
-Las organizaciones estudiantiles de educación escolar básica y media se regirán por estatutos aprobados por las autoridades de la institución.
+
+Los estudiantes de educación escolar básica y media que quieran constituir una organización estudiantil, expresarán su voluntad mediante estatutos, cuyas cláusulas estarán acordes con la Constitución Nacional, el Código Electoral y el Código Civil, en lo referente a las asociaciones de utilidad pública, en cuanto le sea aplicable.
+
+La conformación de una organización estudiantil será notificada de inmediato a las autoridades de la respectiva institución educativa, adjuntando un ejemplar del estatuto de la organización.
+
+> *Modificado por Ley N° 3488 (2008-05-29)*
 
 ### Artículo 128°
 
