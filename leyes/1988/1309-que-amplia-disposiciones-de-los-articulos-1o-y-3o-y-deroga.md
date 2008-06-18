@@ -31,15 +31,14 @@ Los municipios afectados son los siguientes: en el Departamento Alto Paraná: He
 ### Artículo 2°
 
 
+
 A los efectos de esta ley se entenderá por:
 
-a) Gobernaciones afectadas. Las Gobernaciones de los Departamentos Alto Paraná, Canindeyú, Itapúa, Misiones y Ñeembucú, a las que se adjudicará el porcentaje establecido en el inciso b) del artículo anterior, en forma igualitaria;
+c) Municipios afectados: Todos los municipios comprendidos dentro de los Departamentos Alto Paraná, Canindeyú, Itapúa, Misiones y Ñeembucú, realmente afectados en su unidad territorial por las Represas Hidroeléctricas de Itaipú y Yacyretá.
 
-c) Municipios afectados. Todos los municipios comprendidos dentro de los Departamentos Alto Paraná, Canindeyú, Itapúa, Misiones y Ñeembucú, realmente afectados en su unidad territorial por las Represas Hidroeléctricas de Itaipú y Yacyretá.
+Los municipios afectados son los siguientes en el Departamento Alto Paraná: Hernandarias, Minga Porá, Mbaracayú, San Alberto, Itakyry y Santa Fe del Paraná; en el Departamento Canindeyú: Salto del Guairá, Corpus Christi, General Francisco Caballero Alvarez, La Paloma, Katueté y Nueva Esperanza; en el Departamento Itapúa: Encarnación, Bella Vista, Cambyretá, Capitán Meza, Carlos Antonio López, Carmen del Paraná, Coronel Bogado, Fram, General Artigas, Hohenau, Jesús, Mayor Otaño, Natalio, Nueva Alvorada, Obligado, Pirapó, San Cosme y Damián, San Juan del Paraná, San Rafael del Paraná, Trinidad, Yatytay, San Pedro del Paraná, General José María Delgado, Alto Vera, Itapúa Poty, Capitán Miranda y José Leandro Oviedo; en el Departamento Misiones: Ayolas, Santiago y Yabebyry; y en el Departamento Ñeembucú: Laureles, Cerrito, Villalbín, Desmochados, Mayor Martínez, General Díaz, Paso de Patria, Humaitá, Isla Umbú y Pilar.
 
-Los municipios afectados son los siguientes: en el Departamento Alto Paraná: Hernandarias, Minga Porá, Mbaracayú, San Alberto e Itakyry; en el Departamento Canindeyú: Saltos del Guairá, Corpus Christi, Gral. Francisco Caballero Alvarez, La Paloma y Katueté; en el Departamento Itapúa: Encarnación, Bella Vista, Cambyretá, Capitán Meza, Carlos Antonio López, Carmen del Paraná, Coronel Bogado, Fram, General Artigas, Hohenau, Jesús, Mayor Otaño, Natalio, Nueva Alborada, Obligado, Pirapó, San Cosme y Damián, San Juan del Paraná, San Rafael del Paraná, Trinidad y Yatytay; en el Departamento Misiones: Ayolas, Santiago y Yabebyry; y en el Departamento Ñeembucú: Laureles, Cerrito, Villalbín, Desmochados, Mayor Martínez, General Díaz, Paso de Patria, Humaitá y Pilar
-
-> *Modificado por Ley N° 1829 (2001-10-23)*
+> *Modificado por Ley N° 3512 (2008-06-18)*
 
 ### Artículo 3°
 
