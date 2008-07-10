@@ -111,7 +111,10 @@ En caso de fallecimiento de un aportante que haya aportado un mínimo de veintic
 
 ### Artículo 8°
 
-Conforme lo dispone el Artículo 103 de la Constitución Nacional, todos los beneficios pagados por la Dirección General de Jubilaciones y Pensiones del Ministerio de Hacienda, serán anualmente actualizados de oficio, de acuerdo con el promedio de los incrementos de salarios del sector público. La tasa de actualización tendrá como límite superior, la variación del Índice de Precios del Consumidor calculado por el Banco Central del Paraguay, correspondiente al período inmediatamente precedente. El Poder Ejecutivo reglamentará el mecanismo preciso a utilizar. Quedan expresamente excluidos de lo dispuesto en este artículo, los beneficios correspondientes a los programas no contributivos.
+
+Conforme lo dispone el Artículo 103 de la Constitución Nacional, todos los beneficios que paga la Dirección General de Jubilaciones y Pensiones del Ministerio de Hacienda se actualizarán anualmente, de oficio, por dicho Ministerio. La tasa de actualización será la variación del Indice de Precios del Consumidor calculados por el Banco Central del Paraguay, correspondiente al período inmediatamente precedente. Quedan expresamente excluidos de lo dispuesto en este artículo, los beneficios correspondientes a los programas no contributivos.
+
+> *Modificado por Ley N° 3542 (2008-07-10)*
 
 Sección II
 
