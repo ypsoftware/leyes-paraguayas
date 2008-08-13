@@ -19,41 +19,50 @@ La naturaleza de la relación jurídica que vincula los Clubes Deportivos con lo
 
 ### Artículo 2°
 
-Habrá contrato válido a los fines de la presente Ley cuando una parte se obligue por tiempo determinado a jugar al fútbol integrando equipos de una entidad deportiva y ésta a acordarle por ello una retribución en dinero. Son partes en el contrato:
 
-a) Los clubes de la División de Honor o los que participen del campeonato de mayor jerarquía que organiza la Liga Paraguaya de Fútbol; y,
+Habrá contrato válido a los fines de la presente Ley, cuando una parte se obligue por tiempo determinado a jugar al fútbol integrando equipos de una entidad deportiva y ésta a acordarle por ello una retribución en dinero. Son partes en el contrato:
 
-b) Los futbolista calificados como profesionales por dichos Clubes, siempre se hayan cumplido la edad de diez y ocho (18) años. A ese efecto cada Club deberá iniciar la temporada anual deportiva con un plantel de jugadores profesionales no inferior a 15 y mantener ese número durante todo su desarrollo.
+a) los clubes de la División de Honor o los que participen del campeonato de mayor jerarquía que organiza la Asociación Paraguaya de Fútbol; y,
+
+b) los futbolistas calificados como profesionales por dichos clubes, siempre que hayan cumplido la edad de dieciocho años y dieciséis años para los contratos de aprendizaje adolescente. A ese efecto, cada club deberá iniciar la temporada anual deportiva con un plantel de jugadores profesionales no inferior a quince y mantener ese número durante todo su desarrollo.
+
+> *Modificado por Ley N° 3580 (2008-08-13)*
 
 ### Artículo 3°
 
-De acuerdo con lo dispuesto por la Federación Internacional del Fútbol Asociados (FIFA) y lo previsto en el Estatuto de la Liga Paraguaya de Fútbol, los Clubes podrán registrar su participación en las diversas competencias que anualmente se celebren a dos categorías de jugadores:
+
+De acuerdo con lo dispuesto por la Federación Internacional del Fútbol Asociado (FIFA) y lo previsto en el Estatuto de la Asociación Paraguaya de Fútbol, los clubes podrán registrar su participación en las diversas competencias que anualmente se celebren a dos categorías de jugadores:
 
 a) aficionados; y,
 
 b) no aficionados o profesionales.
 
-FORMA Y CONTENIDO DEL CONTRATO
+> *Modificado por Ley N° 3580 (2008-08-13)*
 
 ### Artículo 4°
 
-La convención entre Club y jugador se formalizará mediante contrato escrito en cuatro (4) ejemplares de un mismo tenor, que corresponderán: uno para su inscripción en el registro que la Liga Paraguaya de Fútbol creará; uno para el Club contratante; otro para el jugador que le será entregado en el acto de subscripción, y finalmente; el último ejemplar para Futbolista Asociados del Paraguay (FAP).
 
-Los contratos se extenderán en formularios uniformes que proveerá la Liga Paraguaya de Fútbol, al coste, en los que se harán constar:
+La convención entre club y jugador se formalizará mediante contrato escrito en cuatro ejemplares de un mismo tenor, que corresponderán: uno para su inscripción en el registro que la Asociación Paraguaya de Fútbol creará; uno para el club contratante; otro para el jugador que le será entregado en el acto de suscripción, y finalmente; el último ejemplar para Futbolistas Asociados del Paraguay (FAP).
 
-a) lugar y fecha de celebración
+Los contratos se extenderán en formularios uniformes que proveerá la Asociación Paraguaya de Fútbol, al coste, en los que se harán constar:
+
+a) lugar y fecha de celebración;
 
 b) la identificación de las partes;
 
 c) el objeto del contrato;
 
-d) las remuneraciones, beneficios y obligaciones estipulados para el futbolista; y
+d) las remuneraciones, beneficios y obligaciones estipulados para el futbolista;
 
-e) el tiempo de duración que no podrá ser inferior a un año ni superior a cuatro (4) años.
+e) el tiempo de duración que no podrá ser inferior a un año ni superior a cinco años;
 
-El sistema de prórroga del Contrato y el derecho de opción del Club podrán establecerse en los contratos individuales o colectivos que se celebraren entre partes.
+f) en los casos de contrato de aprendizaje adolescente el tiempo de duración no podrá ser superior a dos años; y,
 
-REGISTRO DE CONTRATO
+g) prórroga unilateral a favor del club, que deberá ser explícito en una cláusula del contrato, donde conste el tiempo y el porcentaje de reajuste que percibirá al finalizar el contrato.
+
+El sistema de prórroga del contrato y el derecho de opción del club podrán establecerse en los contratos individuales o colectivos que se celebraren entre partes.
+
+> *Modificado por Ley N° 3580 (2008-08-13)*
 
 ### Artículo 5°
 
@@ -73,11 +82,16 @@ SUELDOS Y OTROS BENEFICIOS
 
 ### Artículo 6°
 
+
 En el contrato se deberá establecer en forma clara y precisa el monto discriminado de la remuneración que el jugador percibirá en concepto de:
 
 a) sueldo mensual, que no podrá ser inferior al salario mínimo legal para actividades diversas no especificadas de la capital;
 
-b) otros beneficios que las partes podrán estipular libremente.
+b) otros beneficios que las partes podrán estipular libremente; y,
+
+c) para los contratos de aprendizaje adolescente, corresponderá un sueldo mensual que no podrá ser inferior al sesenta por ciento (60 %) del salario mínimo legal.
+
+> *Modificado por Ley N° 3580 (2008-08-13)*
 
 ### Artículo 7°
 
@@ -119,7 +133,10 @@ Durante la vigencia del contrato podrá el registro del jugador ser transferido 
 
 ### Artículo 12°
 
-Si la transferencia del registro del jugador profesional tuviera lugar mediante contraprestación económica, el futbolista tendrá derecho a percibir un porcentaje sobre la misma, que no será menor de doce porciento (12%) cuando fuera a nivel local y del veinte por ciento (20%) si la transferencia fuera a nivel internacional. El monto que resultare de estos porcentajes será depositado por el Club transferente en la Tesorería de la Liga Paraguaya de Fútbol, a disposición del jugador, sin cuyo requisito no se podrá conluir la transferencia.
+
+Si la transferencia del registro del jugador profesional tuviera lugar mediante contraprestación económica, el futbolista tendrá derecho a percibir un porcentaje sobre la misma, que no será menor de doce por ciento (12%) cuando fuera a nivel local y del veinte por ciento (20%) si la transferencia fuera a nivel internacional. El monto que resultare de estos porcentajes será depositado por el club transferente, a disposición del jugador, sin cuyo requisito no se podrá concluir la transferencia.
+
+> *Modificado por Ley N° 3580 (2008-08-13)*
 
 ### Artículo 13°
 
@@ -127,7 +144,10 @@ El futbolista cuyo registro haya sido transferido debe convenir con el Club al c
 
 ### Artículo 14°
 
-Sólo el Club contratante o el propio jugador puede concertar la transferencia a otro Club a nivel local o internacional.
+
+Sólo el club contratante con el propio jugador puede concertar la transferencia a otro club a nivel local o internacional.
+
+> *Modificado por Ley N° 3580 (2008-08-13)*
 
 ### Artículo 15°
 
@@ -153,27 +173,32 @@ Cuando el futbolista preste su concurso en equipos representativos de la Liga Pa
 
 ### Artículo 18°
 
+
 El futbolista está obligado a:
 
-a) prestar sus servicios exclusivamente al Club contratante y cumplir las cláusulas contractuales, el reglamento interno del Club y las resoluciones de la Comisión Directiva;
+a) prestar sus servicios exclusivamente al club contratante y cumplir las cláusulas contractuales, el reglamento interno del club y las resoluciones de la Comisión Directiva;
 
 b) mantener y perfeccionar sus aptitudes y condiciones psicofísicas para el desempeño de su actitud, constituyendo la disminución o pérdida de dichas condiciones, por causas imputables a él, falta grave a sus obligaciones;
 
 c) desempeñarse con voluntad y eficiencia, poniendo el máximo de sus energías y toda su capacidad como profesional;
 
-d) ajustar su régimen de vida a las exigencias de sus obligaciones; e) concurrir puntualmente en el lugar, día y hora que le convoque el Club para intervenir en los partidos, sean éstos oficiales o amistosos;
+d) ajustar su régimen de vida a las exigencias de sus obligaciones;
 
-f) cumplir con el entrenamiento que le asigne el Club por intermedio de las personas que designe a ese efecto. Esta obligación subsiste aún cuando se hallase suspendido.
+e) concurrir puntualmente en el lugar, día y hora que le convoque el club para intervenir en los partidos, sean éstos oficiales o amistosos;
+
+f) cumplir con el entrenamiento que le asigne el club por intermedio de las personas que designe a ese efecto. Esta obligación subsiste aun cuando se hallase suspendido.
 
 Será facultad del club establecer el lugar y horario de entrenamiento y de concentraciones;
 
-g) dar aviso al Club, dentro de las 24 horas de producida cualquier circunstancia que afecte la normalidad de su estado psicofísico, debiendo aceptar la intervención de los profesionales y acatar las prescripciones de los facultativos;
+g) para los contratos de aprendizaje adolescente, el horario de competencia y entrenamiento no podrá superar las cuatro horas diarias ni veinticuatro semanales;
 
-h) participar de los viajes que se efectúen para intervenir en competencias que se realicen en el país o en el exterior; e,
+h) dar aviso al club, dentro de las veinticuatro horas de producida cualquier circunstancia que afecte la normalidad de su estado psicofísico, debiendo aceptar la intervención de los profesionales y acatar las prescripciones de los facultativos;
 
-i) comportarse con corrección y disciplina, tanto en las concentraciones como en los partidos, siguiendo las indicaciones del Club o de sus representantes, con el debido respeto al público, a las autoridades deportivas, a sus compañeros de equipo y a los jugadores adversarios.
+i) participar de los viajes que se efectúen para intervenir en competencias que se realicen en el país o en el exterior; y,
 
-SANCIONES
+j) comportarse con corrección y disciplina, tanto en las concentraciones como en los partidos, siguiendo las indicaciones del club o de sus representantes, con el debido respeto al público, a las autoridades deportivas, a sus compañeros de equipo y a los jugadores adversarios.
+
+> *Modificado por Ley N° 3580 (2008-08-13)*
 
 ### Artículo 19°
 
@@ -229,11 +254,14 @@ LIBERACION DE PASES
 
 ### Artículo 28°
 
+
 La liberación de pase del jugador profesional se producirá:
 
-a) por las cuales previstas en el artículo 241; y,
+a) por las cuales previstas en el Artículo 24; y,
 
-b) para los jugadores profesionales originarios del Club que hayan cumplido 4 años de servicios para las misma institución y además otro período de hasta dos (2) años.
+b) para los jugadores profesionales originarios del club que hayan cumplido cinco años de servicios para la misma institución y además otro período de hasta dos años.
+
+> *Modificado por Ley N° 3580 (2008-08-13)*
 
 ### Artículo 29°
 
