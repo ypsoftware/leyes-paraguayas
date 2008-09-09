@@ -15,10 +15,7 @@ short_title: "QUE CREA LA UNIVERSIDAD TÉCNICA PEDAGÓGICA DE LUQUE."
 
 ### Artículo 1°
 
-
-Modifícase la denominación de la Universidad Técnica Pedagógica de Luque, creada por Ley N° 2670 del 9 de setiembre del 2005, que a partir de la vigencia de la presente Ley se denominará ´UNIVERSIDAD SUPERIOR HERNANDO ARIAS DE SAAVEDRA.
-
-> *Modificado por Ley N° 3527 (2008-06-23)*
+Créase la Universidad Técnica Pedagógica de Luque, entidad privada con Personería Jurídica, reconocida por Decreto del Poder Ejecutivo Nº 2.603, de fecha 8 de marzo de 1994.
 
 ### Artículo 2°
 
