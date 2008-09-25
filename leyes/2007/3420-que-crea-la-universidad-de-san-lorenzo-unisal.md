@@ -14,7 +14,10 @@ short_title: "QUE CREA LA UNIVERSIDAD DE SAN LORENZO “UNISAL”."
 
 ### Artículo 1°
 
-Créase la Universidad de San Lorenzo (UNISAL).
+
+Créase la Universidad San Lorenzo (UNISAL), que adecuará su funcionamiento a las normas establecidas en la Ley N° 136/93 “DE UNIVERSIDADES” y a la Ley N° 1264/98 “GENERAL DE EDUCACIÓN
+
+> *Modificado por Ley N° 3602 (2008-09-25)*
 
 ### Artículo 2°
 
