@@ -16,7 +16,18 @@ CAPITULO I
 
 ### Artículo 1°
 
-De la Creación. Créase el Sistema de Matriculación y la Cédula del Automotor que serán de cumplimiento y uso Obligatorios respectivamente, en la forma, plazo y condiciones que se establecen en la presente Ley.
+
+Las autoridades surgidas de elección popular, sean nacionales, departamentales o locales, los Ministros del Poder Ejecutivo, los magistrados judiciales, los fiscales, el Contralor y el Sub-Contralor de la República, los miembros del Consejo de la Magistratura, del Jurado de Enjuiciamiento de Magistrados y los miembros de Misiones Diplomáticas Extranjeras serán proveídos por el Registro de Automotores de chapas con características especiales, que utilizarán por el tiempo que duren en sus funciones.
+
+Las chapas de automotores para los miembros del Congreso Nacional y para los Parlamentarios del MERCOSUR electos en representación de la República del Paraguay, serán confeccionadas y proveídas por disposición de ambas Cámaras, previa comunicación al órgano jurisdiccional competente para su correspondiente registro, atendiendo a las características especiales de los mismos y la duración de cinco años que conlleva el período parlamentario. En el caso de los Parlamentarios del MERCOSUR en representación de nuestro país, las chapas serán proveídas por la Cámara de Senadores.
+
+Las chapas para los miembros de la Cámara de Senadores tendrán las siguientes características: fondo color bordó, en la parte superior la inscripción Poder Legislativo y la bandera paraguaya, en la parte central izquierda el escudo nacional de bronce y en la derecha números romanos en orden correlativo. En la parte inferior del escudo nacional la sigla HCS y el período al cual pertenece.
+
+Las chapas para los miembros de la Cámara de Diputados tendrán las siguientes características: fondo color blanco, en la parte superior la inscripción Poder Legislativo y la bandera paraguaya, en la parte central izquierda el escudo nacional de bronce y en la derecha números romanos en orden correlativo. En la parte inferior del escudo nacional la sigla HCD y el período al cual pertenece.
+
+Las chapas para los parlamentarios del MERCOSUR electos en representación del Paraguay tendrán las siguientes características: fondo color marrón oscuro, en la parte superior la inscripción Parlamento del MERCOSUR y la bandera paraguaya, en la parte central izquierda el escudo nacional de bronce y en la derecha números romanos en orden correlativo. En la parte inferior del escudo nacional la sigla HPM y el período al cual pertenece.
+
+> *Modificado por Ley N° 3633 (2008-11-13)*
 
 ### Artículo 2°
 
