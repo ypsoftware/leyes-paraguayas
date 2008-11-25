@@ -15,17 +15,20 @@ short_title: "QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA…"
 
 ### Artículo 1°
 
-Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo a transferir a título oneroso a favor del Estado paraguayo - Ministerio Público, una fracción de inmueble individualizado como parte de la Manzana XXXII de la Finca Nº 19939 del Distrito de San Lorenzo, identificado con Cta. Cte. Ctral. Nº 27-1321-01, destinado originalmente para edificios públicos en el loteamiento realizado por Inmobiliaria del Este SA. e inscripto en la Dirección General de los Registros Públicos, bajo el Nº 1 al folio 1 y siguientes del 4 de setiembre del año 1984, ubicado en el barrio Santo Tomás del citado municipio, asiento del Ministerio Público cuyas dimensiones y linderos son los siguientes:
 
-AL NORTE: mide 71,50 m. (setenta y un metros con cincuenta centímetros), linda con el resto de la fracción destinada para plaza;
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo a transferir a título oneroso a favor del Estado paraguayo - Ministerio Público, una fracción de inmueble individualizado como parte de la Manzana XXXII de la Finca Nº 19939 del Distrito de San Lorenzo, con Cta. Cte. Ctral. Nº 27-1321-01, destinado originalmente para edificios públicos en el loteamiento realizado por Inmobiliaria del Este SA., inscripto en la Dirección General de los Registros Públicos, bajo el N° 1 al folio 1 y siguientes del 4 de setiembre del año 1984, ubicado en el barrio Santo Tomás del citado municipio, para asiento del Ministerio Público, cuyas dimensiones y linderos son los siguientes:
 
-AL SUR: mide 71,50 m. (setenta y un metros con cincuenta centímetros), linda con la calle Nº 23, denominada Juan Couch;
+AL NORTE: mide 33,35 m. (treinta y tres metros con treinta y cinco centímetros), linda con el resto de la fracción destinada para plaza;
 
-AL ESTE: mide 70,00 m. (setenta metros), linda con la calle Nº 2, denominada Avenida Prof. Victorio Curiel; y,
+AL SUR: mide 33,35 m. (treinta y tres metros con treinta y cinco centímetros), linda con la calle Nº 23, actual Juan Couch;
 
-AL OESTE: mide 70,00 m. (setenta metros), linda con el resto de la fracción destinada para edificios públicos.
+AL ESTE: mide 70,00 m. (setenta metros), linda con la fracción cedida al Poder Judicial para asiento del Juzgado de Primera Instancia conforme a la Ley Nº 1292/98; y,
 
-SUPERFICIE: 5.005 m2 (CINCO MIL CINCO METROS CUADRADOS).
+AL OESTE: mide 70,00 m. (setenta metros), linda con el resto de la fracción destinada para plaza.
+
+SUPERFICIE: 2.334 m2 0018 cm2 (DOS MIL TRESCIENTOS TREINTA Y CUATRO METROS CUADRADOS CON DIECIOCHO CENTIMETROS CUADRADOS).
+
+> *Modificado por Ley N° 3641 (2008-11-25)*
 
 ### Artículo 2°
 
