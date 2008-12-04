@@ -23,13 +23,21 @@ Modifícanse los Artículos 2º y 3º y amplíase la Ley Nº 2524/04 “DE PROHI
 
 ### Artículo 2°
 
-Dentro de los noventa días siguientes a la fecha de promulgación de la presente Ley, la autoridad de aplicación de la ley forestal, individualizará e inscribirá en un registro especial las fincas con más del 25% de su área original de bosques naturales, de acuerdo a lo establecido en la legislación vigente. Sus propietarios serán beneficiados con medidas compensatorias e incentivos según la legislación vigente.
 
-La falta de reglamentación de las compensaciones e incentivos mencionados en la presente Ley, dentro de noventa días y en la forma establecida en el presente Artículo, harán cesar de pleno derecho las restricciones y prohibiciones.
+A partir de la promulgación de la presente Ley y hasta el 31 de diciembre de 2013, se prohibe en la Región Oriental, realizar actividades de transformación o conversión de superficies con cobertura de bosques, a superficies destinadas al aprovechamiento agropecuario en cualquiera de sus modalidades; o a superficies destinadas a asentamientos humanos; así como la producción, transporte y comercialización de madera, leña, carbón y cualquier subproducto forestal originado del desmonte no permitido.
+
+> *Modificado por Ley N° 3663 (2008-12-04)*
 
 ### Artículo 3°
 
-Comuníquese al Poder Ejecutivo.
+
+A partir de la promulgación de la presente Ley y hasta el 31 de diciembre de 2013, queda prohibida la emisión de permisos, licencias, autorizaciones y/o cualquier otra modalidad de documento jurídicamente válido, que ampare la transformación o conversión de superficies con cobertura de bosques nativos, a superficies destinadas al aprovechamiento agropecuario en cualquiera de sus modalidades; o a superficies destinadas a asentamientos humanos, así como la producción, transporte y comercialización de madera, leña, carbón y cualquier subproducto forestal originado del desmonte no permitido.
+
+Los bosques se inscribirán en un registro especial, habilitado en el Instituto Forestal Nacional (INFONA) y no podrán ser objeto de la reforma agraria y se declararán inexpropiables.
+
+La Secretaría del Ambiente (SEAM) y el Instituto Forestal Nacional (INFONA) podrán solicitar el concurso y la colaboración de otras instituciones públicas, para el mejor cumplimiento de las disposiciones de la presente Ley.
+
+> *Modificado por Ley N° 3663 (2008-12-04)*
 
 ---
 
