@@ -79,7 +79,10 @@ Créase la Secretaría del Ambiente, identificada con las siglas SEAM, como inst
 
 ### Artículo 8°
 
-La Secretaría dependerá del Presidente de la República. Se regirá por las disposiciones de esta ley y los decretos reglamentarios que se dicten al efecto.
+
+La Secretaría del Ambiente se relacionará directamente con el Poder Ejecutivo. Su presupuesto institucional deberá ser incorporado en el Presupuesto General de la Nación dentro de los entes autónomos y autárquicos. Se regirá por las disposiciones de esta Ley y los Decretos reglamentarios que se dicten al efecto.
+
+> *Modificado por Ley N° 3679 (2008-12-30)*
 
 ### Artículo 9°
 
