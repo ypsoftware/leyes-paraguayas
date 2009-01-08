@@ -152,7 +152,12 @@ Magisterio Nacional
 
 ### Artículo 13°
 
-Los docentes del Magisterio Nacional podrán acceder a la jubilación ordinaria a partir de los veintiocho años de servicio, con una tasa de sustitución del 87%, y de los veinticinco años de servicio con una Tasa de Sustitución del 83%. Ambas Tasas de Sustitución incluyen un aporte del 5,5% para la cobertura del seguro médico del Instituto de Previsión Social. A las mujeres se les computará a partir de los veinticinco años de servicio un año más de servicios por cada hijo nacido durante el ejercicio de la docencia, no debiendo exceder a tres hijos vivos el número de años computados de esa forma.
+
+Los docentes del Magisterio Nacional podrán acceder a la jubilación ordinaria a partir de los veintiocho años de servicio con una Tasa de Sustitución del 87%, y de veinticinco años de servicio con una Tasa de Sustitución del 83%. Ambas Tasas de Sustitución incluyen un aporte del 5,5% para la cobertura del seguro médico del Instituto de Previsión Social. A las mujeres, se les computará a partir de los veinticinco años de servicio un año más de servicios por cada hijo nacido durante el ejercicio de la docencia, no debiendo exceder a tres hijos vivos el número de años computados de esa forma.
+
+Para el caso de los docentes universitarios, éstos podrán acceder a la jubilación ordinaria a partir de los veintiocho años de servicio con una Tasa de Sustitución del 87%, y de veinticinco años de servicio con una Tasa de Sustitución del 83%. Ambas Tasas de Sustitución incluyen, a opción del docente, una deducción del 5,5% para la cobertura del seguro médico del Instituto de Previsión Social. A las mujeres, se les computará a partir de los veinticinco años de servicio, un año más de servicio por cada hijo nacido durante el ejercicio de la docencia, no debiendo exceder a tres hijos vivos el número de años computados de esta forma.
+
+> *Modificado por Ley N° 3613 (2009-01-08)*
 
 ### Artículo 14°
 
