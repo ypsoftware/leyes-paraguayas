@@ -159,55 +159,56 @@ i) Todo aumento de patrimonio producido en el ejercicio, con excepción del que 
 
 ### Artículo 8°
 
-Renta Neta. La renta neta se determinará deduciendo de la renta bruta gravada los gastos que sean necesarios para obtenerla y mantener la fuente productora, siempre que representen una erogación real y estén debidamente documentados.
 
-Asimismo se admitirá deducir:
+Renta Neta: La renta neta se determinará deduciendo de la renta bruta gravada los gastos que sean necesarios para obtenerla y mantener la fuente productora, siempre que representen una erogación real, estén debidamente documentados y sean a precios de mercado, cuando el gasto no constituya un ingreso grabado para el beneficiario.
 
-a) Los tributos y cargas sociales que recaen sobre la actividad, bienes y derechos afectados a la producción de rentas, con excepción del Impuesto a la Renta.
+Así mismo se admitirá deducir:
 
-b) Los gastos generales del negocio tales como: alumbrado, fuerza motriz, fletes, telégrafos, teléfono, publicidad, prima de seguros contra riesgos inherentes al negocio, útiles de escritorio y mantenimiento de equipos.
+a) los tributos y cargas sociales que recaen sobre la actividad, bienes y derechos afectados a la producción de rentas, con excepción del Impuesto a la Renta;
 
-c) Las remuneraciones personales tales como: sueldos, salarios, comisiones, bonificaciones y gratificaciones por concepto de prestación de servicios y siempre que por los mismos se realicen los aportes al Instituto de Previsión Social o Cajas de Jubilaciones y Pensiones creadas o admitidas por Ley. En los casos que no corresponda efectuar el aporte de referencia, la deducción se realizará de acuerdo con los términos y condiciones que establezca la reglamentación.
+b) los gastos generales del negocio tales como: alumbrado, fuerza motriz, fletes, telégrafos, teléfonos, publicidad, prima de seguros contra riesgos inherentes al negocio, útiles de escritorio y mantenimiento de equipos;
 
-El aguinaldo y las remuneraciones por vacaciones serán deducibles en su totalidad.
+c) todas las remuneraciones personales tales como: salarios, comisiones, bonificaciones y gratificaciones por concepto de prestación de servicios que se encuentren gravados por el Impuesto a la Renta del Servicio de Carácter Personal. En caso contrario, las remuneraciones personales sólo serán deducibles cuando fueren prestadas en relación de dependencia y hayan aportado a un seguro social creado o admitido por ley o decreto-ley. En este último caso, si no correspondiere efectuar aportes al seguro social, la deducción se realizará de conformidad con los límites y condiciones que establezca la reglamentación. Quedan comprendidas en esta disposición las remuneraciones del dueño y su cónyuge, socio, directores, gerentes y personal superior.
 
-Quedan comprendidos en este inciso los sueldos del dueño, socios y directores. La presente disposición es de aplicación al cónyuge y parientes del dueño, socios o directores.
+Las deducciones serán admitidas siempre que tales retribuciones sean corrientes en el mercado nacional, atendiendo al volumen de negocios de la empresa, así como la capacidad profesional, la antigüedad, las responsabilidades y el tiempo de trabajo dedicado por dichas personas a la empresa. Si la Administración considera excesiva algunas de las remuneraciones, podrá solicitar un informe fundado a tres empresas de auditoría registradas.
 
-d) Los gastos de organización, constitución, o preoperativos en los términos y condiciones que establezca la reglamentación.
+El aguinaldo y las remuneraciones por vacaciones serán deducibles en su totalidad, de acuerdo a lo establecido en el Código Laboral.
 
-e) Las erogaciones por concepto de intereses, alquileres o cesión del uso de bienes y derechos.
+d) los gastos de organización, constitución, o preparativos en los términos y condiciones que establezca la reglamentación;
 
-Las mismas serán admitidas siempre que para el acreedor constituyan ingresos gravados por el presente impuesto. Esta condición no se aplicará a las entidades financieras comprendidas en la Ley 417 del 13 de noviembre de 1973 y su modificación en lo que respecta a los intereses.
+e) las erogaciones por concepto de intereses, alquileres o cesión del uso de bienes y derechos.
+
+Las mismas serán admitidas siempre que para el acreedor constituyan ingresos gravados por el presente impuesto. Esta condición no se aplicará a las entidades financieras comprendidas en la Ley N° 861/96 “GENERAL DE BANCOS, FINANCIERAS Y OTRAS ENTIDADES DE CREDITO”, en lo que respecta a los intereses.
 
 Cuando los alquileres no constituyan ingresos gravados para el locador, dicha erogación podrá ser deducible en los términos y condiciones que establezca la reglamentación.
 
-f) Pérdidas extraordinarias sufridas en los bienes del negocio o explotación por casos fortuitos o de fuerza mayor, como incendio u otros accidentes o siniestros, en cuanto no estuvieran cubiertas por seguros o indemnizaciones.
+f) las pérdidas extraordinarias sufridas en los bienes del negocio o explotación por casos fortuitos o de fuerza mayor, como incendio u otros accidentes o siniestros, en cuanto no estuvieren cubiertas por seguros o indemnizaciones;
 
-g) Los castigos sobre malos créditos, en los términos y condiciones que establezca la reglamentación.
+g) las previsiones y los castigos sobre malos créditos;
 
-h) Pérdidas originadas por delitos cometidos por terceros contra los bienes aplicados a la obtención de rentas gravadas, en cuanto no fueran cubiertas por indemnizaciones o seguros.
+h) las pérdidas originadas por delitos cometidos por terceros contra los bienes aplicados a la obtención de rentas gravadas en cuanto no fueren cubiertos por indemnizaciones o seguros;
 
-i) Las depreciaciones por desgaste, obsolescencia y agotamiento, en los términos y condiciones que establezca la reglamentación.
+i) las depreciaciones por desgaste, obsolescencia y agotamiento, en los términos y condiciones que establezca la reglamentación;
 
-j) Las amortizaciones de bienes incorporales tales como las marcas, patentes y privilegios, siempre que importen una inversión real y en el caso de adquisiciones se identifique al enajenante. La reglamentación establecerá la forma y condiciones.
+j) las amortizaciones de bienes incorporales tales como las marcas, patentes y privilegios, siempre que importen una inversión real y en el caso de adquisiciones, se identifique al enajenante. La reglamentación establecerá las formas y condiciones;
 
-k) Los gastos y erogaciones en el exterior en cuanto sean necesarios para la obtención de las rentas gravadas provenientes de las operaciones de exportación e importación de acuerdo con los términos y condiciones que establezca la reglamentación. En las actividades de transporte de bienes o personas, los gastos del vehículo se admitirán de acuerdo con los principios generales del impuesto.
+k) los gastos y erogaciones en el exterior en cuanto sean necesarios para la obtención de las rentas gravadas provenientes de las operaciones de exportación e importación, de acuerdo con los términos y condiciones que establezca la reglamentación. En las actividades de transporte de bienes o personas, los gastos del vehículo se admitirán de acuerdo con los principios del Impuesto.
 
-l) Los gastos de movilidad, viáticos y otras compensaciones análogas, en dinero o en especie. La Administración podrá establecer condiciones y límites a la deducibilidad, en función de la actividad.
+l) los gastos de movilidad, viáticos y otras compensaciones análogas, siempre que las rendiciones de cuentas se hallen debidamente respaldadas con la documentación legal desde el punto de vista impositivo. En caso que constituya gasto sin cargo a rendir cuenta, se considera parte del salario o remuneración y le es aplicable el inciso c) del presente artículo;
 
-m) Las donaciones al Estado, a las Municipalidades, a la Iglesia Católica y demás entidades religiosas reconocidas por las autoridades competentes, así como a las entidades con personería jurídica de asistencia social, educativa, cultural, caridad o beneficencia, que previamente fuera reconocida como entidad de beneficio público por la Administración. El Poder Ejecutivo podrá establecer limitaciones a los montos deducibles de las mencionadas donaciones.
+m) las donaciones al Estado, a las municipalidades, a la Iglesia Católica y demás entidades religiosas reconocidas por las autoridades competentes, así como las entidades con personería jurídica de asistencia social, educativa, cultural, caridad o beneficencia, que previamente fueran reconocidas como entidad de beneficio público por la Administración. El Poder Ejecutivo podrá establecer limitaciones a los montos deducibles de las mencionadas donaciones, que no sean inferiores al 1% (uno por ciento) del ingreso bruto;
 
-n) Remuneraciones porcentuales pagadas de las utilidades líquidas, siempre que por las mismas se realicen los aportes al Instituto de Previsión Social o Cajas de Jubilaciones y Pensiones creadas o admitidas por Ley.
+n) las remuneraciones porcentuales pagadas de las utilidades líquidas por Servicios de Carácter Personal, en las mismas condiciones establecidas en el inciso c) del presente artículo;
 
-ñ) Los honorarios profesionales y otras remuneraciones por concepto de servicios personales no gravados por el presente impuesto, dentro de los límites y condiciones que establezca la reglamentación, en función de la actividad.
+ñ) los honorarios profesionales y otras remuneraciones por concepto de servicios personales gravados por el Impuesto a la Renta del Servicio de Carácter Personal sin ninguna limitación. Los demás honorarios profesionales y remuneraciones serán deducibles dentro de los límites y condiciones que establezca la reglamentación;
 
-o) Los gastos y contribuciones realizados en favor del personal por asistencia sanitaria, escolar o cultural, siempre que sean de carácter general, así como la capacitación del personal en los términos y condiciones que establezca la reglamentación.
+o) los gastos y contribuciones realizados a favor del personal por asistencia sanitaria, escolar o cultural, siempre que para la entidad prestadora del servicio dichos gastos constituyan ingresos gravados por el Impuesto establecido en este Título o el personal impute como ingreso propio gravado por el Impuesto a la Renta del Servicio de Carácter Personal;
 
-p) El monto correspondiente al porcentaje a que hace referencia el inciso b) del Art. 33 de la Ley N° 349/72, que establezcan las cooperativas del sector agropecuario. La deducción estará limitada hasta el 20% (veinte por ciento) de la renta neta del ejercicio.
+p) los costos y gastos directos e indirectos provenientes de la implantación y el manejo de bosques, realizados en el marco de forestaciones y reforestaciones amparadas en las Leyes Nºs. 422/73 “FORESTAL” y 536/95 “DE FOMENTO A LA FORESTACION Y REFORESTACION”; excepto los que sean objeto de bonificación por el Estado en los términos de los Artículos 7º a 10 de la última de estas leyes.
 
-Realizadas las deducciones admitidas, si la renta neta fuera negativa, dicha pérdida fiscal se podrá compensar con la renta neta de los próximos ejercicios hasta un máximo de tres, a partir del cierre del ejercicio en que se produjo la misma.
+Las deducciones de los costos y gastos directos e indirectos provenientes de la implantación y el manejo de bosques no estarán sujetas a limitaciones de índole temporal. La reglamentación tampoco podrá establecer limitaciones porcentuales a esas deducciones.
 
-Esta disposición rige para las pérdidas fiscales que se generen a partir de la vigencia del presente impuesto.
+> *Modificado por Ley N° 3703 (2009-04-13)*
 
 ### Artículo 9°
 
