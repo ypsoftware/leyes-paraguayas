@@ -50,7 +50,18 @@ Los delitos previstos y penados por esta Ley sólo serán perseguibles a instanc
 
 ### Artículo 10°
 
-Comuníquese al Poder Ejecutivo
+
+Quien librara un cheque bancario que, presentado al cobro al banco girado dentro del plazo que determina el Artículo 4° de la Ley N° 805/96, no tuviera suficiente provisión de fondos disponibles, o no tuviera autorización para girar en descubierto sufrirá una multa equivalente al 2% (dos por ciento) del importe del cheque librado. Producido el rechazo, se generarán los siguientes efectos:
+
+a) El importe de la multa se hará efectivo, total o parcialmente, por el banco girado, sobre los fondos que el librador tuviera depositados en su cuenta bancaria al momento del rechazo del cheque, si los hubiera, o sobre los fondos que depositare posteriormente.
+
+b) La persona física o jurídica que en el transcurso de un año librara tres cheques, en moneda nacional o extranjera, cuyos pagos fuesen negados por insuficiencia de fondos o, diez cheques cuyos pagos fuesen negados por defectos formales imputables al librador, aunque fuera contra cuentas distintas, quedará de pleno derecho inhabilitada por un año para girar cheques y operar en cuentas corrientes en todos los bancos del país.
+
+c) Cumplido el plazo, el banco girado comunicará dentro de los tres días hábiles el cierre de la cuenta corriente bancaria y la inhabilitación a la Superintendencia de Bancos, y ésta hará saber dentro de las cuarenta y ocho horas a los demás bancos de plaza, la prohibición de girar cheques y operar en cuenta corriente bancaria de la persona física o jurídica afectada. El Banco girado publicará las inhabilidades durante dos días en un diario de circulación nacional, con expresión de causa, en un período no mayor a treinta días, contados a partir de la comunicación de la inhabilitación a la Superintendencia de Bancos.
+
+Cumplido el plazo de inhabilitación de la persona física o jurídica, y a solicitud del afectado, la Superintendencia de Bancos dispondrá, una vez realizadas las verificaciones correspondientes, la rehabilitación para girar cheques y operar en cuentas corrientes bancarias, siempre que el mismo acreditase fehacientemente haber pagado a los perjudicados los cheques que ocasionaron la inhabilitación, el pago de la multa impuesta, si correspondiera, y la publicación a que se refiere el párrafo anterior.
+
+> *Modificado por Ley N° 3711 (2009-04-16)*
 
 ---
 
