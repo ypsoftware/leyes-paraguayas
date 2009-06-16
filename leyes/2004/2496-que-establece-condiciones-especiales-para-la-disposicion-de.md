@@ -45,7 +45,10 @@ Disposición Transitoria
 
 ### Artículo 8°
 
-Autorízase al Banco Central del Paraguay a transferir a título oneroso a sus actuales ocupantes la Finca N° 8357, con Cta. Ctral. N° 9065 del Distrito de Luque.
+
+Autorízase al Banco Central del Paraguay a transferir a título oneroso a favor de las Cámaras de Senadores y Diputados del Congreso Nacional la Finca Nº 8357, con Cuenta Corriente Catastral Nº 9065 del Distrito de Luque. Para la avaluación de la mencionada Finca se considerará la realizada en el momento de la promulgación de la Ley Nº 2496 del 28 de octubre de 2004 ‘QUE ESTABLECE CONDICIONES ESPECIALES PARA LA DISPOSICION DE ACTIVOS DEL BANCO CENTRAL DEL PARAGUAY MEDIANTE PROCEDIMIENTOS COMPETITIVOS’. La escritura translativa del dominio del inmueble será firmado por los Presidentes de las Cámaras de Senadores y Diputados.
+
+> *Modificado por Ley N° 3741 (2009-06-16)*
 
 ### Artículo 9°
 
