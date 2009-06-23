@@ -1317,9 +1317,10 @@ El RUC de las personas físicas será el que corresponda a su Cédula de Identid
 
 
 
-Las disposiciones de la presente Ley entrarán en vigencia en la fecha que lo determine el Poder Ejecutivo, dentro del año de la sanción, promulgación y publicación de la Ley. El Poder Ejecutivo podrá disponer la entrada en vigencia de las modificaciones de los impuestos existentes o de los que se establecen por esta Ley, y demás disposiciones de aplicación general, en fechas diferentes. El Impuesto a la Renta del Servicio de Carácter Personal entrará en vigencia el 1 de enero del año 2009.
 
-> *Modificado por Ley N° 3307 (2007-10-27)*
+Las disposiciones de la presente Ley entrarán en vigencia en la fecha que lo determine el Poder Ejecutivo, dentro del año de la sanción, promulgación y publicación de la Ley. El Poder Ejecutivo podrá disponer la entrada en vigencia de las modificaciones de los impuestos existentes o de los que se establecen por esta Ley, y demás disposiciones de aplicación general, en fechas diferentes. El Impuesto a la Renta del Servicio de Carácter Personal entrará en vigencia el 1 de enero de 2010.
+
+> *Modificado por Ley N° 3712 (2009-06-23)*
 
 ### Artículo 39°
 
