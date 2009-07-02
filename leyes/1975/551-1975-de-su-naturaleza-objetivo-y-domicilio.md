@@ -106,43 +106,10 @@ De las atribuciones del Consejo Directivo.
 
 ### Artículo 12°
 
-Son atribuciones del Consejo Directivo:
 
-a) Cumplir y velar por el cumplimiento de esta ley, y sus reglamentaciones;
+o) Calificar la suficiencia de las fianzas y cancelarlas. Acordar quitas y esperas, en asunto cuyo monto no exceda al equivalente a quince salarios mínimos para actividades diversas no especificadas en la República, debiendo para asunto de mayor monto, obtener la autorización del Poder Ejecutivo.
 
-b) Determinar la política general de la Institución y aprobar los planes, proyectos y programas a ser ejecutados;
-
-c) Aprobar los proyectos de presupuesto de gastos corrientes y los de inversión de capital elaborado de acuerdo con las previsiones de la ley orgánica de presupuesto;
-
-d) Aprobar la memoria, balance general, inventario y estado de cuentas del resultado de cada ejercicio cerrado, presentado por el Presidente, previo dictamen del Sindico, así como las reevaluaciones que se hicieron del activo y disponer su publicación oportuna;
-
-e) Autorizar el llamado a licitación pública o concurso de precios para la ejecución de obras y para la provisión de materiales o servicios, estableciendo las bases y contratos respectivos de acuerdo con las disposiciones contenidas en la presente ley;
-
-f) Aceptar legados y donaciones;
-
-g) Aprobar el estatuto del personal y su régimen de remuneraciones gratificaciones y adoptar la reglamentación interna que sea necesaria para la buena marcha de la Institución;
-
-h) Aprobar los planes y programas administrativos, técnicos, y financieros;
-
-i) Autorizar la contratación de préstamos en el país o en el exterior, la emisión de bonos u otros títulos de deuda, de acuerdo con las leyes respectivas;
-
-j) Autorizar el establecimiento de oficinas en la capital o interior de la República;
-
-k) Autorizar la contratación de expertos asesores o de firmas consultoras para la provisión de servicios profesionales o de asistencia técnica, y la de auditores ajenos a la Institución para que informen sobre la situación económica y financiera de la misma;
-
-l). Nombrar, trasladar, despedir al personal superior, gerentes y jefes de departamentos, a propuesta del Presidente y de conformidad con las reglamentaciones que dictare;
-
-m). Autorizar la adquisición y la venta de inmuebles, constitución de hipotecas y de otros derechos reales sobre los mismos, así como la compra y venta de bienes muebles cuando el valor de estos exceda la suma de QUINIENTOS MIL GUARANIES;
-
-n) Autorizar la aplicación de sanciones disciplinarias previo sumario administrativo al personal de la Administración por falta cometida en el desempeño de sus funciones, a propuesta del Presidente;
-
-o). Calificar la suficiencia de las fianzas y cancelarlas. Acordar quitas y esperas, en asunto cuyo monto no exceda de guaraníes UN MILLON, debiendo para asunto de mayor monto, obtener la autorización del Poder Ejecutivo.
-
-p) Autorizar la apertura de cuentas bancarias, tanto en el país como en el extranjero;
-
-q) Aprobar los planes de inversión a que hace referencia el Art.2º los que deberán luego requerir, para su ejecución, autorización del poder Ejecutivo;
-
-r) Realizar todas las demás actividades que correspondan por su naturaleza el Consejo Directivo;
+> *Modificado por Ley N° 3767 (2009-07-02)*
 
 ### Artículo 13°
 
