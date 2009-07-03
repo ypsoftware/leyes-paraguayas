@@ -54,9 +54,10 @@ Las entidades en estado de liquidación, concordato o quiebra, deberán transfer
 ### Artículo 5°
 
 
-Establécese un plazo de ciento ochenta días, a partir de la promulgación de la presente Ley, para la aplicación y cumplimiento de la Ley N° 2.637/05, ampliada y modificada por la Ley N° 2.839/05, tanto para las autoridades administrativas del Consejo Nacional de la Vivienda - CONAVI, como para las entidades en estado de liquidación, concordato o quiebra y para los beneficiarios. En caso contrario, los beneficiarios que al finalizar el plazo establecido, no realicen la reestructuración de sus créditos, perderán sus derechos a acceder a los beneficios establecidos en la Ley, quedando facultado el Consejo Nacional de la Vivienda - CONAVI y las entidades en estado de liquidación, concordato o quiebra, a la recuperación de la cartera hipotecaria morosa por la vía legal que corresponda, conforme a las cláusulas y condiciones del contrato original.
 
-> *Modificado por Ley N° 3010 (2006-12-29)*
+Establécese un plazo de 90 (noventa) días, a partir de la promulgación de la presente Ley, para la aplicación y cumplimiento de la Ley N° 2637/05, ampliada y modificada por la Ley Nº 3010/06, tanto para las autoridades administrativas del Consejo Nacional de la Vivienda (CONAVI), como para las entidades en estado de liquidación, concordato o quiebra y para los beneficiarios. En caso contrario, los beneficiarios que al finalizar el plazo establecido, no realicen la reestructuración de sus créditos, perderán sus derechos a acceder a los beneficios establecidos en la Ley, quedando facultado el Consejo Nacional de la Vivienda (CONAVI), y las entidades en estado de liquidación, concordato o quiebra, a la recuperación de la cartera hipotecaria morosa por la vía legal que corresponda, conforme a las cláusulas y condiciones del contrato original.
+
+> *Modificado por Ley N° 3762 (2009-07-03)*
 
 ### Artículo 6°
 
