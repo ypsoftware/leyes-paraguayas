@@ -492,13 +492,98 @@ Disposiciones Generales.
 
 
 
-2. Oficiales:
 
-Oficial Inspector: Sueldo mínimo + 36% de la diferencia (SMAX-SMIN).
+1. El sueldo es la parte básica del salario y corresponde a la asignación mensual de acuerdo al grado y tiempo de servicio.
 
-Oficial Primero: Sueldo mínimo + 24% de la diferencia (SMAX-SMIN).
+2. El sueldo básico mensual del Comisario General Comandante de la Policía Nacional será igual al del Ministro del Interior, siendo el de los sucesivos grados el que se determina en la siguiente escala automática de sueldos, en porcentajes referidos a la diferencia resultante entre el sueldo del Ministro del Interior (SMAX) menos el Sueldo Mínimo (SMIN):
 
-> *Modificado por Ley N° 2763 (2005-10-20)*
+OFICIALES:
+
+El sueldo básico mensual del Comisario General Comandante será igual al 100% del Sueldo del Ministro del Interior.
+
+Para los demás rangos será igual al Sueldo Mínimo más un porcentaje de la diferencia del Sueldo Máximo menos el Sueldo Mínimo. Se establece dicho porcentaje según los siguientes escalafones:
+
+Comisario General Director = Sueldo Mínimo + 94% de la diferencia del (SMAX-SMIN).
+
+Comisario General Inspector = Sueldo Mínimo + 88% de la diferencia del (SMAX-SMIN).
+
+Comisario Principal = Sueldo Mínimo + 78% de la diferencia del (SMAX-SMIN).
+
+Comisario = Sueldo Mínimo + 66% de la diferencia del (SMAX-SMIN).
+
+Sub Comisario = Sueldo Mínimo + 50% de la diferencia del (SMAX-SMIN).
+
+Oficial Inspector = Sueldo Mínimo + 36% de la diferencia del (SMAX-SMIN).
+
+Oficial Primero = Sueldo Mínimo + 24% de la diferencia del (SMAX-SMIN).
+
+Oficial Segundo = Sueldo Mínimo + 15% de la diferencia del (SMAX-SMIN).
+
+Oficial Ayudante = Sueldo Mínimo + 10% de la diferencia del (SMAX-SMIN).
+
+SUBOFICIALES:
+
+Sub Oficial Superior = Sueldo Mínimo + 60% de la diferencia del (SMAX-SMIN).
+
+Sub Oficial Principal = Sueldo Mínimo + 48% de la diferencia del (SMAX-SMIN).
+
+Sub Oficial Mayor = Sueldo Mínimo + 34% de la diferencia del (SMAX-SMIN).
+
+Sub Oficial Inspector = Sueldo Mínimo + 22% de la diferencia del (SMAX-SMIN).
+
+Sub Oficial Primero = Sueldo Mínimo + 15% de la diferencia del (SMAX-SMIN).
+
+Sub Oficial Segundo = Sueldo Mínimo +10% de la diferencia del (SMAX-SMIN).
+
+Sub Oficial Ayudante será igual al Salario Mínimo Legal Vigente.
+
+3. Ningún personal policial percibirá un sueldo inferior al salario mínimo legal vigente, para lo cual el rango policial inferior (Sub Oficial Ayudante) deberá percibir un sueldo igual al salario mínimo legal vigente sirviendo como base de la escala automática de sueldos.
+
+4. El sueldo y otros beneficios del Comisario General Comandante es exclusivo de quien ejerce o haya ejercido el cargo de Comandante de la Policía Nacional.
+
+5. Los oficiales superiores, a partir del grado de Comisario hasta el grado de Comisario General Comandante, percibirán una remuneración complementaria en concepto de Gastos de Representación; siempre que ocupen cargos que conlleven efectivamente la representación de la repartición en la que prestan sus servicios.
+
+En los casos en que el ejercicio del cargo lo justifique, podrán percibir también una remuneración complementaria en concepto de bonificación por exposición al peligro. Esta remuneración se regirá por la siguiente escala:
+
+Comisario General Comandante = 60% del Sueldo Básico Mensual.
+
+Comisario General Director = 40% del Sueldo Básico Mensual.
+
+Comisario General Inspector = 35% del Sueldo Básico Mensual.
+
+Comisario Principal = 30% del Sueldo Básico Mensual.
+
+Comisario = 25% del Sueldo Básico Mensual.
+
+6. El personal policial desde el grado de Sub Oficial Ayudante hasta el grado de Sub Comisario percibirá una remuneración complementaria al sueldo en concepto de bonificación por exposición al peligro, mientras que el ejercicio efectivo del cargo lo justifique. Esta remuneración se regirá por la siguiente escala:
+
+Sub Comisario = 18% del Sueldo Básico Mensual.
+
+Oficial Inspector = 20% del Sueldo Básico Mensual.
+
+Oficial Primero = 22% del Sueldo Básico Mensual.
+
+Oficial Segundo = 24% del Sueldo Básico Mensual.
+
+Oficial Ayudante = 24% del Sueldo Básico Mensual.
+
+SUBOFICIALES:
+
+Sub Oficial Superior = 15% del Sueldo Básico Mensual.
+
+Sub Oficial Principal = 17% del Sueldo Básico Mensual.
+
+Sub Oficial Mayor = 20% del Sueldo Básico Mensual.
+
+Sub Oficial Inspector = 22% del Sueldo Básico Mensual.
+
+Sub Oficial Primero = 25% del Sueldo Básico Mensual.
+
+Sub Oficial Segundo = 28% del Sueldo Básico Mensual.
+
+Sub Oficial Ayudante = 30% del Sueldo Básico Mensual.
+
+> *Modificado por Ley N° 3778 (2009-07-17)*
 
 ### Artículo 61°
 
