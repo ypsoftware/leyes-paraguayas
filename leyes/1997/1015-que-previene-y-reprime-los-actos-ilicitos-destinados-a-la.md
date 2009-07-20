@@ -19,15 +19,12 @@ DISPOSICIONES GENERALES
 
 ### Artículo 1°
 
-Ambito de aplicación.
 
-La presente ley:
+**Ámbito de aplicación.**
 
-a) regula las obligaciones, las actuaciones y los procedimientos para prevenir e impedir la utilización del sistema financiero y de otros sectores de la actividad económica para la realización de los actos destinados a la legitimación del dinero o de bienes que procedan, directa o indirectamente, de las actividades delictivas contempladas en esta ley, actos caracterizados en adelante como delitos de lavado de dinero o de bienes;
+La presente Ley regula las obligaciones, las actuaciones y los procedimientos para prevenir e impedir la utilización del sistema financiero y de otros sectores de la actividad económica para la realización de los actos destinados al lavado de dinero y el financiamiento del terrorismo, conforme a los acuerdos y tratados internacionales ratificados por el Paraguay.
 
-b) tipifica y sanciona el delito de lavado de dinero o bienes; y,
-
-c) se aplicará sin perjuicio de otras acciones y omisiones tipificadas y sancionadas en la ley penal.
+> *Modificado por Ley N° 3783 (2009-07-20)*
 
 ### Artículo 2°
 
@@ -137,9 +134,10 @@ b) aquellas operaciones menores al monto señalado en el inciso anterior, de las
 
 ### Artículo 13°
 
-Sujetos obligados.
 
-Quedan sujetos a las obligaciones establecidas en el presente capitulo las siguientes entidades:
+**Sujetos obligados.**
+
+Quedan sujetos a las obligaciones establecidas en el presente capítulo, los siguientes sectores:
 
 a) los bancos;
 
@@ -157,17 +155,31 @@ g) las sociedades de mandato;
 
 h) las administradoras de fondos mutuos de inversión y de jubilación;
 
-i) las cooperativas de crédito y de consumo;
+i) las cooperativas;
 
 j) las que explotan juegos de azar;
 
 k) las inmobiliarias;
 
-l) las fundaciones y organizaciones no gubernamentales (ONGs);
+l) las organizaciones sin fines de lucro (OSL)
 
-m) las casas de empeño; y,
+m) las casas de empeño;
 
-n) cualquier otra física o jurídica que se dedique de manera habitual a la intermediación financiera, al comercio de joyas, piedras y metales preciosos; objetos de arte, antigüedades, o a la inversión filatélica o numismática.
+n) las entidades gubernamentales,
+
+ñ) las actividades y profesiones no financieras,
+
+o) la/s persona/s física/s o jurídica/s que se dedique de manera habitual a la intermediación financiera,
+
+p) el comercio de joyas, piedras y metales preciosos;
+
+q) objetos de arte y antigüedades, a la inversión filatélica o numismática; y,
+
+r) las que realicen actos de comercio en general, que impliquen transferencias de dineros o valores, sean éstas formales o informales, de conformidad a lo establecido en esta Ley.
+
+Esta enumeración no será taxativa.
+
+> *Modificado por Ley N° 3783 (2009-07-20)*
 
 ### Artículo 14°
 
@@ -201,19 +213,24 @@ Los sujetos obligados deberán conservar durante un período mínimo de cinco a�
 
 ### Artículo 19°
 
-Obligación de informar operaciones sospechosas.
 
-Los sujetos obligados deberán comunicar cualquier hecho u operación, con independencia de su cuantía, respecto de los cuales exista algún indicio o sospecha de que estén relacionados con el delito de lavado de dinero o bienes.
+**Obligación de informar operaciones sospechosas.**
 
-Se considerarán operaciones sospechosas en especial, aquellas que :
+Los sujetos obligados deberán comunicar a la SEPRELAD cualquier hecho u operación con independencia de su cuantía, respecto de los cuales exista algún indicio o sospecha de que estén relacionados al ámbito de aplicación de esta Ley.
+
+Se considerarán operaciones sospechosas en especial, aquéllas que:
 
 1) sean complejas, insólitas, importantes o que no respondan a los patrones de transacciones habituales;
 
 2) aunque no sean importantes, se registren periódicamente y sin fundamento económico o legal razonable;
 
-3) por su naturaleza o volumen no correspondan a las operaciones activas o pasivas de los clientes según su actividad o antecedente operativo; y,
+3) por su naturaleza o volumen no correspondan a las operaciones activas o pasivas de los clientes según su actividad o antecedente operativo;
 
-4) sin causa que lo justifique sean abonadas mediante ingresos en efectivo, por un numero elevado de personas.
+4) sin causa que lo justifique sean abonadas mediante ingresos en efectivo, por un número elevado de personas; y,
+
+5) las señaladas en los reglamentos de la Secretaría de Prevención de Lavado de Dinero o Bienes.
+
+> *Modificado por Ley N° 3783 (2009-07-20)*
 
 ### Artículo 20°
 
@@ -281,59 +298,72 @@ DE LA AUTORIDAD DE APLICACIÓN
 
 ### Artículo 26°
 
-La Secretaría de Prevención de Lavado de Dinero o Bienes.
 
-Créase la Secretaría de Prevención de Lavado de Dinero o Bienes, dependiente de la Presidencia de la República, como autoridad de aplicación de la presente ley.
+**La Secretaría de Prevención de Lavado de Dinero o Bienes.**
+
+Créase la Secretaría de Prevención de Lavado de Dinero o Bienes, (SEPRELAD) como organismo técnico y autoridad de aplicación de la presente Ley, dependiente de la Presidencia de la República.
+
+> *Modificado por Ley N° 3783 (2009-07-20)*
 
 ### Artículo 27°
 
-Composición.
 
-La Secretaría de Prevención de Lavado de Dinero o Bienes estará compuesta por:
+La SEPRELAD, se constituye como Unidad de Inteligencia Financiera de la República del Paraguay, la cual gozará de autonomía funcional y administrativa dentro de los límites de la ley y de los reglamentos.
 
-1. el Ministro de Industria y Comercio quien presidirá la Secretaría;
+La Secretaría estará a cargo de un Secretario Ejecutivo, quien deberá cumplir para su nombramiento con los mismos requisitos exigidos para un Ministro del Poder Ejecutivo, y contar con la probada idoneidad en la materia. Será nombrado por el Presidente de la República. El Secretario Ejecutivo nombrará a los demás funcionarios por resolución, conforme a las disposiciones legales.
 
-2. un miembro del Directorio del Banco Central del Paraguay que éste designe, quien sustituirá al Presidente en caso de ausencia o impedimento;
+En caso de enfermedad o cualquier ausencia temporal, el Secretario será reemplazado interinamente por la autoridad que le siga en el orden jerárquico inmediato, de acuerdo con los reglamentos de la Institución.
 
-3. un Consejero de la Comisión Nacional de Valores designado por élla;
+La Secretaría de Prevención del Delito de Lavado de Dinero tendrá una partida específica en el Presupuesto General de la Nación, y administrará con autonomía los recursos que le sean asignados así como los ingresos provenientes del cobro de aranceles.
 
-4. el Secretario Ejecutivo de la SENAD;
-
-5. el Superintendente de Bancos; y,
-
-6. el Comandante de la Policía Nacional.
+> *Modificado por Ley N° 3783 (2009-07-20)*
 
 ### Artículo 28°
 
-Atribuciones.
 
-Son funciones y atribuciones de la Secretaría de Prevención de Lavado de Dinero o Bienes:
+**Atribuciones.**
 
-1. dictar en el marco de las leyes, los reglamentos de carácter administrativo que deban observar los sujetos obligados con el fin de evitar, detectar y reportar las operaciones de lavado de dinero o bienes;
+Son funciones y atribuciones de la Secretaría de Prevención de Lavado de Dinero o Bienes dentro del ámbito de aplicación que le confiere la presente Ley:
 
-2. recabar de las instituciones públicas y de los sujetos obligados toda la información que pueda tener vinculación con el lavado de dinero;
+1. dictar en el marco de las leyes que rigen la materia, los reglamentos de carácter administrativo que deban observar los sujetos obligados con el fin de evitar, detectar y reportar las operaciones de lavado de dinero y las operaciones, relacionados al ámbito de aplicación de la presente Ley;
 
-3. analizar la información obtenida a fin de determinar transacciones sospechosas, así como operaciones o patrones de lavado de dinero o bienes;
+2. recabar de las instituciones públicas y de los sujetos obligados toda la información que pueda tener vinculación con las informaciones analizadas;
 
-4. mantener estadísticas del movimiento de bienes relacionados con el lavado de dinero o bienes;
+3. analizar la información obtenida, a fin de determinar transacciones sospechosas, así como operaciones o patrones relacionados al ámbito de aplicación de la presente Ley;
 
-5. disponer la investigación de las operaciones de los que se deriven indicios racionales de delito de lavado de dinero o bienes;
+4. mantener estadísticas del movimiento financiero relacionadas con las informaciones sometidas a su competencia;
 
-6. elevar al Ministerio Público los casos en que surjan indicios vehementes de la comisión de delito de lavado de dinero o bienes para que se inicie la investigación judicial correspondiente; y,
+5. disponer la investigación de las operaciones de las cuales se deriven indicios racionales de hechos relacionados con el ámbito de aplicación de la presente Ley;
 
-7. elevar los antecedentes a los órganos e instituciones encargados de supervisar a los sujetos obligados cuando se detecten infracciones administrativas a la ley o los reglamentos, a los efectos de su investigación y sanción en su caso.
+6. elevar al Ministerio Público los casos en que surjan indicios vehementes de la comisión de delitos relacionados con el ámbito de aplicación de la presente Ley para que se inicie la investigación correspondiente;
+
+7. elevar los antecedentes a los órganos e instituciones encargados de supervisar a los sujetos obligados cuando se detecten infracciones administrativas a la ley o los reglamentos, a los efectos de su investigación y sanción en su caso;
+
+8. disponer la reglamentación, supervisión y sanción de los sujetos obligados establecidos en el Artículo 13 de esta Ley, que no cuenten con entidades reguladoras o supervisores naturales;
+
+9. percibir aranceles en contraprestación de los servicios que esta Secretaría brinde. Estos recursos serán destinados a la implementación, operación, desarrollo, mantenimiento y actualización de los mecanismos destinados a la lucha del lavado de dinero y financiamiento del terrorismo; y,
+
+10.recibir y aceptar como fuente de recursos extraordinarios, donaciones y legados de terceros.
+
+> *Modificado por Ley N° 3783 (2009-07-20)*
 
 ### Artículo 29°
 
-La reglamentación, investigación y sanción de infracciones administrativas a la ley y a los reglamentos referidos al delito de lavado de dinero o bienes sólo se podrá realizar a través de las instituciones encargadas de la supervisión y fiscalización de los sujetos obligados según su naturaleza.
+
+La reglamentación, investigación y sanción de infracciones administrativas a la ley y a los reglamentos, conforme al ámbito de aplicación de la presente Ley, sólo se podrá realizar a través de las instituciones encargadas de la supervisión y fiscalización de los sujetos obligados según su naturaleza.
 
 El procedimiento será el establecido en las respectivas leyes que rijan a cada sujeto obligado.
 
+> *Modificado por Ley N° 3783 (2009-07-20)*
+
 ### Artículo 30°
 
-La Unidad de Análisis Financiero.
 
-La Secretaría de Prevención de Lavado de Dinero o Bienes tendrá a su cargo una Unidad de Análisis Financiero que estará integrada por el personal profesional y técnico idóneo en materia de finanzas y procesamiento de datos para evaluar y analizar la información recibida por la Secretaría.
+**Del Consejo Consultor.**
+
+La Secretaría de Prevención de Lavado de Dinero o Bienes, para el cumplimiento de sus fines y objetivos, podrá conformar un Consejo de carácter consultivo, compuesto por representantes de las distintas instituciones afines al ámbito de aplicación de la presente Ley.
+
+> *Modificado por Ley N° 3783 (2009-07-20)*
 
 ### Artículo 31°
 
