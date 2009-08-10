@@ -422,11 +422,19 @@ CONCESIONES DE SERVICIOS
 
 ### Artículo 37°
 
-Las concesiones de servicios se otorgarán por licitación y por tiempo limitado y éstas podrán ser valuadas y consideradas como bienes. Las empresas concesionarias no podrán transferir sus derechos y obligaciones a terceros sin previo y expreso consentimiento de los organismos creados en esta ley.
+
+Las concesiones de servicios se otorgarán por licitación a las empresas que por primera vez utilizarán un itinerario, el cual será por tiempo limitado y éstas podrán ser valuadas y consideradas como bienes. Las empresas concesionarias no podrán transferir sus derechos y obligaciones a terceros sin previo y expreso consentimiento de los organismos creados en esta Ley.
+
+> *Modificado por Ley N° 3698 (2009-08-10)*
 
 ### Artículo 38°
 
-Toda concesión de itinerarios y/o zonas de explotación a una empresa de transporte público de pasajeros, requerirá de una licitación pública en base a los pliegos de condiciones determinados por los organismos creados en esta ley.
+
+Toda concesión de itinerarios y/o zonas de explotación a una empresa de transporte público de pasajeros que por primera vez solicite el usufructo de un itinerario, requerirá de una licitación pública en base a los pliegos de condiciones determinados por los organismos creados en esta Ley.
+
+Las empresas permisionarias continuarán en el usufructo de los respectivos itinerarios, sin necesidad de participar en la nueva licitación.
+
+> *Modificado por Ley N° 3698 (2009-08-10)*
 
 CAPITULO VI
 
