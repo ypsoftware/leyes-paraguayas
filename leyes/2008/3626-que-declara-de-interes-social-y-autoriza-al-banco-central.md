@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/1809/texto
 short_title: "QUE DECLARA DE INTERES SOCIAL Y AUTORIZA AL BANCO CENTRAL…"
+derogada: true
+derogada_por: Ley 3798
+derogada_fecha: 2009-08-12
 ---
 
 # LEY Nº 3626
@@ -40,3 +43,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los cuatro días del mes de setiembre del año dos mil ocho, y por la Honorable Cámara de Senadores, a los nueve días del mes de octubre del año dos mil ocho, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 3798 (2009-08-12)*
