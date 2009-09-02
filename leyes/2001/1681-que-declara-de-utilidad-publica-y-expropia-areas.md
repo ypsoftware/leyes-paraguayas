@@ -66,19 +66,20 @@ INDIVIDUALIZACION DE INMUEBLES. La EBY, respecto de los inmuebles afectados, det
 ### Artículo 4°
 
 
-TASACIÓN DE LOS INMUEBLES. La tasación de los inmuebles y demás bienes será de responsabilidad de la EBY. La Comisión de Tasación de la EBY prevista en el reglamento interno de la misma, deberá notificar fehacientemente al propietario afectado con por lo menos cuarenta y ocho horas de anticipación, el inicio de sus tareas y dará participación al mismo en los trabajos de tasaciones. El propietario afectado podrá designar un representante por medio de carta poder especialmente dictada para el efecto, con la correspondiente autenticación de firma por escribano público.
 
-La Comisión Técnica dispondrá del plazo de treinta días para realizar la tasación y notificar el resultado final de los trabajos efectuados al propietario afectado, juntamente con los parámetros utilizados para la determinación de los valores.
+TASACIÓN DE LOS INMUEBLES. La tasación de los inmuebles y demás bienes será de responsabilidad de la Entidad Binacional Yacyretá. La Comisión de Tasación de la Entidad Binacional Yacyretá prevista en el reglamento interno de la misma, deberá notificar fehacientemente al propietario afectado con por lo menos cuarenta y ocho horas de anticipación, el inicio de sus tareas y dará participación al mismo en los trabajos de tasaciones. El propietario afectado podrá designar un representante por medio de carta poder especialmente dictada para el efecto, con la correspondiente certificación de firma de un escribano público.
 
-El propietario afectado dispondrá de un plazo de veinte días para expresar su conformidad o rechazo. La falta de aceptación expresa se entenderá como rechazo. En caso de disconformidad y dentro del plazo previsto en este párrafo, el propietario afectado podrá solicitar la reconsideración de la tasación sin pérdida del beneficio por avenimiento del Artículo 9º de la presente ley. La solicitud deberá realizarse ante el Consejo de Administración de la EBY, mediante escrito fundado, que deberá resolverse en un plazo de veinte días.
+La Comisión Técnica dispondrá del plazo de cuarenta y cinco días hábiles para realizar la tasación y notificar el resultado final de los trabajos efectuados al propietario afectado, juntamente con los parámetros utilizados para la determinación de los valores. En caso de mora, será aplicado el interés establecido por el Artículo 5º de la Ley Nº 1.681/01.
 
-El monto de la tasación se establecerá en dólares de los Estados Unidos de América y pagado en su equivalente en guaraníes en el momento del pago, dentro de los sesenta días siguientes. Este valor reajustado en guaraníes servirá de base para el cálculo de los intereses establecidos por el Artículo 5º, en caso de mora en el pago.
+El propietario afectado dispondrá de un plazo de veinte días para expresar su conformidad o rechazo. La falta de aceptación expresa se entenderá como rechazo. En caso de disconformidad y dentro del plazo previsto en este párrafo, el propietario afectado podrá solicitar la reconsideración de la tasación sin pérdida del beneficio por avenimiento del Artículo 9° de la presente Ley. La solicitud deberá realizarse ante el Consejo de Administración de la Entidad Binacional Yacyretá, mediante escrito fundado, que deberá resolverse en un plazo de veinte días.
 
-Resuelto el recurso quedará fijado el monto de la indemnización por parte de la EBY. En caso de que el propietario afectado lo considere insuficiente, tendrá expedita la vía judicial.
+El monto de la tasación se establecerá en guaraníes y el mismo servirá también para el cálculo de los intereses por mora establecidos en el Artículo 5°. Para su cálculo se utilizará como base el monto en guaraníes al tipo de cambio establecido en el Certificado de Avalúo expedido al momento de la tasación, siempre que éste no sea inferior al equivalente a guaraníes cuatro mil quinientos ( Gs. 4.500) por dólar americano, en cuyo caso se aplicará dicha relación cambiaria.
 
-Las tasaciones serán anotadas en un registro especial habilitado para el efecto en la EBY. El registro será público y contendrá los parámetros utilizados para la determinación de los valores y el resultado final de los trabajos efectuados.
+Resuelto el recurso, quedará fijado el monto de la indemnización por parte de la Entidad Binacional Yacyretá. En caso de que el propietario afectado lo considere insuficiente, tendrá expedita la vía judicial.
 
-> *Modificado por Ley N° 1814 (2001-10-30)*
+Las tasaciones serán anotadas en un registro especial habilitado para el efecto en la Entidad Binacional Yacyretá. El registro será público y contendrá los parámetros utilizados para la determinación de los valores y el resultado final de los trabajos efectuados.
+
+> *Modificado por Ley N° 3724 (2009-09-02)*
 
 ### Artículo 5°
 
@@ -95,19 +96,20 @@ b) si se trata de inmuebles rurales con superficies inferiores a las mínimas es
 ### Artículo 7°
 
 
-REPARACIÓN INTEGRAL. La indemnización comprenderá necesariamente la reparación integral causado a los afectados, debiendo sus valores mínimos determinarse conforme a las siguientes reglas:
 
-a) El valor actual de la tierra en el momento de la tasación deberá ajustarse al valor de venta que tengan en ese momento en el mercado otras fincas similares y próximas ubicadas en sectores de población dedicados a actividades análogas en el mismo Municipio o en su defecto un adyacente que no haya sufrido los efectos de la depreciación producida por causa de la obra que motiva la expropiación;
+REPARACIÓN INTEGRAL OBJETIVA. La indemnización comprenderá la reparación integral objetiva del bien expropiado en el que se tendrán en cuenta:
 
-b) El valor de las mejoras introducidas en el inmueble. Las construcciones se avaluarán por el costo que en el mercado de la construcción demande la realización de edificaciones nuevas de idénticas características, no admitiéndose depreciaciones bajo ningún concepto;
+a) el valor actual de la tierra en el momento de la tasación deberá ajustarse al valor de venta que tengan en ese momento en el mercado otras fincas similares y próximas ubicadas en sectores de población dedicados a actividades análogas en el mismo municipio o en su defecto, un adyacente que no haya sufrido los efectos de la depreciación producida por causa de la obra que motiva la expropiación;
 
-c) Los gastos de traslado e instalación de bienes de producción como consecuencia de la expropiación; y,
+b) el valor de las mejoras introducidas en el inmueble. Las construcciones se avaluarán por el costo que en el mercado de la construcción demande la realización de edificaciones nuevas de idénticas características, no admitiéndose depreciaciones bajo ningún concepto;
 
-d) El valor de las indemnizaciones abonadas por ruptura de los contratos laborales. Los importes serán abonados a aquellos empleadores debidamente inscriptos en el Ministerio de Justicia y Trabajo y el Instituto de Previsión Social y cuyos contratos de trabajo estén inscriptos en el Ministerio de Justicia y Trabajo y no sean posteriores a la promulgación de la presente ley.
+c) los gastos de traslado e instalación de bienes de producción como consecuencia de la expropiación; y,
+
+d) el valor de las indemnizaciones abonadas por la ruptura de los contratos laborales. Los importes serán abonados a aquellos empleadores debidamente inscriptos en el Ministerio de Justicia y Trabajo y el Instituto de Previsión Social, y cuyos contratos de trabajo estén inscritos en el Ministerio de Justicia y Trabajo y no sean posteriores a la promulgación de la presente Ley.
 
 No se comprenderá en la indemnización el lucro cesante que pudieran sufrir los propietarios afectados.
 
-> *Modificado por Ley N° 1814 (2001-10-30)*
+> *Modificado por Ley N° 3724 (2009-09-02)*
 
 ### Artículo 8°
 
