@@ -91,7 +91,20 @@ PAGO O PERMUTA. La EBY en el momento del pago de las indemnizaciones deberá pro
 
 ### Artículo 4°
 
-Comuníquese al Poder Ejecutivo.
+
+TASACIÓN DE LOS INMUEBLES. La tasación de los inmuebles y demás bienes será de responsabilidad de la Entidad Binacional Yacyretá. La Comisión de Tasación de la Entidad Binacional Yacyretá prevista en el reglamento interno de la misma, deberá notificar fehacientemente al propietario afectado con por lo menos cuarenta y ocho horas de anticipación, el inicio de sus tareas y dará participación al mismo en los trabajos de tasaciones. El propietario afectado podrá designar un representante por medio de carta poder especialmente dictada para el efecto, con la correspondiente certificación de firma de un escribano público.
+
+La Comisión Técnica dispondrá del plazo de cuarenta y cinco días hábiles para realizar la tasación y notificar el resultado final de los trabajos efectuados al propietario afectado, juntamente con los parámetros utilizados para la determinación de los valores. En caso de mora, será aplicado el interés establecido por el Artículo 5º de la Ley Nº 1.681/01.
+
+El propietario afectado dispondrá de un plazo de veinte días para expresar su conformidad o rechazo. La falta de aceptación expresa se entenderá como rechazo. En caso de disconformidad y dentro del plazo previsto en este párrafo, el propietario afectado podrá solicitar la reconsideración de la tasación sin pérdida del beneficio por avenimiento del Artículo 9° de la presente Ley. La solicitud deberá realizarse ante el Consejo de Administración de la Entidad Binacional Yacyretá, mediante escrito fundado, que deberá resolverse en un plazo de veinte días.
+
+El monto de la tasación se establecerá en guaraníes y el mismo servirá también para el cálculo de los intereses por mora establecidos en el Artículo 5°. Para su cálculo se utilizará como base el monto en guaraníes al tipo de cambio establecido en el Certificado de Avalúo expedido al momento de la tasación, siempre que éste no sea inferior al equivalente a guaraníes cuatro mil quinientos ( Gs. 4.500) por dólar americano, en cuyo caso se aplicará dicha relación cambiaria.
+
+Resuelto el recurso, quedará fijado el monto de la indemnización por parte de la Entidad Binacional Yacyretá. En caso de que el propietario afectado lo considere insuficiente, tendrá expedita la vía judicial.
+
+Las tasaciones serán anotadas en un registro especial habilitado para el efecto en la Entidad Binacional Yacyretá. El registro será público y contendrá los parámetros utilizados para la determinación de los valores y el resultado final de los trabajos efectuados.
+
+> *Modificado por Ley N° 3724 (2009-09-02)*
 
 ---
 
