@@ -15,37 +15,10 @@ short_title: "QUE MODIFICA LA LEY N° 838/96 “QUE INDEMNIZA A VICTIMAS DE…"
 
 ### Artículo 1°
 
-Modifícanse los Artículos 1°, 2º, 4º, 5º y 6º de la Ley Nº 838/96 “QUE INDEMNIZA A VICTIMAS DE VIOLACIONES DE DERECHOS HUMANOS DURANTE LA DICTADURA DE 1954 A 1989”, cuyos textos quedan redactados como sigue:
 
-“Art. 1º.- Las personas de cualquier nacionalidad que durante el sistema dictatorial imperante en el país entre los años 1954 a 1989 hubieren sufrido violación de sus derechos humanos, a la vida, la integridad personal o la libertad por parte de funcionarios, empleados o agentes del Estado, serán indemnizadas en los términos de la presente Ley. Las mismas tendrán plazo hasta el tres de febrero del año dos mil nueve para la presentación del reclamo correspondiente.”
+Las personas de cualquier nacionalidad, que durante el sistema dictatorial imperante en el país entre los años 1954 a 1989 hubieran sufrido violación de sus derechos humanos, a la vida, la integridad personal o la libertad por parte de funcionarios, empleados o agentes del Estado, serán indemnizadas en los términos de la presente Ley, por el Estado paraguayo. Las mismas tendrán plazo de 90 (noventa) días más para la presentación del reclamo correspondiente, desde la promulgación de esta Ley.
 
-“Art. 2º.- Las violaciones de derechos humanos por cuestiones políticas o ideológicas, que se indemnizarán por esta Ley, son las siguientes:
-
-a) Desaparición forzada de personas;
-
-b) Ejecución sumaria o extrajudicial;
-
-c) Tortura con secuela física y psíquica grave y manifiesta;
-
-d) Privación ilegítima de la libertad sin orden de autoridad competente o en virtud de proceso o condena por aplicación de las Leyes Nº 294 del 17 de octubre de 1955 “DE DEFENSA DE LA DEMOCRACIA” y Nº 209 del 18 de setiembre de 1970 “DE DEFENSA DE LA PAZ PUBLICA Y LIBERTAD DE LAS PERSONAS”, por más de un año; y,
-
-e) La privación ilegítima de la libertad, en los términos del inciso anterior, por un período menor a un año.”
-
-“Art. 4º.- A los efectos de acreditarse la violación de los derechos humanos, se admitirá la declaración informativa de dos testigos como mínimo y demás medios de prueba previstos en las normas procesales civiles.”
-
-“Art. 5º.- Las violaciones de los derechos humanos, a que se refiere el Artículo 2º de la presente Ley, serán indemnizadas de acuerdo con la siguiente escala:
-
-a) Las violaciones previstas en los incisos a) y b) del artículo mencionado, 3.000 (tres mil) jornales mínimos legales para actividades no especificadas;
-
-b) La violación prevista en el inciso c) del artículo mencionado, hasta 2.500 (dos mil quinientos) jornales mínimos legales para actividades no especificadas;
-
-c) Las violaciones previstas en el inciso d) del artículo mencionado, 500 (quinientos) hasta 1.500 (un mil quinientos) jornales mínimos legales para actividades no especificadas; y,
-
-d) La violación de los derechos humanos de víctimas que no hayan cumplido un año, serán indemnizados con el importe de un jornal mínimo legal vigente por cada día de privación ilegítima de la libertad.”
-
-“Art. 6º.- Las indemnizaciones establecidas en el Artículo 2º podrán ser demandadas por el cónyuge supérstite o los parientes consanguíneos hasta el primer grado, quienes podrán probar su vocación hereditaria por el procedimiento sumario previsto en la Ley Nº 190/70 “QUE ESTABLECE UN REGIMEN SUCESORIO ESPECIAL PARA LA TRANSMISION DE LOS DERECHOS A LA PENSION, JUBILACION O HABER DE RETIRO ACORDADOS A LOS MUTILADOS Y LISIADOS DE LA GUERRA DEL CHACO, Y DE BIENES DE MENOR CUANTÍA DE LOS MISMOS”.
-
-Este beneficio podrá ser reclamado por los familiares citados precedentemente en los casos previstos en los incisos c) y d) del artículo mencionado, toda vez que la víctima no haya sido indemnizada en vida conforme a esta Ley.”
+> *Modificado por Ley N° 3852 (2009-09-28)*
 
 ### Artículo 2°
 
