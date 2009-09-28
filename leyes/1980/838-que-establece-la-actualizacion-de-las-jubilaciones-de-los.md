@@ -17,9 +17,10 @@ short_title: "QUE ESTABLECE LA ACTUALIZACIÓN DE LAS JUBILACIONES DE LOS…"
 
 
 
-Las personas de cualquier nacionalidad que durante el sistema dictatorial imperante en el país entre los años 1954 a 1989 hubieren sufrido violación de sus derechos humanos, a la vida, la integridad personal o la libertad por parte de funcionarios, empleados o agentes del Estado, serán indemnizadas en los términos de la presente Ley. Las mismas tendrán plazo hasta el tres de febrero del año dos mil nueve para la presentación del reclamo correspondiente.
 
-> *Modificado por Ley N° 3603 (2008-09-25)*
+Las personas de cualquier nacionalidad, que durante el sistema dictatorial imperante en el país entre los años 1954 a 1989 hubieran sufrido violación de sus derechos humanos, a la vida, la integridad personal o la libertad por parte de funcionarios, empleados o agentes del Estado, serán indemnizadas en los términos de la presente Ley, por el Estado paraguayo. Las mismas tendrán plazo de 90 (noventa) días más para la presentación del reclamo correspondiente, desde la promulgación de esta Ley.
+
+> *Modificado por Ley N° 3852 (2009-09-28)*
 
 ### Artículo 2°
 
