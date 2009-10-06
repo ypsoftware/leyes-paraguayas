@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/1731/texto
 short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA A FAVOR DE LA…"
+derogada: true
+derogada_por: Ley 3858
+derogada_fecha: 2009-10-06
 ---
 
 # LEY Nº 1650
@@ -28,3 +31,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a dieciséis días del mes de noviembre del año dos mil, quedando sancionado el mismo por la Honorable Cámara de Diputados, a doce días del mes de diciembre del año dos mil, de conformidad a lo dispuesto en el Artículo 207, numeral 1) de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 3858 (2009-10-06)*
