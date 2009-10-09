@@ -850,15 +850,10 @@ La jubilación será obligatoria cuando el funcionario público cumpla sesenta y
 
 ### Artículo 107°
 
-El funcionario público que fuera trasladado de un organismo o entidad del Estado a otro que cuente con un régimen de jubilaciones diferente al que pertenecía, inclusive el sector privado, tendrá las siguientes opciones:
 
-a) continuar en la caja a la que pertenecía; o,
+> **Derogado.**
 
-b) incorporarse a la otra caja de jubilaciones conservando su antigüedad, transfiriendo a la caja a la que se incorpore el monto de su aporte acumulado en el régimen de donde proviene. En tal caso, seguirá aportando conforme al régimen de la caja a la que se incorpore.
-
-Igual derecho tendrá el funcionario que hubiera renunciado o hubiera sido cesado y se reincorporase a la función pública, siempre que no hubiese retirado su aporte.
-
-La Secretaría de la Función Pública supervisará el cumplimiento del sistema de transferencia entre las cajas de jubilaciones del sector público.
+> *Derogado por Ley N° 3856 (2009-10-09)*
 
 CAPÍTULO XVI
 
