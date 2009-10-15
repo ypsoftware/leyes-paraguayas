@@ -1785,9 +1785,10 @@ Serán partes en el procedimiento el niño o adolescente, sus padres, los tutore
 
 ### Artículo 169°
 
-DE LA COMPETENCIA TERRITORIAL.
 
-La competencia territorial estará determinada por el lugar de residencia habitual del niño o adolescente.
+DE LA COMPETENCIA TERRITORIAL. La competencia territorial estará determinada por el lugar de residencia habitual del niño o adolescente, y en el caso que el niño o adolescente se encuentre residiendo en el extranjero, la competencia territorial quedará a opción del accionante. Cuando el juicio se iniciare en territorio extranjero, se notificará al Estado paraguayo, conforme órgano competente.
+
+> *Modificado por Ley N° 3879 (2009-10-15)*
 
 ### Artículo 170°
 
