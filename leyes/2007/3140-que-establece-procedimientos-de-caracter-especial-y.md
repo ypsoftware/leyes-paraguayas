@@ -15,19 +15,25 @@ short_title: "QUE ESTABLECE PROCEDIMIENTOS DE CARACTER ESPECIAL Y…"
 
 ### Artículo 1°
 
-Establécese procedimientos de carácter especial y transitorio para las inscripciones de nacimientos, matrimonios y defunciones en el Registro del Estado Civil. Esta Ley tendrá vigencia por dos años, a partir de su promulgación.
+
+Establécense procedimientos de carácter especial y transitorio para las inscripciones de nacimientos, matrimonios y defunciones en el Registro del Estado Civil. Las mismas tendrán un plazo de dos años, a partir de la promulgación de la presente Ley.
+
+> *Modificado por Ley N° 3898 (2009-11-09)*
 
 ### Artículo 2°
 
-En este período podrán realizarse las inscripciones de los nacimientos, matrimonios y defunciones que no hayan sido asentados en los libros correspondientes de las oficinas del Registro Civil, ubicadas en todo el país, en consideración a las siguientes formalidades, las cuales no serán excluyentes:
+
+En este período, podrán realizarse las inscripciones de los nacimientos, matrimonios y defunciones que no hayan sido asentados en los libros correspondientes de las oficinas del Registro Civil, ubicadas en todo el país, en consideración a las siguientes formalidades:
 
 a) presentación del formulario de solicitud de inscripción proveído por la oficina del Registro del Estado Civil;
 
-b) presentación de los antecedentes o certificaciones del nacimiento, matrimonio o defunción, del cual se desea realizar la inscripción;
+b) presentación de los antecedentes o certificaciones de nacimiento, matrimonio o defunción, del cual se desea realizar la inscripción;
 
-c) presentación de los documentos de identidad de los declarantes y dos testigos capaces, en los términos del Artículo 38 de la Ley Nº 1266/87 “DEL REGISTRO DEL ESTADO CIVIL”; y,
+c) presentación de los documentos de identidad de los declarantes y dos testigos capaces, en los términos del Artículo 38 de la Ley Nº 1.266/87 “DEL REGISTRO DEL ESTADO CIVIL”; y,
 
 d) en todos los casos la solicitud de inscripción deberá estar firmada por los solicitantes y los testigos bajo fe de juramento.
+
+> *Modificado por Ley N° 3898 (2009-11-09)*
 
 ### Artículo 3°
 
