@@ -1930,3 +1930,5 @@ Comuníquese al Poder Ejecutivo.
 *Aprobada por la Honorable Cámara de Senadores el primero de abril del año un mil novecientos noventa y seis y por la Honorable Cámara de Diputados, sancionándose la Ley, el nueve de mayo del año un mil novecientos noventa y seis.*
 
 > *Derogada en su totalidad por Ley N° 2094 (2003-04-21)*
+
+> *Derogada en su totalidad por Ley N° 3899 (2009-11-18)*
