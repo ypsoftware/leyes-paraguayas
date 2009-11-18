@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/2642/texto
 short_title: "QUE CREA Y REGULA A LAS SOCIEDADES CALIFICADORAS DE RIESGO"
+derogada: true
+derogada_por: Ley 3899
+derogada_fecha: 2009-11-18
 ---
 
 # LEY Nº 1056
@@ -284,3 +287,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobada por la Honorable Cámara de Senadores el doce de diciembre del año un mil novecientos noventa y seis y por la Honorable Cámara de Diputados, sancionándose la Ley, el ocho de mayo del año un mil novecientos noventa y siete, de conformidad al Artículo 207, numeral 3, de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 3899 (2009-11-18)*
