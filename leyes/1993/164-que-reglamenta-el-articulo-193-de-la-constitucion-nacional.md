@@ -27,11 +27,16 @@ El Proyecto de Resolución aprobado por la mayoría que votara favorablemente a 
 
 ### Artículo 4°
 
-Resuelta favorablemente la solicitud, el Presidente de la Cámara respectiva invitará al Ministro o al Funcionario, estableciendo de común acuerdo la fecha de su concurrencia al recinto.
 
-De no haber acuerdo sobre el día y hora, prevalecerá el criterio de la Cámara interpelante. La Presidencia de la Cámara hará llegar al funcionario citado el pliego de preguntas, con cinco días de anticipación como mínimo.
+Resuelta favorablemente la solicitud, el Presidente de la Cámara respectiva invitará al funcionario interpelado, estableciendo de común acuerdo la fecha de su concurrencia al recinto.
 
-Será obligatoria la concurrencia del citado, salvo justa causa, que será apreciada por la Cámara respectiva.
+De no haber acuerdo sobre el día y hora, prevalecerá el criterio de la Cámara interpelante. La Presidencia de la Cámara hará llegar al funcionario citado el pliego de preguntas, con un mínimo de cinco días de anticipación a la fecha fijada para la interpelación.
+
+Será obligatoria la concurrencia del citado, salvo causa justa, que será considerada por la Cámara respectiva.
+
+La interpelación se realizará siempre en una sesión extraordinaria y como único punto del Orden del Día.
+
+> *Modificado por Ley N° 3926 (2009-12-07)*
 
 ### Artículo 5°
 
@@ -39,15 +44,26 @@ La persona citada deberá concurrir personalmente y podrá hacerse acompañar po
 
 ### Artículo 6°
 
-El interpelado responderá en primer lugar a las preguntas que le fueron comunicadas con antelación.
+
+El interpelado deberá responder de forma clara y concreta; primeramente las preguntas que le fueron notificadas con antelación a la interpelación, más las preguntas aclaratorias, y luego las formuladas por los interpelantes durante la sesión.
+
+> *Modificado por Ley N° 3926 (2009-12-07)*
 
 ### Artículo 7°
 
-Una vez que el interpelado hubiere contestado por completo las preguntas a que se refiere el artículo anterior, los parlamentarios podrán formular preguntas adicionales, ampliatorias o aclaratorias vinculadas con el objeto de la interpelación o con las respuestas dadas por el interpelado.
+
+Una vez que el interpelado hubiese contestado todas las preguntas del cuestionario recibido con antelación a la interpelación y sus aclaratorias, los congresistas podrán formular preguntas adicionales, vinculadas con el objeto de la interpelación o con las respuestas dadas por el interpelado. El Presidente de la Cámara respectiva ordenará el procedimiento a seguir, velará por el cumplimiento de las formas. En el caso de que el Presidente de la Cámara respectiva considere que una pregunta es impertinente o inconducente, dispondrá que la misma no será respondida.
+
+Cuando se hayan agotado las preguntas, el interpelado tendrá derecho a hacer todas las manifestaciones que considera necesarias, por un plazo que no podrá exceder los treinta minutos. Terminada su exposición se dará por concluida la interpelación.
+
+> *Modificado por Ley N° 3926 (2009-12-07)*
 
 ### Artículo 8°
 
-El régimen de citación e interpelación se ajustará en todo lo demás a lo dispuesto en los Artículos 193 y 194 de la Constitución Nacional y a los Reglamentos de las Cámaras del Congreso.
+
+El régimen de citación e interpelación se ajustará a las disposiciones contenidas en la Constitución y los Reglamentos de las Cámaras del Congreso Nacional.
+
+> *Modificado por Ley N° 3926 (2009-12-07)*
 
 ### Artículo 9°
 
