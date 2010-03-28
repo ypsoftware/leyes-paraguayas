@@ -469,11 +469,17 @@ SERVICIOS DE RADIODIFUSION DE PEQUEÑA Y MEDIANA COBERTURA O RADIOS COMUNITARIAS
 
 ### Artículo 57°
 
-Constitúyese el servicio de radiodifusión alternativa, que incluirá las radios comunitarias, educativas, asociativas y ciudadanas, de pequeña y mediana cobertura. Una reglamentación especial establecerá el alcance, la potencia y las características técnicas de las mismas.
+
+Constitúyese el Servicio de Radiodifusión Sonora que incluye las radios comunitarias, educativas, asociativas y ciudadanas designadas por el límite de su potencia efectiva radiada como pequeña cobertura hasta 50 (cincuenta) Watts y de mediana cobertura hasta 300 (trescientos) Watts. Las características técnicas de las mismas serán reglamentadas por la autoridad de aplicación de esta Ley.
+
+> *Modificado por Ley N° 4179 (2010-03-28)*
 
 ### Artículo 58°
 
-El objetivo de estos servicios consiste en emitir programas de carácter cultural, educativos, artísticos e informativos sin fines de lucro.
+
+El objetivo de estos servicios consiste en emitir programas de carácter cultural, educativo, artístico e informativo, sin fines de lucro, ni comerciales. Estos programas no podrán ser objeto de arrendamientos, por el prestador. No se podrán efectuar en ellos ni fuera de ellos, mención, publicidad o propaganda en ninguna de sus formas.
+
+> *Modificado por Ley N° 4179 (2010-03-28)*
 
 ### Artículo 59°
 
@@ -557,7 +563,10 @@ Toda modificación estatutaria de las entidades adjudicatarias de concesiones, a
 
 ### Artículo 70°
 
-Las concesiones, licencias y autorizaciones estarán sujetas al pago de un derecho, por única vez, que deberá verificarse en el plazo de sesenta días de su obtención. La explotación comercial de los servicios estará sujeta al pago de una tasa anual de hasta el uno por ciento de los ingresos brutos del prestador.
+
+Las concesiones, licencias y autorizaciones estarán sujetas al pago de un derecho, que deberá verificarse en el plazo de sesenta días de su obtención o de su renovación por única vez en cada período. Para las renovaciones el pago del derecho se determinará en base a las ampliaciones o nuevas inversiones. La explotación comercial de los servicios estará sujeta al pago de una tasa anual de hasta el 1% (uno por ciento) de los ingresos brutos del prestador.
+
+> *Modificado por Ley N° 4179 (2010-03-28)*
 
 ### Artículo 71°
 
@@ -583,11 +592,18 @@ Las concesiones, licencias y autorizaciones se prorrogarán precariamente en la 
 
 
 
-Las concesiones, licencias y autorizaciones otorgadas de acuerdo con la presente Ley tendrán un plazo mínimo de:
 
-b) diez años para los servicios de difusión, renovables por igual período por única vez, conforme con los términos establecidos en la licencia. Quedan exceptuadas de la restricción prevista en este inciso, las licencias de servicios de difusión cuyas vigencias tengan más de diez años de antigüedad, las cuales podrán ser renovadas por más de una vez, siempre y cuando se adecuen al Plan Nacional de Atribución de Frecuencias y a las demás reglamentaciones vigentes de la CONATEL en un plazo no mayor de un año.
+Las concesiones, licencias y autorizaciones otorgadas de acuerdo con la presente Ley, tendrán un plazo de:
 
-> *Modificado por Ley N° 2495 (2004-10-15)*
+a) veinte años para los servicios públicos de telecomunicaciones renovables, según los términos establecidos en el contrato de concesión;
+
+b) diez años, para los servicios de difusión, renovables por igual período, conforme a los términos establecidos en la licencia;
+
+c) cinco años para los demás servicios, renovables a solicitud del interesado; y,
+
+d) por plazos menores para casos excepcionales o servicios especiales, cuya naturaleza o característica lo justifique.
+
+> *Modificado por Ley N° 4179 (2010-03-28)*
 
 CAPITULO II
 
@@ -765,9 +781,13 @@ Se consideran normas de ordenación y disciplina de la actividad de telecomunica
 
 ### Artículo 100°
 
-A efectos de la clausura provisional y de la incautación provisional de equipos la Comisión Nacional de Telecomunicaciones oficiará al Juez de Primera Instancia en lo Civil y Comercial, para que por el solo mérito de dicho oficio y la transcripción de la resolución de la Comisión Nacional de Telecomunicaciones que autoriza la medida, disponga el diligenciamiento correspondiente, y el auxilio de la fuerza pública si fuese necesario.
 
-La prestación ilegal del servicio importará para quienes resulten responsables la inhabilitación por el término de cinco años duplicables en caso de reincidencia, contados desde la declaración de ilegalidad, para ser titulares, socios o miembros de órganos titulares de concesiones, licencias y autorizaciones de servicios de telecomunicaciones.
+
+b.- Quien sin licencia o autorización previa de la Comisión Nacional de Telecomunicaciones, proceda a instalar u operar cualquier Servicio de Radiodifusión será sancionado con una multa de 300 (trescientos) a 500 (quinientos) jornales diarios. Cuando el autor obtuviere un beneficio patrimonial con la explotación del servicio ilegal, será sancionado con una multa de 500 (quinientos) a 1000 (un mil) jornales diarios.
+
+Para la aplicación de estas sanciones el Ministerio Público actuará de oficio, por denuncia de la Comisión Nacional de Telecomunicaciones, o quien tenga conocimiento o resulte afectado por cualquiera de los hechos indicados precedentemente, sin perjuicio de las acciones que correspondan a los particularmente afectados. Los equipos incautados serán destruidos por orden judicial.
+
+> *Modificado por Ley N° 4179 (2010-03-28)*
 
 ### Artículo 101°
 
