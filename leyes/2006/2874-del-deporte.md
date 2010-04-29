@@ -253,7 +253,10 @@ DE LAS EXONERACIONES
 
 ### Artículo 24°
 
-Exonérase del pago de impuestos nacionales a las entidades deportivas inscriptas en el Registro de Entidades Deportivas de la Secretaría Nacional de Deportes.
+
+Exonérase del pago de impuestos y autorízase el descuento en tasas municipales, a las entidades deportivas inscriptas en el Registro de Entidades Deportivas de la Secretaría Nacional de Deportes.
+
+> *Modificado por Ley N° 3992 (2010-04-29)*
 
 ### Artículo 25°
 
