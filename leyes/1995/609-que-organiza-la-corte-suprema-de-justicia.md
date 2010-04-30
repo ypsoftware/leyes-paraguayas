@@ -120,11 +120,10 @@ DE LA SALA CONSTITUCIONAL
 
 ### Artículo 11°
 
-Competencia. Son deberes y atribuciones de la Sala Constitucional los siguientes:
 
-a) Conocer y resolver sobre la inconstitucionalidad de las leyes y de otros instrumentos normativos, declarando la inaplicabilidad de las disposiciones contrarias a la Constitución en cada caso concreto y en fallo que sólo tendrá efecto con relación a ese caso; y,
+Inc. a) Conocer y resolver sobre la inconstitucionalidad de las leyes y de otros instrumentos normativos, declarando la inaplicabilidad de las disposiciones contrarias a la Constitución Nacional en cada caso concreto y en fallo que solo tendrá efecto con relación a ese caso. En los casos de fallos que declaren la inconstitucionalidad de las leyes y los decretos, los mismos deberán ser comunicados a ambas Cámaras del Congreso Nacional y al Poder Ejecutivo en un tiempo no mayor de quince días hábiles. El acceso a estas resoluciones será público y gratuito.
 
-b) Decidir sobre la inconstitucionalidad de las sentencias definitivas o interlocutorias, declarando la nulidad de las que resulten contrarias a la Constitución.
+> *Modificado por Ley N° 3986 (2010-04-30)*
 
 ### Artículo 12°
 
