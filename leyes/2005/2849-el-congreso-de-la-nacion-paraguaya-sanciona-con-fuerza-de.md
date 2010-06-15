@@ -17,53 +17,31 @@ ESPECIAL ANTISECUESTRO.
 
 ### Artículo 1°
 
-SECUESTRO. El que privara a una persona ilegalmente de su libertad, con el fin de obtener para sí o para un tercero un beneficio patrimonial o de otro tipo, será castigado con pena privativa de libertad de quince a veinte años.
+
+ASEGURAMIENTO DE BIENES. El Ministerio Público una vez que tenga conocimiento de la comisión de un delito de secuestro, podrá disponer además de otras medidas, con el fin de salvaguardar los intereses legítimos de la víctima, mientras esta permanezca privada de su libertad y previa autorización judicial, el aseguramiento de los bienes de la víctima y sus familiares, así como de aquellos bienes respecto de los cuales se conduzcan como dueños.La limitación de las operaciones bancarias abarcará las sumas que por su cuantía se presuman puedan tener como destino el pago del rescate.Para el efecto el Ministerio Público procederá a elaborar un inventario de bienes de la persona secuestrada, de su cónyuge o concubina, de sus parientes dentro del cuarto grado de consanguinidad y segundo de afinidad, bajo declaración jurada de estos tres últimos indistintamente, y dará inmediatamente el aviso correspondiente a las oficinas de la Dirección General de los Registros Públicos; así como a las entidades bancarias, financieras y de seguros, ordenando que no permitan ningún movimiento en las cuentas y registros sin autorización del Ministerio Público, salvo aquellos movimientos que sean para pagos de gastos corrientes o deudas contraídas antes del secuestro.Al ejecutar la acción penal, el Ministerio Público pondrá a disposición del juez de la causa los bienes que permanezcan asegurados, para que éste dicte las medidas provisionales necesarias para su conservación, resguardo o liberación.
+
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 ### Artículo 2°
 
-CIRCUNSTANCIAS AGRAVANTES. La pena señalada para el secuestro, será de quince a veinticinco años si concurriere alguna de las siguientes circunstancias:
 
-1. Si la conducta se comete en persona discapacitada que no puede valerse por sí misma o que padezca de enfermedad grave, o en menor de dieciocho años o en mayor de sesenta y cinco años, o que no tenga la plena capacidad de autodeterminación o en mujer embarazada.
+La entidad bancaria o cualquier otra entidad financiera a la cual los familiares del secuestrado o un intermediario solicite dinero en préstamo, o retire dinero que no esté bajo custodia judicial, está en la obligación de informar, en forma oportuna, veraz y precisa al Ministerio Público, la cantidad, denominación y serie de los billetes, fecha y hora en que se efectuó la entrega al interesado, a fin de hacer el seguimiento respectivo.En caso de que los bancos y financieras no proporcionen dicha información en un lapso de 6 (seis) horas, se les sancionará con 6000 (seis mil) salarios mínimos.
 
-2. Si se somete a la víctima a tortura física o moral o a violencia sexual durante el tiempo en que permanezca secuestrada.
-
-3. Si la privación de la libertad del secuestrado se prolonga por más de quince días.
-
-4. Si se ejecuta la conducta respecto de parientes hasta el cuarto grado de consanguinidad, cuarto de afinidad o primero civil, sobre cónyuge o concubina o concubino permanente, o el autor fuera tutor o encargado de la víctima, o aprovechando la confianza depositada por la víctima en el autor o en alguno o algunos de los partícipes. Para los efectos previstos en este artículo, la afinidad será derivada de cualquier forma de matrimonio o unión libre.
-
-5. Cuando la conducta se realice por funcionario público, miembro en ejercicio de la fuerza pública al tiempo del ilícito o con anterioridad al mismo.
-
-6. Cuando se presione la entrega o verificación de lo exigido con amenazas de muerte o lesión o con ejecutar acto que implique grave peligro común o grave perjuicio a la comunidad o a la salud pública.
-
-7. Cuando el hecho se cometa con fines terroristas; entendiéndose por terrorismo aquellos actos definidos como tal en los instrumentos internacionales finales y ratificados por el Gobierno de la República del Paraguay.
-
-8. Cuando se obtenga la utilidad, provecho o la finalidad perseguidos por los autores o partícipes.
-
-9. Cuando se afecten gravemente los bienes o la actividad profesional o económica de la víctima.
-
-10. Cuando por causa o en ocasión del secuestro sobrevengan lesiones graves.
-
-11. Si se comete en la persona de un periodista, dirigente comunitario, sindical, político, étnico, religioso, candidato a cargo de elección popular, por razón de sus funciones, ya sea en ejercicio al tiempo del ilícito o con anterioridad al mismo.
-
-12. Si la conducta se comete utilizando orden de captura o detención no auténtica o simulando tenerla.
-
-13. Cuando la conducta se comete total o parcialmente desde un lugar de privación de la libertad.
-
-14. Si la conducta se comete parcialmente en el extranjero.
-
-15. Cuando se trafique con la persona secuestrada durante el tiempo de privación de la libertad.
-
-16. En persona internacionalmente protegida en el Derecho Internacional Humanitario y agentes diplomáticos, de los señalados en los tratados y convenios internacionales ratificados por Paraguay.
-
-Cuando como consecuencia del secuestro sobrevenga la muerte de la víctima, será castigado con pena privativa de libertad de treinta años, sin perjuicio de la aplicación del Artículo 75 del Código Penal Paraguayo.
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 ### Artículo 3°
 
-SUMINISTRO DE INFORMACION. El que, con la finalidad de contribuir a la privación ilegítima de la libertad de las personas, suministre a otro información que haya conocido por razón o con ocasión de sus funciones, cargo, oficio, parentesco o amistad, será castigado con pena privativa de libertad de quince a veinticinco años y multa hasta dos mil días-multa como máximo. En estos casos, el Tribunal podrá aplicar lo establecido en el Artículo 67 del Código Penal.
+
+Queda única y exclusivamente a cargo de los organismos especializados del Estado, en coordinación con los familiares de las víctimas, todo contacto o negociación con los secuestradores.
+
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 ### Artículo 4°
 
-DEL CONOCIMIENTO DE SECUESTROS. Toda persona que tenga conocimiento o información de un posible o actual secuestro y omitiera denunciarlo a las autoridades correspondientes, será castigada con pena privativa de libertad de uno a cinco años o con multa.
+
+En el área de telecomunicaciones, los prestadores de servicios básicos y de telefonía móvil celular, deberán adecuar su equipamiento y tecnología, conforme a la reglamentación que deberá ser dictada por el Poder Ejecutivo y la Comisión Nacional de Telecomunicaciones (CONATEL), a efectos de cooperar con el Estado en la defensa nacional y la seguridad interna.
+
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 ### Artículo 5°
 
