@@ -24,37 +24,26 @@ PRINCIPIOS BASICOS
 
 ### Artículo 1°
 
-Principio de legalidad
 
-Nadie será sancionado con una pena o medida sin que los presupuestos de la punibilidad de la conducta y la sanción aplicable se hallen expresa y estrictamente descritos en una ley vigente con anterioridad a la acción u omisión que motive la sanción.
+ASEGURAMIENTO DE BIENES. El Ministerio Público una vez que tenga conocimiento de la comisión de un delito de secuestro, podrá disponer además de otras medidas, con el fin de salvaguardar los intereses legítimos de la víctima, mientras esta permanezca privada de su libertad y previa autorización judicial, el aseguramiento de los bienes de la víctima y sus familiares, así como de aquellos bienes respecto de los cuales se conduzcan como dueños.La limitación de las operaciones bancarias abarcará las sumas que por su cuantía se presuman puedan tener como destino el pago del rescate.Para el efecto el Ministerio Público procederá a elaborar un inventario de bienes de la persona secuestrada, de su cónyuge o concubina, de sus parientes dentro del cuarto grado de consanguinidad y segundo de afinidad, bajo declaración jurada de estos tres últimos indistintamente, y dará inmediatamente el aviso correspondiente a las oficinas de la Dirección General de los Registros Públicos; así como a las entidades bancarias, financieras y de seguros, ordenando que no permitan ningún movimiento en las cuentas y registros sin autorización del Ministerio Público, salvo aquellos movimientos que sean para pagos de gastos corrientes o deudas contraídas antes del secuestro.Al ejecutar la acción penal, el Ministerio Público pondrá a disposición del juez de la causa los bienes que permanezcan asegurados, para que éste dicte las medidas provisionales necesarias para su conservación, resguardo o liberación.
+
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 ### Artículo 2°
 
 
-**Principios de reprochabilidad y de proporcionalidad.**
 
-1º.- No habrá pena sin reprochabilidad.
+La entidad bancaria o cualquier otra entidad financiera a la cual los familiares del secuestrado o un intermediario solicite dinero en préstamo, o retire dinero que no esté bajo custodia judicial, está en la obligación de informar, en forma oportuna, veraz y precisa al Ministerio Público, la cantidad, denominación y serie de los billetes, fecha y hora en que se efectuó la entrega al interesado, a fin de hacer el seguimiento respectivo.En caso de que los bancos y financieras no proporcionen dicha información en un lapso de 6 (seis) horas, se les sancionará con 6000 (seis mil) salarios mínimos.
 
-2º.- La gravedad de la pena no podrá exceder los límites de la gravedad del reproche penal.
-
-3º.- No se ordenará una medida sin que el autor o partícipe haya realizado, al menos, un hecho antijurídico. Las medidas de seguridad deberán guardar proporción con:
-
-1. la gravedad del hecho o de los hechos que el autor o partícipe haya realizado;
-
-2. la gravedad del hecho o de los hechos que el autor o partícipe, según las circunstancias, previsiblemente realizará; y,
-
-3. el grado de posibilidad con que este hecho o estos hechos se realizarán.
-
-> *Modificado por Ley N° 3440 (2008-07-16)*
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 ### Artículo 3°
 
 
-**Principio de prevención.**
 
-Las sanciones penales tendrán por objeto la readaptación de los condenados y la protección de la sociedad.
+Queda única y exclusivamente a cargo de los organismos especializados del Estado, en coordinación con los familiares de las víctimas, todo contacto o negociación con los secuestradores.
 
-> *Modificado por Ley N° 3440 (2008-07-16)*
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 CAPITULO II
 
@@ -62,9 +51,10 @@ APLICACION DE LA LEY
 
 ### Artículo 4°
 
-Aplicación del Libro Primero a leyes especiales
 
-Las disposiciones del Libro Primero de este Código se aplicarán a todos los hechos punibles previstos por las leyes especiales.
+En el área de telecomunicaciones, los prestadores de servicios básicos y de telefonía móvil celular, deberán adecuar su equipamiento y tecnología, conforme a la reglamentación que deberá ser dictada por el Poder Ejecutivo y la Comisión Nacional de Telecomunicaciones (CONATEL), a efectos de cooperar con el Estado en la defensa nacional y la seguridad interna.
+
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 ### Artículo 5°
 
