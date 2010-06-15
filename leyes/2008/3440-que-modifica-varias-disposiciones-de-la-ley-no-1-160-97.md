@@ -15,9 +15,10 @@ short_title: "QUE MODIFICA VARIAS DISPOSICIONES DE LA LEY Nº 1.160/97,…"
 
 ### Artículo 1°
 
-Modifícanse los artículos 2º, 3º, 6º, 8º, 9º, 14, 20, 21, 26, 38, 44, 49, 51, 65, 70, 96, 101, 102, 103, 104, 105, 108, 109, 110, 111, 113, 125, 126, 127, 128, 129, 131, 132, 134, 135, 137, 138, 139, 140, 141, 142, 143, 148, 154, 157, 162, 163, 165, 181, 182, 184, 192, 196, 198, 229, 312 y 316; recapitúlese el Título II del Libro Segundo de la Ley Nº 1160 “CÓDIGO PENAL”, de fecha 26 de noviembre de 1997, los cuales quedan redactados de la siguiente manera:
 
-“LIBRO PRIMERO: PARTE GENERAL
+ASEGURAMIENTO DE BIENES. El Ministerio Público una vez que tenga conocimiento de la comisión de un delito de secuestro, podrá disponer además de otras medidas, con el fin de salvaguardar los intereses legítimos de la víctima, mientras esta permanezca privada de su libertad y previa autorización judicial, el aseguramiento de los bienes de la víctima y sus familiares, así como de aquellos bienes respecto de los cuales se conduzcan como dueños.La limitación de las operaciones bancarias abarcará las sumas que por su cuantía se presuman puedan tener como destino el pago del rescate.Para el efecto el Ministerio Público procederá a elaborar un inventario de bienes de la persona secuestrada, de su cónyuge o concubina, de sus parientes dentro del cuarto grado de consanguinidad y segundo de afinidad, bajo declaración jurada de estos tres últimos indistintamente, y dará inmediatamente el aviso correspondiente a las oficinas de la Dirección General de los Registros Públicos; así como a las entidades bancarias, financieras y de seguros, ordenando que no permitan ningún movimiento en las cuentas y registros sin autorización del Ministerio Público, salvo aquellos movimientos que sean para pagos de gastos corrientes o deudas contraídas antes del secuestro.Al ejecutar la acción penal, el Ministerio Público pondrá a disposición del juez de la causa los bienes que permanezcan asegurados, para que éste dicte las medidas provisionales necesarias para su conservación, resguardo o liberación.
+
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 TÍTULO I
 
@@ -967,41 +968,24 @@ El que, en el ámbito familiar, ejerciera o sometiera habitualmente a violencia 
 
 ### Artículo 2°
 
-Derogaciones.
 
-Deróganse:
+La entidad bancaria o cualquier otra entidad financiera a la cual los familiares del secuestrado o un intermediario solicite dinero en préstamo, o retire dinero que no esté bajo custodia judicial, está en la obligación de informar, en forma oportuna, veraz y precisa al Ministerio Público, la cantidad, denominación y serie de los billetes, fecha y hora en que se efectuó la entrega al interesado, a fin de hacer el seguimiento respectivo.En caso de que los bancos y financieras no proporcionen dicha información en un lapso de 6 (seis) horas, se les sancionará con 6000 (seis mil) salarios mínimos.
 
-1º.- Los artículos 349 al 353 del Código Penal promulgado el 18 de junio de 1914;
-
-2º.- Los tipos penales y sus sanciones, contenidos en las siguientes leyes:
-
-1. LEY Nº 868/81 “DE DIBUJOS Y MODELOS INDUSTRIALES”
-
-2. LEY Nº 1.294/98 “DE MARCAS”
-
-3. LEY Nº 1.328 “DE DERECHOS DE AUTOR Y DERECHOS CONEXOS”
-
-4. LEY Nº 2.849/05 “ESPECIAL ANTISECUESTRO”
-
-5. LEY Nº 2.880/06 “QUE REPRIME HECHOS PUNIBLES CONTRA EL PATRIMONIO DEL ESTADO”
-
-6. LEY Nº 2.861/06 “QUE REPRIME EL COMERCIO Y LA DIFUSIÓN COMERCIAL O NO COMERCIAL DE MATERIAL PORNOGRÁFICO, UTILIZANDO LA IMAGEN U OTRA REPRESENTACIÓN DE MENORES O INCAPACES”, a excepción de los artículos 8 -primer párrafo- y 9.
-
-3º.- Las demás disposiciones legales contrarias a esta Ley.
-
-4º.- Quedan expresamente excluidas de este artículo la Ley No. 1.680/01 “Código de la Niñez y la Adolescencia” y la ley No. 1.600/00, Contra la Violencia Doméstica.
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 ### Artículo 3°
 
-Entrada en vigor.
 
-Estas modificaciones al Código Penal entrarán en vigor un año después de su promulgación, a excepción de los artículos 104, 148, 154, 165, 181, 182 y 316, que entrarán en vigencia al día siguiente de su promulgación y publicación.
+Queda única y exclusivamente a cargo de los organismos especializados del Estado, en coordinación con los familiares de las víctimas, todo contacto o negociación con los secuestradores.
+
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 ### Artículo 4°
 
-Edición oficial.
 
-El Poder Ejecutivo dispondrá la inmediata publicación de cinco mil ejemplares de la edición oficial del texto completo del Código Penal con la inserción de los artículos modificados.
+En el área de telecomunicaciones, los prestadores de servicios básicos y de telefonía móvil celular, deberán adecuar su equipamiento y tecnología, conforme a la reglamentación que deberá ser dictada por el Poder Ejecutivo y la Comisión Nacional de Telecomunicaciones (CONATEL), a efectos de cooperar con el Estado en la defensa nacional y la seguridad interna.
+
+> *Modificado por Ley N° 4005 (2010-06-15)*
 
 ### Artículo 5°
 
