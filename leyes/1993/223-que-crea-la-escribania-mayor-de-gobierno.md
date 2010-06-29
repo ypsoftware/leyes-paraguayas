@@ -15,7 +15,10 @@ short_title: "QUE CREA LA ESCRIBANIA MAYOR DE GOBIERNO"
 
 ### Artículo 1°
 
-Créase la Escribanía Mayor de Gobierno, que estará ejercida por un Escribano Público conforme a los requisitos de esta Ley y durará 5 (cinco) años en sus funciones, coincidente con el período presidencial.
+
+Créase la Escribanía Mayor de Gobierno, que estará ejercida por un Escribano Público, conforme a los requisitos de esta Ley y durará 5 (cinco) años en sus funciones.
+
+> *Modificado por Ley N° 4023 (2010-06-29)*
 
 ### Artículo 2°
 
