@@ -39,7 +39,10 @@ h) Las Secretarias, Personal Administrativo y Auxiliar correspondiente.
 
 ### Artículo 3°
 
-La Jurisdicción de la Circunscripción Judicial creada por esta Ley, abar-cará el Departamento Ñeembucú, exceptuándose los Distritos de Villa Franca, Villa Oliva y Alberdi, los cuales permanecerán sujetos a la Jurisdicción de la Circunscripción Judicial de la Capital.
+
+La Circunscripción Judicial de Ñeembucú abarcará todos los Distritos del XII Departamento Ñeembucú con sede en Pilar.
+
+> *Modificado por Ley N° 4029 (2010-06-29)*
 
 ### Artículo 4°
 
