@@ -19,11 +19,18 @@ Créase el “Sistema de Complemento Nutricional y Control Sanitario en las Escu
 
 ### Artículo 2°
 
+
 El Sistema de Complemento Nutricional en las Escuelas deberá incluir los siguientes programas:
 
-1.- Provisión de leche enriquecida; y,
+1.- Provisión de leche natural o enriquecida.
 
-2.- Un alimento sólido rico en proteínas con refuerzo de vitaminas “A” y “D”, hierro y yodo.
+2.- Un alimento sólido rico en proteínas con refuerzo de vitaminas “A” y “D”, hierro y yodo; o un alimento para complementar suficientemente las necesidades diarias, energéticas, proteicas y de otros nutrientes del escolar.
+
+3.- Proveer de antiparasitarios para cada estudiante en edad escolar y en caso de necesidad repetir la dosis cuantas veces se requiera para la total recuperación del estudiante.
+
+En estos programas, la ración diaria de alimento debe ser de por lo menos 750 (setecientos cincuenta) calorías, para cubrir las necesidades energéticas de los alumnos en las horas de clase.
+
+> *Modificado por Ley N° 4098 (2010-09-30)*
 
 ### Artículo 3°
 
