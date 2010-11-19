@@ -373,7 +373,10 @@ Las autoridades competentes realizarán los inventarios de los vertederos a ciel
 
 ### Artículo 44°
 
-Los municipios deberán reglamentar la presente Ley en un plazo de 6 (seis) meses a partir de su promulgación.
+
+La Secretaría del Ambiente, como Autoridad de Aplicación, deberá reglamentar la presente Ley en un plazo de seis meses a partir de su promulgación.
+
+> *Modificado por Ley N° 4188 (2010-11-19)*
 
 ### Artículo 45°
 
