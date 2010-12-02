@@ -325,11 +325,10 @@ De la actualización, revalorización y ajustes de las Jubilaciones y Pensiones
 
 ### Artículo 30°
 
-Las jubilaciones y pensiones serán actualizadas automáticamente en sus montos, en los siguientes casos:
 
-a) cuando se produzcan aumentos de dietas y gastos de representación en el Presupuesto General de la Nación; la actualización será en el porcentaje de dicho aumento; y,
+Las jubilaciones y pensiones serán actualizadas anualmente, en el mismo porcentaje de aumento del costo de vida informado oficialmente por el Banco Central del Paraguay, previo cálculo actuarial y de acuerdo a las posibilidades financieras del Fondo de Jubilaciones, cuidando que dicho reajuste no afecte al equilibrio financiero del Fondo.
 
-b) anualmente, en el porcentaje de aumento del costo de vida informado oficialmente por el Banco Central del Paraguay, cuando no se produjere la situación prevista en el inciso a) del presente artículo.
+> *Modificado por Ley N° 4214 (2010-12-02)*
 
 ### Artículo 31°
 
