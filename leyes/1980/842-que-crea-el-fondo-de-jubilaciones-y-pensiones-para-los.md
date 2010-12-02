@@ -293,11 +293,10 @@ Todo jubilado o pensionado que perciba estos beneficios por autorización, deber
 
 ### Artículo 30°
 
-Las jubilaciones y pensiones acordadas de conformidad a esta ley, son inalienables, imprescriptibles e inembargables, salvo por obligaciones provenientes de pensiones alimenticias. Es nula toda venta, cesión o constitución de derechos que recaigan sobre ellas e impida su libre goce por los titulares de las mismas.
 
-Es incompatible el goce de la jubilación con el cobro de la dieta.
+Las jubilaciones y pensiones serán actualizadas anualmente, en el mismo porcentaje de aumento del costo de vida informado oficialmente por el Banco Central del Paraguay, previo cálculo actuarial y de acuerdo a las posibilidades financieras del Fondo de Jubilaciones, cuidando que dicho reajuste no afecte al equilibrio financiero del Fondo.
 
-En caso de concurrencia de la jubilación y la dieta, el Afiliado cobrará la dieta.
+> *Modificado por Ley N° 4214 (2010-12-02)*
 
 ### Artículo 31°
 
