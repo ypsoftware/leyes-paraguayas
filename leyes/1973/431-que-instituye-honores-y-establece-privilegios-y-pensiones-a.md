@@ -233,33 +233,18 @@ DE LA FINANCIACIÓN
 
 ### Artículo 32°
 
-Establécense los impuestos y tasas especiales que se citan en este artículo, destinados a incrementar el rubro de pensiones para los Veteranos, Mutilados, Lisiados de la Guerra del Chaco:
 
-a) Un impuesto del (10%) Diez por ciento sobre los beneficios provenientes de la Polla Paraguaya de Football, Lotería Paraguaya de Beneficencia, la Quiniela, y otros juegos de azar similares cuya explotación se autorice, obtenidos por cualquier persona física o jurídica de acuerdo con el siguiente régimen:
+Establécense los impuestos y tasas especiales que se citan en este artículo, destinados a incrementar el rubro de pensiones para los Veteranos, Mutilados y Lisiados de la Guerra del Chaco:
 
-1) El impuesto será percibido por intermedio de las empresas concesionarias, en carácter de agentes de retención e ingresado dentro de las 24 (veinticuatro) horas de los días hábiles siguientes al de la retención.
+a) Un impuesto del 10% (diez por ciento) sobre los beneficios provenientes de los juegos de Azar permitidos por las leyes vigentes: tales como: Casinos, Loterías, Rifas, Bingos, Quiniela, Combinaciones Aleatorias o Chance, Juegos Electrónicos, Apuestas Deportivas, Carreras de Caballos, Telebingo y otros juegos, cuya explotación se autorice, obtenidos por cualquier persona física o jurídica, que superen el 49% (cuarenta y nueve por ciento) del Salario Mínimo Legal vigente, de acuerdo con el siguiente régimen:
 
-Exclúyanse de esta obligación tributaria, los premios de juego de azar cuyo monto no supere la suma de (Gs. 5. 000. -) CINCO MIL GUARANÍES.
+1) El impuesto será percibido por intermedio de las empresas concesionarias, en carácter de agentes de retención y liquidado y pagado dentro de los primeros 5 (cinco) días hábiles del mes siguiente de la retención.
+
+Exclúyanse de esta obligación tributaria, los premios de juego de azar, cuyo monto no supere la suma equivalente al 49% (cuarenta y nueve por ciento) del Salario Mínimo Legal vigente.
 
 A los fines del párrafo anterior, no se tendrá en cuenta el número de beneficiarios de cada premio, ni las fracciones en que puede dividirse el mismo.
 
-2) De los premios de juego de azar solo se permitirá, sin admitir pruebas en contrario, el descuento del (10%) Diez por ciento de su importe, en concepto de gastos necesarios para la obtención de los mismos. Esta deducción se admitirá sin necesidad de comprobantes;
-
-3) Las retenciones efectuadas conforme con las disposiciones de esta ley, tendrán respecto del contribuyente, el carácter de pago único y definitivo y no obligará a presentar la declaración jurada anual a que se refieren los artículos 29º y 67º del Decreto Ley No. 9240/49.
-
-b) Un derecho individual de CIEN GUARANÍES, para acceso a los casinos del país autorizados legalmente. Las concesionarias oficiarán de agentes de retención y las recaudaciones estarán a cargo de la Dirección de Impuestos Internos, sus sucursales y agencias. -
-
-c) Un impuesto adicional al establecido en el Decreto Ley No. 5/52 aprobado por Ley No. 344/56 y modificado por Leyes Nos. 347/56 y 262/71, de acuerdo al siguiente detalle:
-
-Producto gravado Unidad Impuesto Impositiva Adic. Gs.
-
-Bebidas gaseosas sin alcohol, dulces o no y bebidas no especificadas con un máximo de 2% de alcohol. 500 cc. 1, 00
-
-Cerveza en el régimen de producción Nacional:
-
-a) cerveza en general c/litro 1, 00
-
-b) cerveza de calidad especial c/litro 2, 00
+> *Modificado por Ley N° 4193 (2010-12-02)*
 
 ### Artículo 33°
 
