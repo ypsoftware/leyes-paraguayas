@@ -40,37 +40,48 @@ Disposiciones Generales
 
 ### Artículo 3°
 
-La Dirección General de Jubilaciones y Pensiones del Ministerio de Hacienda procederá a separar contablemente los ingresos y gastos de:
 
-A) Programas contributivos
+El Ministerio de Hacienda procederá a separar contablemente los ingresos y los gastos del Sistema de Jubilaciones y Pensiones administrados por éste, en 3 (tres) programas:
 
-i. Administración Pública
+a) Programas Contributivos Civiles.
 
-ii. Magisterio Nacional
+- Sector Administración Pública.
 
-iii. Docentes de las Universidades Nacionales
+- Sector Magisterio Nacional.
 
-iv. Magistrados Judiciales
+- Sector Docentes de las Universidades Nacionales.
 
-v. Empleados Gráficos del Estado
+- Sector Magistrados Judiciales.
 
-vi. Fuerzas Armadas
+- Sector Empleados Gráficos del Estado.
 
-vii. Policía Nacional
+b) Programas Contributivos No Civiles.
 
-B) Programas no contributivos
+- Sector Fuerzas Armadas.
 
-i. Veteranos, Lisiados y Mutilados de la Guerra del Chaco
+- Sector Policía Nacional.
 
-ii. Herederos de Veteranos, Lisiados y Mutilados
+c) Programas No Contributivos.
 
-iii. Pensiones de gracia
+- Veteranos, Lisiados y Mutilados de la Guerra del Chaco.
 
-Créase la Dirección de Pensiones No Contributivas, dependiente de la Subsecretaría de Estado de Administración Financiera del Ministerio de Hacienda. Esta Dirección administrará los programas de pensiones para los veteranos, lisiados y mutilados de la Guerra del Chaco, sus herederos y las pensiones graciables.
+- Herederos de Veteranos, Lisiados y Mutilados.
 
-El financiamiento de estos regímenes se realizará con la respectiva partida presupuestaria incluida anualmente en el Presupuesto General de la Nación.
+- Pensiones de gracia.
 
-Igualmente, la Dirección General de Informática y Comunicaciones deberá separar los registros para dichos sectores.
+Los Programas Contributivos serán administrados por la Dirección de Jubilaciones y Pensiones del Ministerio de Hacienda.
+
+A los efectos de la administración de los Programas No Contributivos citados en este artículo, créase la Dirección de Pensiones No Contributivas (DPNC), dependiente de la Subsecretaría de Estado de Administración Financiera del Ministerio de Hacienda.
+
+Al interior de los Programas Contributivos Civiles, los excedentes generados por los sectores superavitarios podrán ser utilizados para financiar los déficit de los sectores deficitarios, no pudiendo desviarse recurso alguno desde los programas civiles a los no civiles.
+
+El financiamiento de los regímenes para civiles, no civiles y no contributivos se realizará mediante los aportes realizados por los afiliados, más las partidas presupuestarias incluidas anualmente en el Presupuesto General de la Nación.
+
+En el caso de los Programas Contributivos, si después de aplicar los excedentes a los sectores deficitarios resultare un saldo positivo, estos recursos deberán ser depositados en el Banco Central del Paraguay e invertidos en las siguientes condiciones: i) Un porcentaje, que deberá ser calculado por la Dirección de Jubilaciones y Pensiones del Ministerio de Hacienda, a la vista; ii) la diferencia en iguales condiciones que la Reserva Monetaria Internacional.
+
+El Ministerio de Hacienda deberá llevar en forma separada la contabilidad y los cálculos estadísticos de estos Programas, de manera a permitir el análisis de la evolución financiera de cada uno de los sectores que lo componen.
+
+> *Modificado por Ley N° 4252 (2010-12-29)*
 
 ### Artículo 4°
 
@@ -122,15 +133,21 @@ Administración Pública, Docentes de las Universidades Nacionales, Magistrados 
 
 ### Artículo 9°
 
-El aportante que complete sesenta y dos años de edad y que cuente con al menos diez años de servicio, tendrá que acogerse a la jubilación obligatoria. El monto de la jubilación obligatoria se calculará multiplicando la Tasa de Sustitución (valor del primer pago en concepto de jubilación o pensión como proporción de la remuneración base) por la Remuneración Base, tal como se la define en el Artículo 5º de esta ley. La Tasa de Sustitución será del 20% para una antigüedad de diez años y aumentará 2,7 puntos porcentuales por cada año de servicio adicional hasta un tope del 100%.
 
-Aquéllos que no lleguen a completar diez años de servicio, tendrán derecho a retirar el 90% de sus aportes realizados, ajustados por la variación del Índice de Precios al Consumidor (IPC) del Banco Central del Paraguay.
+El aportante que complete 62 (sesenta y dos) años de edad y que cuente con al menos 20 (veinte) años de servicio, tendrá derecho a la jubilación ordinaria. El monto de la jubilación ordinaria se calculará, multiplicando la Tasa de Sustitución (valor del primer pago en concepto de jubilación o pensión como proporción de la remuneración base) por la Remuneración Base, tal como se la define en el Artículo 5° de esta Ley. La Tasa de Sustitución será del 47% (cuarenta y siete por ciento) para una antigüedad de 20 (veinte) años y aumentará 2,7 (dos coma siete) puntos porcentuales por cada año de servicio adicional hasta un tope del 100% (cien por ciento). Cumplidos los 65 (sesenta y cinco) años de edad, la jubilación será obligatoria, sea ella la ordinaria o la extraordinaria.
 
-Quedan excluidos de la obligatoriedad de la jubilación ordinaria, los docentes universitarios del sector público, quienes podrán seguir aportando hasta el límite de setenta y cinco años de edad.
+Todos los funcionarios que fueron afectados por el Artículo 9° de la Ley N° 2345/03 “DE REFORMA Y SOSTENIBILIDAD DE LA CAJA FISCAL. SISTEMA DE JUBILACIONES Y PENSIONES DEL SECTOR PUBLICO”, tendrán derecho a una jubilación cuyo monto será establecido por el sistema previsto en el párrafo anterior, pero en ningún caso podrá ser inferior al 40% (cuarenta por ciento) del salario mínimo legal vigente para actividades diversas no especificadas, a partir de la fecha de la promulgación de la presente Ley.
+
+Aquéllos que se retiren de la función pública sin reunir los requisitos para acceder a una jubilación, aun apelando a los derechos que le otorga la Ley N° 3856/09 “QUE ESTABLECE LA ACUMULACION DEL TIEMPO DE SERVICIOS EN LAS CAJAS DEL SISTEMA DE JUBILACION Y PENSION PARAGUAYO, Y DEROGA EL ARTICULO 107 DE LA LEY N° 1626/00 ‘DE LA FUNCION PUBLICA”, podrán solicitar la devolución del 90% (noventa por ciento) de sus aportes realizados, ajustados por la variación del Indice de Precios al Consumidor (IPC) del Banco Central del Paraguay.
+
+> *Modificado por Ley N° 4252 (2010-12-29)*
 
 ### Artículo 10°
 
-Podrán obtener la jubilación quienes cuenten con, por lo menos, cincuenta años de edad y un mínimo de veinte años de servicio. El monto de la jubilación se calculará multiplicando la Tasa de Sustitución por la Remuneración Base, tal como se la define en el Artículo 5º de esta ley. La Tasa de Sustitución será la que, de acuerdo con la antigüedad, se aplica para la jubilación obligatoria, multiplicada por la razón entre la edad de la persona y 62. Esta razón no puede ser mayor que uno.
+
+Podrán obtener la Jubilación Extraordinaria quienes cuenten con, por lo menos, 50 (cincuenta) años de edad y un mínimo de 20 (veinte) años de servicio. El monto de la Jubilación Extraordinaria se calculará multiplicando la Tasa de Sustitución por la Remuneración Base, tal como se la define en el Artículo 5° de esta Ley. La Tasa de Sustitución será la que, de acuerdo con la antigüedad, se aplica para la Jubilación Ordinaria, multiplicada por la razón entre la edad de la persona y 62 (sesenta y dos) años. Esta razón no puede ser mayor que uno.
+
+> *Modificado por Ley N° 4252 (2010-12-29)*
 
 ### Artículo 11°
 
