@@ -1,0 +1,188 @@
+---
+bacn_id: 3660
+numero: "4274"
+titulo: "QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA MUNICIPALIDAD DE CIUDAD DEL ESTE A TRANSFERIR A TÍTULO ONEROSO A FAVOR DE SUS ACTUALES OCUPANTES, FRACCIONES DE INMUEBLES INDIVIDUALIZADAS COMO PARTE DE LA FINCA N° 10.901, UBICADO EN EL BARRIO CIUDAD NUEVA DEL Km 7 ½ MONDAY DEL CITADO MUNICIPIO."
+fecha_promulgacion: 2010-12-31
+fecha_publicacion: 2011-01-07
+fuente: bacn.gov.py
+status: in_force
+source: https://www.bacn.gov.py/leyes-paraguayas/3660/texto
+short_title: "QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA…"
+---
+
+# LEY Nº 4274
+## QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA MUNICIPALIDAD DE CIUDAD DEL ESTE A TRANSFERIR A TÍTULO ONEROSO A FAVOR DE SUS ACTUALES OCUPANTES, FRACCIONES DE INMUEBLES INDIVIDUALIZADAS COMO PARTE DE LA FINCA N° 10.901, UBICADO EN EL BARRIO CIUDAD NUEVA DEL Km 7 ½ MONDAY DEL CITADO MUNICIPIO.
+
+### Artículo 1°
+
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de Ciudad del Este a transferir a título oneroso a favor de sus actuales ocupantes, fracciones de inmuebles individualizadas como parte de la Finca Nº 10.901 del Distrito de Ciudad del Este, inscripto en la Dirección General de los Registros Públicos, bajo el Nº 1, folio 1 y siguientes del 11 de enero de 1989, ubicado en el barrio Ciudad Nueva del citado municipio, cuyas dimensiones y linderos son los siguientes:
+
+FRACCION “A”
+
+Línea 1 – 2: Con rumbo S 76º 36’ 27” E (Sur, setenta y seis grados, treinta y seis minutos, veintisiete segundos, Este), mide 22,61 m. (veintidós metros con sesenta y un centímetros), linda con camino público.
+
+Línea 2 – 3: Con rumbo S 25º 36’ 56” W (Sur, veinticinco grados, treinta y seis minutos, cincuenta y seis segundos, Oeste), mide 81,04 m. (ochenta y un metros con cuatro centímetros), linda con arroyo sin nombre.
+
+Línea 3 – 4: Con rumbo S 20º 13’ 29” W (Sur, veinte grados, trece minutos, veintinueve segundos, Oeste), mide 20,25 m. (veinte metros con veinticinco centímetros), linda con arroyo sin nombre.
+
+Línea 4 – 5: Con rumbo S 29º 44’ 42” W (Sur, veintinueve grados, cuarenta y cuatro minutos, cuarenta y dos segundos, Oeste), mide 16,15 m. (dieciséis metros con quince centímetros), linda con arroyo sin nombre.
+
+Línea 5 – 6: Con rumbo S 27º 45’ 31” W (Sur, veintisiete grados, cuarenta y cinco minutos, treinta y un segundos, Oeste), mide 21,77 m. (veintiún metros con setenta y siete centímetros), linda con arroyo sin nombre.
+
+Línea 6 – 7: Con rumbo N 77º 54’ 19” W (Norte, setenta y siete grados, cincuenta y cuatro minutos, diecinueve segundos, Oeste), mide 14,45 m. (catorce metros con cuarenta y cinco centímetros), linda con camino público.
+
+Línea 7 – 1: Con rumbo N 22º 39’ 07” E (Norte, veintidós grados, treinta y nueve minutos, siete segundos, Este), mide 137,67 m. (ciento treinta y siete metros con sesenta y siete centímetros), linda con derechos de la Manzana Nº 14.
+
+SUPERFICIE: 2.483 m2 (DOS MIL CUATROCIENTOS OCHENTA Y TRES METROS CUADRADOS).
+
+Las coordenadas del punto Nº 1 son:
+
+Punto 1: N = 7.177.393,00 – E = 733.713,00.
+
+FRACCION “B”
+
+Línea 8 – 9: Con rumbo S 78º 41’ 24” E (Sur, setenta y ocho grados, cuarenta y un minutos, veinticuatro segundos, Este), mide 10,21 m. (diez metros con veintiún centímetros), linda con camino público.
+
+Línea 9 – 10: Con rumbo S 15º 31’ 27” W (Sur, quince grados, treinta y un minutos, veintisiete segundos, Oeste), mide 18,71 m. (dieciocho metros con setenta y un centímetros), linda con camino público.
+
+Línea 10 – 11: Con rumbo S 23º 05’ 06” W (Sur, veintitrés grados, cinco minutos, seis segundos, Oeste), mide 66,32 m. (sesenta y seis metros con treinta y dos centímetros), linda con camino público.
+
+Línea 11 – 12: Con rumbo N 69º 26’ 38” W (Norte, sesenta y nueve grados, veintiséis minutos, treinta y ocho segundos, Oeste), mide 25,63 m. (veinticinco metros con sesenta y tres centímetros), linda con resto de la Manzana Nº 15.
+
+Línea 12 – 13: Con rumbo N 28º 18’ 03” E (Norte, veintiocho grados, dieciocho minutos, tres segundos, Este), mide 29,53 m. (veintinueve metros con cincuenta y tres centímetros), linda con arroyo sin nombre.
+
+Línea 13 – 14: Con rumbo N 32º 44’ 07” E (Norte, treinta y dos grados, cuarenta y cuatro minutos, siete segundos, Este), mide 16,67 m. (dieciséis metros con sesenta y siete centímetros), linda con arroyo sin nombre.
+
+Línea 14 – 15: Con rumbo N 24º 46’ 31” E (Norte, veinticuatro grados, cuarenta y seis minutos, treinta y un segundos, Este), mide 14,32 m. (catorce metros con treinta y dos centímetros), linda con arroyo sin nombre.
+
+Línea 15 – 8: Con rumbo N 40º 06’ 03” E (Norte, cuarenta grados, seis minutos, tres segundos, Este), mide 24,88 m. (veinticuatro metros con ochenta y ocho centímetros), linda con arroyo sin nombre.
+
+SUPERFICIE: 1.712 m2 (UN MIL SETECIENTOS DOCE METROS CUADRADOS).
+
+Las coordenadas del punto Nº 9 son:
+
+Punto 9: N = 7.177.379,00 – E = 733.761,00.
+
+FRACCION “C”
+
+Línea 16 – 17: Con rumbo S 48º 00’ 46” E (Sur, cuarenta y ocho grados, cero minuto, cuarenta y seis segundos, Este), mide 26,91 m. (veintiséis metros con noventa y un centímetros), linda con arroyo sin nombre.
+
+Línea 17 – 18: Con rumbo S 31º 49’ 39” W (Sur, treinta y un grados, cuarenta y nueve minutos, treinta y nueve segundos, Oeste), mide 34,35 m. (treinta y cuatro metros con treinta y cinco centímetros), linda con arroyo sin nombre.
+
+Línea 18 – 19: Con rumbo S 53º 09’ 23” W (Sur, cincuenta y tres grados, nueve minutos, veintitrés segundos, Oeste), mide 49,84 m. (cuarenta y nueve metros con ochenta y cuatro centímetros), linda con arroyo sin nombre.
+
+Línea 19 – 20: Con rumbo N 34º 17’ 48” E (Norte, treinta y cuatro grados, diecisiete minutos, cuarenta y ocho segundos, Este), mide 40,42 m. (cuarenta metros con cuarenta y dos centímetros), linda con camino público.
+
+Línea 20 – 16: Con rumbo N 19º 15’ 43” E (Norte, diecinueve grados, quince minutos, cuarenta y tres segundos, Este), mide 47,02 m. (cuarenta y siete metros con dos centímetros), linda con camino público.
+
+SUPERFICIE: 1.178 m2 1.600 cm2 (UN MIL CIENTO SETENTA Y OCHO METROS CUADRADOS CON UN MIL SEISCIENTOS CENTIMETROS CUADRADOS).
+
+Las coordenadas del punto Nº 16 son
+
+Punto 16: N = 7.177.227,00 – E = 733.662,00.
+
+FRACCION “D”
+
+Línea 21 – 22: Con rumbo S 74º 44’ 42” E (Sur, setenta y cuatro grados, cuarenta y cuatro minutos, cuarenta y dos segundos, Este), mide 11,44 m. (once metros con cuarenta y cuatro centímetros), linda con plaza pública.
+
+Línea 22 – 23: Con rumbo S 12º 15’ 53” W (Sur, doce grados, quince minutos, cincuenta y tres segundos, Oeste), mide 23,54 m. (veintitrés metros con cincuenta y cuatro centímetros), linda con camino público.
+
+Línea 23 – 24: Con rumbo S 32º 16’ 32” W (Sur, treinta y dos grados, dieciséis minutos, treinta y dos segundos, Oeste), mide 22,48 m. (veintidós metros con cuarenta y ocho centímetros), linda con camino público.
+
+Línea 24 – 25: Con rumbo N 74º 28’ 33” E (Norte, setenta y cuatro grados, veintiocho minutos, treinta y tres segundos, Este), mide 18,78 m. (dieciocho metros con setenta y ocho centímetros), linda con los Derechos de la Finca con Cta. Cte. Ctral. Nº 26-1834-00.
+
+Línea 25 – 21: Con rumbo N 30º 57’ 50” E (Norte, treinta grados, cincuenta y siete minutos, cincuenta segundos, Este), mide 46,66 m. (cuarenta y seis metros con sesenta y seis centímetros), linda con arroyo sin nombre.
+
+SUPERFICIE: 767 m2 (SETECIENTOS SESENTA Y SIETE METROS CUADRADOS).
+
+Las coordenadas del punto Nº 22 son:
+
+Punto 22: N = 7.177.205,00 – E = 733.701,00.
+
+FRACCION “E”
+
+Línea 26 – 27: Con rumbo N 82º 52’ 30” E (Norte, ochenta y dos grados, cincuenta y dos minutos, treinta segundos, Este), mide 8,15 m. (ocho metros con quince centímetros), linda con derechos de la Finca con Cta. Cte. Ctral. Nº 26-1834-00.
+
+Línea 27 – 28: Con rumbo S 06º 52’ 05” E (Sur, seis grados, cincuenta y dos minutos, cinco segundos, Este), mide 11,60 m. (once metros con sesenta centímetros), linda con derechos de la Finca con Cta. Cte. Ctral. Nº 26-1834-00.
+
+Línea 28 – 29: Con rumbo N 84º 32’ 26” E (Norte, ochenta y cuatro grados, treinta y dos minutos, veintiséis segundos, Este), mide 18,63 m. (dieciocho metros con sesenta y tres centímetros), linda con derechos de la Finca con Cta. Cte. Ctral. Nº 26-1834-00.
+
+Línea 29 – 30: Con rumbo S 70º 33’ 36” E (Sur, setenta grados, treinta y tres minutos, treinta y seis segundos, Este), mide 12,80 m. (doce metros con ochenta centímetros), linda con derechos de la Finca con Cta. Cte. Ctral. Nº 26-1834-00.
+
+Línea 30 – 31: Con rumbo S 22º 37’ 12” W (Sur, veintidós grados, treinta y siete minutos, doce segundos, Oeste), mide 26,00 m. (veintiséis metros), linda con camino público.
+
+Línea 31 – 32: Con rumbo N 70º 38’ 28” W (Norte, setenta grados, treinta y ocho minutos, veintiocho segundos, Oeste), mide 39,24 m. (treinta y nueve metros con veinticuatro centímetros), linda con camino público.
+
+Línea 32 – 26: Con rumbo N 16º 15’ 37” E (Norte, dieciséis grados, quince minutos, treinta y siete segundos, Este), mide 25,04 m. (veinticinco metros con cuatro centímetros), linda con camino público.
+
+SUPERFICIE: 982m2 1.700 cm2 (NOVECIENTOS OCHENTA Y DOS METROS CUADRADOS CON UN MIL SETECIENTOS CENTIMETROS CUADRADOS).
+
+Las coordenadas del punto Nº 30 son:
+
+Punto 30: N = 7.177.133,00 – E = 733.671,00.
+
+FRACCION “F”
+
+Línea 33 – 34: Con rumbo N 53º 23’ 35” E (Norte, cincuenta y tres grados, veintitrés minutos, treinta y cinco segundos, Este), mide 43,67 m. (cuarenta y tres metros con sesenta y siete centímetros), linda con arroyo sin nombre.
+
+Línea 34 – 35: Con rumbo S 06º 31’ 11” W (Sur, seis grados, treinta y un minutos, once segundos, Oeste), mide 35,35 m. (treinta y cinco metros con treinta y cinco centímetros), linda con camino público.
+
+Línea 35 – 36: Con rumbo N 86º 18’ 31” W (Norte, ochenta y seis grados, dieciocho minutos, treinta y un segundos, Oeste), mide 31,08 m. (treinta y un metros con ocho centímetros), linda con camino público.
+
+Línea 36 – 33: Con rumbo N 00º 00’ 01” E (Norte, cero grado, cero minuto, un segundo, Este), mide 7,02 m. (siete metros con dos centímetros), linda con camino público.
+
+SUPERFICIE: 669 m2 (SEISCIENTOS SESENTA Y NUEVE METROS CUADRADOS).
+
+Las coordenadas del punto Nº 34 son:
+
+Punto 34: N = 7.177.109,00 – E = 733.587,00.
+
+FRACCION “G”
+
+Línea 37 – 38: Con rumbo S 74º 32’ 20” E (Sur, setenta y cuatro grados, treinta y dos minutos, veinte segundos, Este), mide 48,78 m. (cuarenta y ocho metros con setenta y ocho centímetros), linda con camino público.
+
+Línea 38 – 39: Con rumbo S 49º 49’ 37” W (Sur, cuarenta y nueve grados, cuarenta y nueve minutos, treinta y siete segundos, Oeste), mide 22,80 m. (veintidos metros con ochenta centímetros), linda con arroyo sin nombre.
+
+Línea 39 – 40: Con rumbo S 82º 42’ 51” W (Sur, ochenta y dos grados, cuarenta y dos minutos, cincuenta y un segundos, Oeste), mide 33,85 m. (treinta y tres metros con ochenta y cinco centímetros), linda con arroyo sin nombre.
+
+Línea 40 – 37: Con rumbo N 07º 07’ 30” E (Norte, siete grados, siete minutos, treinta segundos, Este), mide 32,32 m. (treinta y dos metros con treinta y dos centímetros), linda con camino público.
+
+SUPERFICIE: 987m2 5.400 cm2 (NOVECIENTOS OCHENTA Y SIETE METROS CUADRADOS CON CINCO MIL CUATROCIENTOS CENTIMETROS CUADRADOS).
+
+Las coordenadas del punto Nº 38 son
+
+Punto 38: N = 7.177.114,00 – E = 733.518,00.
+
+FRACCION “H”
+
+Línea 41 – 42: Con rumbo N 87º 08’ 15” E (Norte, ochenta y siete grados, ocho minutos, quince segundos, Este), mide 20,44 m. (veinte metros con cuarenta y cuatro centímetros), linda con camino público.
+
+Línea 42 – 43: Con rumbo S 24º 46’ 31” E (Sur, veinticuatro grados, cuarenta y seis minutos, treinta y un segundos, Este), mide 28,78 m. (veintiocho metros, con setenta y ocho centímetros), linda con arroyo sin nombre.
+
+Línea 43 – 44: Con rumbo S 36º 01’ 39” E (Sur, treinta y seis grados, un minuto, treinta y nueve segundos, Este), mide 13,74 m. (trece metros con setenta y cuatro centímetros), linda con arroyo sin nombre.
+
+Línea 44 – 45: Con rumbo N 86º 16’ 07” W (Norte, ochenta y seis grados, dieciséis minutos, siete segundos, Oeste), mide 46,10 m. (cuarenta y seis metros con diez centímetros), linda con derechos de la Cta. Cte. Ctral. 26-1840-00.
+
+Línea 45 – 41: Con rumbo N 10º 18’ 17” E (Norte, diez grados, dieciocho minutos, diecisiete segundos, Este), mide 33,67 m. (treinta y tres metros con sesenta y siete centímetros), linda con camino público.
+
+SUPERFICIE: 1.110 m2 (UN MIL CIENTO DIEZ METROS CUADRADOS).
+
+Las coordenadas del punto Nº 41 son:
+
+Punto 41: N = 7.177.116,00 – E = 733.383,00.
+
+### Artículo 2°
+
+La suma obtenida por la venta del inmueble individualizado en el Artículo 1º de la presente Ley, será destinada exclusivamente para la adquisición de otro inmueble para espacio verde o plaza.
+
+### Artículo 3°
+
+La transferencia del inmueble a los ocupantes se realizará después de comprobarse fehacientemente que los mismos y sus cónyuges no poseen otros inmuebles en el territorio de la República, a través de un certificado de no poseer bienes inmuebles.
+
+### Artículo 4°
+
+Comuníquese al Poder Ejecutivo.
+
+---
+
+*Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los veititrés días del mes de setiembre del año dos mil diez, y por la Honorable Cámara de Senadores, a los dieciséis días del mes de diciembre del año dos mil diez, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional.*
