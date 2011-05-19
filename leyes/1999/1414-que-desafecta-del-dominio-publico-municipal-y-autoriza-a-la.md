@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/3691/texto
 short_title: "QUE DESAFECTA DEL DOMINIO PUBLICO MUNICIPAL Y AUTORIZA A LA…"
+derogada: true
+derogada_por: Ley 4314
+derogada_fecha: 2011-05-19
 ---
 
 # LEY Nº 1414
@@ -32,3 +35,5 @@ Artículo 2o.- Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a siete días del mes de enero del año un mil novecientos noventa y nueve, y por la Honorable Cámara de Senadores, a veinticinco días del mes de febrero del año un mil novecientos noventa y nueve, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 207, numeral 1 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 4314 (2011-05-19)*
