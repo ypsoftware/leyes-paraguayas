@@ -294,9 +294,12 @@ Todo jubilado o pensionado que perciba estos beneficios por autorización, deber
 ### Artículo 30°
 
 
-Las jubilaciones y pensiones serán actualizadas anualmente, en el mismo porcentaje de aumento del costo de vida informado oficialmente por el Banco Central del Paraguay, previo cálculo actuarial y de acuerdo a las posibilidades financieras del Fondo de Jubilaciones, cuidando que dicho reajuste no afecte al equilibrio financiero del Fondo.
 
-> *Modificado por Ley N° 4214 (2010-12-02)*
+Las jubilaciones y pensiones serán actualizadas anualmente en el porcentaje de aumento del costo de vida informado oficialmente por el Banco Central del Paraguay, conforme el Indice de Precios al Consumidor.
+
+El método de actualización de las pensiones y jubilaciones previsto en el primer párrafo de éste artículo será aplicable a partir del ejercicio fiscal en que se sancione la presente Ley.
+
+> *Modificado por Ley N° 4379 (2011-08-08)*
 
 ### Artículo 31°
 
