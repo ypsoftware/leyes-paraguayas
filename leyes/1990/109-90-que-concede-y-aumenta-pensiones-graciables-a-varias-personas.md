@@ -15,7 +15,60 @@ short_title: "QUE CONCEDE Y AUMENTA PENSIONES GRACIABLES A VARIAS PERSONAS"
 
 ### Artículo 1°
 
-Concédese pensión graciable de G. 120.000 (Ciento veinte mil guaraníes) mensuales, a favor del señor José Manuel Godoy, quien sufriera accidente durante el cumplimiento de sus funciones en la Administración Nacional de Navegación y Puertos.
+
+El Ministerio de Hacienda tendrá, las siguientes funciones y competencias, que serán ejercidas por medio de la Estructura Orgánica prevista en la presente disposición Legal:
+
+a) la administración del patrimonio del Estado y la verificación del uso y conservación de los bienes públicos. El patrimonio de los entes autárquicos será administrado por sus autoridades, conforme a lo dispuesto en sus respectivas Cartas Orgánicas;
+
+b) la administración del proceso presupuestario del Sector Público que incluye las fases de programación, formulación, ejecución, control y evaluación, así como el perfeccionamiento de su técnica;
+
+c) la aplicación y la administración de todas las disposiciones legales referentes a los tributos fiscales, su percepción y su fiscalización;
+
+d) la aplicación y la administración de las disposiciones legales y reglamentarias relacionadas con: los recursos, las disponibilidades, las remuneraciones y demás gastos del Tesoro Público, el Crédito Público y la Contabilidad Gubernamental, incluyendo en ésta los mecanismos para rendir cuenta del uso y conservación de los fondos y bienes fiscales;
+
+e) la formulación y manejo de la política de endeudamiento interno y externo del Sector Público, en coordinación con las Instituciones, según sean sus competencias;
+
+f) la formulación y manejo de la política fiscal del Estado en coordinación con las demás políticas gubernamentales y en función de la situación, evolución y perspectiva de la Economía Nacional. Para el efecto realizará los estudios necesarios en materia de Economía y Hacienda Pública;
+
+g) la atención de las relaciones del Gobierno con los Organismos Financieros Nacionales e Internacionales;
+
+h) la administración del sistema de Jubilaciones, Pensiones y Haberes de Retiro del Personal del Sector Público;
+
+i) el régimen de los valores fiduciarios, su emisión, control y rescate;
+
+j) la representación legal del Fisco en las demandas o trámites judiciales y extrajudiciales, conforme lo establecido en los Capítulos IV y VI;
+
+k) las relaciones del Poder Ejecutivo con el Banco Central del Paraguay;
+
+l) la formulación y propuesta de la política económica nacional, en coordinación con el Banco Central del Paraguay y demás entidades del área económica, así como el diseño, implementación y administración de la aplicación de todas las disposiciones jurídico-administrativas inherentes a dicho ámbito de competencia del Ministerio de Hacienda;
+
+m) la coordinación de la política, estrategia y monitoreo de las instituciones financieras públicas que hacen al ámbito del Ministerio de Hacienda;
+
+n) el fortalecimiento, la gestión y organización de los recursos financieros y presupuestarios de la Nación y la administración de los bienes patrimoniales del Estado;
+
+ñ) el fortalecimiento de la capacidad de la administración tributaria y el mejoramiento del cumplimiento de las obligaciones fiscales, promoviendo la formalización y la equidad tributaria;
+
+o) la promoción de facilidades para la rendición de cuentas y la transparencia de los actos financieros y fiscales del Estado;
+
+p) el impulso y el perfeccionamiento de los sistemas y procesos a cargo de cada una de las Reparticiones que conforman el Ministerio; dentro de un marco de modernidad en concordancia con las nuevas tendencias y la tecnología que sean aplicables al contexto del país y del Ministerio;
+
+q) el establecimiento de mecanismos de coordinación y comunicación con la Dirección Nacional de Aduanas, la Dirección Nacional de Contrataciones Públicas u otros órganos similares; estableciendo las políticas, normas y lineamientos que orienten sus operaciones de manera coincidente con la Política Económica Nacional;
+
+r) la presidencia del Consejo de Empresas Públicas y el monitoreo de la gestión y resultados de las Empresas que lo integran y de las Sociedades Anónimas con Participación Mayoritaria del Estado;
+
+s) el establecimiento de políticas, normas, lineamientos y procedimientos para la Administración de los Servicios Personales Institucionales, con incidencia en el Presupuesto, en sus diversos procesos;
+
+t) la implementación de políticas, normas, lineamientos y procedimientos para la Administración de los Bienes a cargo del Estado, en sus diversos procesos;
+
+u) la promoción de la aplicación de los Sistemas de Información y Comunicación internos y externos, necesarios para la operación de los sistemas a cargo de las diferentes Subsecretarías;
+
+v) la adecuación de la Estructura de Organización del Ministerio de Hacienda a las necesidades de modernización de sus sistemas, pudiendo realizar los cambios de adscripción, fusiones y de nomenclatura de sus órganos para vincularlos objetivamente a sus competencias y funciones;
+
+w) la formulación e implantación de políticas, normas y lineamientos encaminados a unificar criterios para el desarrollo de una cultura organizacional y el diseño de los subsistemas de administración del capital humano del Ministerio de Hacienda, y;
+
+x) toda otra función y competencia que las disposiciones legales pertinentes le atribuyen directamente o a sus Reparticiones dependientes y aquellas que le sean asignadas por el Poder Ejecutivo, en el ejercicio de sus atribuciones.
+
+> *Modificado por Ley N° 4394 (2011-08-24)*
 
 ### Artículo 2°
 
@@ -23,7 +76,26 @@ Auméntase a G. 150.000 (Ciento cincuenta mil guaraníes) mensuales, la pensión
 
 ### Artículo 3°
 
-Concédese pensión graciable de G. 120.000 (Ciento veinte mil guaraníes) mensuales, a favor de la señora Pabla Osorio Vda. de Cabrera, esposa del extinto Veterano de la Guerra del Chaco, Sgto. 1º Juan Cabrera.
+
+La Estructura Orgánica del Ministerio de Hacienda comprende las siguientes Reparticiones principales:
+
+a) el Gabinete del Ministro;
+
+b) La Subsecretaría de Estado de Economía;
+
+c) la Subsecretaría de Estado de Tributación;
+
+d) la Subsecretaría de Estado de Administración Financiera;
+
+e) la Abogacía del Tesoro;
+
+f) la Secretaría General;
+
+g) la Dirección Administrativa, y;
+
+h) el Servicio Nacional de Catastro.
+
+> *Modificado por Ley N° 4394 (2011-08-24)*
 
 ### Artículo 4°
 
@@ -35,19 +107,53 @@ Concédese pensión graciable de G. 250.000 (Doscientos cincuenta mil guaraníes
 
 ### Artículo 6°
 
-Concédese pensión graciable de G. 150.000 (Ciento cincuenta mil guaraníes) mensuales, a favor de la señora Elba Odriozola, excantante de la Orquesta Sinfónica y Musicóloga.
+
+La Subsecretaría de Estado de Economía en coordinación con las entidades del área económica y de planificación del Estado tendrán a su cargo la formulación y evaluación de la Política Económica, de acuerdo con las disposiciones legales vigentes. Será de su competencia el estudio, formulación y evaluación de la Política Fiscal, de deuda pública, de inversión pública y de su impacto social.
+
+En los asuntos que competen al Ministerio de Hacienda, manejará las relaciones con los Organismos Financieros nacionales e internacionales, las negociaciones financieras internacionales y los acuerdos económicos bilaterales y multilaterales.
+
+Tendrá también a su cargo:
+
+a) la Administración del Sistema de Inversión Pública, con el objetivo de optimizar el uso de los recursos públicos destinados a la inversión. En coordinación con la Secretaría Técnica de Planificación y la Oficina Nacional de Proyectos, tendrá como funciones las de evaluar los proyectos que están en la fase de preinversión; manejar y actualizar la base de datos de los proyectos de inversión; realizar la evaluación posterior de los proyectos ejecutados; participar en la identificación de los sectores prioritarios para el destino de las inversiones públicas; así como proponer las directivas que mejoren el funcionamiento de las fases de los proyectos y la base de datos de los mismos, en coordinación con las demás reparticiones del Estado que estén involucradas en alguna fase del proceso de aprobación y control de los proyectos de inversión;
+
+b) la coordinación de las tareas relacionadas con la formulación, presentación, evaluación, ejecución y monitoreo de los proyectos de inversión financiados con recursos del Fondo de Convergencia Estructural del Mercosur (FOCEM) y las Alianzas Público-Privadas;
+
+c) la Administración del Sistema de Información Económica y Financiera; para lo cual definirá las políticas, normas, lineamientos y procedimientos relativos al Sistema; y,
+
+d) El Sistema de Control de Gestión de las Empresas Públicas y las Sociedades Anónimas con participación accionaria del Estado.
+
+> *Modificado por Ley N° 4394 (2011-08-24)*
 
 ### Artículo 7°
 
-Auméntase a G. 150.000 (Ciento Cincuenta mil guaraníes) mensuales, a favor de la señora Palmira Krauer Vda. de Caballero, esposa del extinto soldado Bernardino Caballero, fallecido el 24 de noviembre de 1982.
+
+Dependerán directamente de la Subsecretaría de Estado de Economía las siguientes reparticiones:
+
+a) Dirección de Estudios Económicos;
+
+b) Dirección de Política Macro-Fiscal;
+
+c) Dirección de Política de Endeudamiento;y,
+
+d) Dirección de integración.
+
+> *Modificado por Ley N° 4394 (2011-08-24)*
 
 ### Artículo 8°
 
-Auméntase a G. 150.000 (Ciento cincuenta mil guaraníes) mensuales, la pensión graciable concedida a favor de la señora Josefina Ramírez de Salinas, exeducadora nacional, quien prestó servicios por espacio de 25 años.
+
+La Dirección de Estudios Económicos tendrá a su cargo asesorar a las autoridades superiores en las políticas sectoriales de naturaleza microeconómica que promuevan la eficiente asignación de los recursos y la productividad, el desarrollo de los mercados financieros y de capitales; así como la provisión de esquemas de seguridad social y la definición de política de reducción de la pobreza. Para el efecto, se ocupará del desarrollo de un clima de negocios y competitividad, de la defensa de la libre competencia, la promoción de la inversión privada y las alianzas público-privadas, la evaluación del impacto de los subsidios del Estado, los sistemas de pensiones y seguros de salud, las políticas de redistribución del ingreso, la reforma del sistema financiero y los mercados de capitales, así como el asesoramiento en el diseño y evaluación de encuestas de micro datos.
+
+Para el desarrollo de sus funciones, trabajará en coordinación con los organismos y empresas del Estado que correspondan en cada caso.
+
+> *Modificado por Ley N° 4394 (2011-08-24)*
 
 ### Artículo 9°
 
-Auméntase a G. 150.000 (Ciento cincuenta mil guaraníes) mensuales, la pensión graciable concedida a favor del Ex-Combatiente de la Guerra del Chaco, Santiago Laneri.
+
+La Dirección de Política Macro-Fiscal tendrá a su cargo realizar pronósticos y análisis macro-fiscales, así como el seguimiento de la situación macroeconómica y fiscal. Para dicho efecto, se encargará de desarrollar los instrumentos necesarios para realizar proyecciones fiscales de ingresos, gastos y financiamiento, que permitan examinar los vínculos con el sector público y privado en el ámbito monetario y financiero; realizar análisis que permitan identificar los riesgos para la estabilidad macroeconómica, el crecimiento económico y la sostenibilidad fiscal, conforme a los posibles cambios de escenario, con el objeto de proponer políticas o medidas correctivas; analizar temas estructurales de largo plazo; monitorear la evolución macroeconómica y la ejecución presupuestaria para proponer medidas correctivas; realizar reportes periódicos respecto al desempeño económico y fiscal y evaluar perspectivas; monitorear las fuentes posibles de riesgos fiscales de corto y mediano plazo, y responder las consultas sobre asuntos macroeconómicos y fiscales. Las proyecciones se analizarán en coordinación con otros Organismos del Estado que generan información, los cuales deberán pronunciarse sobre las variables que les competen.
+
+> *Modificado por Ley N° 4394 (2011-08-24)*
 
 ### Artículo 10°
 
