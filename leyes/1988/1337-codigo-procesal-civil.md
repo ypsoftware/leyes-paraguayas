@@ -2636,7 +2636,10 @@ Costas. En los casos en que se declare la nulidad de una resolución, las costas
 
 ### Artículo 409°
 
-Acción autónoma de nulidad. Las resoluciones judiciales no hacen cosa juzgada respecto de los terceros a quienes perjudiquen. En caso de indefensión, ellos dispondrán de la acción autónoma de nulidad, cuando la excepción de falsedad de la ejecutoria o la de inhabilidad de título fuere insuficiente para reparar los agravios que aquellas resoluciones pudiesen haberles ocasionados.
+
+Acción Autónoma de Nulidad. Las resoluciones judiciales no hacen cosa juzgada respecto de los terceros a quienes perjudiquen. En caso de indefensión, ellos dispondrán de la acción autónoma de nulidad, cuando la excepción de falsedad de la ejecutoria o la de inhabilidad de título fuere insuficiente para reparar los agravios que aquellas resoluciones pudiesen haberles ocasionado. La acción deberá presentarse ante el juzgado de primera instancia en lo civil y comercial de turno, toda vez que la sentencia de la causa principal se encuentre firme y ejecutoriada. En caso que el juez de turno sea el mismo juez que entendió la causa principal, éste deberá inhibirse y pasar las actuaciones, sin más trámite, al juez que le sigue en orden de turno. Igualmente deberán inhibirse los miembros del Tribunal de Apelación que hubieran entendido en el proceso que fuera objeto de la acción.
+
+> *Modificado por Ley N° 4419 (2011-09-14)*
 
 CAPITULO V
 
