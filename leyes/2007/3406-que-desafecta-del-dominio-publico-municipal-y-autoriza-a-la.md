@@ -15,7 +15,8 @@ short_title: "QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA…"
 
 ### Artículo 1°
 
-Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo a transferir a título oneroso a favor de su actual ocupante, señor Roberto Carlos Leguizamón Fleitas, un inmueble identificado como Lote N° 02 de la Finca N° 5616 del Distrito San Lorenzo, dejado en concepto de edificios públicos en el loteamiento realizado por el señor Marcelino Careaga, inscripto en la Dirección General de los Registros Públicos, bajo el N° 1 al folio 1 y siguientes del 07 de febrero de 1967, ubicado en la calle Cornelio Vasconcellos casi Destacamento Cazal del barrio Villa Universitaria del citado municipio, cuyas dimensiones y linderos son los siguientes:
+
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo a transferir a título oneroso a favor de su actual ocupante, señora Juana Leonora Noguera Martínez, un inmueble identificado como Lote N° 02 de la Finca N° 5.616 del Distrito de San Lorenzo, dejado en concepto de edificios públicos en el loteamiento realizado por el señor Marcelino Careaga, inscripto en la Dirección General de los Registros Públicos, bajo el N° 1 al folio 1 y siguientes del 7 de febrero de 1967, ubicado en la calle Cornelio Vasconcellos casi Destacamento Cazal del barrio Villa Universitaria del citado municipio, cuyas dimensiones y linderos son los siguientes:
 
 AL NORTE: mide 16,02 m. (dieciséis metros con dos centímetros), linda con derechos de la Universidad Nacional de Asunción;
 
@@ -25,7 +26,9 @@ AL ESTE: mide 23,80 m. (veintitrés metros con ochenta centímetros), linda con 
 
 AL OESTE: mide 24,47 m. (veinticuatro metros con cuarenta y siete centímetros), linda con el resto de la fracción destinada para edificios públicos.
 
-SUPERFICIE: 386,1.600 m2 (TRESCIENTOS OCHENTA Y SEIS METROS CUADRADOS CON UN MIL SEISCIENTOS CENTÍMETROS CUADRADOS).
+SUPERFICIE: 386 m2 1.600 cm2 (TRESCIENTOS OCHENTA Y SEIS METROS CUADRADOS CON UN MIL SEISCIENTOS CENTÍMETROS CUADRADOS)
+
+> *Modificado por Ley N° 4425 (2011-09-19)*
 
 ### Artículo 2°
 
