@@ -1925,21 +1925,24 @@ El que siendo mayor de edad realizara actos sexuales con una persona del mismo s
 ### Artículo 140°
 
 
+
 **Pornografía relativa a niños y adolescentes.**
 
-1º.- El que:
+1° El que:
 
-1. por cualquier medio produjere publicaciones, que contengan como temática actos sexuales con participación de personas menores de dieciocho años de edad y que busquen excitar el apetito sexual, así como la exhibición de sus partes genitales con fines pornográficos;
+1. produjere publicaciones, en el sentido del Artículo 14, inciso 3°, que representen actos sexuales con participación de personas menores de dieciocho años de edad o la exhibición de sus partes genitales;
 
-2. organizara, financiara o promocionara espectáculos, públicos o privados, en los que participe una persona menor de dieciocho años en la realización de actos sexuales; o
+2. organizara, financiara o promocionara espectáculos, públicos o privados, en los que participe una persona menor de dieciocho años en la realización de actos sexuales, o;
 
-3. distribuyera, importara, exportara, ofertara, canjeara, exhibiera, difundiera, promocionara o financiara la producción o reproducción de publicaciones en sentido del numeral 1, será castigado con pena privativa de libertad de hasta cinco años o multa.
+3. distribuyera, importara, exportara, ofertara, canjeara, exhibiera, difundiera, promocionara o financiara la producción o reproducción de publicaciones en sentido del numeral 1,
 
-2º.- El que reprodujera publicaciones según el numeral 1 del inciso 1º, será castigado con pena privativa de libertad de hasta tres años o multa.
+será castigado con pena privativa de libertad de hasta cinco años o multa.
 
-3°.- La pena de los incisos anteriores podrá ser aumentada hasta diez años, cuando:
+2° El que reprodujera publicaciones según el numeral 1 del inciso 1°, será castigado con pena privativa de libertad de hasta tres años o multa.
 
-1. las publicaciones y espectáculos en el sentido de los incisos 1º y 2º se refieran a menores de catorce años;
+3° La pena de los incisos anteriores podrá ser aumentada hasta diez años cuando:
+
+1. las publicaciones y espectáculos en el sentido de los incisos 1° y 2° se refieran a menores de catorce años o se dé acceso a los menores de dicha edad a publicaciones y espectáculos, en sentido de los incisos citados;
 
 2. el autor tuviera la patria potestad, deber de guarda o tutela del niño o adolescente, o se le hubiere confiado la educación o cuidado del mismo;
 
@@ -1949,13 +1952,11 @@ El que siendo mayor de edad realizara actos sexuales con una persona del mismo s
 
 5. el autor actuara comercialmente o como miembro de una banda dedicada a la realización reiterada de los hechos punibles señalados.
 
-4°.- El que con la intención prevista en el numeral 1 del inciso 1º obtuviera la posesión de publicaciones en el sentido de los incisos 1° y 3º, será castigado con pena privativa de libertad de hasta tres años o con multa.
+4° El que obtuviera la posesión de publicaciones en el sentido de los incisos 1° y 3°, será castigado con pena privativa de libertad de hasta tres años o con multa.
 
-5°.- Se aplicará, en lo pertinente, también lo dispuesto en los artículos 57 y 94.
+5° Se aplicará, en lo pertinente, también lo dispuesto en los Artículos 57 y 94.
 
-6°.- Los condenados por la comisión de hechos punibles descriptos en este artículo, generalmente no podrán ser beneficiados con el régimen de libertad condicional.
-
-> *Modificado por Ley N° 3440 (2008-07-16)*
+> *Modificado por Ley N° 4439 (2011-10-03)*
 
 CAPITULO VII
 
@@ -2046,19 +2047,22 @@ Artículo. 145. Violación de la confidencialidad de la palabra
 
 ### Artículo 146°
 
-Violación del secreto de la comunicación
 
-1º El que, sin consentimiento del titular:
 
-1. abriera una carta cerrada no destinada a su conocimiento;
 
-2. abriera una publicación, en los términos del artículo 14, inciso 3º, que se encontrara cerrada o depositada en un recipiente cerrado destinado especialmente a guardar de su conocimiento dicha publicación, o que procurara, para sí o para un tercero, el conocimiento del contenido de la publicación;
+d.- Preparación de acceso indebido e interceptación de datos.
 
-3. lograra mediante medios técnicos, sin apertura del cierre, conocimiento del contenido de tal publicación para sí o para un tercero,
+1° El que prepare un hecho punible según el Artículo 146 b o el Artículo 146 c produciendo, difundiendo o haciendo accesible de otra manera a terceros:
 
-será castigado con pena privativa de libertad de hasta un año o con multa.
+1. las claves de acceso u otros códigos de seguridad, que permitan el acceso a datos en sentido del Artículo 146 b, inciso 2°; o
 
-2º La persecución penal dependerá de la instancia de la víctima. Se aplicará lo dispuesto en el artículo 144, inciso 5º, última parte.
+2. los programas de computación destinados a la realización de tal hecho,
+
+será castigado con pena privativa de libertad de hasta un año o multa.
+
+2° Se aplicará, en lo pertinente, lo previsto en el Artículo 266, incisos 2° y 3°.
+
+> *Modificado por Ley N° 4439 (2011-10-03)*
 
 ### Artículo 147°
 
@@ -2454,25 +2458,24 @@ será castigado con pena privativa de libertad de hasta dos años o con multa. L
 
 ### Artículo 174°
 
-Alteración de datos
 
-1º El que lesionando el derecho de disposición de otro sobre datos los borrara, suprimiera, inutilizara o cambiara, será castigado con pena privativa de libertad de hasta dos años o con multa.
+b.- Acceso indebido a sistemas informáticos.
 
-2º En estos casos, será castigada también la tentativa.
+1° El que accediere a un sistema informático o a sus componentes, utilizando su identidad o una ajena; o excediendo una autorización, será castigado con pena privativa de libertad de hasta tres años o multa.
 
-3º Como datos, en el sentido del inciso 1º, se entenderán sólo aquellos que sean almacenados o se transmitan electrónica o magnéticamente, o en otra forma no inmediatamente visible.
+2° Se entenderá como sistema informático a todo dispositivo aislado o al conjunto de dispositivos interconectados o relacionados entre sí, cuya función, o la de alguno de sus componentes, sea el tratamiento de datos por medio de un programa informático.
+
+> *Modificado por Ley N° 4439 (2011-10-03)*
 
 ### Artículo 175°
 
-Sabotaje de computadoras
 
-1º El que obstaculizara un procesamiento de datos de importancia vital para una empresa o establecimiento ajenos, o una entidad de la administración pública mediante:
 
-1. un hecho punible según el artículo 174, inciso 1º; o
+b.- Instancia.
 
-2. la destrucción, inutilización, sustracción o alteración de una instalación de procesamiento de datos, de una unidad de almacenamiento o de otra parte accesoria vital, será castigado con pena privativa de libertad de hasta cinco años o con multa.
+En los casos de los Artículos 174 y 175, la persecución penal dependerá de la instancia de la víctima; salvo que la protección del interés público requiera la persecución de oficio.
 
-2º En estos casos, será castigada también la tentativa.
+> *Modificado por Ley N° 4439 (2011-10-03)*
 
 ### Artículo 176°
 
@@ -2717,19 +2720,32 @@ la pena privativa de libertad podrá ser aumentada hasta ocho años.
 
 ### Artículo 188°
 
-Operaciones fraudulentas por computadora
 
-1º El que con la intención de obtener para sí o para otro un beneficio patrimonial indebido, influyera sobre el resultado de un procesamiento de datos mediante:
+**Estafa mediante sistemas informáticos.**
 
-1. programación falsa;
+1° El que, con la intención de obtener para sí o para un tercero un beneficio patrimonial indebido, influyera sobre el resultado de un procesamiento de datos mediante:
 
-2. utilización de datos falsos o incompletos;
+1. una programación incorrecta;
 
-3. utilización indebida de datos; o
+2. el uso de datos falsos o incompletos;
 
-4. otras influencias indebidas sobre el procesamiento, y con ello, perjudicara el patrimonio de otro, será castigado con pena privativa de libertad de hasta cinco años o con multa.
+3. el uso indebido de datos; u
 
-2º En estos casos, se aplicará también lo dispuesto en el artículo 187, incisos 2º al 4º.
+4. la utilización de otra maniobra no autorizada;
+
+y con ello causara un perjuicio al patrimonio de otro,
+
+será castigado con pena privativa de libertad de hasta cinco años o con multa.
+
+2° En estos casos, se aplicará también lo dispuesto en el Artículo 187, incisos
+
+2° al 4°.
+
+3° El que preparare un hecho punible señalado en el inciso 1°, mediante la producción, obtención, venta, almacenamiento u otorgamiento a terceros de programas de computación destinados a la realización de tales hechos, será castigado con pena privativa de libertad de hasta tres años o con multa.
+
+4° En los casos señalados en el inciso 3°, se aplicará lo dispuesto en el Artículo 266, incisos 2° y 3°.
+
+> *Modificado por Ley N° 4439 (2011-10-03)*
 
 ### Artículo 189°
 
@@ -3647,13 +3663,26 @@ Manipulación de graficaciones técnicas
 
 ### Artículo 248°
 
-Alteración de datos relevantes para la prueba
 
-1º El que con la intención de inducir al error en las relaciones jurídicas, almacenara o adulterara datos en los términos del artículo 174, inciso 3º, relevantes para la prueba de tal manera que, en caso de percibirlos se presenten como un documento no auténtico, será castigado con pena privativa de libertad de hasta cinco años o con multa.
+b.- Falsificación de tarjetas de débito o de crédito y otros medios electrónicos de pago.
 
-2º En estos casos, será castigada también la tentativa.
+1° El que, con la intención de inducir en las relaciones jurídicas al error o de facilitar la inducción a tal error:
 
-3º En lo pertinente se aplicará también lo dispuesto en el artículo 246, inciso 4º.
+1. falsificare o alterare una tarjeta de crédito o débito u otro medio electrónico de pago; o
+
+2. adquiera para sí o para un tercero, ofreciere, entregare a otro o utilizare tales tarjetas o medios electrónicos,
+
+será castigado con pena privativa de libertad de hasta cinco años o con multa.
+
+2° Se castigará también la tentativa.
+
+3° Cuando el autor actuara comercialmente o como miembro de una organización criminal dedicada a la realización de los hechos punibles señalados, la pena privativa de libertad podrá ser aumentada hasta diez años.
+
+4° Tarjetas de crédito, en sentido del inciso 1°, son aquellas que han sido emitidas por una entidad de crédito o de servicios financieros para su uso en dicho tipo de transacciones y que, por su configuración o codificación, son especialmente protegidas contra su falsificación.
+
+5° Medios electrónicos de pago en el sentido del inciso 1°, son aquellos instrumentos o dispositivos que actúan como dinero electrónico, permitiendo al titular efectuar transferencias de fondos, retirar dinero en efectivo, pagar en entidades comerciales y acceder a los fondos de una cuenta.
+
+> *Modificado por Ley N° 4439 (2011-10-03)*
 
 ### Artículo 249°
 
