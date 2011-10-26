@@ -299,13 +299,16 @@ Se garantiza el derecho de libre recepción. La recepción de emisiones de radio
 
 ### Artículo 34°
 
+
 Los servicios de difusión se instalarán y operarán conforme al Plan Nacional de Frecuencias. Los licenciatarios determinarán el equipo técnico y las características edilicias de sus plantas. El Plan Nacional de Frecuencias recogerá, para su formación, las normas técnicas de los tratados internacionales ratificados por la República del Paraguay.
 
-En el Plan Nacional de Frecuencias, se reservará al Estado:
+El Plan Nacional de Frecuencias, se reservará a los tres Poderes del Estado:
 
-a) Una frecuencia para la prestación de servicios de televisión con sus correspondientes estaciones repetidoras que cubran todos los departamentos del país; y,
+a) Una frecuencia a cada Poder del Estado para la presentación de servicios de televisión con sus correspondientes estaciones repetidoras que cubran todos los departamentos del país, excepto el Poder Legislativo, que contará con dos frecuencias, una para Senadores y otra para Diputados; y,
 
-b) Una frecuencia para radiodifusión sonora en amplitud modulada (AM) de cobertura nacional; una frecuencia para radiodifusión sonora en frecuencia modulada (FM) en cada departamento y frecuencias en ondas cortas.
+b) Una frecuencia a cada Poder del Estado para radiodifusión sonora en Amplitud Modulada (AM) de cobertura nacional, una frecuencia para radiodifusión sonora en Frecuencia Modulada (FM) en cada departamento y frecuencias en ondas cortas, excepto el Poder Legislativo, que contará con dos frecuencias una para Senadores y otra para Diputados.
+
+> *Modificado por Ley N° 4478 (2011-10-26)*
 
 ### Artículo 35°
 
