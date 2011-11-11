@@ -141,9 +141,10 @@ DE LA COMISIÓN NACIONAL DE REFUGIADOS
 
 ### Artículo 13°
 
+
 Créase la Comisión Nacional de Refugiados, que dependerá de la Secretaría de Asuntos Consulares y Generales del Ministerio de Relaciones Exteriores. La Comisión Nacional de Refugiados estará integrada por los siguientes miembros con derecho a voto:
 
-a) el Secreario de Asuntos Consulares y Generales del Ministerio de Relaciones Exteriores, en carácter de Presidente o, en su defecto, la Presidencia será ejercida por la persona que éste designe;
+a) el Secretario de Asuntos Consulares y Generales del Ministerio de Relaciones Exteriores, en carácter de Presidente o, en su defecto, la Presidencia será ejercida por la persona que éste designe;
 
 b) el Subsecretario de Población y Relaciones con la Comunidad del Ministerio del Interior, o la persona que el mismo designe;
 
@@ -151,19 +152,23 @@ c) el Director Nacional de Migraciones o la persona que el mismo designe;
 
 d) el Subsecretario de Derechos Humanos o, en su defecto, el Director de Derechos Humanos del Ministerio de Relaciones Exteriores;
 
-e) un representante del Ministerio de Justicia y Trabajo y Seguridad Social;
+e) el Viceministerio de Justicia y Derechos Humanos del Ministerio de Justicia y Trabajo;
 
-f) un representante de la Comisión de Derechos Humanos de la Honorable Cámara de Senadores de la Nación; y
+f) un representante de la Comisión de Derechos Humanos de la Honorable Cámara de Senadores de la Nación; y,
 
-g) un representante de la Comisión Derechos Humanos de la Honorable Cámara de Diputados de la Nación.
+g) un representante de la Comisión de Derechos Humanos de la Honorable Cámara de Diputados de la Nación.
 
-y los siguientes miembros con voz y sin derecho a voto:
+Todos los representantes titulares enumerados en los incisos anteriores, deberán contar con un suplente que les sustituirá automáticamente en caso de ausencia, renuncia, enfermedad o cualquier otro impedimento del titular.
 
-1) un representante del Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR); y
+Y los siguientes miembros con voz y sin derecho a voto:
 
-2) un representante de las Organizaciones no Gubernamentales (ONGs), asistenciales o religiosas, sin fines de lucro con competencia en la materia objeto de esta ley.
+1) un representante del alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR); y,
+
+2) un representante de las Organizaciones no Gubernamentales (ONGs), asistenciales o religiosas, sin fines de lucro con competencia en la materia objeto de esta Ley.
 
 Ninguno de los miembros de la Comisión Nacional de Refugiados percibirá remuneración alguna en ese carácter.
+
+> *Modificado por Ley N° 4504 (2011-11-11)*
 
 SECCIÓN I
 
@@ -225,9 +230,10 @@ Es requisito para ocupar el cargo de Secretario Ejecutivo Nacional de Refugiados
 
 ### Artículo 20°
 
-El Secretario Ejecutivo de la Comisión Nacional de Refugiados tendrá las siguientes funciones:
 
-a) iniciar el expediente de los solicitantes de refugio, adjuntando al mismo la declaración inicial del solicitante y toda la documentación que el mismo acompañe; sin perjuicio de lo establecido en el Artículo 22 de la presente ley.
+El Secretario Ejecutivo de la Comisión Nacional de Refugiados a más de convocar a los demás miembros de dicha Comisión, tendrá las siguientes funciones:
+
+a) iniciar el expediente de los solicitantes de refugio, adjuntando al mismo la declaración inicial del solicitante y toda la documentación que el mismo acompañe; sin perjuicio de lo establecido en el Artículo 22 de la presente Ley;
 
 b) informar a los solicitantes de refugio y a los refugiados acerca de sus derechos y obligaciones;
 
@@ -237,9 +243,13 @@ d) proveer de un intérprete cuando el idioma del solicitante no fuera el españ
 
 e) compilar la información del país del solicitante de refugio y de los refugiados para un adecuado análisis por parte de la Comisión Nacional de Refugiados;
 
-f) notificar las decisiones de la Comisión Nacional de Refugiados dentro del plazo de cinco días hábiles de adoptadas; y
+f) notificar las decisiones de la Comisión Nacional de Refugiados dentro del plazo de cinco días hábiles de adoptadas;
 
-g) llevar a cabo toda tarea relacionada con el área administrativa, con la conformación de expedientes y el impulso del procedimiento.
+g) convocar a la Comisión Nacional de Refugiados en todos los casos que se presente una solicitud de refugio; y,
+
+h) llevar a cabo toda tarea relacionada con el área administrativa, con la conformación de expedientes y el impulso del procedimiento.
+
+> *Modificado por Ley N° 4504 (2011-11-11)*
 
 CAPÍTULO II
 
