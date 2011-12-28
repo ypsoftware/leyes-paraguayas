@@ -178,11 +178,14 @@ El Fideicomiso de Infraestructura Vial estará sujeto a los Sistemas de Control 
 
 ### Artículo 23°
 
-A los efectos de la presente ley, los términos definidos tendrán el significado que a continuación se indica:
 
-Fiduciante: Es el Estado en cuanto transfiere la propiedad fiduciaria de los bienes fideicomitidos al Fiduciario con el destino exclusivo e irrevocable al cumplimiento del contrato de fideicomiso respectivo.
+A los efectos de la presente Ley, los términos definidos tendrán el significado que a continuación se indican:
 
-Fiduciario: Es el banco o la entidad financiera autorizados a operar, como fiduciario de los bienes que se transfieren en fideicomiso en los términos de la Ley Nº 921/96, con el destino exclusivo e irrevocable que se establece en la presente ley y cuya función será administrar los recursos del Fideicomiso de Infraestructura Vial, de conformidad con las instrucciones que imparta el Ministerio de Obras Públicas y Comunicaciones y/o quien este designe en su reemplazo.
+FIDUCIANTE: Es el Estado, representado por el Ministerio de Obras Públicas y Comunicaciones, en cuanto transfiere la propiedad fiduciaria de los bienes fideicomitidos al Fiduciario con el destino exclusivo e irrevocable al cumplimiento del contrato de fideicomiso respectivo.
+
+FIDUCIARIO: Es el Banco o la entidad financiera autorizado a operar, como fiduciario de los bienes que se transfieren en fideicomiso en los términos de la Ley Nº 921/96 “DE NEGOCIOS FIDUCIARIOS”, con el destino exclusivo e irrevocable que se establece en la presente Ley y cuya función será administrar los recursos del Fideicomiso de Infraestructura Vial, de conformidad con las instrucciones que imparta el Ministerio de Obras Públicas y Comunicaciones y/o quien éste designe en su reemplazo.
+
+> *Modificado por Ley N° 4573 (2011-12-28)*
 
 ### Artículo 24°
 
@@ -208,7 +211,10 @@ El Fideicomiso de Infraestructura Vial tendrá una duración de treinta años, a
 
 ### Artículo 28°
 
-EL Fideicomiso de Infraestructura Vial será administrado por el Fiduciario que para los efectos de esta Ley será el Banco Central del Paraguay, con el destino único e irrevocable que se establece en la presente Ley y de acuerdo con las condiciones que se establezcan en el contrato de fideicomiso.
+
+El Fideicomiso de Infraestructura Vial será administrado por el Fiduciario que, para los efectos de esta Ley, será el Banco Nacional de Fomento (BNF), con el destino único e irrevocable que se establece en la presente Ley y de acuerdo con las condiciones que se establezcan en el contrato de fideicomiso.
+
+> *Modificado por Ley N° 4573 (2011-12-28)*
 
 CAPITULO II
 
@@ -282,9 +288,12 @@ Delégase en el señor Ministro de Hacienda y en el señor Ministro de Obras Pú
 
 ### Artículo 37°
 
-Todos los bienes fideicomitidos serán transferidos por escritura pública por y ante el Escribano Mayor de Gobierno, y el acto estará exento de todo impuesto y/o tasa a las transferencias y a la inscripción de registro.
 
-El Fideicomiso de Infraestructura Vial estará exento de todo impuesto vigente.
+Las operaciones realizadas en el marco del fideicomiso de la infraestructura vial, no estarán exoneradas del depósito de garantía, debiendo abonar los impuestos correspondientes.
+
+Todos los bienes fideicomitidos serán transferidos por Escritura Pública y abonará los impuestos y/o tasas a la transferencia y a la inscripción en los Registros Públicos. En este último caso, los Escribanos de Registro actuantes se ceñirán a lo establecido en el Artículo 12 de la Ley 2.592/2005 “QUE MODIFICA LOS ARTÍCULOS 2º, 5º, 7º, 9º, 10 Y 12 DE LA LEY Nº 223/93 “QUE CREA LA ESCRIBANÍA MAYOR DE GOBIERNO”, Y SU MODIFICATORIA, LEY Nº 1.651/00
+
+> *Modificado por Ley N° 4573 (2011-12-28)*
 
 ### Artículo 38°
 
