@@ -30,41 +30,12 @@ Para dictar sentencias definitivas o interlocutorias, la Corte en pleno o por sa
 
 ### Artículo 3°
 
-Deberes y atribuciones. Son deberes y atribuciones de la Corte Suprema de Justicia, en pleno:
 
-a) Interpretar, cumplir y hacer cumplir la Constitución, la ley, el reglamento interno, las acordadas y las resoluciones; y velar por el cumplimiento de los deberes establecidos para los jueces;
+Deberes y Atribuciones. Son deberes y atribuciones de la Corte Suprema de Justicia, en pleno:
 
-b) Dictar su propio reglamento interno, las acordadas, y todos los actos que fueren necesarios para la mejor organización y eficiencia de la administración de justicia;
+m) Conocer las cuestiones que deriven del derecho de asilo.
 
-c) Designar de las ternas respectivas, a los miembros de los tribunales, jueces y agentes fiscales;
-
-d) Suspender preventivamente, por sí o a pedido del Jurado de Enjuiciamiento de Magistrados por mayoría absoluta de votos de sus miembros, en el ejercicio de sus funciones, a magistrados judiciales enjuiciados, hasta tanto se dicte resolución definitiva en el caso, sin perjuicio de las medidas que puedan ser adoptadas con motivo del ejercicio de facultades disciplinarias;
-
-e) Recibir en sesión plenaria o por intermedio de su Presidente o de cualesquiera de los vicepresidentes, el juramento o promesa de magistrados judiciales, agentes fiscales y de otros funcionarios previstos en la Constitución o las leyes;
-
-f) Designar a los Ministros de la Corte Suprema de Justicia que integrarán el Consejo de la Magistratura y el Jurado de Enjuiciamiento de Magistrados;
-
-g) Conocer y decidir en la recusación con causa, excusación e impugnación de excusación de sus ministros, cuando éstos actúen en pleno. Toda excusación deberá ser fundada. En ningún caso se admitirá la recusación sin expresión de causa;
-
-h) Conocer y decidir de conformidad con la ley, en única instancia, en los conflictos de jurisdicción; en las contiendas de competencia entre el Poder Ejecutivo y los Gobiernos Departamentales, entre éstos entre sí; entre los Gobiernos Departamentales y las Municipalidades, y las suscitadas entre éstas. Igualmente decidirá las contiendas de competencia entre los fueros civil y militar;
-
-i) Conocer y decidir en procedimiento sumarísimo en los recursos y acciones que se interpongan o promuevan contra resoluciones del Tribunal Superior de Justicia Electoral, de acuerdo con el artículo 275 de la Constitución y en los casos previstos en la legislación electoral;
-
-j) Elaborar el anteproyecto de presupuesto del Poder Judicial;
-
-k) Presentar en el mes de febrero una memoria de las gestiones realizadas durante el año anterior, sobre el estado y las necesidades del Poder Judicial, a los Poderes Ejecutivo y Legislativo;
-
-l) Iniciar y presentar proyectos de ley que tengan relación con la organización y funcionamiento de la administración de justicia y de los auxiliares de la justicia;
-
-m) Conocer en las cuestiones que deriven del derecho de asilo y en los casos de adquisición y readquisición de nacionalidad, así como sobre la suspensión de la ciudadanía;
-
-n) Designar a los funcionarios y empleados del Poder Judicial;
-
-ñ) Nombrar, a propuesta del Consejo de Superintendencia de Justicia, al Superintendente General de Justicia;
-
-o) Remover al Superintendente General de Justicia;
-
-p) Los demás deberes y atribuciones que establezcan la Constitución o la ley, y no correspondan a los de alguna de sus salas.
+> *Modificado por Ley N° 4542 (2011-12-30)*
 
 ### Artículo 4°
 
@@ -139,11 +110,16 @@ DE LA SALA CIVIL Y COMERCIAL
 
 ### Artículo 14°
 
-Competencia. Son deberes y atribuciones de la Sala Civil y Comercial los siguientes:
 
-a) Conocer y decidir de las cuestiones de naturaleza civil y comercial que sean recurribles ante la tercera instancia, conforme con las disposiciones de las leyes procesales; y,
+Competencia. Son deberes y atribuciones de la Sala Civil y Comercial, los siguientes:
 
-b) Revisar las resoluciones dictadas por los Tribunales de Apelación en lo Laboral en los términos del artículo 37 del Código Procesal del Trabajo.
+a) Conocer y decidir en las cuestiones de naturaleza civil y comercial que sean recurribles ante la tercera instancia, conforme con las disposiciones de las leyes procesales;
+
+b) Revisar las resoluciones dictadas por los Tribunales de Apelación en lo Laboral en los términos del Artículo 37 del Código Procesal del Trabajo; y,
+
+c) Conocer y decidir en los casos de adquisición y readquisición de nacionalidad, así como sobre la suspensión de la ciudadanía, bastando para todos los efectos legales la firma de sus tres integrantes para la resolución final que concede, deniega o suspende la ciudadanía.
+
+> *Modificado por Ley N° 4542 (2011-12-30)*
 
 CAPÍTULO IV
 
