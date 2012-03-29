@@ -23,7 +23,14 @@ Esta Ley será aplicada a las víctimas y familiares del siniestro ocurrido en e
 
 ### Artículo 3°
 
-La condición de víctima o familiar de una víctima quedará probada con la sola acreditación de haber participado en calidad de tal, en cualquiera de las causas judiciales relacionadas con el siniestro.
+
+La condición de víctima o familiar quedará probada con la sola acreditación de haber participado en calidad de tal, en cualquiera de las causas judiciales relacionadas con el siniestro.
+
+Quedan excluidas las personas, cuya identidad no ha podido ser acreditada en los términos del artículo anterior, quienes deberán contar con una Sentencia Definitiva de Presunción de fallecimiento.
+
+Para los familiares de víctimas fatales se requerirá la presentación de copia autenticada de la Cédula de Identidad de los designados herederos por Juzgado competente.
+
+> *Modificado por Ley N° 4585 (2012-03-29)*
 
 ### Artículo 4°
 
@@ -39,7 +46,10 @@ El Poder Ejecutivo, por intermedio del Ministerio de Hacienda, abonará las inde
 
 ### Artículo 7°
 
-Las indemnizaciones podrán ser reclamadas por el cónyuge supérstite o los parientes consanguíneos hasta el primer grado, quienes deberán probar su vocación hereditaria conforme el procedimiento sumario previsto en el siguiente artículo.
+
+Las indemnizaciones podrán ser reclamadas por el cónyuge supérstite o los parientes consanguíneos hasta el segundo grado, quienes deberán probar su vocación hereditaria conforme el procedimiento sumario previsto en el siguiente artículo.
+
+> *Modificado por Ley N° 4585 (2012-03-29)*
 
 ### Artículo 8°
 
