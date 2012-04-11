@@ -209,49 +209,58 @@ h) En los juicios sucesorios la base para la regulación será lo dispuesto en e
 
 ### Artículo 27°
 
-A los efectos de la regulación de honorarios, los trabajos profesionales se dividirán en etapas :
+
+A los efectos de la regulación de honorarios, los trabajos profesionales se dividirán en etapas:
 
 a) En las sucesiones:
 
-1. Iniciación del juicio;
+1.- Iniciación del juicio;
 
-2. Actuaciones cumplidas hasta la declaratoria de herederos o aprobación del testamento, incluyéndose en esta etapa la publicación de los edictos, la facción de inventario, la denuncia de bienes y el nombramiento de administrador;
+2.- Actuaciones cumplidas hasta la declaratoria de herederos o aprobación del testamento, incluyéndose en esta etapa la publicación de los edictos, la facción de inventario, la denuncia de bienes y el nombramiento de administrador;
 
-3. Actuaciones cumplidas para la inscripción de la sentencia y adjudicaciones pertinentes.
+3.- Actuaciones cumplidas para la inscripción de la sentencia y adjudicaciones pertinentes.
 
-Los trabajos de partición de bienes se regularán por separado.
+b) En los procesos ordinarios:
 
-b) En los procesos ordinarios :
+1.- Demanda, reconvención y sus contestaciones;
 
-1. Demanda, reconvención y sus contestaciones;
+2.- Etapa de pruebas;
 
-2. Etapa de prueba;
+3.- Alegato y trámites hasta la terminación del juicio en primera instancia.
 
-3. Alegato y trámites hasta la terminación del juicio en primera instancia.
+c) En las convocatorias de acreedores y quiebras:
 
-c) En las convocatorias de acreedores y quiebras :
+1.- Iniciación;
 
-1. Iniciación;
+2.- Verificación de créditos;
 
-2. Verificación de créditos ;
+3.- Realización de la junta de acreedores hasta la aprobación del concordato o declaración de quiebra.
 
-3. Realización de la junta de acreedores hasta la aprobación del concordato o declaración de quiebra.
-
-Las actuaciones cumplidas con posterioridad a la celebración del concordato, ya sea para la verificación de créditos tardíos o peticiones la quiebra por incumplimiento del concordato, serán regulados independientemente.
+Las actuaciones cumplidas con posterioridad a la celebración del concordato, ya sea la verificación de créditos tardíos o peticiones de quiebra por incumplimiento del concordato, serán reguladas independientemente.
 
 d) En los procesos sumarios, laborales y especiales:
 
-1.- Demanda, contestacion, reconvencion y ofrecimiento de pruebas;
+1.- Demanda, contestación, reconvención y ofrecimiento de pruebas;
 
 2.- Diligenciamiento de pruebas y actuaciones hasta la sentencia.
 
-e) En las causas penales:
+e) En las causas penales; se dividirán las etapas procesales en:
 
-1.- Actuaciones el sumario;
+1.- Actuaciones en la etapa preparatoria;
 
-2.- Actuaciones en el plenario hasta la sentencia.
+2.- Actuaciones en la etapa intermedia;
 
-Si la causa concluyere en el sumario como consecuencia de una excepcion o sobreseimiento, la regulacion de los honorarios se realizara considerando al sumario como la totalidad de la causa.
+3.- Actuaciones en la etapa del juicio oral;
+
+4.- Actuaciones en la etapa de ejecución de sentencia;
+
+5.- Actuaciones en los procedimientos especiales.
+
+Las actuaciones realizadas se deberán regir por las disposiciones establecidas en el Artículo 54 de la presente Ley.
+
+Si la causa concluyere con el sobreseimiento definitivo en la etapa intermedia o antes de ella, la regulación de los honorarios se realizará como cumplida la totalidad de la etapa respectiva.
+
+> *Modificado por Ley N° 4590 (2012-04-11)*
 
 ### Artículo 28°
 
@@ -441,73 +450,103 @@ Establécense las siguientes retribuciones por trabajos cumplidos en el procedim
 
 ### Artículo 54°
 
-En las causas penales cuyo monto pueda apreciarse pecuniariamente, los honorarios profesionales se fijarán de acuerdo a los artículos 32, 26 inciso f, y 21.
 
-Cuando no existan elementos de apreciación económica, fijase el siguiente arancel de retribución mínimo.
+En las causas penales, cuyo monto pueda apreciarse pecuniariamente, los honorarios profesionales se fijarán de acuerdo con los Artículos 32, 26 inciso f) y 21.
 
-a) Intervenciones extraprocesales :
+Los jueces y tribunales intervinientes en las causas penales serán competentes para regular los honorarios profesionales de los abogados, por las actuaciones cumplidas en las etapas en que cada órgano jurisdiccional haya tenido competencia.
 
-1. Actuaciones ante la autoridad policial, militar o administrativa encargada de acciones de prevención: diez jornales cuando se trata de horas y días hábiles y el doble en horas nocturnas o días inhábiles.
+Cuando no existen elementos de apreciación pecuniaria, fíjase el siguiente arancel de retribución para las intervenciones extraprocesales y procesales, atendiendo al valor y calidad jurídica de la labor profesional, así como la complejidad e importancia de las cuestiones planteadas:
 
-2. Presentación de denuncia ante la policía, la fiscalía o los juzgados: quince jornales.
+1.- Actuaciones ante autoridades jurisdiccionales, gubernamentales, municipales o administrativas: quince jornales, cuando se trate de horas y días hábiles, y el doble en horas nocturnas o días inhábiles.
 
-3. Examen de procesos penales en curso: diez jornales.
+2.- Presentación ante los organismos competentes de:
 
-4. Asistencia en sumarios administrativos: cincuenta jornales.
+a) Denuncia: quince jornales;
 
-b) En el estado sumario:
+b) Querella: cincuenta jornales; y,
 
-1. Patrocinio en audiencia para la declaración indagatoria: veinte jornales.
+c) Acusación: cien jornales.
 
-2. Levantamiento de detención: treinta jornales.
+3.- Examen de procesos penales en curso: diez jornales.
 
-3. Pedido de excarcelación: quince jornales.
+4.- Asistencia en sumarios administrativos: cincuenta jornales.
 
-4. Excarcelación concedida: treinta jornales.
+5.- Asistencia en audiencias indagatorias: quince jornales.
 
-5. Incidente de revocación del auto de prisión: sesenta jornales.
+6.- Asistencia en audiencias de imposición de medidas, de revisión de medidas, de excarcelación o de levantamiento de detención: treinta jornales si se conceden las mismas.
 
-6. Incidente de sobreseimiento provisional: ciento veinte jornales.
+7.- Asistencia a cualquier audiencia no especificada en el presente artículo: diez jornales.
 
-7. Incidente de sobreseimiento libre: ciento cincuenta jornales.
+8.- Asistencia en audiencia preliminar: cincuenta jornales.
 
-8. Excepciones de previo y especial pronunciamiento: setenta jornales.
+9.- Asistencia en juicio oral: cien jornales.
 
-9. Actuaciones de defensa cumplidas en el sumario, con pruebas producidas: ciento veinte jornales
+10.- Ofrecimientos de pruebas: diez jornales.
 
-c) En el estado plenario :
+11.- Por incidente de sobreseimiento definitivo si fuera concedido: ciento cincuenta jornales.
 
-1. Defensa: cincuenta jornales
+12.- Por incidente de sobreseimiento provisional si fuera concedido: cien jornales.
 
-2. Defensa con producción de pruebas: ciento veinte jornales
+13.- Por suspensión condicional del procedimiento si fuera concedido: ciento veinte jornales.
 
-3. Si la sentencia fuere absolutoria, se agregarán sesenta jornales más.
+14.- Por presentación de procedimiento abreviado si fuera concedido: cincuenta jornales.
 
-d) Querellas:
+15.- Por excepciones o incidentes innominados concedidos: veinticinco jornales.
 
-1. El escrito de deducción de querella: ciento veinte jornales
+16.- Por presentación de abandono de querella si fuera concedido: veinticinco jornales.
 
-2. Los embargos diligenciados se regularán conforme a lo establecido en el Art. 36.
+17.- Los embargos se regularán conforme a lo establecido en el Artículo 36.
 
-3. Por obtención de auto de prisión: noventa jornales.
+18.- Participación en etapa preparatoria: cincuenta jornales.
 
-4. Por revocación de excarcelación: sesenta jornales.
+19.- Participación en etapa intermedia: setenta y cinco jornales.
 
-5. Por producción y control de pruebas en el sumario: noventa jornales.
+20.- Participación en la etapa del juicio oral: cien jornales.
 
-6. Por obtención de sentencia de condena: ciento cincuenta jornales.
+21.- Por presentación de recurso de reposición concedido: quince jornales.
 
-e) Procedimiento en sede correccional:
+22.- Por presentación de recurso de apelación general concedido: veinticinco jornales.
 
-1. Por asistencia a menores, contralor de producción de pruebas y planteamiento de defensa, hasta la sentencia: noventa jornales.
+23.- Por presentación de recurso de apelación especial concedido: cincuenta jornales.
 
-2. Por obtención de libertad vigilancia: treinta jornales
+24.- Por presentación de recurso de revisión concedido: cien jornales.
+
+25.- Por peticiones de tutela jurisdiccional o su oposición por ante el Juzgado de Ejecución: treinta jornales.
+
+26.- Por pedido de libertad condicional o su oposición: treinta jornales.
+
+27.- Por pedido de revisión de medidas privativas de libertad o su oposición: veinticinco jornales.
+
+28.- Por los trámites de ejecución civil de las sentencias penales: cincuenta jornales.
+
+29.- En los demás incidentes promovidos en la etapa de ejecución de sentencia: veinticinco jornales.
+
+30.- Por las actuaciones del abogado en el procedimiento previsto en el Código de la Niñez y de la Adolescencia: treinta jornales.
+
+31.- Por los demás incidentes promovidos en el procedimiento previsto en el Código de la Niñez y de la Adolescencia: veinticinco jornales.
+
+32.- Por las actuaciones cumplidas en el trámite y sustanciación del procedimiento abreviado: treinta jornales.
+
+33.- Por las actuaciones cumplidas en el procedimiento para la aplicación de medidas de mejoramiento: veinticinco jornales.
+
+34.- Por las actuaciones cumplidas en los procedimientos de reparación del daño: cincuenta jornales.
+
+35.- Por consultas profesionales sobre casos judiciales o extrajudiciales, cuando se realicen en horas de oficina: cinco jornales.
+
+36.- Cuando las consultas profesionales se realicen en días inhábiles y en horario nocturno: diez jornales.
+
+En el caso de que las pretensiones fueren rechazadas, los honorarios profesionales se regularán conforme a lo establecido en el Artículo 25 de la presente Ley.
+
+> *Modificado por Ley N° 4590 (2012-04-11)*
 
 ### Artículo 55°
 
-Las estimaciones mínimas establecidas en el artículo anterior son acumulativas y la regulación, al término del juicio, como mínimo representará la suma de los trabajos cumplidos.
 
-Los Tribunales de Apelación tendrán un consideración los valores consignados en el artículo anterior, a los efectos de establecer las regulaciones por trabajos en segunda instancia.
+Las estimaciones establecidas en el artículo anterior son acumulativas y la regulación, al término del juicio, como mínimo representará la suma de los trabajos cumplidos.
+
+Los Tribunales de Apelación tendrán en consideración los valores consignados en el artículo anterior, a los efectos de establecer las regulaciones por trabajos en segunda instancia.
+
+> *Modificado por Ley N° 4590 (2012-04-11)*
 
 ### Artículo 56°
 
