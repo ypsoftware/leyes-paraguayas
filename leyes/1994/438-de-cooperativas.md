@@ -364,7 +364,10 @@ Capitalización de Retornos e Intereses. Por resolución de la mayoría de los s
 
 ### Artículo 46°
 
-Destino de Excedentes Especiales. Los excedentes provenientes de operaciones con terceros realizadas conforme con esta ley y su reglamentación, al igual que los no generados por la diferencia entre costo y precio de los servicios, serán destinados al Fondo de Fomento de la Educación Cooperativa. La prestación de servicios a terceros no podrá realizarse en condiciones más favorables que a los socios, y no se benefician de las exenciones tributarias reguladas más adelante.
+
+Destino de los Excedentes Especiales. Los excedentes provenientes de operaciones con terceros realizadas de conformidad con esta Ley y su reglamentación, al igual que aquellos no generados por la diferencia entre el costo y el precio de los servicios, serán distribuidos de la manera prevista en los incisos a) al e) del Artículo 42 de la presente Ley. La prestación de servicios a terceros no podrá realizarse en condiciones mas favorables que a los socios y no se benefician de las exenciones tributarias reguladas mas adelante.
+
+> *Modificado por Ley N° 4596 (2012-04-27)*
 
 ### Artículo 47°
 
