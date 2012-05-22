@@ -3465,11 +3465,14 @@ será castigado con pena privativa de libertad de hasta tres años o con multa.
 
 ### Artículo 236°
 
-Desaparición forzosa
 
-1º El que con fines políticos realizara los hechos punibles señalados en los artículos 105, 111, inciso 3º, 112, 120 y 124, inciso 2º, para atemorizar a la población, será castigado con pena privativa de libertad no menor de cinco años.
+Desaparición Forzosa:
 
-2º El funcionario que ocultara o no facilitara datos sobre el paradero de una persona o de un cadáver, será castigado con pena privativa de libertad de hasta cinco años o con multa. Esto se aplicará aun cuando careciera de validez legal su calidad de funcionario.
+1º El que obrando como funcionario o agente del Estado o como persona o grupos de personas que actúen con la autorización, el apoyo o la aquiescencia del Estado, arrestara, detuviera, secuestrara o privara de su libertad de cualquier forma a una o más personas y negara la información sobre su paradero o se negara a reconocer dicha privación de libertad o el ocultamiento de la suerte o paradero de la persona desaparecida, sustrayéndola de la protección de la Ley; será castigado con pena privativa de libertad no menor de cinco años.
+
+2º Lo dispuesto en el numeral 1º del presente artículo se aplicará, aún cuando careciera de validez legal el carácter de funcionario o incluso si el hecho fuere cometido por una persona que no revista el carácter de funcionario.
+
+> *Modificado por Ley N° 4614 (2012-05-22)*
 
 ### Artículo 237°
 
@@ -4444,31 +4447,22 @@ El funcionario que, teniendo intervención en un procedimiento penal u otros pro
 
 ### Artículo 309°
 
-Tortura
 
-1º El que con la intención de destruir o dañar gravemente la personalidad de la víctima o de un tercero, y obrando como funcionario o en acuerdo con un funcionario:
+Tortura:
 
-1. realizara un hecho punible contra
+1° El que intencionalmente infligiera a una persona penas o sufrimientos físicos o mentales o la sometiera a un hecho punible contra la autonomía sexual, con el fin de obtener de ella o de un tercero información o una confesión con fines de investigación criminal, de castigarla por un acto que haya cometido o se sospeche que ha cometido o de intimidar o coaccionar a esa persona o a otras, como medida preventiva, como pena o con cualquier otro fin; será castigado con pena privativa de libertad no menor de cinco años.
 
-a) la integridad física conforme a los artículos 110 al 112;
+2° El que intencionalmente aplicara sobre una persona métodos tendientes a anular su personalidad o a disminuir su capacidad física o mental, será castigado con pena privativa de libertad no menor de cinco años.
 
-b) la libertad de acuerdo a los artículos 120 al 122 y el 124;
+3º Lo previsto en los numerales 1° y 2° del presente artículo será aplicable en los siguientes casos:
 
-c) la autonomía sexual según los artículos 128, 130 y 131;
+1. cuando el autor actuare como funcionario o agente del Estado o como persona o grupo de personas que actúen con la autorización, el apoyo o la aquiescencia del Estado,
 
-d) menores conforme a los artículos 135 y 136;
+2. cuando el autor se haya arrogado indebidamente la calidad de funcionario; o,
 
-e) la legalidad del ejercicio de funciones públicas de acuerdo a los artículos 307, 308, 310 y 311; o
+3. cuando el autor no fuere funcionario.
 
-2. sometiera a la víctima a graves sufrimientos síquicos,
-
-será castigado con pena privativa de libertad no menor de cinco años.
-
-2º El inciso 1º se aplicará aun cuando la calidad de funcionario:
-
-1. careciera de un fundamento jurídico válido; o
-
-2. haya sido arrogada indebidamente por el autor.
+> *Modificado por Ley N° 4614 (2012-05-22)*
 
 ### Artículo 310°
 
