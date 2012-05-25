@@ -16,9 +16,10 @@ short_title: "QUE ESTABLECE PROCEDIMIENTOS DE CARACTER ESPECIAL Y…"
 ### Artículo 1°
 
 
-Establécense procedimientos de carácter especial y transitorio para las inscripciones de nacimientos, matrimonios y defunciones en el Registro del Estado Civil. Las mismas tendrán un plazo de dos años, a partir de la promulgación de la presente Ley.
 
-> *Modificado por Ley N° 3898 (2009-11-09)*
+Establécese procedimientos de carácter especial y transitorio para las inscripciones de nacimientos, matrimonios y defunciones en el Registro del Estado Civil. Las mismas tendrán un plazo de dos años, a partir de la promulgación de la presente Ley.
+
+> *Modificado por Ley N° 4623 (2012-05-25)*
 
 ### Artículo 2°
 
