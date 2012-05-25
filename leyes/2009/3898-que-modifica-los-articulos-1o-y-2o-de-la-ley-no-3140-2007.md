@@ -15,19 +15,10 @@ short_title: "QUE MODIFICA LOS ARTÍCULOS 1º Y 2º DE LA LEY Nº 3140/2007…"
 
 ### Artículo 1°
 
-Modifícanse los Artículos 1º y 2º de la Ley Nº 3.140/2007 “QUE ESTABLECE PROCEDIMIENTOS DE CARÁCTER ESPECIAL Y TRANSITORIO PARA INSCRIPCIONES EN EL REGISTRO DEL ESTADO CIVIL”, cuyos textos quedan redactados como sigue:
 
-“Art 1º.- Establécense procedimientos de carácter especial y transitorio para las inscripciones de nacimientos, matrimonios y defunciones en el Registro del Estado Civil. Las mismas tendrán un plazo de dos años, a partir de la promulgación de la presente Ley.”
+Establécese procedimientos de carácter especial y transitorio para las inscripciones de nacimientos, matrimonios y defunciones en el Registro del Estado Civil. Las mismas tendrán un plazo de dos años, a partir de la promulgación de la presente Ley.
 
-“Art 2º.- En este período, podrán realizarse las inscripciones de los nacimientos, matrimonios y defunciones que no hayan sido asentados en los libros correspondientes de las oficinas del Registro Civil, ubicadas en todo el país, en consideración a las siguientes formalidades:
-
-a) presentación del formulario de solicitud de inscripción proveído por la oficina del Registro del Estado Civil;
-
-b) presentación de los antecedentes o certificaciones de nacimiento, matrimonio o defunción, del cual se desea realizar la inscripción;
-
-c) presentación de los documentos de identidad de los declarantes y dos testigos capaces, en los términos del Artículo 38 de la Ley Nº 1.266/87 “DEL REGISTRO DEL ESTADO CIVIL”; y,
-
-d) en todos los casos la solicitud de inscripción deberá estar firmada por los solicitantes y los testigos bajo fe de juramento.”
+> *Modificado por Ley N° 4623 (2012-05-25)*
 
 ### Artículo 2°
 
