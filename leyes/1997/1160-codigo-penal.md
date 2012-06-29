@@ -3377,11 +3377,12 @@ Violación de la patria potestad
 ### Artículo 229°
 
 
+
 **Violencia familiar.**
 
-El que, en el ámbito familiar, ejerciera o sometiera habitualmente a violencia física o dolores síquicos considerables sobre otro con quien conviva, será castigado con pena privativa de libertad de hasta dos años o multa.
+El que, aprovechándose del ámbito familiar, ejerciere violencia física o síquica en forma reiterada otro con quien conviva, será castigado con pena privativa de libertad hasta tres años o multa, siempre que del hecho no surjan lesiones, en los términos del Artículo 111; en cuyo caso no se requerirá de la reiteración
 
-> *Modificado por Ley N° 3440 (2008-07-16)*
+> *Modificado por Ley N° 4628 (2012-06-29)*
 
 ### Artículo 230°
 
