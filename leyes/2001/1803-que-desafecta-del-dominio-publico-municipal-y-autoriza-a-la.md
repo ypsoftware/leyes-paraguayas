@@ -15,17 +15,20 @@ short_title: "QUE DESAFECTA DEL DOMINIO PUBLICO MUNICIPAL Y AUTORIZA A LA…"
 
 ### Artículo 1°
 
-Desaféctase del dominio público municipal y autorízase a la Municipalidad de Fernando de la Mora a transferir a título oneroso a favor de su actual ocupante, un inmueble destinado para plaza y edificios públicos, del loteamiento realizado por la firma Inmobiliaria del Este S.A. en el año 1983, individualizado como parte de la Finca Nº 16066, del Distrito de Fernando de la Mora, con Cuenta Corriente Catastral Nº 27-757-37, ubicado en la Zona Norte del citado Municipio, cuyas dimensiones y linderos son los siguientes:
 
-LINEA 1-2: Con rumbo magnético S-72° 15´20"-E (Sur, setenta y dos grados, quince minutos, veinte segundos, Este), mide 9,85 m. (Nueve metros con ochenta y cinco centímetros), linda con la calle 6 de enero;
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de Fernando de la Mora a transferir a título oneroso a favor de su actual ocupante, parte de un inmueble destinado para plaza y edificios públicos, del loteamiento realizado por la firma Inmobiliaria del Este SA. en el año 1983, individualizado como Finca Nº 16066, del Distrito de Fernando de la Mora, con Cuenta Corriente Catastral Nº 27-0757-32, ubicado en la Zona Norte del citado Municipio, cuyas dimensiones y linderos son los siguientes:
 
-LINEA 2-3: Con rumbo magnético S-21° 05´00"-E (Sur, veintiún grados, cinco minutos, cero segundos, Este), mide 30,40 m. (Treinta metros con cuarenta centímetros), linda con el Lote N° 6;
+AL NORTE: Mide 10, 90 m (diez metros con noventa centímetros);
 
-LINEA 3-4: Con rumbo magnético N-72° 15´20"-W (Norte, setenta y dos grados, quince minutos, veinte segundos, Oeste), mide 8,40 m. (Ocho metros con cuarenta centímetros), linda con el Lote N° 11; y,
+AL SUR: Mide 8,30 m (ocho metros con treinta centímetros);
 
-LINEA 4-1: Con rumbo magnético N-18° 00´ 00"-W (Norte, diez y ocho grados, cero minutos, cero segundos, Oeste), mide 30,40 m. (Treinta metros con cuarenta centímetros), linda con el Lote N° 4.
+AL ESTE: Mide 31,90 m (treinta y un metros con noventa centímetros); y,
 
-SUPERFICIE: 277,40 m². (Doscientos setenta y siete metros cuadrados con cuarenta decímetros cuadrados).
+AL OESTE: Mide 29,55 m (veintinueve metros con cincuenta y cinco centímetros).
+
+SUPERFICIE: 301,056 m² (TRESCIENTOS UN METROS CUADRADOS CON CINCUENTA Y SEIS DECIMETROS CUADRADOS).
+
+> *Modificado por Ley N° 4632 (2012-06-29)*
 
 ### Artículo 2°
 
