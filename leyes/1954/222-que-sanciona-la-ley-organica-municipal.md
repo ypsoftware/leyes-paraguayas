@@ -1318,7 +1318,10 @@ La Junta Municipal reglamentará el procedimiento para la aplicación del recurs
 
 ### Artículo 165°
 
-El reclamo del contribuyente sobre pago de impuestos, tasas o multas, que a su juicio abonó indebidamente, se presentará dentro de los treinta días ante la junta respectiva, la que resolverá dentro de un término igual a partir de la fecha de la presentación. Si al cabo de los treinta días la junta no resolviere el caso planteado, se tendrá como aceptada la reclamación del peticionante, con derecho a devolución de lo pagado indebidamente.-
+
+La Comisión Permanente de Estudios de Leyes y Reglamentos es el organismo que se encarga de la revisión y actualización de los reglamentos que regulan el funcionamiento institucional y del estudio de Leyes, decretos, ordenanzas y otras disposiciones legales que se relacionan con la función policial. Su organización y funcionamiento se regirán por reglamento. La Jefatura de la Comisión Permanente de Estudios de Leyes y Reglamentos será ejercida por un Comisario Principal de Orden y Seguridad.
+
+> *Modificado por Ley N° 4650 (2012-07-18)*
 
 ### Artículo 166°
 
@@ -1346,7 +1349,32 @@ El ejercicio comprende desde el 1º de Enero hasta el treinta y un de Diciembre 
 
 ### Artículo 171°
 
-No podrá autorizarse ninguna erogación fuera del Presupuesto.-
+
+La Dirección de Apoyo Táctico es el organismo encargado de apoyar en las operaciones policiales a las distintas dependencias de la Policía Nacional, cuando la situación lo requiera.
+
+Lo conforman:
+
+- La Agrupación Especializada;
+
+- La Agrupación de Seguridad;
+
+- La Agrupación Motorizada;
+
+- La Agrupación Bomberos;
+
+- La Agrupación Montada;
+
+- La Agrupación de Protección Ecológica;
+
+- La Agrupación Fluvial y Aero Policial; y,
+
+- La Agrupación de Seguridad Urbana y Turística.
+
+Las Jefaturas de las Agrupaciones que integran la Dirección de Apoyo Táctico serán ejercidas por Oficiales Superiores con el grado de Comisario Principal de Orden y Seguridad.
+
+La organización y funcionamiento de las mismas se regirán por reglamento.
+
+> *Modificado por Ley N° 4650 (2012-07-18)*
 
 ### Artículo 172°
 
