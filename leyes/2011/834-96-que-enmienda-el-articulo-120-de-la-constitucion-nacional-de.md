@@ -29,7 +29,10 @@ Los extranjeros con radicación definitiva tendrán los mismos derechos en las e
 
 ### Artículo 2°
 
-Comuníquese al Tribunal Superior de Justicia Electoral para que proceda a la convocatoria a Referéndum Constitucional, establecida en el Artículo 290 de la Constitución Nacional y en el Artículo 265 de la ley Nº 834/96 “QUE ESTABLECE EL CÓDIGO ELECTORAL PARAGUAYO”.
+
+La presente Ley se aplicará a partir de las elecciones generales previstas para el año 2015 y las respectivas internas de los partidos y movimientos políticos
+
+> *Modificado por Ley N° 4662 (2012-07-19)*
 
 ---
 
