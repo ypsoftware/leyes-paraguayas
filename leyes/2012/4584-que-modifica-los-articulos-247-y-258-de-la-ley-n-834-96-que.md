@@ -40,7 +40,10 @@ El presente sistema de votación y asignación de escaños para cargos electivos
 
 ### Artículo 2°
 
-La presente Ley se aplicará a partir de las elecciones generales previstas para el año 2013 y las respectivas internas de los partidos y movimientos políticos.
+
+La presente Ley se aplicará a partir de las elecciones generales previstas para el año 2015 y las respectivas internas de los partidos y movimientos políticos
+
+> *Modificado por Ley N° 4662 (2012-07-19)*
 
 ### Artículo 3°
 
