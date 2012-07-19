@@ -30,6 +30,7 @@ Los extranjeros con radicación definitiva tendrán los mismos derechos en las e
 ### Artículo 2°
 
 
+
 La presente Ley se aplicará a partir de las elecciones generales previstas para el año 2015 y las respectivas internas de los partidos y movimientos políticos
 
 > *Modificado por Ley N° 4662 (2012-07-19)*
