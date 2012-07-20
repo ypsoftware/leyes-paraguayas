@@ -205,7 +205,10 @@ Los componentes de las Fuerzas Públicas que fueren beneficiados por el Poder Ej
 
 ### Artículo 12°
 
-Los componentes de las Fuerzas Públicas que se encuentren en situación de retiro percibirán sus haberes equiparados con el sueldo del que está en actividad y en correspondencia al grado jerárquico que ostentaba al momento de su retiro.
+
+Los componentes de la Fuerzas Públicas que se encuentren en situación de retiro percibirán sus haberes equiparados con el sueldo del que está en actividad y en correspondencia al grado jerárquico que ostentaba al momento de su retiro, respetándose los derechos adquiridos en cuanto al haber jubilatorio se refiere y al tiempo de servicio prestado, ajustándose estrictamente a lo establecido en los decretos y resoluciones que acordaron el pase a retiro en cada caso.
+
+> *Modificado por Ley N° 4670 (2012-07-20)*
 
 ### Artículo 13°
 
