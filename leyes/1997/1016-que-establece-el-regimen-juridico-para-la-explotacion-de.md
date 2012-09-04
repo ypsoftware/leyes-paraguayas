@@ -144,15 +144,32 @@ Al cumplirse un mes de mora, la Comisión podrá hacer efectivo el canon adeudad
 
 ### Artículo 15°
 
-La Comisión Nacional de Juegos de Azar verificará el funcionamiento de los diversos establecimientos dedicados a la actividad y está facultada a disponer la clausura preventiva inmediata de todo local no autorizado. Se considerará clandestina toda explotación de juegos de azar que no cuente con la autorización de autoridad competente o no la exhiba a requerimiento de los funcionarios autorizados.
+
+La Comisión Nacional de Juegos de Azar verificará el funcionamiento de los diversos establecimientos dedicados a la explotación de juegos de azar, y está facultada a disponer la clausura inmediata de todo local clandestino. La clausura será recurrible administrativamente mediante la reconsideración en un plazo de 3 (tres) días. Se considerará clandestina toda explotación de juegos de azar que no cuente con la autorización expedida por autoridad competente o no la exhiba a requerimiento de los funcionarios autorizados.
+
+> *Modificado por Ley N° 4716 (2012-09-04)*
 
 ### Artículo 16°
 
-Verificado el carácter clandestino de un local de juego, la Comisión Nacional de Juegos de Azar solicitará la clausura del mismo al juez de primera instancia en lo criminal de turno o a la autoridad judicial competente de la jurisdicción. La resolución deberá dictarse dentro de las cuarenta y ocho horas de solicitada y será apelable al solo efecto devolutivo.
+
+Verificado el carácter clandestino de un local, instalación o lugar donde se lleven a cabo actividades de juegos de azar, la Comisión Nacional de Juegos de Azar, comunicará y remitirá todos los antecedentes al Ministerio Público. El concesionario o cualquier persona que tenga conocimiento de estos hechos podrá denunciarlos ante la Comisión Nacional de Juegos de Azar, el Ministerio Público y la Policía Nacional.
+
+> *Modificado por Ley N° 4716 (2012-09-04)*
 
 ### Artículo 17°
 
-La explotación de juegos de azar no autorizados por la autoridad competente es delito económico contra el erario, equiparado al delito de estafa previsto en la legislación penal. La Comisión efectuará la denuncia ante el Juzgado de Primera Instancia en lo Criminal de turno, acompañando los antecedentes del caso.
+
+1°) El que tuviera o explotara comercialmente, por sí o por otro, juegos de azar clandestinos o no autorizados por la autoridad competente o sin contar con la concesión, licencia o permiso necesarios, será castigado con pena privativa de libertad de hasta 5 (cinco) años o multa.
+
+2°) El que favoreciera, patrocinara o prestara su cooperación para que las jugadas clandestinas se realicen, será castigado con la pena prevista en el numeral anterior.
+
+3°) El que a sabiendas participara de juegos de azar explotados en las condiciones previstas en el inciso 1°), será castigado con pena privativa de libertad de hasta 2 (dos) años o multa.
+
+4°) Quedan excluidos de las disposiciones precedentes, los juegos de azar que se celebren en domicilios particulares o locales públicos o privados con el único propósito de diversión o pasatiempo ocasional.
+
+5°) Sin perjuicio de las penas previstas, de la clausura del local y de la cesación de actividades ilícitas, se procederá al comiso de todos los utensilios, enseres, objetos, documentos y elementos inherentes al juego, así como de todos los bienes o dinero que constituyan interés del mismo; el juez competente resolverá el destino de los mismos.
+
+> *Modificado por Ley N° 4716 (2012-09-04)*
 
 ### Artículo 18°
 
