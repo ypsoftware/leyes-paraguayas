@@ -15,11 +15,17 @@ short_title: "QUE RECONOCE AL INSTITUTO TECNICO SUPERIOR “SANTA CLARA DE…"
 
 ### Artículo 1°
 
-Reconócese al Instituto Técnico Superior “Santa Clara de Asís”, como Instituto Superior en Ciencias de la Salud, que se regirá por la presente Ley, el Artículo 79 de la Constitución Nacional, la Ley Nº 1264/98 “GENERAL DE EDUCACIÓN” y las demás normas pertinentes.
+
+Denomínase como Instituto Superior Latinoamericano en Ciencias de la Salud al Instituto Superior Santa Clara de Asís, creado por Ley N° 3476/08 “QUE RECONOCE AL INSTITUTO TECNICO SUPERIOR ‘SANTA CLARA DE ASIS’ COMO INSTITUTO SUPERIOR EN CIENCIAS DE LA SALUD”, que se regirá por la presente Ley, el Artículo 79 de la Constitución Nacional, la Ley N° 1264/98 “GENERAL DE EDUCACION” y las demás normas pertinentes.
+
+> *Modificado por Ley N° 4416 (2012-09-07)*
 
 ### Artículo 2°
 
-Facúltase al Instituto Técnico Superior “Santa Clara de Asís” a implementar planes y programas de estudios en el campo de la salud y a expedir títulos de grado y maestría en las carreras de Enfermería y de Obstetricia, con planes y programas de alta exigencia, a través de la formación profesional, la investigación y la extensión académica.
+
+Facúltase al Instituto Superior Latinoamericano en Ciencias de la Salud, a implementar planes y programas de estudios con alta exigencia en el campo de la salud y a expedir títulos de grado y maestría en las carreras de Enfermería y de Obstetricia, a través de la formación, la investigación y la extensión académica.
+
+> *Modificado por Ley N° 4416 (2012-09-07)*
 
 ### Artículo 3°
 
