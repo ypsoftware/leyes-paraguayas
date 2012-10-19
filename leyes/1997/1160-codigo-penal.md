@@ -3022,23 +3022,40 @@ será castigado con pena privativa de libertad de hasta cinco años o con multa.
 
 ### Artículo 202°
 
-Perjuicio a reservas naturales
 
-1º El que dentro de una reserva natural, un parque nacional u otras zonas de igual protección, mediante:
+**Perjuicio a Reservas Naturales.**
+
+1°. El que dentro de una reserva natural, un parque nacional u otras zonas de igual protección, realizara en forma ilegal las siguientes actividades:
 
 1. explotación minera;
 
 2. excavaciones o amontonamientos;
 
-3. alteración del hidro-sistema;
+3. alteración significativa de los cauces hídricos;
 
 4. desecación de humedales;
 
-5. tala de bosques; o
+5. tala de árboles o bosques nativos;
 
-6. incendio, perjudicara la conservación de partes esenciales de dichos lugares, será castigado con pena privativa de libertad de hasta dos años o con multa.
+6. producción de incendio;
 
-2º El que realizara el hecho mediante una conducta culposa, será castigado con multa.
+7. disposición de residuos nocivos de cualquier naturaleza.
+
+Será castigado con pena privativa de libertad de dos a cinco años o con multa.
+
+2°. Será castigado con pena privativa de libertad de hasta tres años:
+
+1. el que incumpliera cuestiones significativas del Plan de Manejo de las Areas Silvestres Protegidas de dominio público o privado, capaces de generar daños graves o permanentes al ecosistema;
+
+2. el que ingresara, individualmente o en concierto con otras personas, con intenciones de instalarse, en forma temporal o permanente, sin consentimiento expreso de la autoridad ambiental de aplicación.
+
+3°. El que realizara el hecho mediante una conducta culposa, será castigado con pena privativa de libertad de hasta dos años o con multa;
+
+4°. Cuando se actuara con intensiones o fines comerciales o el hecho haya sido muy grave, la pena privativa de libertad podrá ser aumentada hasta diez años.
+
+5°. Será castigada también la tentativa de cualquiera de los actos tipificados en el presente artículo, salvo el caso del inciso 3°.
+
+> *Modificado por Ley N° 4770 (2012-10-19)*
 
 CAPITULO II
 
