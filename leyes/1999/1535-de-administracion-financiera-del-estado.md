@@ -307,17 +307,20 @@ El Ministerio de Hacienda mantendrá el equilibrio presupuestario y resguardará
 
 ### Artículo 21°
 
-Plan Financiero.
 
-La ejecución presupuestaria se realizará en base a planes financieros, generales e institucionales, de acuerdo con las normas técnicas y la periodicidad que se establezca en la reglamentación. Se tomarán en cuenta el flujo estacional de los ingresos y la capacidad real de ejecución del presupuesto de los organismos y entidades del Estado.
+**Plan Financiero.**
+
+La ejecución presupuestaria se realizará sobre la base de planes financieros, generales e institucionales, de acuerdo con las normas técnicas y la periodicidad que se establezca en la reglamentación. Se tomarán en cuenta el flujo estacional de los ingresos y la capacidad real de ejecución del presupuesto de los Organismos y Entidades del Estado.
 
 Dichos planes financieros servirán de marco de referencia para la programación de caja y la asignación de cuotas.
 
-Sólo se podrán contraer obligaciones con cargo a saldos disponibles de asignación presupuestaria específica. No se podrá disponer de las asignaciones para una finalidad distinta a la establecida en el Presupuesto.
+Solo se podrán contraer obligaciones con cargo a saldos disponibles de asignación presupuestaria específica. No se podrá disponer de las asignaciones para una finalidad distinta a la establecida en el presupuesto.
 
-El Ministerio de Hacienda, previa coordinación con los organismos y entidades del Estado, propondrá al Poder Ejecutivo el plan financiero mensual de ingresos y gastos para la ejecución de sus presupuestos.
+Promulgada la ley que aprueba el Presupuesto General de la Nación, los Organismos y Entidades del Estado comunicarán al Ministerio de Hacienda los rubros considerados prioritarios para el cumplimiento de sus metas y objetivos institucionales, los cuales deberán ser tenidos en cuenta para la elaboración del plan financiero.
 
-El Ministerio de Hacienda ejecutará el Presupuesto General de la Nación de conformidad a lo dispuesto por el Poder Ejecutivo sobre la propuesta del plan financiero.
+El Ministerio de Hacienda ejecutará el Presupuesto General de la Nación, de conformidad a lo dispuesto por el Poder Ejecutivo sobre la propuesta del plan financiero.
+
+> *Modificado por Ley N° 4767 (2012-10-25)*
 
 ### Artículo 22°
 
