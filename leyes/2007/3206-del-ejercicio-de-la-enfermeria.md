@@ -287,15 +287,18 @@ RÉGIMEN JUBILATORIO
 
 ### Artículo 24°
 
+
 Para acceder al beneficio de la jubilación ordinaria, el personal de enfermería debe reunir los siguientes requisitos:
 
 a) tener cumplidos cincuenta y cinco años de edad; y,
 
 b) haber realizado veinticinco años de aporte jubilatorio.
 
-Los que hubieran realizado el equivalente al 50% (cincuenta por ciento) del aporte jubilatorio con arreglo al presente Artículo, podrán acceder a la media jubilación.
+Quienes hubieren realizado el equivalente al cincuenta por ciento (50%) del aporte jubilatorio con arreglo al presente artículo, podrán acceder a la media jubilación.
 
-Este régimen laboral también comprende al personal de Servicios Generales de los centros asistenciales de salud que laboran en contacto directo con áreas insalubres y pacientes, limpiadoras, asistentes de enfermería, camilleros, chofer de ambulancia y cocineras.
+Este régimen jubilatorio también comprende al personal de Servicios Generales de los centros asistenciales de salud que laboran en contacto directo con áreas insalubres y pacientes, limpiadoras, asistentes de enfermería, camilleros, chofer de ambulancia, cocineras.
+
+> *Modificado por Ley N° 4820 (2012-12-10)*
 
 CAPÍTULO VII
 
