@@ -45,11 +45,10 @@ Las inspecciones técnicas vehiculares estarán a cargo de los Centros de Inspec
 
 ### Artículo 6°
 
-Las concesiones a los Centros de Inspección Técnica Vehicular (CITV) serán otorgadas por la Dirección Nacional de Transporte (DINATRAN), mediante licitación pública. La concesión tendrá una vigencia de 5 (cinco) años; y a la licitación podrán presentarse todas las personas físicas o jurídicas que manifiesten su interés en ofrecer el servicio y que se ajusten a lo establecido en la Ley N° 2051/03 “DE CONTRATACIONES PUBLICAS”, sus modificaciones y el correspondiente pliego de bases y condiciones.
 
-Las empresas autorizadas tributarán las patentes comerciales correspondientes en los municipios en que se hallen localizadas.
+Los Centros de Inspección Técnica Vehicular (CITV) concesionarios de la Dirección Nacional de Transporte (DINATRAN), tributarán las patentes comerciales correspondientes en los municipios en que se hallen localizadas. Queda expresamente prohibida toda relación de los Centros de Inspección Técnica Vehicular (CITV) concesionados, con empresas dedicadas al transporte de cargas o pasajeros, la reparación de automotores o venta de repuestos y accesorios para los mismos. Este hecho, debidamente comprobado, será causal de cancelación de la concesión, sin perjuicio de la responsabilidad penal emergente del hecho.
 
-Queda expresamente prohibida toda relación de los Centros de Inspección Técnica Vehicular (CITV) concesionados, con empresas dedicadas a la reparación de automotores o venta de repuestos y accesorios para los mismos. Este hecho, debidamente comprobado, será causal de cancelación de la concesión, sin perjuicio de la responsabilidad penal emergente del hecho.
+> *Modificado por Ley N° 4856 (2012-12-28)*
 
 ### Artículo 7°
 
@@ -61,13 +60,23 @@ El importe de las multas aplicadas a los Centros de Inspección Técnica Vehicul
 
 ### Artículo 9°
 
-Los Certificados de Inspección Técnica Vehicular que emitan los Centros de Inspección Técnica Vehicular (CITV) serán válidos para circular por las vías públicas terrestres, nacionales o urbanas de todo el país y tendrán la vigencia que determine el reglamento.
 
-La Dirección Nacional de Transporte (DINATRAN) emitirá anualmente los documentos de identificación de los vehículos que tienen la inspección aprobada. Ellos consistirán en adhesivos diseñados e impresos con características de seguridad e inviolabilidad. Los mismos serán proveídos a las empresas concesionadas y su costo estará incluido en el canon a ser abonado por los Centros de Inspección Técnica Vehicular (CITV).
+Los Certificados de inspección técnica vehicular que emitan los Centros de Inspección Técnica Vehicular (CITV), serán uno de los documentos necesarios para circular por las vías públicas terrestres, nacionales o urbanas de todo el país y tendrán la vigencia que determine el reglamento.
+
+La Organización Paraguaya de Cooperación Intermunicipal (OPACI) proveerá a los Centros de Inspección Técnica Vehicular (CITV) los certificados de inspección técnica vehicular y documentos de identificación de los automóviles, motocicletas y similares, camionetas hasta 2,5 (dos coma cinco) toneladas, taxis y transportes escolares, y su costo estará incluido en el canon a ser abonado por los Centros de Inspección Técnica Vehicular (CITV), de conformidad al artículo 6° de la presente ley.
+
+La Dirección Nacional de Transporte (DINATRAN) proveerá los certificados de inspección técnica vehicular y los documentos de identificación de los ómnibus, camiones con más de cinco toneladas, equipos y de vehículos de carga hasta 3,5 (tres coma cinco) toneladas, y su costo estará incluido en el canon a ser abonado por los Centros de Inspección Técnica Vehicular (CITV), de conformidad al artículo 6° de la presente ley. Los documentos identificatorios consistirán en adhesivos diseñados e impresos con características de seguridad e inviolabilidad.
+
+> *Modificado por Ley N° 4856 (2012-12-28)*
 
 ### Artículo 10°
 
-Las municipalidades de todo el territorio nacional exigirán a los propietarios de vehículos automotores y sus remolques, la presentación del Certificado de Inspección Técnica Vehicular de habilitación expedido por cualquier Centro de Inspección Técnica Vehicular (CITV), debidamente autorizado, como requisito previo para la obtención o renovación de la patente municipal de todos los rodados de uso personal o comercial; cuyo propietario resida en el municipio o tenga el asiento principal de sus negocios en el mismo. Esta obligación se extiende a las firmas aseguradoras, para la expedición de pólizas de seguro a todo tipo de vehículo automotor.
+
+Todas las Municipalidades de la República exigirán a los propietarios de vehículos automotores y sus remolques domiciliados en su territorio, la presentación del certificado de inspección técnica vehicular de habilitación expedido por cualquier Centro de Inspección Técnica Vehicular (CITV) habilitado, como requisito previo para la obtención o renovación de la patente municipal de rodados, ya sea de uso personal o comercial. Para la obtención o renovación de patente de unidades de todo tipo de vehículos que operen en el ámbito internacional, nacional, departamental o en el área metropolitana de Asunción; serán admitidos los certificados expedidos por cualquier Centro de Inspección Técnica Vehicular (CITV) concesionado por la Dirección Nacional de Transporte (DINATRAN).
+
+Asímismo, las firmas aseguradoras no podrán expedir pólizas de seguro a ningún vehículo automotor sin la presentación del certificado de inspección técnica vehicular.
+
+> *Modificado por Ley N° 4856 (2012-12-28)*
 
 ### Artículo 11°
 
