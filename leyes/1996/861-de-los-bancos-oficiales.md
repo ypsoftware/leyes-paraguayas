@@ -398,15 +398,16 @@ El presidente y los directores deben ser personas físicas que reúnan condicion
 
 ### Artículo 36°
 
-Incompatibilidades.
 
-No podrán desempeñarse como presidente, directores, gerentes o síndicos de las entidades regidas por esta ley:
+**Incompatibilidades.**
 
-a) Los afectados por las inhabilidades e incompatibilidades establecidas en el Código Civil para la administración y representación de sociedades;
+No podrán desempeñarse como presidente, directores, gerentes o síndicos de las entidades regidas por esta Ley:
+
+a) Los afectados por las inhabilidades e incompatibilidades establecidas en el Código Civil para la administración y presentación de sociedades;
 
 b) Los que ejerzan cargos de directores, gerentes, síndicos o empleados de otras entidades sujetas a la fiscalización de la Superintendencia de Bancos;
 
-c) Los que ejerzan cargo en los poderes del Estado, con excepción de la docencia y las asesorías consultivas o técnicas;
+c) Los que ejerzan cargo en los Poderes del Estado, con excepción de la docencia y las asesorías consultivas o técnicas;
 
 d) Los fallidos;
 
@@ -414,7 +415,9 @@ e) Los insolventes y los que registren deudas en el sistema financiero en estado
 
 f) Los que hubiesen sido condenados por delitos comunes dolosos; y,
 
-g) Los directivos y funcionarios del Banco Central del Paraguay y de la Superintendencia de Bancos.
+g) Los directivos y funcionarios del Banco Central del Paraguay y de la Superintendencia de Bancos, hasta dos años después de haber cesado en sus funciones.
+
+> *Modificado por Ley N° 4851 (2013-01-09)*
 
 ### Artículo 37°
 
