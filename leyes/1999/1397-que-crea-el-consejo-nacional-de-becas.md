@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/1627/texto
 short_title: "QUE CREA EL CONSEJO NACIONAL DE BECAS"
+derogada: true
+derogada_por: Ley 4842
+derogada_fecha: 2013-01-25
 ---
 
 # LEY Nº 1397
@@ -86,3 +89,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados a quince días del mes de octubre del año un mil novecientos noventa y ocho, y por la Honorable Cámara de Senadores, a catorce días del mes de enero del año un mil novecientos noventa y nueve. Objetado parcialmente por el Poder Ejecutivo, en fecha 29 de enero de 1999 y confirmada la sanción inicial por la Honorable Cámara de Diputados el 6 de abril de 1999 y por la Honorable Cámara de Senadores el 17 de junio de 1999.-*
+
+> *Derogada en su totalidad por Ley N° 4842 (2013-01-25)*
