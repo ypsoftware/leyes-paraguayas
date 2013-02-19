@@ -1244,7 +1244,14 @@ El impulso del procedimiento por uno de los litis consortes beneficia a los rest
 
 ### Artículo 173°
 
-Cómputo. El plazo se computará desde la fecha de la última petición de las partes, o resolución o actuación del juez o tribunal que tuviere por objeto impulsar el procedimiento. Correrá durante los días inhábiles, pero se descontará el tiempo en que el proceso hubiese estado paralizado o suspendido por acuerdo de las partes o por disposición judicial, y asimismo, si el expediente hubiere sido remitido a la vista por petición de un juez o tribunal.
+
+Cómputo. El plazo se computará desde la fecha de la última petición de las partes o de la resolución o actuación del juez o tribunal que tuviere por objeto impulsar el procedimiento, según corresponda. Correrá durante los días inhábiles, pero se descontará el tiempo en que el proceso hubiere estado paralizado o suspendido por acuerdo de las partes o por disposición judicial; asimismo, si el expediente hubiere sido remitido a la vista por petición de un juez o tribunal.
+
+El cómputo de los plazos no correrá durante la feria judicial.
+
+En el procedimiento contencioso administrativo, el plazo de caducidad se operará de pleno derecho a los tres meses, con exclusión del tiempo que correspondiere a la feria judicial.
+
+> *Modificado por Ley N° 4867 (2013-02-19)*
 
 ### Artículo 174°
 
