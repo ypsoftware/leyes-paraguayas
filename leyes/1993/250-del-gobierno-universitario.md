@@ -21,7 +21,10 @@ LA UNIVERSIDAD Y SUS FINES
 
 ### Artículo 1°
 
-La Universidad Nacional del Este es una Institución de derecho público, autónoma, con personería jurídica, que se regirá por la Ley de Universidades y por esta Ley.
+
+La Universidad Nacional del Este es una Institución de derecho público, autónoma, con personería jurídica, que se regirá por la Ley Nº 136/93 “DE UNIVERSIDADES” y sus modificatorias, la Ley Nº 1264/98 “GENERAL DE EDUCACION”, por sus estatutos y reglamentos
+
+> *Modificado por Ley N° 4880 (2013-03-20)*
 
 ### Artículo 2°
 
