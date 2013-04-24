@@ -42,7 +42,10 @@ Los municipios nuevos que se vayan creando por ley, serán beneficiados de modo 
 
 ### Artículo 4°
 
-La distribución y depósito de los ingresos destinados a las gobernaciones y municipios señalados en los artículos anteriores, se harán por parte del Ministerio de Hacienda y en coordinación con los demás organismos técnicos del Estado, dentro de los quince días de haber ingresado dichos recursos en la Administración Central, en las cuentas bancarias especialmente habilitadas por aquéllos, sin más trámites. Los saldos resultantes de la actualización cambiaria serán objeto de reprogramaciones presupuestarias al iniciar el último trimestre del año.
+
+La distribución y depósito de los ingresos destinados a las gobernaciones y municipios señalados en los artículos anteriores, se harán por parte del Ministerio de Hacienda y en coordinación con los demás organismos técnicos del Estado, dentro de los quince días de haber ingresado dichos recursos en la Administración Central, en las cuentas bancarias especialmente habilitadas por aquéllos, una vez cumplidos los requisitos exigidos en la presente Ley. Los saldos resultantes de la actualización cambiaria serán objeto de reprogramaciones presupuestarias al iniciar el último trimestre del año.
+
+> *Modificado por Ley N° 4891 (2013-04-24)*
 
 ### Artículo 5°
 
