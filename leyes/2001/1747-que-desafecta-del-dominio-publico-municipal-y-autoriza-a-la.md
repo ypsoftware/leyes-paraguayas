@@ -15,17 +15,20 @@ short_title: "QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA…"
 
 ### Artículo 1°
 
-Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo a transferir a título oneroso a favor de su actual ocupante, señora Teresa López Vda. de Pereira, un inmueble individualizado como Lote N° 7 de la Finca N° 7.676, Distrito San Lorenzo, bajo el N° 1 y al folio 1 y siguientes del 12 de diciembre de 1973, ubicado en el barrio Barcequillo del citado municipio, cuyas dimensiones y linderos son los siguientes:
 
-AL NORTE: Mide 12 ms. (doce metros), linda con la excalle 1, actual calle Lapacho;
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo, a transferir a título oneroso a favor de su actual ocupante la señora Teresa López Viuda de Pereira, un inmueble individualizado como parte de la Finca N° 12.400, del Distrito de San Lorenzo, que fuera destinado para plaza, en el loteamiento realizado por el señor Juan David Mussi, inscripto en la Dirección General de los Registros Públicos, bajo el N° 1, al folio 1 y siguientes del año 1978, ubicado en el barrio Barcequillo del citado municipio, cuyas dimensiones y linderos son los siguientes:
 
-AL SUR: Mide 12 ms. (doce metros), linda con derechos particulares;
+AL NORTE: Mide 12,00 m. (doce metros), linda con la ex-calle 1, actual calle Lapacho;
 
-AL ESTE: Mide 30 ms. (treinta metros), linda con derechos privados; y,
+AL SUR: Mide 12,00 m. (doce metros), linda con derechos privados;
 
-AL OESTE: Mide 30 ms. (treinta metros), linda con el resto de la fracción destinado para plaza y edificios públicos.
+AL ESTE: Mide 30,00 m. (treinta metros), linda con derechos privados; y,
 
-SUPERFICIE: 360 ms². (trescientos sesenta metros cuadrados).
+AL OESTE: Mide 30,00 m. (treinta metros), linda con el resto de la fracción destinada para plaza y edificios públicos.
+
+SUPERFICIE: 360 m2 (TRESCIENTOS SESENTA METROS CUADRADOS).
+
+> *Modificado por Ley N° 4909 (2013-05-10)*
 
 ### Artículo 2°
 
