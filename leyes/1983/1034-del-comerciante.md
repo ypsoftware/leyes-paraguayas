@@ -549,9 +549,12 @@ El número de libros y el sistema de contabilidad quedan a criterio del comercia
 
 ### Artículo 76°
 
-Para el empleo de medios mecánicos u otros sistemas modernos de contabilidad se requiere, salvo disposición en contrario de leyes especiales, autorización judicial. Ella se dará por resolución fundada, previo dictámen de la autoridad de contralor competente . El Juez podrá recurrir además, a antecedentes de utilizacion en casos analogos, o a dictàmen de perito designado de oficio. La resolución será inscripta en el Registro Público de Comercio.
 
-El Diario debe llevarse con asientos globales que no comprendan periodos mayores de un mes,. El mètodo de contabilidad debe permitir la individualizaciòn de las operaciones, asì como tambien sus correspondientes cuentas deudoras y acreedoras y su posterior verificaciòn.
+Para el empleo de medios mecánicos u otros sistemas modernos de contabilidad, los representantes de las empresas o sus apoderados legales deberán presentar la comunicación pertinente sobre el sistema a ser utilizado, con certificación de firma de Escribano, a la Dirección de Registro Público de Comercio, la cual inscribirá dicha comunicación, sin necesidad de orden judicial.
+
+El diario debe llevarse con asientos globales que no comprendan períodos mayores de un mes. En todos los casos, el método de contabilidad a ser utilizado debe adecuarse a las resoluciones establecidas por el Ministerio de Hacienda, y permitir la individualización de las operaciones, sus cuentas deudoras y acreedoras, y su posterior verificación.
+
+> *Modificado por Ley N° 4924 (2013-05-30)*
 
 ### Artículo 77°
 
