@@ -1703,7 +1703,8 @@ De los Bienes del Dominio Privado
 
 ### Artículo 137°
 
-Bienes del Dominio Privado.
+
+**Bienes del dominio privado.**
 
 Son bienes del dominio privado:
 
@@ -1717,9 +1718,15 @@ d) las inversiones financieras; y,
 
 e) todos los otros bienes que integran el activo contable municipal.
 
-Los bienes del dominio privado tendrán una estimación monetaria y formarán parte del activo contable municipal, debiendo ser debidamente inventariados por la Municipalidad, con los documentos correspondientes. A tales efectos, se deberá realizar la mensura judicial de conformidad al Código Civil.
+Los bienes del dominio privado tendrán una estimación monetaria, y formarán parte del activo contable municipal, debiendo ser apropiadamente inventariados por la Municipalidad e inscriptos en el registro correspondiente.
 
-Siempre y cuando sea para destinarlo a instituciones públicas de salud y/o educación, las municipalidades podrán solicitar al Congreso Nacional la autorización correspondiente para transferir a título gratuito sus bienes de dominio privado municipal.
+Para la inscripción en la Dirección General de los Registros Públicos de un inmueble del dominio municipal que carecen de número de finca o matrícula correspondiente, la Municipalidad deberá previamente gestionar, una mensura administrativa georreferenciada de los mismos ante el Servicio Nacional de Catastro, para la asignación de la respectiva Cuenta Corriente Catastral o Padrón.
+
+Cuando de la mensura administrativa surgiera que las dimensiones del inmueble mensurado afecta derechos de terceros, el resultado de la misma deberá ser sometido a una mensura judicial, de conformidad con lo establecido en el Código Civil y Procesal Civil sobre la materia.
+
+Siempre y cuando sea para destinarlo a instituciones públicas de salud o educación, las Municipalidades podrán solicitar al Congreso Nacional la autorización correspondiente para transferir a título gratuito sus bienes de dominio privado municipal.
+
+> *Modificado por Ley N° 4947 (2013-06-03)*
 
 ### Artículo 138°
 
