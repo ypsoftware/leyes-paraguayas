@@ -34,11 +34,27 @@ Aplicación de este Código. Las disposiciones de este Código se aplicarán a l
 
 ### Artículo 2°
 
-Competencia de los jueces. La competencia del juez o tribunal en lo civil y comercial se determinará con arreglo a lo dispuesto por esta ley, por el Código de Organización Judicial y leyes especiales.
+
+La defensa nacional es el sistema de políticas, procedimientos y acciones desarrollado exclusivamente por el Estado para enfrentar cualquier forma de agresión externa e interna que ponga en peligro la soberanía, la independencia y la integridad territorial de la República, o el ordenamiento constitucional democrático vigente.
+
+> *Modificado por Ley N° 5036 (2013-08-22)*
 
 ### Artículo 3°
 
-Carácter de la competencia. La competencia atribuida a los jueces y tribunales es improrrogable. Exceptúase la competencia territorial, que podrá ser prorrogada por conformidad de partes, pero no a favor de jueces extranjeros, salvo lo establecido en leyes especiales.
+
+A los efectos de la presente ley, se entenderá:
+
+a) Por soberanía: el poder supremo del Estado por sobre cualquier otra institución u organización de cualquier naturaleza, sin más límite que lo establecido en la Constitución Nacional y en las leyes.
+
+b) Por independencia: la existencia de la República del Paraguay en la comunidad internacional como un Estado regido única y libremente por su Constitución Nacional, los tratados internacionales vigentes, de acuerdo con lo establecido en el artículo 141 de la Constitución Nacional, sus leyes y sus autoridades.
+
+c) Por integridad territorial: la inviolabilidad e inajenabilidad del territorio, de las aguas territoriales y del espacio aéreo de la República del Paraguay.
+
+d) Por autoridades legítimamente constituidas: por aquellas electas o designadas, de acuerdo con el ordenamiento constitucional y democrático vigente.
+
+e) Por defensa de las autoridades legalmente constituidas: el conjunto de medidas y acciones que garanticen el libre ejercicio de sus funciones constitucionales y legales.
+
+> *Modificado por Ley N° 5036 (2013-08-22)*
 
 ### Artículo 4°
 
@@ -412,9 +428,18 @@ Responsabilidad conjunta. Los profesionales que hayan intervenido como apoderado
 
 ### Artículo 56°
 
-Sanciones en caso de mala fe o ejercicio abusivo de los derechos. Sin perjuicio de otras sanciones que pueda prever la ley, la admisión de mala fe o de ejercicio abusivo de los derechos importará una presunción juris tantum contra la parte a la que se imputen, cuando haya duda sobre el derecho invocado, o insuficiencia de prueba.
 
-Aunque la parte culpable de mala fe o ejercicio abusivo de los derechos resulte vencedora en lo principal, serán a su cargo las costas del proceso. Los jueces y tribunales, al regular los honorarios de los letrados de la parte contraria, los aumentarán hasta el cincuenta por ciento, según la gravedad de los hechos. La parte perjudicada podrá, además, responsabilizar a la otra por los daños y perjuicios, conforme con lo dispuesto por el Código Civil.
+Sin perjuicio de lo estatuido en el artículo 51, durante la vigencia del Estado de Excepción, o frente a situaciones de extrema gravedad en que el sistema de seguridad interna prescripto en esta ley resulte manifiestamente insuficiente, el Presidente de la República podrá decidir el empleo transitorio de elementos de combate de las Fuerzas Armadas de la Nación, exclusivamente dentro del ámbito territorial definido por Decreto y por el tiempo estrictamente necesario para que la Policía Nacional o, en su caso, la Prefectura General Naval, estén en condiciones de hacerse nuevamente cargo por sí solas de la situación.
+
+En esa circunstancia, el Presidente de la República tendrá la conducción de todas las fuerzas militares y policiales afectadas, y podrá designar un comandante de las operaciones de esas fuerzas, en cuyo caso estas le quedarán subordinadas exclusivamente en el ámbito territorial y por el tiempo definido en el Decreto respectivo.
+
+Tratándose de una forma excepcional, temporal y localizada, de empleo de elementos de combate, ella no incidirá en la doctrina, disciplina, cadena de mandos, organización, equipamiento y capacitación de las Fuerzas Armadas de la Nación, ni autorizará acciones fuera de la ley o que de alguna manera entorpezcan el regular funcionamiento de los Poderes del Estado.
+
+Igualmente se aplicará este procedimiento en los casos calificados como terrorismo de conformidad a la Ley Nº 4.024/10 “QUE CASTIGA LOS HECHOS PUNIBLES DE TERRORISMO, ASOCIACIÓN TERRORISTA Y FINANCIAMIENTO DEL TERRORISMO”, o cuando existieren amenazas o acciones violentas contra las autoridades legítimamente constituidas que impidan el libre ejercicio de sus funciones constitucionales y legales.
+
+Dentro de las cuarenta y ocho horas, el Presidente de la República dará cuenta al Congreso de la Nación de su decisión de emplear transitoriamente elementos de combate de las Fuerzas Armadas de la Nación, con adjunción de copia autenticada del Decreto respectivo, pudiendo el Congreso decidir la cesación de esa intervención operativa de las Fuerzas Armadas.
+
+> *Modificado por Ley N° 5036 (2013-08-22)*
 
 CAPITULO III
 
