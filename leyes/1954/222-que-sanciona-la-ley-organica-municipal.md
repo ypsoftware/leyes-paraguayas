@@ -864,39 +864,10 @@ Atribuciones y deberes del Intendente.
 
 ### Artículo 97°
 
-Son atribuciones del Intendente:
 
-1) Promulgar las Ordenanzas de la Junta y darles cumplimiento.-
+El derecho a pensión por sucesión hereditaria en caso de fallecimiento de un personal de las Fuerzas Policiales en actividad o en situación de retiro, hasta tanto se dicte la Sentencia Declaratoria de Herederos y se termine el trámite de asignación dela pensión, el conyugue y/o los hijos y/o los presuntos herederos forzosos, percibirán el 50% (cincuenta por ciento) del sueldo del causante desde su deceso, previa resolución dictada por el Ministerio del Interior o Ministerio de Hacienda. El 50 % (cincuenta por ciento) remanente será abonado al término del trámite de asignación de la pensión
 
-2) Vetar, las Ordenanzas, Resoluciones y Reglamentos, que estime ilegales o inconvenientes para la comuna, inclusive el presupuesto de gastos y el cálculo de recursos, en el término de diez días hábiles contados a consideración del Departamento Ejecutivo; pero si la Junta mantiene su resolución por dos tercios de votos sobre la totalidad de los miembros que la componen, deberán promulgarlas y cumplirlas;
-
-3) Reglamentar las ordenanzas para su más fácil cumplimiento sin alterar sus disposiciones;
-
-4) Dictar un reglamento interno para las oficinas de su dependencia;
-
-5) Nombrar y remover a los empleados del Departamento Ejecutivo con excepción del Tesorero y del Contador que deben ser nombrados y removidos de acuerdo con la Junta. La remoción de los Jefes de Departamentos, Secciones u oficinas, solo podrá hacerse por delitos o faltas graves y previo sumario;
-
-6) Concurrir a las sesiones de la Junta y tomar parte en sus deliberaciones con voz pero sin voto;
-
-7) Solicitar la convocatoria a sesión extraordinaria de la Junta cuando urgentes asuntos de interés público así lo requieran;
-
-8) Representar a la Municipalidad en sus relaciones oficiales con el Gobierno y entidades particulares;
-
-9) Hacerla representar por el abogado asesor, en las acciones o contestaciones judiciales, administrativa o contencioso-administrativa;
-
-10) Presentar proyectos de ordenanzas;
-
-11) Celebrar contratos, efectuar adquisiciones y autorizar trabajos dentro del presupuesto;
-
-12) Aplicar multas a los infractores de las ordenanzas.
-
-Si la imposición legal importase una obligación de hacer la obra se hará realizar por cuenta del remiso, sin perjuicio de la sanción correspondiente, y su la obligación fuese demoler o de no hacer, el Intendente mandará destruir lo que se hubiese hecho, en la condición indicada para las obligaciones de hacer.-
-
-13) Expedir las órdenes de ingresos y egresos;
-
-14) Hacer recaudar las rentas del Municipio;
-
-15) Extender los permisos para construcción que se mencionan en el Art. 59º.-
+> *Modificado por Ley N° 5019 (2013-08-28)*
 
 ### Artículo 98°
 
