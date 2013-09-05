@@ -935,17 +935,25 @@ De la liquidación del activo.
 
 ### Artículo 138°
 
-Firme el auto de quiebra y efectuada la verificación de crédito, el síndico realizará los bienes de la masa en el más breve plazo.
 
-La venta de bienes se hará en remate por el martillero público que designe el juez para cada subasta de una terna propuesta por el síndico, previa publicación de edicto en dos diarios de gran circulación de la capital por un plazo de cinco días para los bienes muebles y semovientes y diez días para los inmuebles, sin tasación, excepto los inmuebles que tengan por base la tasación fiscal.
+Firme el auto de quiebra, y efectuada la verificación de crédito, el síndico realizará los bienes de la masa en un plazo de (treinta) días corridos.
 
-No obstante a pedido fundado del síndico, el juez podrá autorizar la enajenación total o parcial de bienes en remate o licitación pública, o excepcionalmente, disponer la venta privada de alguno o algunos de los bienes cuando conviniese a la mejor realización de los mismos en beneficio de la masa.
+La venta de bienes se hará en remate por el martillero público que designe el juez para cada subasta, de acuerdo con el procedimiento previsto en la Acordada de la Corte Suprema de Justicia que reglamenta la materia, previa publicación de edicto en un diario de gran circulación de la capital por un plazo de (cinco) días para los bienes muebles o semovientes, y de igual plazo para los inmuebles; sin tasación, excepto los inmuebles que tendrán por base el (cuarenta por ciento) de la evaluación a ser realizada por un perito tasador.
 
-Este remate o la licitación pública se llevará a cabo bajo las modalidades que apruebe el juzgado, con base de venta, y se anunciará como queda establecido para caso de remate durante veinte días.
+Cuando se tratare de inmuebles de escaso valor, el edicto se publicará en un diario y por el plazo de (tres) días.
+
+No obstante, a pedido fundado del síndico, el juez podrá autorizar la enajenación total o parcial de bienes en remate o licitación pública, o excepcionalmente, disponer la venta privada de alguno o algunos de los bienes cuando conviniere a la mejor realización de los mismos en beneficio de la masa.
+
+Este remate o la licitación pública se llevará a cabo bajo las modalidades que apruebe el juzgado, con base de venta en la forma prescripta en el segundo párrafo, y se anunciará como queda establecido para caso de remate durante (cinco) días.
+
+> *Modificado por Ley N° 5025 (2013-09-05)*
 
 ### Artículo 139°
 
-Si en el remate no hubiere postores se procederá a segunda subasta sin base de venta . Pero si el juzgado autorizó la venta total, o por junto, o de fondos de comercio o de industria, o partes de la empresa que constituyan un conjunto económico, la segunda subasta se hará con retasa del veinticinco por ciento y el edicto será publicado por veinte días como se expresa en el Artículo 138º. No habiendo postores, el síndico procederá a la subasta de dichos bienes, separadamente y sin base, en la forma expresada en el párrafo segundo del Artículo anterior.
+
+Si en el remate no hubiere postores, se procederá a segunda subasta sin base de venta. Pero si el juzgado autorizó la venta total, o por junto, o de fondos de comercio o de industria, o partes de la empresa que constituyen un conjunto económico, la segunda subasta se hará con retasa del (veinticinco por ciento), y el edicto se publicará por (cinco) días como se expresa en el Artículo 138. No habiendo postores, el síndico procederá a la subasta de dichos bienes, separadamente y sin base, en la forma expresada en el párrafo segundo del artículo anterior.
+
+> *Modificado por Ley N° 5025 (2013-09-05)*
 
 ### Artículo 140°
 
