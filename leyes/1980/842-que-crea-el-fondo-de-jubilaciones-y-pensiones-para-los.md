@@ -362,27 +362,10 @@ Los miembros de la Comisión Co-Administradora durarán treinta meses en sus fun
 ### Artículo 41°
 
 
-Son funciones de la Comisión:
 
-a) la coadministración del Fondo, juntamente con el Instituto de Previsión Social, particularmente en lo relativo a la inversión de los recursos acumulados;
+> **Derogado.**
 
-b) la coordinación entre el Instituto de Previsión Social, el Poder Legislativo y otras entidades del sector público y privado, en lo relacionado al funcionamiento del Fondo;
-
-c) contratar obras y servicios, adquirir, arrendar, hipotecar, y transferir bienes, conceder y contraer préstamos, autorizar gastos, concertar acuerdos judiciales y extrajudiciales;
-
-d) las gestiones en beneficio de parlamentarios, jubilados y pensionados que las requieran;
-
-e) conceder las jubilaciones y pensiones y demás beneficios;
-
-f) la vigilancia permanente para el cumplimiento de las leyes y reglamentos que rigen el Fondo, particularmente en lo relativo a su estado financiero y a los beneficios que corresponden a los afiliados, jubilados y pensionados;
-
-g) otorgar poderes generales o especiales para ejercer acciones en esferas judiciales o administrativas en defensa de los intereses del fondo.
-
-h) la realización de estudios para el mejoramiento legislativo del Fondo; e,
-
-i) otras que, a criterio de la Comisión, sean necesarias para el mejor funcionamiento del Fondo.
-
-> *Modificado por Ley N° 2023 (2002-11-13)*
+> *Derogado por Ley N° 5037 (2013-09-12)*
 
 ### Artículo 42°
 
