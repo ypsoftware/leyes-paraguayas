@@ -379,15 +379,10 @@ El Instituto llevará un registro permanentemente actualizado de las personas co
 
 ### Artículo 41°
 
-El sistema de liquidación de los haberes jubilatorios y de las pensiones previstos en los Artículos 18 y 19 de esta Ley será aplicado como sigue:
 
-a) A los Afiliados activos con derecho a las jubilaciones y pensiones a la finalización del presente período legislativo;
+> **Derogado.**
 
-Los jubilados y pensionados, en estas condiciones, con haberes correspondientes a jubilaciones ordinarias, extraordinarias o reducidas, aportarán sobre el monto mensual de la dieta más los gastos de representación hasta completar sesenta meses: Jubilación Ordinaria, el 20% (veinte por ciento); Jubilación Extraordinaria, el 19% (diecinueve por ciento); Jubilación Reducida, el 13% (trece por ciento).
-
-b) a los actuales jubilados y pensionados, desde la vigencia de esta Ley.
-
-Los jubilados y pensionados, de las distintas clases, una vez reajustados sus haberes, deberán seguir aportando sobre el monto de la dieta más los gastos de representación mensualmente al Fondo, por sesenta meses: Jubilación Ordinaria, el 20% (veinte por ciento); Jubilación Extraordinaria, el 19% (diecinueve por ciento); Jubilación Reducida, el 13% (trece por ciento); Pensionados Ordinarios, el 14% (catorce por ciento); Pensionados Extraordinarios, el 13% (trece por ciento) y Pensionados Reducidos, el 8% (ocho por ciento).
+> *Derogado por Ley N° 5037 (2013-09-12)*
 
 ### Artículo 42°
 
