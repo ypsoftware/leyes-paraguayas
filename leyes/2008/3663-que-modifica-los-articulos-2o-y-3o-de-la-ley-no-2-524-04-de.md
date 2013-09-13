@@ -27,7 +27,10 @@ La Secretaría del Ambiente (SEAM) y el Instituto Forestal Nacional (INFONA) pod
 
 ### Artículo 2°
 
-Comuníquese al Poder Ejecutivo.
+
+A partir de la promulgación de la presente ley y hasta el 31 de diciembre de 2018, se prohíbe en la Región Oriental, realizar actividades de transformación o conversión de superficies con cobertura de bosques, a superficies destinadas al aprovechamiento agropecuario en cualquiera de sus modalidades; o a superficies destinadas a asentamientos humanos; así como la producción, transporte y comercialización de madera, leña, carbón y cualquier subproducto forestal originado del desmonte no permitido.
+
+> *Modificado por Ley N° 5045 (2013-09-13)*
 
 ---
 
