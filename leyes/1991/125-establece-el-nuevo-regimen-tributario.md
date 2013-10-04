@@ -367,91 +367,212 @@ Rentas comprendidas. Las rentas provenientes de la actividad agropecuaria realiz
 
 ### Artículo 27°
 
-Actividad Agropecuaria. Se entiende por actividad agropecuaria la que se realiza con el objeto de obtener productos primarios, vegetales o animales, mediante la utilización del factor tierra, tales como:
 
-a) Cría o engorde de ganado
+Actividad Agropecuaria. Se entiende por actividad agropecuaria la que realizan los productores, con el objeto de obtener productos primarios, vegetales o animales, mediante la utilización del factor tierra, capital y trabajo, tales como:
 
-b) Producción de lanas, cueros, cerdas
+a) Cría o engorde de ganado vacuno, ovino, caprino, bubalino y equino.
 
-c) Producción agrícola, fructícola y hortícola
+b) Producción de lanas, cueros, cerdas, semen y embriones.
 
-d) Producción de leche
+c) Producción agrícola, frutícola, hortícola e ictícola.
 
-Se considera comprendido en el presente concepto, la tenencia de inmuebles rurales aún cuando en los mismos no se realice ningún tipo de actividad.
+d) Producción de leche.
 
-No están comprendidas las actividades que consisten en manipuleos, procesos o tratamientos, excepto cuando sean realizados por el propio productor para la conservación de los referidos bienes, como así tampoco las comprendidas en el Capítulo I del presente impuesto.
+e) Las rentas generadas por los bienes del activo afectados a la actividad agropecuaria.
+
+Se consideran igualmente alcanzadas por el Impuesto a las Rentas de las Actividades Agropecuarias, las rentas provenientes de las actividades de suinicultura, cunicultura, floricultura, sericultura, avicultura, apicultura y explotación forestal, cuando las mismas sean realizadas por el productor y el ingreso proveniente de estas actividades no superen el 30% (treinta por ciento) de los ingresos totales del establecimiento. En caso de superar el margen o porcentaje establecido, el productor agropecuario deberá liquidar el Impuesto a las Rentas de Actividades Comerciales, Industriales o de Servicios, o el Impuesto a la Renta del Pequeño Contribuyente, por el total de dichas rentas.
+
+No están comprendidas las actividades que consisten en la manipulación, los procesos o tratamientos, excepto cuando sean realizados por el propio productor para la conservación de los referidos bienes.
+
+Según corresponda en cada caso conforme a la Ley, las demás actividades y rentas no señaladas expresamente en el presente artículo estarán gravadas por el Impuesto a la Renta de Actividades Comerciales, Industriales o de Servicios o el Impuesto a la Renta del Pequeño Contribuyente o por el Impuesto a la Renta del Servicio de Carácter Personal.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 28°
 
+
 Contribuyentes. Serán contribuyentes:
 
-a) Las personas físicas,
+a) Las empresas unipersonales, conforme a la definición contenida en el primer párrafo del Artículo 4° de la presente Ley.
 
-b) Las sociedades con o sin personería jurídica,
+b) Las sociedades con o sin personería jurídica.
 
-c) Asociaciones, corporaciones y demás entidades privadas de cualquier naturaleza,
+c) Las asociaciones, corporaciones y demás entidades privadas de cualquier naturaleza.
 
-d) Las empresas públicas, entes autárquicos, entidades descentralizadas, y sociedades de economía mixta.
+d) Las empresas públicas, entes autárquicos, entidades descentralizadas y sociedades de economía mixta.
 
-e) Las personas domiciliadas o constituidas en el exterior y sus sucursales, agencias o establecimientos en el país.
+e) Las personas o entidades domiciliadas o constituidas en el exterior y sus sucursales, agencias o establecimientos en el país.
+
+La casa matriz del exterior tributará por las rentas gravadas que obtenga en forma independiente.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 29°
 
-Nacimiento de la obligación tributaria. El hecho imponible se configura al cierre del ejercicio fiscal.
+
+Nacimiento de la obligación tributaria, ejercicio fiscal y liquidación del impuesto. El hecho imponible se configura al cierre del ejercicio fiscal.
+
+El método de imputación de las rentas y de los gastos será el de lo devengado en el ejercicio fiscal.
+
+El ejercicio fiscal coincidirá con el año civil. La Administración Tributaria queda facultado para admitir o establecer que el ejercicio fiscal coincida con el ciclo productivo agropecuario.
+
+El impuesto se liquidará anualmente por declaración jurada en la forma y condiciones que establezca la Administración Tributaria.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 30°
 
-Renta Bruta. La renta bruta anual se determinará en forma presunta, aplicando el porcentaje del 12% (doce por ciento) sobre la suma de los valores fiscales de las hectáreas de los inmuebles rurales que posea el contribuyente, ya sea en carácter de propietario, arrendatario o poseedor a cualquier título. Quedan excluidas las hectáreas exoneradas y las afectadas a actividades no comprendidas en este Capítulo. A tales efectos la renta bruta se computará en proporción al tiempo de tenencia de las hectáreas, en el ejercicio fiscal.
 
-La determinación de la renta bruta se deberá efectuar en todos los casos, con independencia de que se realice o no una efectiva explotación.
+Regímenes de liquidación. Los contribuyentes del Impuesto a la Renta de las Actividades Agropecuarias, según corresponda, liquidarán el impuesto sobre la base de los siguientes regímenes de liquidación:
 
-La Servicio Nacional de Catastro fijará anualmente el valor fiscal de la hectárea rural por zona, excluidas las mejoras o edificaciones, en base a los precios promedios vigentes en el mercado interno en los doce meses anteriores al 11 de noviembre del año civil que se liquida. Con dicha finalidad dividirá el territorio de la República en zonas rurales de similares características.
+a) Régimen de liquidación del contribuyente rural.
+
+b) Régimen de liquidación del pequeño contribuyente rural.
+
+c) Régimen de liquidación por resultado contable.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 31°
 
-Renta neta. Para establecer la renta neta se deducirán de la renta bruta:
 
-a) En concepto de gastos necesarios para obtenerla y conservarla, el 40 % (cuarenta por ciento) de la renta bruta.
+Regímenes de liquidación del contribuyente rural y del pequeño contribuyente rural.
 
-Dicho porcentaje será del 45 % (cuarenta y cinco por ciento) cuando el contribuyente no sea propietario del inmueble.
+1. Régimen de liquidación del contribuyente rural.
 
-b) El importe del IVA correspondiente a las adquisiciones de bienes o servicios afectados a las actividades agropecuarias gravadas por este impuesto.
+Las empresas unipersonales, siempre que sus ingresos devengados en el año civil anterior sean iguales o superiores a G. 500.000.000 (Guaraníes quinientos millones) y no superen G. 1.000.000.000 (Guaraníes un mil millones) podrán liquidar bajo el presente régimen el Impuesto a las Rentas de las Actividades Agropecuarias, anualmente, por declaración jurada, en la forma y condiciones que establezca la Administración.
 
-La deducción de referencia procederá siempre que dicho importe se encuentre debidamente documentado, de acuerdo con lo que establece el Impuesto al Valor Agregado y estará limitada al 30% (treinta por ciento) del monto de la renta bruta del ejercicio. El monto del IVA que exceda al 30% (trienta por ciento) de la renta bruta podrá ser utilizado en iguales condiciones en los próximos ejercicios, hasta agotarlo.
+La renta neta será la diferencia positiva entre ingresos y egresos totales, incluida la adquisición de bienes muebles del activo fijo del contribuyente, debidamente documentados.
 
-c) El porcentaje sobre la renta bruta que establezca el Poder Ejecutivo para el año en que por causas naturales se originen pérdidas extraordinarias y de carácter colectivo no cubiertas por indemnización o seguros.
+También serán deducibles la capitalización en las sociedades cooperativas, así como los fondos destinados conforme al Artículo 45 de la Ley N° 438/94 “DE COOPERATIVAS” y los egresos en que incurra el contribuyente rural en apoyo de personas físicas que exploten, en calidad de propietarios de fincas colindantes o cercanas, hasta el 20% (veinte por ciento) de la renta neta. Estos egresos serán deducibles, siempre que la erogación esté respaldada con documentación emitida legalmente de conformidad con las disposiciones tributarias vigentes.
+
+2. Régimen de liquidación del pequeño contribuyente rural.
+
+Las empresas unipersonales, siempre que sus ingresos devengados en el año civil anterior sean inferiores a G. 500.000.000 (Guaraníes quinientos millones), podrán liquidar bajo el presente régimen el Impuesto a las Rentas de las Actividades Agropecuarias anualmente, por declaración jurada, en la forma y condiciones que establezca la Administración.
+
+La renta neta se determinará en todos los casos sobre base real o presunta y se utilizará la que resulte menor. Se considera que la renta neta real es la diferencia positiva entre ingresos y egresos totales debidamente documentados y la renta neta presunta es el 30% (treinta por ciento) de la facturación bruta anual.
+
+3. A los efectos de la aplicación del presente artículo, se tendrá en cuenta lo siguiente:
+
+a. Los montos citados precedentemente deberán actualizarse por parte de la Administración, en función del porcentaje de variación del índice de precios al consumo que se produzca en el período de doce meses anteriores al 1 de noviembre de cada año civil que transcurre, de acuerdo con la información que en tal sentido comunique el Banco Central del Paraguay o el organismo competente.
+
+El procedimiento de actualización se hará cuando se registre una variación del índice de precio al consumo superior al 10% (diez por ciento) acumulado desde la última actualización.
+
+b. Los contribuyentes rurales, que liquiden el tributo por cualquiera de los regímenes previstos en el presente artículo, podrán trasladarse al régimen de liquidación por resultado contable, siempre que comuniquen dicha determinación dentro de los plazos que establezca la Administración. Una vez optado por este Régimen no podrá volverse al sistema previsto por un período de 3 (tres) años.
+
+c. No se consideran ingresos gravados, los ingresos producidos por los cambios biológicos, los que serán considerados ingresos gravados únicamente en el momento de la enajenación del bien.
+
+d. La venta o enajenación ocasional o habitual de inmuebles rurales por parte de propietarios de empresas unipersonales que liquiden el impuesto por el régimen previsto en el presente artículo, estará gravada por el Impuesto a la Renta del Servicio de Carácter Personal o el Impuesto a las Rentas de Actividades Comerciales, Industriales o de Servicios, según corresponda.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 32°
 
-Exoneraciones
 
-a) Están exonerados quienes exploten, en los términos de este impuesto, una superficie total que no supere las veinte (20) hectáreas.
+Régimen de liquidación por resultado contable. Los contribuyentes del Impuesto a las Rentas de las Actividades Agropecuarias, que no estén categorizados dentro de lo establecido en el artículo anterior, determinarán el impuesto por el régimen de liquidación por resultado contable; a ese efecto, deberán tener en cuenta lo siguiente:
 
-b) Están exoneradas las hectáreas ocupadas por bosques naturales o artificiales y por lagunas permanentes.
+1.- Renta Bruta. Constituirá renta bruta el ingreso total proveniente de las actividades agropecuarias menos el costo de las mismas.
 
-La Administración establecerá la forma de justificar las mencionadas situaciones.
+2.- Renta Neta. Para establecer la renta neta, se deducirán de la renta bruta todas las erogaciones relacionadas con el giro de la actividad, provenientes de gastos que guarden relación con la obtención de las rentas gravadas y la manutención de la fuente productora, siempre que sean reales y estén debidamente documentadas, incluida la depreciación de los bienes del activo. La reglamentación establecerá las condiciones y requisitos en materia de la deducibilidad de los gastos, la que no podrá establecer criterios más gravosos ni más beneficiosos en materia de deducibilidad que las previstas para los contribuyentes del Impuesto a las Rentas de Actividades Comerciales, Industriales o de Servicios.
 
-c) Para los inmuebles de hasta 100 hectáreas quedan excluídos 20 hectáreas.
+En el caso de las ganancias por transferencia de inmuebles rurales afectados directamente a la actividad agropecuaria, se presume de derecho que la renta neta constituye el 30% (treinta por ciento) del valor de venta o la diferencia entre el precio de compra del bien y el valor de costo o valor revaluado del bien, la que resulte menor.
+
+3.- Gastos no deducibles. No se podrán deducir:
+
+a) Intereses por concepto de capitales, préstamos o cualquier otra inversión del dueño, socio o accionista de la empresa pagados a personas que no sean contribuyentes del Impuesto a las Rentas de Actividades Comerciales, Industriales o de Servicios, por montos que excedan el promedio de las tasas máximas pasivas del mercado bancario y financiero aplicables a colocaciones de similares características para igual instrumento y plazo, de acuerdo con la reglamentación de tasa máxima dictada por el Banco Central del Paraguay.
+
+b) El presente Impuesto y las sanciones por infracciones fiscales.
+
+c) La reserva legal, las reservas facultativas o cualquier otra reserva.
+
+d) Amortización del valor llave.
+
+e) Gastos personales del dueño, socio o accionista, así como sumas retiradas a cuenta de utilidades.
+
+f) Gastos directos correspondientes a la obtención de rentas no gravadas y exentas o exoneradas por el presente impuesto. Los gastos indirectos serán deducibles proporcionalmente, en la forma y condiciones que establezca la reglamentación. Se incluye dentro del concepto de rentas no gravadas las no alcanzadas, las exentas y las exoneradas.
+
+Realizadas las deducciones admitidas, si la renta neta fuera negativa, dicha pérdida fiscal se podrá compensar con las rentas netas de los próximos ejercicios hasta un máximo de cinco, a partir del cierre del ejercicio en que se produjo la misma. Las pérdidas de ejercicios anteriores no podrán deducirse en un monto superior al 20% (veinte por ciento) de la renta neta de futuros ejercicios fiscales.
+
+4. Otras deducciones admisibles: Serán deducibles también:
+
+a) En el caso de la actividad ganadera, para los criadores se considerarán como gastos deducibles en concepto de depreciación el 8% (ocho por ciento) del valor del ganado vacuno de las hembras en existencia destinadas a cría, declarado anualmente.
+
+b) Las pérdidas de inventario provenientes de mortandad, en ganado vacuno hasta un máximo del 3% (tres por ciento), de acuerdo con el índice nacional sin necesidad de comprobación ante la autoridad sanitaria nacional; y en consecuencia, no presumirá la comercialización o venta de este faltante de inventario hasta el porcentaje precedentemente mencionado. De registrarse una mortandad mayor, la misma deberá comprobarse ante dicha autoridad. En los casos de pérdida por robo, el contribuyente deberá acreditar mediante la denuncia ante la autoridad policial y al Ministerio Público.
+
+c) Hasta el 1% (uno por ciento) sobre el valor de la hacienda vacuna, descontando los valores resultantes de la aplicación de los incisos anteriores, proveniente de su utilización o aprovechamiento para el consumo del establecimiento.
+
+Para la determinación de los porcentajes de las deducciones previstas en los incisos a), b) y c), se tomará el saldo promedio mensual de existencias en el ejercicio fiscal.
+
+d) Las donaciones a instituciones del Estado, a las Municipalidades, a la Iglesia Católica y demás entidades religiosas reconocidas por las autoridades competentes, así como las entidades con personería jurídica de asistencia social, educativa, cultural, caridad o beneficencia, que previamente fueran reconocidas como entidad de beneficio público por la Administración. El Poder Ejecutivo podrá establecer limitaciones a los montos deducibles de las mencionadas donaciones, las que no serán inferiores al 1% (uno por ciento) del ingreso bruto.
+
+e) Las erogaciones en que incurra el contribuyente en apoyo de las personas físicas que exploten en calidad de propietarios de fincas colindantes o cercanas, hasta el 20% (veinte por ciento) de la renta bruta. Estas erogaciones serán deducidas a precios de mercado y deberán ser certificadas conforme a reglamentación que dicte la Administración Tributaria. Las personas físicas a que se refiere este inciso son aquellas sujetas al Impuesto a la Renta del Pequeño Contribuyente o exoneradas del Impuesto a las Rentas de las Actividades Agropecuarias, según lo establecido en esta Ley.
+
+Si de la aplicación de las deducciones enunciadas en el numeral 4) se generasen rentas netas negativas, las mismas no podrán ser trasladadas a los ejercicios posteriores.
+
+5. Activo fijo. Constituyen activo fijo agropecuario los bienes de uso, tanto los aplicados a la actividad agropecuaria como los locados a terceros, salvo los destinados a la venta.
+
+Será obligatoria a los efectos del presente impuesto, la revaluación anual de los valores del activo fijo y su depreciación.
+
+El valor revaluado será el que resulte de la aplicación del porcentaje de variación del índice de precios al consumo producido entre los meses de cierre del ejercicio anterior y el que se liquida, de acuerdo con lo que establezca en tal sentido el Banco Central del Paraguay o el organismo oficial competente.
+
+6. Valuación de inventario. Sin perjuicio de las disposiciones particulares que afectan a los activos agropecuarios previstas en la presente Ley, los métodos de valuación podrán ser:
+
+a) Costos de adquisición: Comprenderán el precio de compra, los aranceles de importación y otros impuestos (que no constituyan créditos fiscales), los transportes, el almacenamiento y otros costos directamente atribuibles a la adquisición de productos agrícolas, ganaderos u otros. Los descuentos comerciales, las rebajas y otras partidas similares se deducirán para determinar el costo de adquisición.
+
+b) Costos de transformación: Comprenderán aquellos costos directamente relacionados con los bienes producidos, tales como materiales e insumos necesarios para su producción, mano de obra directa y servicios. También comprenderán una parte, calculada de forma sistemática, de los costos indirectos, variables o fijos, en los que se haya incurrido para la obtención de los bienes terminados, en las formas y condiciones que establezca la reglamentación.
+
+Los productos en proceso se valuarán de acuerdo con su grado de avance de elaboración a la fecha de cierre.
+
+c) Otros costos: El contribuyente podrá aplicar otro método de valuación prescripto en las Normas Internacionales de Información Financiera (NIIFs), previa autorización de la Administración Tributaria. No se admitirá el método de valuación conocido como último entrado, primero en salir (LIFO).
+
+7. Recategorización de la hacienda. La valuación de los semovientes se realizará en forma anual, al cierre del ejercicio, a los efectos de incorporarlos en el inventario del contribuyente.
+
+La valuación proveniente del procreo y pase de categoría por la transformación biológica del activo, no será objeto de imposición sino hasta el momento de su efectiva comercialización por el precio real de la operación.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 33°
 
-Tasa Impositiva. La tasa impositiva será del 25% (veinticinco por ciento) sobre la renta neta determinada.
+
+Tasa. La tasa general del Impuesto será del 10% (diez por ciento), sobre la renta neta determinada.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 34°
 
-Titularidad de la explotación. Se presumirá que el propietario del inmueble rural es el titular de la renta presunta, salvo que terceros realicen las actividades gravadas mediante contrato por escrito de acuerdo con las normas legales vigentes.
+
+Exoneraciones. Están exoneradas del Impuesto a las Rentas de las Actividades Agropecuarias:
+
+Las personas físicas que exploten en calidad de propietarios, arrendatarios, tenedores, poseedores o usufructuarios, en los términos de esta Ley, uno o más inmuebles siempre que los ingresos devengados provenientes de su actividad agropecuaria no excedan el equivalente a tres salarios mínimos mensuales ni, anualmente equivalente a 36 (treinta y seis) salarios mínimos mensuales; en ambos casos, estos límites se refieren a salarios mínimos mensuales para actividades diversas no especificadas para la capital de la República, vigente al inicio del ejercicio fiscal que se liquida.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 35°
 
-Ejercicio fiscal. El ejercicio fiscal coincidirá con el año civil.
+
+Actividad agroindustrial. En concordancia con el Artículo 18 de la presente Ley, en el caso de la realización de actividades agroindustriales se deberá determinar o liquidar el Impuesto a las Rentas de Actividades Comerciales, Industriales o de Servicios sobre las utilidades resultantes de los estados financieros del contribuyente al cierre del ejercicio fiscal.”
+
+En cambio, si la actividad agropecuaria - definida como tal por el Artículo 27 de esta Ley-diere lugar al pago del Impuesto a la Renta de las Actividades Agropecuarias, los estados financieros del contribuyente deberán presentar, en forma separada, los rubros patrimoniales y los de resultado, afectados a cada uno de los sectores de la actividad (agropecuaria o industrial), a los efectos de la liquidación de cada tributo. En este caso, los rubros que afectan indistintamente a ambos sectores deberán imputarse en la misma proporción que se encuentren los ingresos correspondientes a cada uno de ellos.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 36°
 
-Liquidación. El impuesto se liquidará por declaración jurada en la forma, plazo y condiciones que establezca la Administración.
+
+Agentes de retención. Siempre que los bienes o servicios contratados sean aprovechados dentro del establecimiento ganadero o agrícola, los contribuyentes del Impuesto a la Renta de las Actividades Agropecuarias deberán practicar la retención del Impuesto a la Renta de las Actividades Comerciales, Industriales o de Servicios cuando adquieran bienes proveídos por pequeños acopiadores y cuando contraten los servicios en el rubro de la construcción, prestados por personas físicas, incluidos los servicios de conservación, mantenimiento o reparación del establecimiento agropecuario. La tasa de la retención será del 3% (tres por ciento) que se aplicará sobre la suma de lo efectivamente percibido por el beneficiario más la retención.
+
+El pago así realizado constituirá un pago único y definitivo para el proveedor del bien o prestador de servicios.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 37°
 
-Iniciación de actividades y clausura. En los casos de inicio o clausura de actividades, la renta presunta se determinará en proporción al tiempo transcurrido durante el ejercicio fiscal.
+
+Anticipos a cuenta. Los contribuyentes de este impuesto ingresarán sus anticipos en los tiempos que coincidan con los ciclos productivos agropecuarios de conformidad con lo que establezca la reglamentación, la que determinará los porcentajes, el sistema y la forma. En ningún caso, el anticipo podrá exceder del impuesto pagado en el ejercicio anterior.
+
+No serán pasibles del pago de los anticipos del impuesto, los contribuyentes que en el ejercicio fiscal anterior hayan liquidado el impuesto en base al régimen del pequeño contribuyente rural.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 38°
 
@@ -459,9 +580,14 @@ Anticipos a cuenta. La Administración podrá exigir anticipos a cuenta, en los 
 
 ### Artículo 39°
 
-Documentación. La Administración queda facultada para exigir a quienes realicen actividades agropecuarias, la obligación de documentar las operaciones de venta de sus productos.
 
-La referida obligación se podrá implantar en forma progresiva en función de la actividad, tipo de producto u otros indicadores vinculados al sector.
+Transferencias. El Ministerio de Hacienda transferirá el 10% (diez por ciento) de los importes que perciba en concepto de este impuesto a las Municipalidades. Su distribución se hará en proporción a la extensión de inmuebles rurales con que cuentan los municipios.
+
+Estas transferencias solo podrán ser utilizadas por las Municipalidades para obras de infraestructuras.
+
+Además, el Ministerio de Hacienda transferirá el 10% (diez por ciento) de los importes que perciba en concepto de este impuesto al Ministerio de Agricultura y Ganadería, para el fomento del Programa de Producción de Alimentos y pequeños productores.
+
+> *Modificado por Ley N° 5061 (2013-10-04)*
 
 ### Artículo 40°
 
