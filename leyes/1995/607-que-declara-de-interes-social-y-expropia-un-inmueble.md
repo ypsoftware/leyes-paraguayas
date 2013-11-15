@@ -14,7 +14,10 @@ short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA UN INMUEBLE…"
 
 ### Artículo 1°
 
-Declárase de interés social y exprópiase a favor del Instituto de Bienestar Rural (I.B.R.) un inmueble con una superficie de 230 Has. (Doscientos treinta hectáreas), propiedad de los señores Murillo Fraga Monteiro de Castro y Geraldo Delcanale, ubicado en el lugar denominado "Cruce Santa Lucía", del Distrito de Santa Rita, Departamento Alto Paraná, individualizado como Finca Nº 3.395, Padrón Nº 3.616.
+
+Declárase de interés social y exprópiase a favor del Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT), un inmueble individualizado como Finca Nº 3.395, Padrón Nº 3616, con una Superficie de 230 ha. 9.500 m2 (DOSCIENTOS TREINTA HECTÁREAS CON NUEVE MIL QUINIENTOS METROS CUADRADOS), propiedad de los Señores Murillo Fraga Monteiro de Castro y Geraldo Delcanale, ubicado en el Distrito de Domingo Martínez de Irala (actualmente Santa Rita), Departamento Alto Paraná.
+
+> *Modificado por Ley N° 5113 (2013-11-15)*
 
 ### Artículo 2°
 
