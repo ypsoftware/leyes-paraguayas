@@ -15,7 +15,10 @@ short_title: "QUE AUMENTA PENSIÓN GRACIABLE AL SEÑOR SABINO LORENZO PRIETO"
 
 ### Artículo 1°
 
-Auméntase a G. 2.000.000 (Guaraníes dos millones) mensuales la pensión graciable concedida, a favor del señor Sabino Lorenzo Prieto, con Cédula Identidad Civil Nº 91.466.-
+
+Auméntase a G. 2.000.000 (Guaraníes dos millones) mensuales, la pensión graciable concedida a favor del señor Sabino Lorenzo Prieto, con Cédula de Identidad Civil Nº 290.406.
+
+> *Modificado por Ley N° 5132 (2013-12-17)*
 
 ### Artículo 2°
 
