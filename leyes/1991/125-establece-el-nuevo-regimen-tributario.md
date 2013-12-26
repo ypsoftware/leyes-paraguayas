@@ -909,23 +909,28 @@ Se consideran servicios personales desarrollados en relación de dependencia aqu
 
 ### Artículo 79°
 
+
 Contribuyentes. Serán contribuyentes:
 
-a) Las personas físicas por la prestación de servicios personales, sin perjuicio de lo dispuesto en el Artículo 86, cuando los ingresos brutos del año civil anterior sean superiores a (Gs. 9.600.000) nueve millones seis cientos mil guaraníes.
+a) Las personas físicas por el ejercicio efectivo de profesiones universitarias, independientemente de sus ingresos, y las demás personas físicas por la prestación de servicios personales en forma independiente cuando los ingresos brutos de estas últimas en el año civil anterior sean superiores a un salario mínimo mensual en promedio o cuando se emita una factura superior a los mismos. La administración Tributaria reglamentará el procedimiento correspondiente. Transcurridos dos años de vigencia de la presente ley, el Poder Ejecutivo podrá modificar el monto base establecido en este artículo.
 
-b) Las empresas unipersonales domiciliadas en el país, cuando realicen actividades comerciales, industriales o de servicios, siempre que sus ingresos brutos del año civil anterior sean superiores a (Gs. 20.400.000) Veinte millones cuatrocientos mil guaraníes.
+En el caso de liberalización de los salarios, los montos quedarán fijados en los valores vigentes a ese momento.
 
-Las empresas unipersonales son aquellas consideradas como tales en el Capítulo I del Impuesto a la Renta. Quedan excluidos del presente inciso quienes realicen actividades de importación y exportación.
+A partir de entonces, la Administración Tributaria deberá actualizar dichos valores, al cierre de cada ejercicio fiscal, en función de la variación que se produzca en el índice general de precios de consumo. La mencionada variación se determinará en el período de doce meses anteriores al 1 de noviembre de cada año civil que transcurre, de acuerdo con la información que en tal sentido comunique el Banco Central del Paraguay o el organismo oficial competente.
 
-c) Las sociedades con o sin personería jurídica, las entidades privadas en general, así como las personas domiciliadas o entidades constituidas en el exterior o sus sucursales, agencias o establecimientos, cuando realicen las actividades mencionadas en el inciso b), cualquiera sea el monto de sus ingresos. Quedan comprendidos en este inciso quienes realicen actividades de importación o exportación.
+b) Las cooperativas, con los alcances establecidos en la Ley N° 438/94 “DE COOPERATIVAS”.
 
-d) Los entes autárquicos, empresas públicas, entidades descentralizadas y sociedades de economía mixta, que desarrollen actividades comerciales, industriales o de servicio. El Poder Ejecutivo establecerá para cada caso la tasa a aplicar la que no podrá ser superior a la fijada para el presente impuesto.
+c) Las empresas unipersonales domiciliadas en el país, cuando realicen actividades comerciales, industriales, de servicios o agropecuarias. Las empresas unipersonales son aquellas consideradas como tales en los artículos 4°, 28, inciso a) y 42 de la Ley N° 125/91 y sus modificaciones.
 
-e) Quienes introduzcan definitivamente bienes al país y no se encuentren comprendidos en los incisos anteriores.
+d) Las sociedades con o sin personería jurídica, las entidades privadas en general, así como las personas domiciliadas o entidades constituidas en el exterior o sus sucursales, agencias o establecimientos cuando realicen las actividades mencionadas en el inciso c). Quedan comprendidos en este inciso quienes realicen actividades de importación y exportación.
 
-Los montos establecidos en los incisos a) y b) precedentes, deberán actualizarse anualmente por parte de la Administración, en función del porcentaje de variación del índice de precios al consumo que se produzca en el período de doce meses anteriores al 11 de noviembre de cada año civil que transcurre, de acuerdo con la información que en tal sentido comunique el Banco Central del Paraguay o el organismo oficial competente.
+e) Las entidades de asistencia social, caridad, beneficencia, e instrucción científica, literaria, artística, gremial, de cultura física y deportiva, así como las asociaciones, mutuales, federaciones, fundaciones, corporaciones y demás entidades con o sin personería jurídica respecto de las actividades no exoneradas del presente impuesto.
 
-En aquellas situaciones en que sea necesario facilitar la recaudación, el contralor o la liquidación del tributo, el Poder Ejecutivo queda facultado para suspender dicha actualización para el año correspondiente o a utilizar un porcentaje inferior o superior al que resulte del procedimiento indicado.
+f) Los entes autárquicos, empresas públicas, entidades descentralizadas, y sociedades de economía mixta, que desarrollen actividades comerciales, industriales o de servicios.
+
+g) Quienes introduzcan definitivamente bienes al país y no se encuentren comprendidas en los incisos anteriores.
+
+> *Modificado por Ley N° 5143 (2013-12-26)*
 
 ### Artículo 80°
 
