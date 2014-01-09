@@ -15,7 +15,10 @@ short_title: "QUE CONCEDE PENSIÓN GRACIABLE A LA SEÑORA NINFA PASTORA…"
 
 ### Artículo 1°
 
-Concédese pensión graciable de G. 800.000 (guaraníes ochocientos mil) mensuales, a favor de la señora Ninfa Pastora Gamarra Cardozo, con Cédula de Identidad Nº 814.030.
+
+Concédese pensión graciable de G. 1.700.000 (Guaraníes un millón setecientos mil) mensuales, a favor del señor Renato Benetati Gamarra con Cédula de Identidad Civil N° 2.896.630.
+
+> *Modificado por Ley N° 5149 (2014-01-09)*
 
 ### Artículo 2°
 
