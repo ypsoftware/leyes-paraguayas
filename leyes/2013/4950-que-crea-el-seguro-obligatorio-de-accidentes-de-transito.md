@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/3092/texto
 short_title: "QUE CREA EL SEGURO OBLIGATORIO DE ACCIDENTES DE TRANSITO…"
+derogada: true
+derogada_por: Ley 5150
+derogada_fecha: 2014-02-20
 ---
 
 # LEY Nº 4950
@@ -260,3 +263,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a catorce días del mes de marzo del año dos mil trece, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a veintidós días del mes de mayo del año dos mil trece, de conformidad a lo dispuesto en el Artículo 207 numeral 1) de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 5150 (2014-02-20)*
