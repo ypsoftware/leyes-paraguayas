@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/10292/texto
 short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA A FAVOR DE LA…"
+derogada: true
+derogada_por: Ley 5157
+derogada_fecha: 2014-04-09
 ---
 
 # LEY Nº 1413
@@ -42,3 +45,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a diez días del mes de noviembre del año un mil novecientos noventa y ocho, y por la Honorable Cámara de Senadores, a dieciocho días del mes de febrero del año un mil novecientos noventa y nueve, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 5157 (2014-04-09)*
