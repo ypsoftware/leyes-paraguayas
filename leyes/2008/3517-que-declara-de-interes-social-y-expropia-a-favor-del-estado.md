@@ -15,17 +15,30 @@ short_title: "QUE DECLARA DE INTERÉS SOCIAL Y EXPROPIA A FAVOR DEL ESTADO…"
 
 ### Artículo 1°
 
-Declárase de interés social y exprópiase a favor del Estado Paraguayo – Secretaría de Acción Social (SAS), un inmueble individualizado como parte de la Finca N° 103, propiedad del Instituto Nacional de Tecnología y Normalización (INTN), inscripto en la Dirección General de los Registros Públicos bajo el N° 2 y al folio 3 y siguientes del 20 de julio de 1966, ubicado en el Distrito Santísima Trinidad del municipio de Asunción, para su posterior transferencia a título oneroso a favor de sus actuales ocupantes, cuyas dimensiones y linderos son los siguientes:
 
-LINEA 1-2: con rumbo S 49°22´19” W (Sur, cuarenta y nueve grados, veintidós minutos, diecinueve segundos, Oeste), mide 119,99 m. (ciento diecinueve metros con noventa y nueve centímetros), linda con derechos del Instituto Nacional de Tecnología y Normalización (INTN);
+Declárase de interés social y exprópiase a favor del Estado paraguayo – Secretaría de Acción (SAS), un inmueble individualizado como parte de la Finca Nº 103, propiedad del Instituto Nacional de Tecnología y Normalización (INTN), inscripto en la Dirección General de los Registros Públicos bajo el Nº 2 y al folio 3 y siguientes del 20 de julio de 1966, ubicado en el Distrito Santísima Trinidad del municipio de Asunción, para su posterior transferencia a título oneroso a favor de sus actuales ocupantes, cuyas dimensiones y linderos son los siguientes:
 
-LINEA 2-3: con rumbo N 51°19´34” W (Norte, cincuenta y un grados, diecinueve minutos, treinta y cuatro segundos, Oeste), mide 163,52 m. (ciento sesenta y tres metros con cincuenta y dos centímetros), linda con derechos privados;
+AL NORESTE:
 
-LINEA 3-4: con rumbo N 46°21´14” E (Norte, cuarenta y seis grados, veintiún minutos, catorce segundos, Este), mide 121,80 m. (ciento veintiún metros con ochenta centímetros), linda con ocupación Mariscal Francisco Solano López; y,
+LINEA 1-2 Con rumbo N 32º 44’ 54” W (Norte, treinta y dos grados, cuarenta y cuatro minutos, cincuenta y cuatro segundos, Oeste), mide 164,25 m (ciento sesenta y cuatro metros con veinticinco centímetros), linda con calle;
 
-LINEA 4-1: con rumbo S 50°22´44” E (Sur, cincuenta grados, veintidós minutos, cuarenta y cuatro segundos, Este), mide 169,54 m. (ciento sesenta y nueve metros con cincuenta y cuatro centímetros), linda con calle Gral. Roa.
+AL NOROESTE
 
-SUPERFICIE: 1 Ha. 9.893 m2 6.485 cm2 (UNA HECTÁREA NUEVE MIL OCHOCIENTOS NOVENTA Y TRES METROS CUADRADOS, CON SEIS MIL CUATROCIENTOS OCHENTA Y CINCO CENTÍMETROS CUADRADOS).
+LINEA 2-3: Con rumbo S 63º 58’ 31’’ W (Sur, sesenta y tres grados, cincuenta y ocho minutos, treinta y un segundos, Oeste), mide 119,49 m (ciento diecinueve metros con cuarenta y nueve centímetros), linda con derechos privados;
+
+AL SUROESTE
+
+LINEA 3-4: Con rumbo S 33º 1’ 35’’ E (Sur, treinta y tres grados, un minuto, treinta y cinco segundos, Este), mide 161,90 m (ciento sesenta y un metros con noventa centímetros), linda con derechos privados;
+
+AL SURESTE, COMPUESTA POR DOS LINEAS:
+
+LINEA 4-5: Con rumbo N 66º 43’ 39’’ E (Norte, sesenta y seis grados, cuarenta y tres minutos, treinta y nueve segundos, Este), mide 92,66 m (noventa y dos metros con sesenta y seis centímetros);
+
+LINEA 5-1: Con rumbo N 59º 35’ 33’’ E (Norte, cincuenta y nueve grados, treinta y cinco minutos, treinta y tres segundos, Este), mide 26,51 m (veintiséis metros con cincuenta y un centímetros), linda con derechos del Instituto Nacional de Tecnología y Normalización (INTN).
+
+SUPERFICIE: 1 ha 9.433 m2 8.778 cm2 (UNA HECTAREA, NUEVE MIL CUATROCIENTOS TREINTA Y TRES METROS CUADRADOS CON OCHO MIL SETECIENTOS SETENTA Y OCHO CENTIMETROS CUADRADOS).
+
+> *Modificado por Ley N° 5166 (2014-05-05)*
 
 ### Artículo 2°
 
