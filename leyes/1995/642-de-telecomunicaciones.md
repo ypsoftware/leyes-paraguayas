@@ -726,21 +726,36 @@ e) En aquellas zonas en que no exista disponibilidad de servicios públicos de t
 
 ### Artículo 93°
 
-Las tarifas a fijarse por los prestadores de servicios de telecomunicaciones, se regirán por las siguientes pautas:
 
-a) Deberá publicarse en dos diarios de gran circulación en la jurisdicción donde operan, dentro de los treinta días de entrada en vigencia de las respectivas concesiones, licencias o autorizaciones, la estructura general de sus tarifas con los valores expresados en una unidad no monetaria y el valor monetario de dicha unidad;
+Las tarifas a fijarse por los prestadores de servicios de telecomunicaciones se regirán por las siguientes pautas:
 
-b) En lo sucesivo, deberán publicarse por los mismos medios indicados en el inciso precedente, el cambio de valor de la unidad utilizada y, en su caso, las modificaciones de la estructura antes de su aplicación;
+a) deberán publicarse en dos diarios de gran circulación en la jurisdicción donde operan, dentro de los treinta días de entrada en vigencia de las respectivas concesiones, licencias o autorizaciones, la estructura general de sus tarifas con los valores expresados en una unidad no monetaria y el valor monetario de dicha unidad;
 
-c) Remitir, contemporáneamente a la referida publicación, copia firmada de la misma a la Comisión Nacional de Telecomunicaciones;
+b) en lo sucesivo, deberán publicarse por los mismos medios indicados en el inciso precedente el cambio de valor de la unidad utilizada y, en su caso, las modificaciones de la estructura antes de su aplicación;
 
-d) Tener un ejemplar actualizado de las tarifas a disposición de los usuarios;
+c) remitir, contemporáneamente a la referida publicación, copia firmada de la misma a la Comisión Nacional de Telecomunicaciones;
 
-e) Las guías de abonados a ser suministradas a los usuarios, incluirán una síntesis de las tarifas en los aspectos que sean de mayor interés para dichos usuarios;
+d) tener un ejemplar actualizado de las tarifas a disposición de los usuarios;
 
-f) Proporcionar a la Comisión Nacional de Telecomunicaciones toda la información contable y de costos, que la misma oportunamente requiera; y,
+e) las guías de abonados a ser suministradas a los usuarios, incluirán una síntesis de las tarifas en los aspectos que sean de mayor interés para dichos usuarios;
 
-g) Cumplir las demás condiciones que con respecto al régimen tarifario imponga la concesión, licencia o autorización respectiva.
+f) proporcionar a la Comisión Nacional de Telecomunicaciones toda la información contable y de costos, que la misma oportunamente requiera;
+
+g) cumplir las demás condiciones que con respecto al régimen tarifario imponga la concesión, licencia o autorización respectiva; y,
+
+h) en los casos de las tarifas establecidas por los prestadores y empresas concesionarias que brinden servicio de telefonía e internet móvil, los minutos acreditados bajo las siguientes modalidades:
+
+a) Abono fijo con factura.
+
+b) Pre-pago con tarjeta.
+
+c) Pre-pago a través de carga virtual.
+
+d) Cualquier otra forma de acreditación de minutos que en el futuro se disponga.
+
+Los créditos no tendrán plazos de vencimiento o caducidad, solo se descontarán por el uso pleno de los mismos, los minutos no utilizados en el mes se acumularán y se acreditarán automáticamente a favor del usuario, con excepción de los saldos promocionales.
+
+> *Modificado por Ley N° 5177 (2014-05-07)*
 
 ### Artículo 94°
 
