@@ -15,21 +15,37 @@ short_title: "DE INCENTIVOS A LA IMPORTACION DE VEHICULOS ELECTRICOS"
 
 ### Artículo 1°
 
-Queda exonerado del pago del Impuesto Aduanero a la Importación y del Impuesto al Valor Agregado (IVA), la importación para el mercado nacional de vehículos eléctricos.
+
+Queda exonerado del pago del Impuesto Aduanero a la Importación y del Impuesto al Valor Agregado (IVA), la importación para el mercado nacional de vehículos eléctricos y vehículos híbridos nuevos.”
+
+El presente beneficio tendrá una duración de diez años, contados a partir de la promulgación de la presente ley.
+
+> *Modificado por Ley N° 5183 (2014-05-22)*
 
 ### Artículo 2°
 
-Se entiende por vehículo eléctrico a los efectos de esta Ley, todo vehículo de transporte terrestre de uso personal y/o colectivo, impulsado por un motor a corriente eléctrica, sean estos nuevos o usados. Se incluye en esta Ley también a los motores híbridos que poseen como una de sus fuentes a la energía eléctrica.
+
+Se entiende por vehículo eléctrico a los efectos de esta ley, todo vehículo de transporte terrestre de uso personal y/o colectivo, impulsado por un motor a corriente eléctrica, sea este nuevo. Se incluye en esta ley también a los motores híbridos que poseen como una de sus fuentes a la energía eléctrica.
+
+> *Modificado por Ley N° 5183 (2014-05-22)*
 
 ### Artículo 3°
 
-Las autoridades aduaneras y tributarias competentes dictarán las normas reglamentarias, necesarias para la aplicación de las exoneraciones establecidas en esta Ley.
+
+El Ministerio de Industria y Comercio, a través de sus organismos técnicos, establecerá los estándares de calidad de los vehículos que podrán ingresar en el territorio nacional, siendo la Dirección Nacional de Aduanas la institución encargada de velar por el cumplimiento de las características básicas.
+
+El Ministerio de Hacienda, a través de la Subsecretaría de Estado de Tributación y la Dirección Nacional de Aduanas, reglamentará las normas tributarias y los procedimientos respectivamente necesarios para la importación de vehículos eléctricos y la aplicación de las exoneraciones establecidas en esta ley.
+
+> *Modificado por Ley N° 5183 (2014-05-22)*
 
 ### Artículo 4°
 
-El Estado implementará las medidas necesarias para el establecimiento gradual de puntos de recarga rápida con tarifas preferenciales en las principales ciudades del país.
+
+El Ministerio de Industria y Comercio, a través de sus organismos técnicos, implementará las medidas necesarias para el establecimiento gradual de puntos de recarga rápida con tarifas preferenciales en las principales ciudades del país.
 
 Los propietarios de estaciones de servicios o las personas que tengan interés en hacerlo, podrán instalar bocas de expendio para carga rápida de vehículos eléctricos, debiendo las autoridades competentes otorgar facilidades administrativas para el efecto y reglamentar las condiciones de seguridad en las que se prestará el servicio de expendio o recarga.
+
+> *Modificado por Ley N° 5183 (2014-05-22)*
 
 ### Artículo 5°
 
