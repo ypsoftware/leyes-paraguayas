@@ -27,7 +27,10 @@ Ante el fallecimiento del veterano o lisiado de la Guerra del Chaco le sucederá
 
 ### Artículo 4°
 
-Fíjase el monto equivalente a 30 (treinta) jornales mínimos vigentes para actividades diversas no especificadas en concepto de subsidio y asistencia social mensual a los veteranos y lisiados de la Guerra del Chaco.
+
+Fíjase el monto equivalente a cuarenta jornales mínimos para actividades diversas no especificadas, en concepto de subsidio y asistencia social mensual a los veteranos y lisiados de la Guerra del Chaco.
+
+> *Modificado por Ley N° 5214 (2014-06-27)*
 
 ### Artículo 5°
 
