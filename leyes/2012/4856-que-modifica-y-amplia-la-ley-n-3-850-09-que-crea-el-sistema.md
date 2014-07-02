@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/960/texto
 short_title: "QUE MODIFICA Y AMPLÍA LA LEY N° 3.850/09 “QUE CREA EL…"
+derogada: true
+derogada_por: Ley 5225
+derogada_fecha: 2014-07-02
 ---
 
 # LEY Nº 4856
@@ -104,3 +107,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los cuatro días del mes de octubre del año dos mil doce, y por la Honorable Cámara de Senadores, a los once días del mes de diciembre del año dos mil doce, quedando sancionado el mismo, de conformidad con lo dispuesto en el artículo 206 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 5225 (2014-07-02)*
