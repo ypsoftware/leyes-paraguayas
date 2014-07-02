@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/2585/texto
 short_title: "QUE CREA EL SISTEMA NACIONAL DE INSPECCION TECNICA…"
+derogada: true
+derogada_por: Ley 5225
+derogada_fecha: 2014-07-02
 ---
 
 # LEY Nº 3850
@@ -116,3 +119,5 @@ La circulación de cualquier tipo de vehículo automotor o remolque, sin el corr
 *Artículo 21.- Derógase lo dispuesto en el Inciso k) del Artículo 26 de la Ley Nº 1590/00 “QUE REGULA EL SISTEMA NACIONAL DE TRANSPORTE Y CREA LA DIRECCION NACIONAL DE TRANSPORTE (DINATRAN) Y LA SECRETARIA METROPOLITANA DE TRANSPORTE (SMT)”, y las demás normas que se oponen a la presente Ley.*
 *Artículo 22.- Comuníquese al Poder Ejecutivo.*
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a veintitrés días del mes de julio del año dos mil nueve, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a ocho días del mes de setiembre del año dos mil nueve, de conformidad a lo dispuesto en el Artículo 206 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 5225 (2014-07-02)*
