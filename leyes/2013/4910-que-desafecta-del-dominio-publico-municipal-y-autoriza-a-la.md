@@ -15,17 +15,26 @@ short_title: "QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA…"
 
 ### Artículo 1°
 
-Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo, a transferir a Título oneroso a favor de su actual ocupante señor Cristóbal Fidencio Acosta, un inmueble individualizado como parte de la Finca Nº 19.140 del Distrito de San Lorenzo, con Cta. Cte. Ctral. Nº 27-2128-02, dejado en concepto de plazas y edificios públicos en el loteamiento realizado por el señor Francisco Torres, inscripto en la Dirección General de los Registros Públicos, bajo el Nº 1, folio 1 y siguientes del 4 de enero de 1984, ubicado en el barrio Sagrada Familia del citado municipio, cuyas dimensiones y linderos son los siguientes:
 
-AL NORTE: Mide 25,20 m. (veinticinco metros con veinte centímetros), linda con el Lote Nº 7;
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo a transferir a título oneroso a favor de su actual ocupante señor Cristóbal Fidencio Acosta, un inmueble individualizado como parte de la Finca N° 19.140 del Distrito de San Lorenzo, con Cta.Cte.Ctral N° 27-2128-02, dejado en concepto de plazas y edificios públicos en el loteamiento realizado por el señor Francisco Torres, inscripto en la Dirección General de los Registros Públicos, bajo el N° 1, folio 1 y siguientes del 4 de enero de 1984, ubicado en el barrio Sagrada Familia del citado municipio, cuyas dimensiones y linderos son los siguientes:
 
-AL SUR: Mide 25,20 m. (veinticinco metros con veinte centímetros), linda con la calle 1º de diciembre;
+LÍNEA 1-2: Mide 9,95 m (nueve metros con noventa y cinco centímetros), linda con calle Eduardo Schaerer;
 
-AL ESTE: Mide 7,55 m. (siete metros con cincuenta y cinco centímetros), linda con el Lote Nº 9; y,
+LÍNEA 2-3: Mide 25,50 m (veinticinco metros con cincuenta centímetros), linda con derechos privados;
 
-AL OESTE: Mide 9,10 m. (nueve metros con diez centímetros), linda con la calle Eduardo Shaerer.
+LÍNEA 3-4: Mide 7,58 m (siete metros con cincuenta y ocho centímetros), linda con derechos particulares; y,
 
-SUPERFICIE: 209 m2 7.900 cm2 (DOSCIENTOS NUEVE METROS CUADRADOS CON SIETE MIL NOVECIENTOS CENTÍMETROS CUADRADOS).
+LÍNEA 4-1: Mide 25,10 m (veinticinco metros con diez centímetros), linda con calle 1° de Diciembre.
+
+SUPERFICIE: 220 m2 2.206 cm2 (DOSCIENTOS VEINTE METROS CUADRADOS CON DOS MIL DOSCIENTOS SEIS CENTÍMETROS CUADRADOS).
+
+Las coordenadas de los vértices 1 y 2 son:
+
+Vértice 1: E=449.018,61 N= 7.198.989,21
+
+Vértice 2: E=449.010,17 N= 7.198.994,48.
+
+> *Modificado por Ley N° 5217 (2014-07-04)*
 
 ### Artículo 2°
 
