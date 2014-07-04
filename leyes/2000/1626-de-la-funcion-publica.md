@@ -1123,7 +1123,10 @@ Los funcionarios que se hayan acogido al régimen jubilatorio no podrán ser rei
 
 ### Artículo 144°
 
-Los tribunales electorales del país entenderán en los casos previstos en esta ley, cuando se trate de funcionarios municipales o de los gobiernos departamentales.
+
+Los tribunales electorales del país entenderán en los casos previstos en esta ley, cuando se trate de funcionarios municipales o de los gobiernos departamentales, y aquellas que pretendan ingresar a las instituciones públicas y sean beneficiarios de la Ley N° 2.479/04 ‘QUE ESTABLECE LA OBLIGATORIEDAD DE LA INCORPORACION DE PERSONAS CON DISCAPACIDAD EN LAS INSTITUCIONES PÚBLICAS.
+
+> *Modificado por Ley N° 5207 (2014-07-04)*
 
 ### Artículo 145°
 
