@@ -799,7 +799,12 @@ Las orquestas, grupos vocales y demás agrupaciones de intérpretes y ejecutante
 
 ### Artículo 126°
 
-La duración de los derechos reconocidos en este capítulo será de cincuenta años, contados a partir del año siguiente al de fijación de la interpretación o ejecución. En caso de las orquestas, grupos corales y demás agrupaciones, la duración será de cincuenta años, contados a partir del uno de enero del año siguiente a la fijación de la interpretación o ejecución.
+
+La duración de los derechos reconocidos en este capítulo será de setenta años, contados a partir del año siguiente al de fijación de la interpretación o ejecución.
+
+En caso de las orquestas, grupos corales y demás agrupaciones, la duración será de setenta años, contados a partir del 1 de enero del año siguiente a la fijación de la interpretación o ejecución.
+
+> *Modificado por Ley N° 5247 (2014-07-24)*
 
 CAPÍTULO III
 
@@ -833,7 +838,12 @@ En los casos de infracción a los derechos reconocidos en este capítulo, corres
 
 ### Artículo 130°
 
-La protección concedida al productor de fonogramas será de cincuenta años, contados a partir del uno de enero del año siguiente a la primera publicación del fonograma. Vencido el plazo de protección, el fonograma pasará al dominio público, conforme a las disposiciones del Título VI de la presente ley.
+
+La protección concedida al productor de fonogramas será de setenta años, contados a partir del uno de enero del año siguiente a la primera publicación del fonograma.
+
+Vencido el plazo de protección, el fonograma pasará al dominio público, conforme a las disposiciones del Título VI de la presente ley.
+
+> *Modificado por Ley N° 5247 (2014-07-24)*
 
 CAPÍTULO IV
 
