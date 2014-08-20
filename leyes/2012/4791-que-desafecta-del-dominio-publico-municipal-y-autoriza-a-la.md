@@ -15,17 +15,20 @@ short_title: "QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA…"
 
 ### Artículo 1°
 
-Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo, a transferir a título oneroso a favor de su actual ocupante señor Víctor Manuel Benítez Camarasa, un inmueble individualizado como parte de la Finca N° 19.140 del Distrito de San Lorenzo, con Cta. Cte. Ctral N° 27-2128-02, dejado en concepto de plazas y edificios públicos en el loteamiento realizado por el señor Francisco Torres, inscripto en la Dirección General de los Registros Públicos, bajo el N° 1, folio 1 y siguientes del 4 de enero de 1984, ubicado en el barrio Sagrada Familia del citado municipio, cuyas dimensiones y linderos son los siguientes:
 
-AL NORTE: mide 25,40 m. (veinticinco metros con cuarenta centímetros), linda con derechos municipales;
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo, a transferir a Título oneroso a favor de su actual ocupante señor Víctor Manuel Benítez, un inmueble individualizado como parte de la Finca Nº 19.140 del Distrito de San Lorenzo, con Cta. Cte. Ctral. Nº 27-2128-02, dejado en concepto de plazas y edificios públicos en el loteamiento realizado por el señor Francisco Torres, inscripto en la Dirección General de los Registros Públicos, bajo el Nº 1, folio 1 y siguientes del 4 de enero de 1984, ubicado en el barrio Sagrada Familia del citado municipio, cuyas dimensiones y linderos son los siguientes:
 
-AL SUR: mide 25,30 m. (veinticinco metros con treinta centímetros), linda con derechos municipales;
+AL NORTE: mide 7,82 m (siete metros con ochenta y dos centímetros), linda con derechos privados;
 
-AL ESTE: mide 8,40 m. (ocho metros con cuarenta centímetros), linda con derechos municipales; y,
+AL SUR: mide 10,80 m (diez metros con ochenta centímetros), linda con la calle Eduardo Schaerer;
 
-AL OESTE: mide 12,90 m. (doce metros con noventa centímetros), linda con la calle Eduardo Shaerer.
+AL ESTE: mide 25,21 m (veinticinco metros con veintiún centímetros), linda con derechos privados; y,
 
-SUPERFICIE: 268 m2 1.000 cm2 (DOSCIENTOS SESENTA Y OCHO METROS CUADRADOS CON UN MIL CENTÍMETROS CUADRADOS).
+AL OESTE: mide 25,40 m (veinticinco metros con cuarenta centímetros), linda con derechos privados;
+
+SUPERFICIE: 235 m2 14 cm2 (DOSCIENTOS TREINTA Y CINCO METROS CUADRADOS CON CATORCE CENTÍMETROS CUADRADOS).
+
+> *Modificado por Ley N° 5265 (2014-08-20)*
 
 ### Artículo 2°
 
