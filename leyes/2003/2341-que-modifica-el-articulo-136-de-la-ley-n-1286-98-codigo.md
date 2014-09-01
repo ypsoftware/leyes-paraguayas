@@ -15,13 +15,10 @@ short_title: "QUE MODIFICA EL ARTICULO 136 DE LA LEY N° 1286/98 “CODIGO…"
 
 ### Artículo 1°
 
-Modifícase el Artículo 136 de la Ley N° 1286/98 “CÓDIGO PROCESAL PENAL”, que queda redactado de la siguiente manera:
 
-“Art. 136.- Toda persona tendrá derecho a una resolución judicial definitiva en un plazo razonable. Por lo tanto, todo procedimiento tendrá una duración máxima de cuatro años, contados desde el primer acto del procedimiento.
+Suspéndase por el plazo de tres años la vigencia de la Ley N° 4.669/12 “QUE MODIFICA LOS ARTÍCULOS 136 Y 137 DE LA LEY N° 1.286/98 ‘CÓDIGO PROCESAL PENAL’, MODIFICADO POR LEY N° 2.341/03.
 
-Todos los incidentes, excepciones, apelaciones y recursos planteados por las partes, suspenden automáticamente el plazo, que vuelve a correr una vez se resuelva lo planteado o el expediente vuelva a origen.
-
-Este plazo solo se podrá extender por doce meses más cuando exista una sentencia condenatoria, a fin de permitir la tramitación de los recursos. La fuga o rebeldía del imputado interrumpirá el plazo de duración del procedimiento. Cuando comparezca o sea capturado, se reiniciará el plazo”.
+> *Modificado por Ley N° 5276 (2014-09-01)*
 
 ### Artículo 2°
 
