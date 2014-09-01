@@ -14,7 +14,10 @@ short_title: "QUE MODIFICA Y AMPLIA DISPOSICIONES DE LAS LEYES QUE RIGEN…"
 
 ### Artículo 1°
 
-Modifícase algunas disposiciones de las Leyes N° 375 del 27 de agosto de 1956 y sus modificaciones, y N° 430 del 28 de diciembre de 1973., del Instituto de Previsión Social.
+
+Suspéndase por el plazo de tres años la vigencia de la Ley N° 4.669/12 “QUE MODIFICA LOS ARTÍCULOS 136 Y 137 DE LA LEY N° 1.286/98 ‘CÓDIGO PROCESAL PENAL’, MODIFICADO POR LEY N° 2.341/03.
+
+> *Modificado por Ley N° 5276 (2014-09-01)*
 
 ### Artículo 2°
 
