@@ -15,7 +15,10 @@ short_title: "QUE MODIFICA LOS ARTICULOS 136 Y 137 DE LA LEY N° 1286/98…"
 
 ### Artículo 1°
 
-Modifícanse los Artículos 136 y 137 de la Ley N° 1286/98 “CODIGO PROCESAL PENAL”, modificado por Ley N° 2341/03, cuyos textos quedan redactados como sigue:
+
+Suspéndase por el plazo de tres años la vigencia de la Ley N° 4.669/12 “QUE MODIFICA LOS ARTÍCULOS 136 Y 137 DE LA LEY N° 1.286/98 ‘CÓDIGO PROCESAL PENAL’, MODIFICADO POR LEY N° 2.341/03.
+
+> *Modificado por Ley N° 5276 (2014-09-01)*
 
 CAPITULO V
 
