@@ -15,7 +15,10 @@ short_title: "DE GARANTÍA NUTRICIONAL EN LA PRIMERA INFANCIA."
 
 ### Artículo 1°
 
-La presente Ley tiene por objeto garantizar la prevención, asistencia y control de la desnutrición de todos los niños y niñas menores de cinco años de edad así como de las mujeres embarazadas a partir del tercer mes de gestación hasta los primeros seis meses después del parto, que se encuentren en situación de pobreza, bajo peso, desnutrición o cualquier situación de vulnerabilidad nutricional en toda la República del Paraguay.
+
+La presente ley tiene por objeto garantizar la prevención, asistencia y control de la desnutrición de todos los niños y niñas menores de cinco años de edad así como de las mujeres embarazadas desde la concepción hasta los primeros seis meses después del parto, que se encuentren en situación de pobreza, bajo peso, desnutrición o cualquier situación de vulnerabilidad nutricional en toda la República del Paraguay.
+
+> *Modificado por Ley N° 5281 (2014-09-05)*
 
 ### Artículo 2°
 
@@ -23,7 +26,10 @@ El Ministerio de Salud Pública y Bienestar Social, con este propósito, impleme
 
 ### Artículo 3°
 
-El Programa Alimentario Nutricional Integral (PANI) garantizará que todos los niños y niñas menores de cinco años de edad así como mujeres embarazadas a partir del tercer mes de gestación hasta los primeros seis meses después del parto, que se encuentren en situación de pobreza, bajo peso, desnutrición o cualquier situación de vulnerabilidad nutricional, reciban mensualmente y en forma gratuita un complemento nutricional, así como asistencia a su entorno familiar, acerca de las buenas prácticas alimentarias y de crianza, como parte de la atención integral que requieren para su normal desarrollo físico y neurológico.
+
+El programa Alimentario Nutricional Integral (PANI) garantizará que todos los niños y niñas menores de cinco años de edad así como mujeres embarazadas desde la concepción hasta los primeros seis meses después del parto, que se encuentren en situación de pobreza, bajo peso, desnutrición o cualquier situación de vulnerabilidad nutricional, reciban mensualmente y en forma gratuita un complemento nutricional, así como asistencia a su entorno familiar, acerca de las buenas prácticas alimentarias y de crianza, como parte de la atención integral que requieren para su normal desarrollo físico y neurológico.
+
+> *Modificado por Ley N° 5281 (2014-09-05)*
 
 ### Artículo 4°
 
