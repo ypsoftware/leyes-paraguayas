@@ -4553,7 +4553,10 @@ Promoción de la demanda. Se producirá la caducidad de pleno derecho de las med
 
 ### Artículo 701°
 
-Caducidad. Las medidas cautelares registrables se extinguirán de pleno derecho a los cinco años de la fecha de su anotación en el registro respectivo, salvo que a petición de parte se reinscribieren antes del vencimiento del plazo, por orden del juzgado que entendió en el proceso.
+
+Caducidad. Las medidas cautelares se extinguirán de pleno derecho a los cinco años, contados desde la fecha en que fueran ordenadas, salvo que antes del vencimiento del plazo, y a petición de parte, el juzgado competente otorgue nuevamente esa medida
+
+> *Modificado por Ley N° 5330 (2014-10-16)*
 
 ### Artículo 702°
 
