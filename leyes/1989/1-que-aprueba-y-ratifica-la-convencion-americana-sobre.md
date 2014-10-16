@@ -288,7 +288,10 @@ La Corte se compondrá de siete jueces, nacionales de los Estados Miembros de la
 
 ### Artículo 54°
 
-1. Los jueces de la Corte serán elegidos para un período de seis años y sólo podrán ser reelegidos una vez. El mandato de tres de los jueces designados en la primera elección, expirará al cabo de tres años. Inmediatamente después de dicha elección, se determinarán por sorteo en la Asamblea General los nombres de estos tres jueces.2. El juez elegido para reemplazar a otro cuyo mandato no ha expirado, completará el período de éste.3. Los jueces permanecerá en funciones hasta el término de su mandato. Sin embargo, seguirán conociendo de los casos a que ya se hubieran abocado y que se encuentren en estado de sentencia, a cuyos efectos no serán sustituidos por los nuevos jueces elegidos.
+
+Uno solo de los cónyugues o ambos de conformidad, en cualquier tiempo y sin expresión de causa, podrá pedir la disolución y liquidación de la comunidad conyugal
+
+> *Modificado por Ley N° 5329 (2014-10-16)*
 
 ### Artículo 55°
 
