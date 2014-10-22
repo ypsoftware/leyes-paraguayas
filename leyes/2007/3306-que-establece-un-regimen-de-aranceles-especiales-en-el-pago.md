@@ -15,11 +15,19 @@ short_title: "QUE ESTABLECE UN RÉGIMEN DE ARANCELES ESPECIALES EN EL PAGO…"
 
 ### Artículo 1°
 
-Los inmuebles definidos como viviendas económicas y de interés social por Ley de la Nación o por el Consejo Nacional de la Vivienda – CONAVI (o la institución que la reemplace), instituidos para los beneficiarios de los sectores de pobreza y extrema pobreza, serán otorgados por el Estado, en escritura pública cuyo costo único y fijo será de ocho jornales a cargo del beneficiario. La formalización de dichas escrituras quedará exonerada del pago de tasas judiciales, especiales, registrales y catastrales, incluso aquellas que conlleven la constitución de hipotecas.
+
+Los inmuebles definidos como viviendas económicas y lotes urbanos de interés social por Ley de la Nación o por la Secretaría Nacional de la Vivienda y el Hábitat (SENAVITAT), adjudicados a los beneficiarios de los sectores de pobreza y extrema pobreza, serán otorgados por el Estado, en escritura pública, cuyo costo único y fijo será de ocho jornales a cargo del beneficiario. La formalización de dichas escrituras quedará exonerada del pago de tasas judiciales, especiales, registrales, catastrales y todo tipo de aranceles, incluso aquellas que conlleven la constitución de hipoteca.
+
+> *Modificado por Ley N° 5331 (2014-10-22)*
 
 ### Artículo 2°
 
-El Consejo Nacional de la Vivienda – CONAVI (o la institución que la reemplace), será la única institución con potestad de reglamentar y determinar los proyectos o tipos de inmuebles, cuyas transferencias se puedan acoger a los beneficios de la presente Ley.
+
+La Secretaría Nacional de la Vivienda y el Hábitat (SENAVITAT) deberá reglamentar y determinar los proyectos o tipos de viviendas o inmuebles, cuyas transferencias deberán acogerse a los beneficios de la presente Ley en caso de que las adjudicaciones sean hechas por el Estado.
+
+La titulación en programas municipales de regularización de viviendas o de lotes urbanos en zonas marginales, estará directamente sometida a este régimen de interés social.
+
+> *Modificado por Ley N° 5331 (2014-10-22)*
 
 ### Artículo 3°
 
@@ -35,7 +43,10 @@ El inmueble adquirido conforme a las disposiciones de la presente Ley, solo podr
 
 ### Artículo 6°
 
-La Dirección General de Registros Públicos dispondrá la creación de un registro especial de las personas beneficiadas con la presente Ley. El notario público actuante deberá contar con el informe previo de dicha oficina registral, en el cual se certifique que el solicitante no se halla inscripto en el citado registro como beneficiario.
+
+La Dirección General de Registros Públicos, las Municipalidades y el Servicio Nacional de Catastro (SNC), dispondrán la creación de un registro especial de las personas beneficiadas con la presente Ley. El notario público actuante deberá contar con el informe previo de dichas oficinas en el cual se certifique que el solicitante no se haya inscripto en el citado registro como beneficiario. Todos los organismos mencionados en este artículo deberán conectarse informáticamente, de modo a identificar a los beneficiarios de este programa de interés social y evitar que los interesados dupliquen su solicitud o adjudicación.
+
+> *Modificado por Ley N° 5331 (2014-10-22)*
 
 ### Artículo 7°
 
