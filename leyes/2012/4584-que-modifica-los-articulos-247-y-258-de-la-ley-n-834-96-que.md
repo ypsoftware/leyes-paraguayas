@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/1267/texto
 short_title: "QUE MODIFICA LOS ARTÍCULOS 247 y 258 DE LA LEY N° 834/96…"
+derogada: true
+derogada_por: Ley 5350
+derogada_fecha: 2014-11-06
 ---
 
 # LEY Nº 4584
@@ -56,3 +59,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los diecisiete días del mes de noviembre del año dos mil once, y por la Honorable Cámara de Senadores, a los dos días del mes de febrero del año dos mil doce, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 206 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 5350 (2014-11-06)*
