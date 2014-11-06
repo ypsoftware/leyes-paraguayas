@@ -46,3 +46,5 @@ La presente Ley se aplicará a partir de las elecciones generales previstas para
 > *Derogada en su totalidad por Ley N° 5350 (2014-11-06)*
 
 > *Derogada en su totalidad por Ley N° 5350 (2014-11-06)*
+
+> *Derogada en su totalidad por Ley N° 5350 (2014-11-06)*
