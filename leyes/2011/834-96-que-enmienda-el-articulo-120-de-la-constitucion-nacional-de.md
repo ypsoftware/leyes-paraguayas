@@ -6,6 +6,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/9581/texto
 short_title: "QUE ENMIENDA EL ARTÍCULO 120 DE LA CONSTITUCIÓN NACIONAL…"
+derogada: true
+derogada_por: Ley 5350
+derogada_fecha: 2014-11-06
 ---
 
 # LEY Nº 834/96
@@ -39,3 +42,5 @@ La presente Ley se aplicará a partir de las elecciones generales previstas para
 
 *Aprobada la Enmienda Constitucional por la Honorable Cámara de Diputados, a los veintiocho días del mes de octubre del año dos mil diez, y por la Honorable Cámara de Senadores, a los catorce días del mes de abril del año dos mil once, de conformidad con lo dispuesto en el Artículo 290 de la Constitución Nacional; y el Artículo 265 de la Ley Nº 834/96.*
 *Téngase por sancionada y promulgada la Enmienda Constitucional e incorpórese al texto constitucional, de conformidad con lo establecido en el Artículo 290, párrafo tercero de la Constitución Nacional; el Artículo 265 de la Ley N° 834/96; y el Acuerdo y Sentencia N° 23 del Tribunal Superior de Justicia Electoral*
+
+> *Derogada en su totalidad por Ley N° 5350 (2014-11-06)*
