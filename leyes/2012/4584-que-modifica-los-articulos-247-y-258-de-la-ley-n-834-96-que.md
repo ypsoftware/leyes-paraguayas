@@ -61,3 +61,5 @@ Comuníquese al Poder Ejecutivo.
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los diecisiete días del mes de noviembre del año dos mil once, y por la Honorable Cámara de Senadores, a los dos días del mes de febrero del año dos mil doce, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 206 de la Constitución Nacional.*
 
 > *Derogada en su totalidad por Ley N° 5350 (2014-11-06)*
+
+> *Derogada en su totalidad por Ley N° 5350 (2014-11-06)*
