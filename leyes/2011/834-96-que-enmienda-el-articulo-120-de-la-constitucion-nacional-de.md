@@ -44,3 +44,5 @@ La presente Ley se aplicará a partir de las elecciones generales previstas para
 *Téngase por sancionada y promulgada la Enmienda Constitucional e incorpórese al texto constitucional, de conformidad con lo establecido en el Artículo 290, párrafo tercero de la Constitución Nacional; el Artículo 265 de la Ley N° 834/96; y el Acuerdo y Sentencia N° 23 del Tribunal Superior de Justicia Electoral*
 
 > *Derogada en su totalidad por Ley N° 5350 (2014-11-06)*
+
+> *Derogada en su totalidad por Ley N° 5350 (2014-11-06)*
