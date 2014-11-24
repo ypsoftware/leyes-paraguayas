@@ -613,7 +613,12 @@ Se considerará personal aeronáutico aquel que se desempeñe en funciones técn
 
 ### Artículo 93°
 
-Las personas que realicen funciones aeronáuticas, indicadas en los Anexos del Convenio de Chicago, a bordo de aeronaves de matrícula paraguaya, así como las que desempeñen funciones en la superficie, deberán poseer licencias y habilitaciones expedidas o convalidadas por la Autoridad Aeronáutica Civil.
+
+Las personas que realicen funciones aeronáuticas remuneradas indicadas en los Anexos del Convenio de Chicago, a bordo de aeronaves con matrícula paraguaya o a bordo de aeronaves con matrícula extranjera arrendadas por operadores o explotadores nacionales, así como los que desempeñan funciones en la superficie, deberán ser de nacionalidad paraguaya y poseer licencias y habilitaciones expedidas o convalidadas por la Autoridad Aeronáutica Civil.
+
+Por razones técnicas, la Autoridad Aeronáutica Civil podrá autorizar un porcentaje de personal extranjero por un plazo que no excederá de un año a contar de la fecha de dicha autorización, estableciéndose un porcentaje gradual de reemplazo del personal extranjero por personal paraguayo, que se realizará de la siguiente forma: a los ciento ochenta días 50% (cincuenta por ciento); a los trescientos sesenta y cinco días el 100% (cien por ciento). Una vez vencido el plazo de un año, excepcionalmente podrá ser admitida la continuidad de los extranjeros como instructores de vuelo, en forma provisoria, por un período que no podrá exceder los ciento ochenta días.
+
+> *Modificado por Ley N° 5221 (2014-11-24)*
 
 ### Artículo 94°
 
