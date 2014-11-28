@@ -15,9 +15,8 @@ short_title: "QUE MODIFICA LOS ARTÍCULOS 1.º Y 2.º DE LA LEY Nº 140/93…"
 
 ### Artículo 1°
 
-Modifícanse los artículos 1.º y 2.º de la Ley Nº 140/93 “QUE CREA EL MUNICIPIO PASO YOBAI DEL DEPARTAMENTO GUAIRÁ Y UNA MUNICIPALIDAD CON ASIENTO EN EL PUEBLO ‘PASO YOBAI”, cuyos textos quedan redactados como sigue:
 
-“Art. 1.º Créase el Municipio Paso Yobai del Departamento Guairá y a éste efecto desaféctese su territorio del Distrito de Independencia con los siguientes límites
+Créase el Municipio Paso Yobai del Departamento Guairá y a éste efecto desaféctese su territorio del Distrito de Independencia con los siguientes límites
 
 Coordenadas Geográficas
 
@@ -69,9 +68,14 @@ Línea 16 – 17: Con rumbo N 66º 41’ 42” W (Norte, sesenta y seis grados, 
 
 Línea 17 – 18: Con rumbo N 14º 2’ 9” W (Norte, catorce grados, dos minutos, nueve segundos, Oeste), mide 11.342,78 m (once mil trescientos cuarenta y dos metros con setenta y ocho centímetros). Esta línea tiene su origen en la naciente del Arroyo Yroysa, siguiendo el curso del mismo hasta su desembocadura en el Río Tebicuary Mí. Las coordenadas del Punto Nº 17 son: Norte 7138826.95; Este 598912.66, linda con el Distrito de José Fassardi del Departamento Guairá.
 
-Línea 18 – 1: Con rumbo N 32º 43’ 21” W (Norte, treinta y dos grados, cuarenta y tres minutos, veintiún segundos, Oeste), mide 14.300,13 m (catorce mil trescientos metros con trece centímetros). Esta línea tiene su origen en la desembocadura del Arroyo Yroysa en el Río Tebicuary Mí, siguiendo el curso de éste Río hasta la desembocadura del Arroyo Gasory en el mismo Río. Las coordenadas del Punto Nº 18 son: Norte 7149831.08; Este 596161.71, linda con el Distrito de José Fassardi del Departamento Guairá.”
+Línea 18 – 1: Con rumbo N 32º 43’ 21” W (Norte, treinta y dos grados, cuarenta y tres minutos, veintiún segundos, Oeste), mide 14.300,13 m (catorce mil trescientos metros con trece centímetros). Esta línea tiene su origen en la desembocadura del Arroyo Yroysa en el Río Tebicuary Mí, siguiendo el curso de éste Río hasta la desembocadura del Arroyo Gasory en el mismo Río. Las coordenadas del Punto Nº 18 son: Norte 7149831.08; Este 596161.71, linda con el Distrito de José Fassardi del Departamento Guairá.
 
-“Art. 2.º El área delimitada del municipio modificado por el artículo anterior de la presente ley, abarca la Superficie de 69.271 ha 500 m² (SESENTA Y NUEVE MIL DOSCIENTOS SETENTA Y UN HECTÁREAS CON QUINIENTOS METROS CUADRADOS).
+> *Modificado por Ley N° 140/93 (2014-11-28)*
+
+### Artículo 2°
+
+
+El área delimitada del municipio modificado por el artículo anterior de la presente ley, abarca la Superficie de 69.271 ha 500 m² (SESENTA Y NUEVE MIL DOSCIENTOS SETENTA Y UN HECTÁREAS CON QUINIENTOS METROS CUADRADOS).
 
 Superficie Poligonal: 66.262 ha 7.520 m²
 
@@ -79,11 +83,9 @@ Superficie Extra Poligonal: + 6.936 ha 2.500 m²
 
 Superficie Intra Poligonal: - 3.927 ha 9.520 m²
 
-SUPERFICIE TOTAL: 69.271 ha 0500 m²”
+SUPERFICIE TOTAL: 69.271 ha 0500 m²
 
-### Artículo 2°
-
-Comuníquese al Poder Ejecutivo.
+> *Modificado por Ley N° 140/93 (2014-11-28)*
 
 ---
 
