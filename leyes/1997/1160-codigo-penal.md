@@ -3395,11 +3395,14 @@ Violación de la patria potestad
 
 
 
-**Violencia familiar.**
 
-El que, aprovechándose del ámbito familiar, ejerciere violencia física o síquica en forma reiterada otro con quien conviva, será castigado con pena privativa de libertad hasta tres años o multa, siempre que del hecho no surjan lesiones, en los términos del Artículo 111; en cuyo caso no se requerirá de la reiteración
+Violencia familiar
 
-> *Modificado por Ley N° 4628 (2012-06-29)*
+1°.- El que, aprovechándose del ámbito familiar o de convivencia, ejerciera violencia física o psíquica sobre otro con quien convive o no, será castigado con pena privativa de libertad de uno a seis años.
+
+2°.- Cuando el hecho de violencia provocara los resultados de la Lesión Grave, se aplicará la sanción prevista en el Artículo 112 del Código Penal.
+
+> *Modificado por Ley N° 5378 (2014-12-23)*
 
 ### Artículo 230°
 
