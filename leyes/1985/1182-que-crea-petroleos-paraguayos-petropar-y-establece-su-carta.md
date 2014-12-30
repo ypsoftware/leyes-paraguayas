@@ -347,11 +347,10 @@ PETROPAR abonará las tasas fiscales, los impuestos y tasas municipales.
 
 ### Artículo 43°
 
-PETROPAR transferirá el 30% (TREINTA POR CIENTO) de sus utilidades netas anuales al Tesoro Nacional. Este monto será reconocido como gasto deducible para la liquidación del tributo previsto el Decreto-Ley N° 9240/49. El porcentaje restante será destinado a la capitalización de la empresa y a ala creación de reservas para el cumplimento de sus objetivos.
 
-XII.
+> **Derogado.**
 
-REGIMEN DE COTRATACION DE OBRAS, ENAJENACIONES Y ADQUISCIONES.
+> *Derogado por Ley N° 5395 (2014-12-30)*
 
 ### Artículo 44°
 
