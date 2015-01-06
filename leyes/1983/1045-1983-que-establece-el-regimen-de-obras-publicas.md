@@ -30,7 +30,8 @@ c) las prestaciones de servicios profesionales de consultorías como la elaborac
 ### Artículo 2°
 
 
-Las rutas, vías férreas, puentes y puertos a que se refiere el artículo 1o. son:
+
+Las rutas, vías férreas, puentes y puertos a que se refiere el artículo 1° son:
 
 A. RUTAS PAVIMENTADAS (asfalto - cemento - empedrado)
 
@@ -54,7 +55,7 @@ TRAMO 9: Pozo Colorado - General Díaz - Misión San José Estero.
 
 TRAMO 10: Chaco-í - Acceso a Nanawa - General Bruguez - Teniente Rojas Silva - General Díaz.
 
-TRAMO 11: Bella Vista del Apa - Cruce Ruta 5 (Pedro Juan Caballero -Concepción).
+TRAMO 11: Bella Vista del Apa - Cruce Ruta 5 (Pedro Juan Caballero Concepción).
 
 TRAMO 12: Pedro Juan Caballero - Cerro Corá-í - Portera Ortiz - San Luis - Estrella - Bella Vista del Apa.
 
@@ -142,7 +143,7 @@ TRAMO 53: Mauricio José Troche - Doctor Botrel - Natalicio Talavera.
 
 TRAMO 54: Villarrica - Cerro Acatí.
 
-TRAMO 55: Pilar - Humaitá - Itapirú - General Díaz - Mayor Martínez -Desmochados.
+TRAMO 55: Pilar - Humaitá - Itapirú - General Díaz - Mayor Martínez - Desmochados.
 
 TRAMO 56: Isla Ombú - Desmochados - Villalbín - Ramal a Cerrito - Laureles - Ayolas.
 
@@ -152,7 +153,7 @@ TRAMO 58: Ayolas - San Cosme y Damián.
 
 TRAMO 59: Villeta - Villa Oliva - Alberdi - Villa Franca - Pilar.
 
-TRAMO 60: Km. 192,5 (Transchaco) - Río Negro Oeste.
+TRAMO 60: Km 192,5 (Transchaco) - Río Negro Oeste.
 
 TRAMO 61: Paraguarí - Cerro Porteño - Ruta Acahay a La Colmena - Tebicuary-mí.
 
@@ -198,7 +199,7 @@ TRAMO 81: San Juan Nepomuceno - San Francisco.
 
 TRAMO 82: Carlos Antonio López - Empalme Ruta 6.
 
-TRAMO 83: Mcal. Estigarribia - Pozo Hondo.
+TRAMO 83: Mariscal. Estigarribia - Pozo Hondo.
 
 TRAMO 84: Santa Rosa del Mbutuy - Capiibary - Yhovy - Cruce Guaraní - Cruce Carolina.
 
@@ -214,13 +215,15 @@ TRAMO 89: Carayao - Cleto Romero - Juan de Mena.
 
 TRAMO 90: Aeropuerto Guaraní (Minga Guazú) - Hernandarias.
 
-TRAMO 91: Presidente Franco (Segundo Puente) – Ruta 7(Km 18).
+TRAMO 91: Presidente Franco (Segundo Puente) - Ruta 7(Km 18).
 
 TRAMO 92: Ruta 7 (Km 18) - Hernandarias (circunvalación).
 
 TRAMO 93: Acceso a la Ciudad de Asunción (Ruta 2).
 
-B. VIAS FERREAS
+TRAMO 94: Mejoramiento de la Ruta Desvío Centinela - Tte. Montania - Mariscal. Estigarribia - Cruce Don Silvio - Pozo Hondo.
+
+B. VIAS FÉRREAS
 
 a. Pedro Juan Caballero - Concepción.
 
@@ -240,11 +243,11 @@ h. Rehabilitación Asunción - Encarnación.
 
 i. Ciudad del Este - Asunción.
 
-j. Frontera Paraguay – Brasil – Presidente Franco – Santa Rita.
+j. Frontera Paraguay - Brasil - Presidente Franco - Santa Rita.
 
-k. Frontera Paraguay – Brasil – Presidente Franco – Santa Rita – Maria Auxiliadora – Pirapó – Encarnación.
+k. Frontera Paraguay - Brasil - Presidente Franco - Santa Rita - Maria Auxiliadora - Pirapó - Encarnación.
 
-l. Pirapó – San Ignacio – Pilar – Frontera Paraguay – Argentina.
+l. Pirapó - San Ignacio - Pilar - Frontera Paraguay - Argentina.
 
 C. PUENTES
 
@@ -274,11 +277,13 @@ l. Minga Guazú - Hernandarias, sobre el Río Acaray.
 
 m. San Estanislao - Guayaibí, sobre el arroyo Tapiracuai.
 
-n. Curupayty – Provincia del Chaco (RA) sobre el Río Paraguay.
+n. Curupayty - Provincia del Chaco (RA) sobre el Río Paraguay.
 
-ñ. Asunción – Clorinda (RA) sobre el Río Paraguay.
+o. Asunción - Clorinda (RA) sobre el Río Paraguay.
 
-o. Puerto Murtinho (RB) – Carmelo Peralta sobre el Río Paraguay.
+p. Puerto Murtinho (RB) - Carmelo Peralta sobre el Río Paraguay.
+
+q. Acceso al Segundo Puente (Paraguay - Brasil) Puerto Presidente Franco - Foz de Yguazu. (Acceso Rural, Acceso Urbano, Área de Control Primario e Integrado, Liberación de Franja de Dominio).
 
 D. PUERTOS
 
@@ -344,13 +349,21 @@ b. Sobre el Río Paraná:
 
 E. AEROPUERTOS en todo el territorio nacional.
 
-F. ACUEDUCTOS – POLIDUCTOS – ALCODUCTOS – OLEODUCTOS – GASODUCTOS en todo el territorio nacional.
+F. ACUEDUCTOS - POLIDUCTOS - ALCODUCTOS - OLEODUCTOS - GASODUCTOS en todo el territorio nacional.
 
-G. GENERACIÓN DE ENERGÍA ELÉCTRICA: Hidráulica – Térmica – Eólica en todo el territorio nacional y binacional.
+G. GENERACIÓN DE ENERGÍA ELÉCTRICA: Hidráulica - Térmica - Eólica en todo el territorio nacional y binacional.
 
 H. LÍNEA DE TRANSMISIÓN DE ENERGÍA ELÉCTRICA.
 
-I. SANEAMIENTO – AGUA POTABLE – ALCANTARILLADO SANITARIO –TRATAMIENTO DE EFLUENTES en todo el territorio nacional.”
+I. SANEAMIENTO - AGUA POTABLE - ALCANTARILLADO SANITARIO -TRATAMIENTO DE EFLUENTES en todo el territorio nacional.
+
+J- OTRAS OBRAS DE INFRAESTRUCTURA
+
+1.- Construcción de penitenciarías en Alto Paraná.
+
+2.- Construcción del Centro Integral de Rehabilitación Social.
+
+3.- Obras en favor de los pobladores de la franja costera.
 
 A este listado podrá agregárseles otras obras que se consideren y justifiquen como necesarias.
 
@@ -358,7 +371,7 @@ El Poder Ejecutivo establecerá anualmente el régimen de prioridad en las const
 
 El régimen previsto en la presente ley se aplicará en tanto las rutas, vías férreas, puentes y puertos antes indicados, no cuenten con financiamiento ya aprobado por ley.
 
-> *Modificado por Ley N° 5074 (2013-10-23)*
+> *Modificado por Ley N° 5396 (2015-01-06)*
 
 ### Artículo 3°
 
