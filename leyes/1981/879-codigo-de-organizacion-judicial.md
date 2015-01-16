@@ -1564,19 +1564,34 @@ Los Miembros de la Corte Suprema de Justicia, los del los Tribunales, los Jueces
 ### Artículo 191°
 
 
+
 Los requisitos para ser Miembro de la Corte Suprema de Justicia son los establecidos en la Constitución Nacional, para las demás magistraturas se requerirá:
 
-a) para ser Miembro de los Tribunales de Apelación y Tribunal de Cuentas: edad mínima de treinta y cinco años, título de abogado otorgado por una universidad pública o privada, nacional o extranjera debidamente revalidado, haber ejercido efectivamente la profesión, una magistratura judicial o la cátedra universitaria en materia jurídica durante cinco años cuanto menos, conjunta, separada o alternativamente;
+1. Para ser Miembro de los Tribunales de Apelación y Tribunal de Cuentas:
 
-b) para ser Juez de Primera Instancia: título de abogado, edad mínima de treinta años y haber ejercido la profesión de abogado, o una magistratura judicial por el término de cinco años, o la cátedra universitaria en materia jurídica durante cinco años cuanto menos conjunta, separada o alternativamente;
+a) edad mínima de treinta y cinco años;
 
-c) para ser Juez de Paz Letrado, Juez de Instrucción y Miembro del Ministerio de la Defensa Pública: edad mínima de veinticinco años y título de abogado; y,
+b) título de abogado otorgado por una universidad pública o privada, nacional o extranjera debidamente revalidado; y,
 
-d) para ser Juez de Paz: edad mínima de veinticinco años y título de abogado.
+c) haber ejercido durante diez años cuanto menos, conjunta, separada o alternativamente: la profesión, la magistratura judicial, la catedra universitaria en materia jurídica, funciones en el Poder Judicial, Ministerio Público o Ministerio de la Defensa Pública.
 
-Además de estos requisitos para el nombramiento en la magistratura judicial, será necesario, reconocida honorabilidad, nacionalidad paraguaya y haber cumplido con los requisitos exigidos por la Ley “QUE ORGANIZA EL FUNCIONAMIENTO DEL CONSEJO DE LA MAGISTRATURA
+2. Para ser Juez de Primera Instancia:
 
-> *Modificado por Ley N° 3284 (2007-08-24)*
+a) edad mínima de treinta años;
+
+b) título de abogado otorgado por una universidad pública o privada, nacional o extranjera debidamente revalidado; y,
+
+c) haber ejercido durante cinco años cuanto menos, conjunta, separada o alternativamente: la profesión, la magistratura judicial, la catedra universitaria en materia jurídica o funciones en el Poder Judicial, Ministerio Público o Ministerio de la Defensa Pública.
+
+3. Para ser Juez de Paz y de Paz Letrada:
+
+a) edad mínima de veinticinco años; y,
+
+b) título de abogado.
+
+Además de estos requisitos para el nombramiento en la magistratura judicial, será necesario, reconocida honorabilidad, nacionalidad paraguaya y haber cumplido con los requisitos exigidos por la Ley N° 296/94 “QUE ORGANIZA EL FUNCIONAMIENTO DEL CONSEJO DE LA MAGISTRATURA”.
+
+> *Modificado por Ley N° 5397 (2015-01-16)*
 
 ### Artículo 192°
 
