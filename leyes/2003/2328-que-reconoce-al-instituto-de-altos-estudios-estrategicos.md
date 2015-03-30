@@ -15,11 +15,17 @@ short_title: "QUE RECONOCE AL INSTITUTO DE ALTOS ESTUDIOS ESTRATEGICOS…"
 
 ### Artículo 1°
 
-Reconócese al Instituto de Altos Estudios Estratégicos (IAEE), creado por Ley N° 9 del 27 de agosto de 1968 y con esta denominación por Ley N° 1485 del 14 de octubre de 1999, como una Institución de Educación Superior del sector público, que se regirá por la presente Ley, el Artículo 79 de la Constitución Nacional, y las normas pertinentes de la Ley N° 1264/98 “GENERAL DE EDUCACION”.
+
+Reconócese al Instituto de Altos Estudios Estratégicos (IAEE), creado por Ley N° 9 del 27 de agosto de 1968 y con esta denominación por Ley N° 1485 del 14 de octubre de 1999, como Instituto Superior de gestión pública, que se regirá por el Artículo 79 de la Constitución Nacional, por la presente Ley y las disposiciones legales vigentes en la educación superior.
+
+> *Modificado por Ley N° 5409 (2015-03-30)*
 
 ### Artículo 2°
 
-Facúltase al Instituto de Altos Estudios Estratégicos (IAEE) a implementar programas de postgrado en estudios estratégicos, a expedir título de maestría en dicha carrera, con planes y programas de estudio de alta exigencia, a través de la investigación y la extensión académica.
+
+Facúltase al Instituto de Altos Estudios Estratégicos (IAEE), reconocido como Instituto de Educación Superior a desarrollar programas de postgrado en estudios estratégicos relacionados a la Defensa y Desarrollo, con planes y programas de estudio de alta exigencia, a través de la investigación científica y la extensión académica, de conformidad a lo establecido en la Ley N° 4995/13 “DE EDUCACIÓN SUPERIOR”.
+
+> *Modificado por Ley N° 5409 (2015-03-30)*
 
 ### Artículo 3°
 
