@@ -121,7 +121,8 @@ DE LAS IMPORTACIONES
 
 ### Artículo 12°
 
-A quien se le apruebe o amplíe un programa de maquila y que tenga registrado su respectivo contrato, podrá importar temporalmente en los términos del mismo y conforme a esta ley y su reglamento, las siguientes mercancías:
+
+A quienes se les apruebe o amplíe un programa de maquila y que tenga registrado su respectivo contrato, podrá importar temporalmente en los términos del mismo y conforme a esta Ley y su reglamento, las siguientes mercancías:
 
 1. Materias primas e insumos necesarios para la producción y su exportación.
 
@@ -129,11 +130,13 @@ A quien se le apruebe o amplíe un programa de maquila y que tenga registrado su
 
 3. Herramientas, equipos y accesorios de seguridad industrial y productos necesarios para la prevención y control de la contaminación ambiental de la planta productiva, manuales de trabajo y planos industriales, así como equipos de telecomunicación y cómputo, para uso exclusivo de la industria maquiladora.
 
-4. Cajas de traileres y contenedores.
+4. Cajas de tráileres y contenedores.
 
-Tratándose de materias primas e insumos, una vez importados, su permanencia en el país no deberá exceder de un plazo de seis meses, contados a partir de la fecha en que se importen. Dicho plazo podrá prorrogarse a pedido de parte y por motivo debidamente justificado por resolución biministerial y por un plazo que no excederá del anterior.
+Tratándose de materias primas e insumos, una vez importados, su permanencia en el país no deberá exceder de un plazo de doce meses, contados a partir de la fecha de importación. Dicho plazo podrá prorrogarse a pedido de parte y por motivo debidamente justificado por resolución biministerial y por un plazo que no excederá del anterior.
 
-Los demás bienes a los que se refiere este artículo, podrán permanecer en el país en tanto continúen vigentes los programas para los que fueron autorizados, con excepción de las cajas de traileres y contenedores cuya permanencia máxima en el país será de seis meses.
+Los demás bienes a los que se refiere este artículo, podrán permanecer en el país en tanto continúen vigentes los programas para los que fueron autorizados, con excepción de las cajas de tráileres y contenedores, cuya permanencia máxima en el país será de seis meses.
+
+> *Modificado por Ley N° 5408 (2015-03-30)*
 
 ### Artículo 13°
 
