@@ -15,19 +15,41 @@ short_title: "QUE CREA LA COMISION NACIONAL DE DEFENSA DE LOS RECURSOS…"
 
 ### Artículo 1°
 
-Créase la Comisión Nacional de Defensa de los Recursos Naturales con el objeto de desarrollar una acción eficiente y eficaz para la defensa del Ecosistema.
+
+Créase la Comisión Nacional de Defensa de los Recursos Naturales con el objeto de desarrollar una acción eficiente y eficaz para la defensa, preservación, conservación, recomposición y mejoramiento del medio ambiente, así como su conciliación con el desarrollo humano integral.
+
+> *Modificado por Ley N° 5413 (2015-03-30)*
 
 ### Artículo 2°
 
-La Comisión Nacional de Defensa de los Recursos Naturales velará por la preservación del Medio Ambiente, orientando y coordinando la acción de los Organismos que desarrollen actividades para la defensa del Ecosistema.
+
+La Comisión Nacional de Defensa de los Recursos Naturales tendrá las siguientes funciones:
+
+a) Promover el análisis y estudio de proyectos de ley de contenido ambiental.
+
+b) Velar por la observancia de las leyes ambientales.
+
+c) Coordinar con otras instituciones, dentro del proceso legislativo, la elaboración de proyectos de ley.
+
+d) Difundir las leyes ambientales y promover la preservación de los recursos naturales.
+
+> *Modificado por Ley N° 5413 (2015-03-30)*
 
 ### Artículo 3°
 
-La Comisión elaborará un Proyecto de Legislación Ambiental y podrá solicitar la cooperación de entidades públicas y privadas, nacionales e internacionales, para el cumplimiento de sus fines.
+
+La Comisión elaborará Proyectos de Legislación Ambiental y podrá solicitar la cooperación de entidades públicas y privadas, nacionales e internacionales, para la aplicación de una política gubernamental que cumpla con sus fines; además, podrá solicitar informes u opiniones de personas y entidades públicas o privadas, a fin de producir sus dictámenes o de facilitar el ejercicio de las funciones que corresponden a la Comisión.
+
+> *Modificado por Ley N° 5413 (2015-03-30)*
 
 ### Artículo 4°
 
-La Comisión será integrada por dos Senadores y dos Diputados y un representante de cada uno de los siguientes Ministerios: del Interior; Defensa Nacional; Salud Pública y Bienestar Social; Agricultura y Ganadería; Educación y Culto; Industria y Comercio; la Facultad de Agronomía y Veterinaria; y, además, por representantes de las Instituciones siguientes: Secretaría Técnica de Planificación; Instituto de Desarrollo Municipal (IDM); Asociación Rural del Paraguay; Unión Industrial Paraguaya, de las Cooperativas Agrícolas del país y representante de Organizaciones Indígenas. La Comisión será presidida por uno de los representantes de la Cámara de Senadores y, en ausencia o por impedimento de éste, por el representante de la Cámara de Diputados.
+
+La Comisión será integrada por dos Senadores y dos Diputados y un representante de cada una de las siguientes Instituciones:
+
+Ministerio del Interior; Ministerio de Defensa Nacional; Ministerio de Salud Pública y Bienestar Social; Ministerio de Agricultura y Ganadería; Ministerio de Educación y Cultura; Ministerio de Industria y Comercio; Ministerio Público; Secretaría del Ambiente; Secretaría Técnica de Planificación; Contraloría General de la República, Instituto Nacional de Desarrollo Rural y de la Tierra; Instituto Forestal Nacional; Organización Paraguaya de Cooperación Intermunicipal; Instituto Nacional del Indígena; Facultad de Ciencias Agrarias, Facultad de Ciencias Veterinarias y Facultad de Ciencias Exactas y Naturales de la Universidad Nacional de Asunción; Unión Industrial Paraguaya; Asociación Rural del Paraguay y la Federación de Cooperativas de la Producción. La Comisión será presidida por uno de los representantes de la Cámara de Senadores y, en ausencia o por impedimento de este, por el representante de la Cámara de Diputados.
+
+> *Modificado por Ley N° 5413 (2015-03-30)*
 
 ### Artículo 5°
 
