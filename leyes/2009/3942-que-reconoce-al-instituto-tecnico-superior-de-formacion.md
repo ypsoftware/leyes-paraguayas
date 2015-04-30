@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/3194/texto
 short_title: "QUE RECONOCE AL INSTITUTO TECNICO SUPERIOR DE FORMACION…"
+derogada: true
+derogada_por: Ley 5426
+derogada_fecha: 2015-04-30
 ---
 
 # LEY Nº 3942
@@ -28,3 +31,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a un día del mes de setiembre del año dos mil nueve, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a veinticuatro días del mes de noviembre del año dos mil nueve, de conformidad a lo dispuesto en el Artículo 206 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 5426 (2015-04-30)*
