@@ -743,9 +743,14 @@ La Dirección del Registro del Estado Civil podrá también por resolución fund
 
 ### Artículo 119°
 
-Podrán demandar la rectificación de una partida las personas interesadas o sus herederos, ante el Juez de Primera Instancia en los Civil del lugar donde se extendió ésta o el de su domicilio. El procedimiento será sumario, con intervención del Ministerio Público.
+
+Podrán demandar la rectificación de una partida las personas interesadas o sus herederos, ante el Juez de Primera Instancia en lo Civil del lugar donde se extendió esta o el de su domicilio. El procedimiento será sumario, con intervención del Ministerio Público.
 
 Si hubiere oposición, se seguirán los trámites en juicio ordinario.
+
+En caso que se trate de una acción de filiación en que sea competente el Juzgado de la Niñez y la Adolescencia, podrá acumularse con el mismo la acción para rectificación de la partida de nacimiento correspondiente, con intervención del Ministerio Público.
+
+> *Modificado por Ley N° 5420 (2015-05-06)*
 
 ### Artículo 120°
 
