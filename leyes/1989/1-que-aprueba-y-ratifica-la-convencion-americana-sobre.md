@@ -101,7 +101,20 @@ Libertad de Asociación. 1. Todas las personas tienen derecho a asociarse librem
 
 ### Artículo 17°
 
-Protección a la Familia. 1. La Familia es el elemento natural y fundamental de la sociedad y debe ser protegida por la sociedad y el Estado.2. Se reconoce el derecho del hombre y la mujer a contraer matrimonio y a fundar una familia si tienen la edad y las condiciones requeridas para ello por las leyes internas, en la medida en que éstas no afecten al principio de no discriminación establecido en esta Convención.3. El matrimonio no puede celebrarse sin el libre y pleno consentimiento de los contrayentes.4. Los Estados Partes deben tomar medidas apropiadas para asegurar la igualdad de derechos y la adecuada equivalencia de responsabilidades de los cónyuges en cuanto al matrimonio, durante el matrimonio y en caso de disolución del mismo. En caso de disolución, se adoptarán disposiciones que aseguren la protección necesaria a los hijos, sobre la base única del interés y conveniencia de ellos.5. La ley debe reconocer iguales derechos tanto a los hijos nacidos fuera del matrimonio como a los nacidos dentro del mismo.
+
+No pueden contraer matrimonio:
+
+1) las personas que no hayan cumplido dieciocho años de edad, con la excepción establecida en el Artículo 20;
+
+2) los ligados por vínculo matrimonial subsistente;
+
+3) los que padezcan de enfermedad crónica contagiosa y transmisible por herencia; excepto matrimonio in extremis o en beneficio de los hijos comunes;
+
+4) los que padezcan de enfermedad mental crónica que les prive del uso de la razón, aunque fuere en forma transitoria; y,
+
+5) los sordomudos, ciego-sordos y ciego-mudos que no puedan expresar su voluntad de manera indubitable.
+
+> *Modificado por Ley N° 5419 (2015-05-06)*
 
 ### Artículo 18°
 
