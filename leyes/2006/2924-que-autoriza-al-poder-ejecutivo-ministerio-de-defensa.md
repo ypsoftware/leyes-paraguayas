@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/2007/texto
 short_title: "QUE AUTORIZA AL PODER EJECUTIVO - MINISTERIO DE DEFENSA…"
+derogada: true
+derogada_por: Ley 5443
+derogada_fecha: 2015-06-11
 ---
 
 # LEY Nº 2924
@@ -42,3 +45,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a seis días del mes de abril del año dos mil seis, y por la Honorable Cámara de Senadores, a once días del mes de mayo del año dos mil seis, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 207, numeral 1 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 5443 (2015-06-11)*
