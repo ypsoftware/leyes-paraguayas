@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/2634/texto
 short_title: "QUE CONCEDE A LA CONFEDERACION SUDAMERICANA DE FUTBOL…"
+derogada: true
+derogada_por: Ley 5445
+derogada_fecha: 2015-06-24
 ---
 
 # LEY Nº 1070
@@ -32,3 +35,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobada por la Honorable Cámara de Senadores el veinte de diciembre del año un mil novecientos noventa y seis y por la Honorable Cámara de Diputados, sancionándose la Ley, el veintinueve de mayo del año un mil novecientos noventa y siete.*
+
+> *Derogada en su totalidad por Ley N° 5445 (2015-06-24)*
