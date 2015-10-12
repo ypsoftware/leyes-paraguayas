@@ -367,7 +367,10 @@ Instalada la Junta, procederán los titulares al nombramiento del seno de ella, 
 
 ### Artículo 44°
 
-Las Juntas Municipales celebrarán sesión extraordinaria, una vez a la semana; y extraordinariamente, cuantas veces lo requieran las necesidades urgentes de la Comuna.-
+
+El personal civil incorporado a la Institución como personal de servicio, administrativo y técnico, estará sujeto a la Ley N° 1.626/00 “DE LA FUNCIÓN PÚBLICA”.
+
+> *Modificado por Ley N° 5505 (2015-10-12)*
 
 ### Artículo 45°
 
