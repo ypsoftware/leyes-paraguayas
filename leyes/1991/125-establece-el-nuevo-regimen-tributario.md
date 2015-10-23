@@ -745,9 +745,28 @@ La Administración establecerá las formalidades y requisitos que deberán cumpl
 
 ### Artículo 60°
 
-Base imponible. La base imponible la constituye la valuación fiscal de los inmuebles establecida por el Servicio Nacional de Catastro.
 
-El valor mencionado será ajustado anualmente en forma gradual hasta alcanzar el valor real de mercado, en un período no menor a cinco años. Dicho ajuste anual no podrá ser superior al porcentaje de variación que se produzca en el índice de precios al consumo en período de doce meses anteriores al 1 de noviembre de cada año civil que transcurre, de acuerdo con la información que en tal sentido comunique el Banco Central del Paraguay o el Organismo Oficial competente. El valor así determinado será incrementado anualmente en un porcentaje que no podrá superar el 15% (quince por ciento) de dicho valor. En los inmuebles rurales, las mejoras o edificaciones construcciones no formarán parte de la base imponible.
+Base Imponible. La base imponible constituirá la valuación fiscal de los inmuebles establecida por el Servicio Nacional de Catastro, la cual estará dividida en inmuebles urbanos y rurales.
+
+El Poder Ejecutivo aprobará por Decreto anualmente el sistema de valoración fiscal de los inmuebles urbanos y rurales, determinado por el Servicio Nacional de Catastro.
+
+Se considerarán “inmuebles” urbanos aquellos que están comprendidos dentro de la zona urbana de los municipios; e inmuebles rurales aquellos que se encuentren fuera de dicha zona, de conformidad con lo dispuesto en la Ley N° 3.966/10 “ORGÁNICA MUNICIPAL”.
+
+Con relación a los inmuebles urbanos, que fuesen incorporados como tales al Registro Catastral, el Servicio Nacional de Catastro deberá determinar por separado el valor de la tierra y de las construcciones. La suma de ambos valores constituirá el valor fiscal de los inmuebles.
+
+En el régimen de propiedad horizontal, barrios cerrados u otros sistemas de propiedad que tengan áreas propias y comunes, el valor inmobiliario se determinará de la manera precedente, estableciendo el valor de la tierra y de las mejoras y adjudicando a cada unidad inmobiliaria el valor del área propia y la parte proporcional del área común, según el Reglamento de Copropiedad inscripto en la Dirección General de los Registros Públicos.
+
+La unidad mínima de cálculo para los inmuebles urbanos será el metro cuadrado, teniendo en cuenta su ubicación y la zonificación geoeconómica definida por los municipios. El valor de las construcciones se determinará por metro cuadrado y se establecerán categorías de conformidad con su antigüedad y las características particulares de las construcciones.
+
+El valor de la tierra en los inmuebles rurales se determinará teniendo en cuenta su ubicación en zonas que serán definidas, de acuerdo con la aptitud agrológica natural de los suelos y/o su costo de oportunidad. La unidad mínima de cálculo para determinar el valor de los inmuebles rurales será la hectárea. Los inmuebles rurales no podrán estar afectados por ninguna otra forma de tributo o tasa municipal.
+
+A pedido del propietario, siempre que lo acrediten debida y legalmente, las áreas rurales boscosas, protegidas o afectadas por otras restricciones legales de uso o explotación o con áreas poco productivas por diferir significativamente la calidad del suelo respecto a lo normal, que estén exentas del pago del impuesto inmobiliario o gocen de franquicias especiales, serán tenidas en cuenta para la determinación de su Base Imponible por el Servicio Nacional de Catastro.
+
+La valuación fiscal de los inmuebles será ajustada anualmente según la variación que sufra el Índice de Precios al Consumidor (IPC) en el período de los doce meses anteriores al primero de noviembre de cada año civil que transcurre de acuerdo con lo establecido por el Banco Central del Paraguay. El Poder Ejecutivo podrá revisar cada cinco años los índices de actualización que resulten del comportamiento de la variación del valor de los inmuebles y reajustarlos por decreto.
+
+Los municipios proporcionarán al Servicio Nacional de Catastro toda la información requerida respecto a los inmuebles de sus respectivas jurisdicciones, tanto urbanos como rurales, en referencia a mejoras y obras de infraestructura.
+
+> *Modificado por Ley N° 5513 (2015-10-23)*
 
 ### Artículo 61°
 
@@ -755,7 +774,14 @@ Tasa Impositiva. La tasa impositiva del impuesto será del 1% (uno por ciento). 
 
 ### Artículo 62°
 
-Liquidación y pago. El impuesto será liquidado por la Administración, la que establecerá la forma y oportunidad del pago.
+
+Liquidación y Pago: El Servicio Nacional de Catastro liquidará el Impuesto Inmobiliario a nombre de la municipalidad en la que se encuentre el inmueble, conforme a la información y valores registrados. La impresión de las facturas y su recaudación será realizada por cada municipio de conformidad al artículo 169 de la Constitución Nacional.
+
+Los inmuebles situados dentro de la jurisdicción de más de un municipio, pagarán el Impuesto Inmobiliario a la municipalidad que corresponda a prorrata por la superficie que el inmueble ocupe en su jurisdicción.
+
+El Servicio Nacional de Catastro percibirá por este servicio, el 1% (uno por ciento) del 70% (setenta por ciento), propiedad de la municipalidad, en concepto de aranceles.
+
+> *Modificado por Ley N° 5513 (2015-10-23)*
 
 ### Artículo 63°
 
@@ -783,7 +809,12 @@ En los casos de medidas judiciales, de las cuales por cualquier motivo deban pra
 
 ### Artículo 66°
 
-Gestiones administrativas y judiciales. No podrá tener curso ninguna diligencia o gestión judicial o administrativa relativa a inmuebles, así como tampoco la acción pertinente a la adquisición de bienes raíces por vía de la prescripción, si no se acompaña el certificado previsto en el Art. 64.
+
+Gestiones Judiciales, Administrativas u Obtención de Certificado de Cumplimiento Tributario: No podrá tener curso ninguna diligencia o gestión judicial o administrativa relativa a inmuebles, así como tampoco la acción pertinente a la adquisición de bienes raíces por vía de la prescripción, si no se acompaña el certificado previsto en el artículo 64.”
+
+IMPUESTO ADICIONAL A LOS BALDÍOS
+
+> *Modificado por Ley N° 5513 (2015-10-23)*
 
 ### Artículo 67°
 
@@ -803,13 +834,14 @@ El Poder Ejecutivo podrá establecer zonas de la periferia de la Capital y de la
 
 ### Artículo 70°
 
-Tasas Impositivas:
 
-1) Capital: 4%o. (cuatro por mil)
+Tasas Impositivas: Los porcentajes adicionales establecidos para lotes baldíos se calcularán sobre los valores fiscales de la tierra para los inmuebles urbanos ubicados en la Capital o en los municipios del interior del país, en siguiente forma:
 
-2) Municipios del interior: 1%o. (uno por mil)
+(VER PDF)
 
-IMPUESTO ADICIONAL A LOS INMUEBLES DE GRAN EXTENSION Y A LOS LATIFUNDIOS
+IMPUESTO ADICIONAL A LOS INMUEBLES RURALES
+
+> *Modificado por Ley N° 5513 (2015-10-23)*
 
 ### Artículo 71°
 
@@ -829,15 +861,12 @@ Base imponible. La base imponible la constituye la avaluación fiscal del inmueb
 
 ### Artículo 74°
 
-Tasas impositivas. El impuesto se determinará sobre:
 
-a) Inmuebles de gran extensión
-
-El tramo de la escala que corresponda a la superficie total gravada, indicará la tasa a aplicar sobre la base imponible correspondiente a dicha extensión.
+Tasas Impositivas. Los inmuebles rurales abonarán una tasa adicional en porcentaje (alícuota) al impuesto liquidado sobre los valores fiscales del inmueble rural, que se calcularán a cada propietario rural, sea persona física o jurídica, sumando el total de inmuebles en cada región, que posea él y su cónyuge, la sociedad conyugal que conforma y los hijos que se hallen bajo patria potestad, si lo tuviere, de la siguiente manera:
 
 (VER PDF)
 
-b) Los latifundios tendrán un recargo adicional de un 50% (cincuenta por ciento), sobre la escala precedente.
+> *Modificado por Ley N° 5513 (2015-10-23)*
 
 ### Artículo 75°
 
