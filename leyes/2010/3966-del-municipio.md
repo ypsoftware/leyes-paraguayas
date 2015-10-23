@@ -931,11 +931,28 @@ Se reunirán semanalmente o al menos dos veces al mes y se labrarán actas de su
 
 ### Artículo 60°
 
-Organización.
 
-Las Juntas Comunales de Vecinos tendrán su propia organización administrativa de acuerdo con la resolución que dicte la Intendencia Municipal.
+Base Imponible. La base imponible constituirá la valuación fiscal de los inmuebles establecida por el Servicio Nacional de Catastro, la cual estará dividida en inmuebles urbanos y rurales.
 
-Dentro de sus posibilidades económicas y de acuerdo con sus necesidades, y previa autorización de la Intendencia, podrán contar con funcionarios rentados.
+El Poder Ejecutivo aprobará por Decreto anualmente el sistema de valoración fiscal de los inmuebles urbanos y rurales, determinado por el Servicio Nacional de Catastro.
+
+Se considerarán “inmuebles” urbanos aquellos que están comprendidos dentro de la zona urbana de los municipios; e inmuebles rurales aquellos que se encuentren fuera de dicha zona, de conformidad con lo dispuesto en la Ley N° 3.966/10 “ORGÁNICA MUNICIPAL”.
+
+Con relación a los inmuebles urbanos, que fuesen incorporados como tales al Registro Catastral, el Servicio Nacional de Catastro deberá determinar por separado el valor de la tierra y de las construcciones. La suma de ambos valores constituirá el valor fiscal de los inmuebles.
+
+En el régimen de propiedad horizontal, barrios cerrados u otros sistemas de propiedad que tengan áreas propias y comunes, el valor inmobiliario se determinará de la manera precedente, estableciendo el valor de la tierra y de las mejoras y adjudicando a cada unidad inmobiliaria el valor del área propia y la parte proporcional del área común, según el Reglamento de Copropiedad inscripto en la Dirección General de los Registros Públicos.
+
+La unidad mínima de cálculo para los inmuebles urbanos será el metro cuadrado, teniendo en cuenta su ubicación y la zonificación geoeconómica definida por los municipios. El valor de las construcciones se determinará por metro cuadrado y se establecerán categorías de conformidad con su antigüedad y las características particulares de las construcciones.
+
+El valor de la tierra en los inmuebles rurales se determinará teniendo en cuenta su ubicación en zonas que serán definidas, de acuerdo con la aptitud agrológica natural de los suelos y/o su costo de oportunidad. La unidad mínima de cálculo para determinar el valor de los inmuebles rurales será la hectárea. Los inmuebles rurales no podrán estar afectados por ninguna otra forma de tributo o tasa municipal.
+
+A pedido del propietario, siempre que lo acrediten debida y legalmente, las áreas rurales boscosas, protegidas o afectadas por otras restricciones legales de uso o explotación o con áreas poco productivas por diferir significativamente la calidad del suelo respecto a lo normal, que estén exentas del pago del impuesto inmobiliario o gocen de franquicias especiales, serán tenidas en cuenta para la determinación de su Base Imponible por el Servicio Nacional de Catastro.
+
+La valuación fiscal de los inmuebles será ajustada anualmente según la variación que sufra el Índice de Precios al Consumidor (IPC) en el período de los doce meses anteriores al primero de noviembre de cada año civil que transcurre de acuerdo con lo establecido por el Banco Central del Paraguay. El Poder Ejecutivo podrá revisar cada cinco años los índices de actualización que resulten del comportamiento de la variación del valor de los inmuebles y reajustarlos por decreto.
+
+Los municipios proporcionarán al Servicio Nacional de Catastro toda la información requerida respecto a los inmuebles de sus respectivas jurisdicciones, tanto urbanos como rurales, en referencia a mejoras y obras de infraestructura.
+
+> *Modificado por Ley N° 5513 (2015-10-23)*
 
 ### Artículo 61°
 
@@ -955,9 +972,14 @@ e) cooperar con la Municipalidad en el cumplimiento de las funciones municipales
 
 ### Artículo 62°
 
-Patrimonio.
 
-Los inmuebles, muebles, herramientas y útiles adquiridos por las Juntas Comunales de Vecinos, formarán parte del patrimonio de la Municipalidad. Las Juntas Comunales de Vecinos no podrán enajenar ni gravar estos bienes sin la debida autorización de la Intendencia Municipal, con acuerdo de la Junta Municipal.
+Liquidación y Pago: El Servicio Nacional de Catastro liquidará el Impuesto Inmobiliario a nombre de la municipalidad en la que se encuentre el inmueble, conforme a la información y valores registrados. La impresión de las facturas y su recaudación será realizada por cada municipio de conformidad al artículo 169 de la Constitución Nacional.
+
+Los inmuebles situados dentro de la jurisdicción de más de un municipio, pagarán el Impuesto Inmobiliario a la municipalidad que corresponda a prorrata por la superficie que el inmueble ocupe en su jurisdicción.
+
+El Servicio Nacional de Catastro percibirá por este servicio, el 1% (uno por ciento) del 70% (setenta por ciento), propiedad de la municipalidad, en concepto de aranceles.
+
+> *Modificado por Ley N° 5513 (2015-10-23)*
 
 ### Artículo 63°
 
@@ -997,9 +1019,12 @@ Disposiciones Generales
 
 ### Artículo 66°
 
-Promoción de la Participación Ciudadana.
 
-Las municipalidades promoverán la participación de los habitantes del municipio en la gestión municipal y el desarrollo de las asociaciones ciudadanas para la realización de actividades de interés municipal, que serán reglamentados por Ordenanza, conforme a lo que establece la Constitución Nacional y las leyes que regulan la materia.
+Gestiones Judiciales, Administrativas u Obtención de Certificado de Cumplimiento Tributario: No podrá tener curso ninguna diligencia o gestión judicial o administrativa relativa a inmuebles, así como tampoco la acción pertinente a la adquisición de bienes raíces por vía de la prescripción, si no se acompaña el certificado previsto en el artículo 64.”
+
+IMPUESTO ADICIONAL A LOS BALDÍOS
+
+> *Modificado por Ley N° 5513 (2015-10-23)*
 
 ### Artículo 67°
 
@@ -1039,9 +1064,14 @@ Plenarias de las Juntas Municipales
 
 ### Artículo 70°
 
-Carácter Público de las Sesiones de las Juntas Municipales.
 
-Las sesiones plenarias de las Juntas Municipales serán de carácter público.
+Tasas Impositivas: Los porcentajes adicionales establecidos para lotes baldíos se calcularán sobre los valores fiscales de la tierra para los inmuebles urbanos ubicados en la Capital o en los municipios del interior del país, en siguiente forma:
+
+(VER PDF)
+
+IMPUESTO ADICIONAL A LOS INMUEBLES RURALES
+
+> *Modificado por Ley N° 5513 (2015-10-23)*
 
 ### Artículo 71°
 
@@ -1075,17 +1105,12 @@ Se entenderá por “falta o contravención” toda acción u omisión, califica
 
 ### Artículo 74°
 
-Derechos Procesales.
 
-1) no se sancionará a nadie más de una vez por la misma falta;
+Tasas Impositivas. Los inmuebles rurales abonarán una tasa adicional en porcentaje (alícuota) al impuesto liquidado sobre los valores fiscales del inmueble rural, que se calcularán a cada propietario rural, sea persona física o jurídica, sumando el total de inmuebles en cada región, que posea él y su cónyuge, la sociedad conyugal que conforma y los hijos que se hallen bajo patria potestad, si lo tuviere, de la siguiente manera:
 
-2) las faltas concurrentes se sancionarán cada una de ellas por separado;
+(VER PDF)
 
-3) no se aplicarán otras normas jurídicas por analogía ni se harán interpretaciones extensivas para condenar al trasgresor;
-
-4) si la acción u omisión que constituya falta dejare de serlo, la causa será sobreseída; y, si la calificación o el monto de las sanciones fuera modificado antes de concluido el proceso, se aplicará la norma que sea más favorable al encausado;
-
-5) si la calificación o el monto de las sanciones fuere modificado antes de concluido el proceso, se aplicará la norma que sea más favorable al encausado.
+> *Modificado por Ley N° 5513 (2015-10-23)*
 
 ### Artículo 75°
 
