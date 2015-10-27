@@ -15,53 +15,34 @@ short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA A FAVOR DEL ESTADO…"
 
 ### Artículo 1°
 
-Declárase de interés social y exprópiase a favor del Estado paraguayo - Secretaría de Acción Social (SAS), fracciones de inmuebles individualizadas como parte de la Finca N° 1021, Padrón Nº 2361 del Distrito de San Lorenzo, ubicada en el barrio Cocueré del citado municipio, para su posterior transferencia a título oneroso a favor de los actuales ocupantes del asentamiento Vy’a Rendá, cuyas dimensiones y linderos son los siguientes:
 
-FRACCION “C”:
+Declárase de interés social y exprópiase a favor del Estado paraguayo - Secretaría de Acción Social (SAS), fracciones de inmuebles individualizadas como parte de la Matrícula L13/64743 del Distrito de San Lorenzo, ubicada en el barrio Cocueré del citado municipio, para su posterior transferencia a Título oneroso a favor de los actuales ocupantes del asentamiento Vy’a Rendá, cuyas dimensiones y linderos son los siguientes:
 
-Lado 4’ - F: Con Rumbo S 50º 47’ 45” E (Sur, cincuenta grados, cuarenta y siete minutos, cuarenta y cinco segundos, Este), mide 348,78 m (trescientos cuarenta y ocho metros con setenta y ocho centímetros), linda con derechos de la señora Juana Bozzano de David.
+FRACCIÓN “B”:
 
-Lado F - G: Con rumbo S 60° 9’ 50’’ W (Sur, sesenta grados, nueve minutos, cincuenta segundos, Oeste), mide 86,32 m (ochenta y seis metros con treinta y dos centímetros), linda con calle, del fraccionamiento aprobado por Resolución Municipal N° 132/94.
+Al Norte: mide 474 m (cuatrocientos setenta y cuatro metros) y linda con calle;
 
-Lado G - H: Con rumbo N 65° 40’ 10’’ W (Norte, sesenta y cinco grados, cuarenta minutos, diez segundos, Oeste), mide 99,27m (noventa y nueve metros con veintisiete centímetros), linda con plaza del fraccionamiento aprobado por Resolución Municipal N° 132/94.
+Al Sur: mide 419,50 m (cuatrocientos diecinueve metros con cincuenta centímetros) y linda con calle;
 
-Lado H - I: Con rumbo S 24° 19’ 50’’ W (Sur, veinticuatro grados, diecinueve minutos, cincuenta segundos, Oeste), mide 130,97m (ciento treinta metros con noventa y siete centímetros), linda con la Fracción “A” del fraccionamiento aprobado por Resolución Municipal N°132/94.
+Al Este: mide 46,82 m (cuarenta y seis metros con ochenta y dos centímetros) y linda con Arroyo Tayazuapé; y,
 
-Lado I - 1: Con rumbo N 51° 33’’ W (Norte, cincuenta y un grados, treinta y tres minutos, Oeste), mide 231,68 m (doscientos treinta y un metros con sesenta y ocho centímetros), linda con la Fracción “5”.
+Al Oeste dos líneas: la 1ra. mide 35 m (treinta y cinco metros) y la 2da. mide 112,50 m (ciento doce metros con cincuenta centímetros), lindando ambas con calle.
 
-Lado 1 - 6: Con rumbo N 20° 30’ 43’’ E (Norte, veinte grados, treinta minutos, cuarenta y tres segundos, Este), mide 88,47 m (ochenta y ocho metros con cuarenta y siete centímetros), linda con la Fracción ‘’5’’.
+SUPERFICIE: 37.036 m2 con 1.547 cm2 (TREINTA Y SIETE MIL TREINTA Y SEIS METROS CUADRADOS CON UN MIL QUINIENTOS CUARENTA Y SIETE CENTÍMETROS CUADRADOS).
 
-Lado 6 - 4’: Con rumbo N 42° 59’ 40’’ E (Norte, cuarenta y dos grados, cincuenta y nueve minutos, cuarenta segundos, Este), mide 142,32 m (ciento cuarenta y dos metros con treinta y dos centímetros), linda con la reserva de la Finca N° 1021.
+FRACCIÓN “RESERVA”:
 
-Superficie: 6 ha. 0760 m2 (SEIS HECTAREAS CON SETECIENTOS SESENTA METROS CUADRADOS).
+Al Norte: mide 475,55 m (cuatrocientos setenta y cinco metros con cincuenta y cinco centímetros) y linda con derechos de Juana Bazzano de David;
 
-COORDENADAS U.T.M. - WGS 84 - ZONA 21 J
+Al Sur: tiene una quebrada de tres líneas: La 1ra. mide 190,23 m (ciento noventa metros con veintitrés centímetros) y linda con Fracción 5; La 2da. mide 88,47 m (ochenta y ocho metros con cuarenta y siete centímetros) y linda con Fracción 5; La 3ra. mide 238,05 m (doscientos treinta y ocho metros con cinco centímetros) y linda con la Fracción 5;
 
-Vértice Nº F: E= 451.865,05; N= 7.198.334,50
+Al Este: tiene una quebrada de tres líneas: La 1ra. mide 155,34 m (ciento cincuenta y cinco metros con treinta y cuatro centímetros) y linda con Fracción A, plaza y reservado para plaza: La 2da. mide 129,37 m (ciento veintinueve metros con treinta y siete centímetros) y linda con reservado para plaza; La 3ra. mide 41,91 m (cuarenta y un metros con noventa y un centímetros) y linda con calle; y,
 
-Vértice Nº 1: E= 451.465,81; N= 7.198.352,47
+Al Oeste: mide 282,89 m (doscientos ochenta y dos metros con ochenta y nueve centímetros) y linda con derechos de Rodolfo Sosa.
 
-FRACCION “D”:
+SUPERFICIE: 8 ha 4.621 m2 y 9.861 cm2 (OCHO HECTÁREAS CON CUATRO MIL SEISCIENTOS VEINTIÚN METROS CUADRADOS CON NUEVE MIL OCHOCIENTOS SESENTA Y UN CENTÍMETROS CUADRADOS)
 
-Línea A - B: Con Rumbo N 68º 21’ 6” W (Norte, sesenta y ocho grados, veintiún minutos, seis segundos, Oeste), mide 136,89 m (ciento treinta y seis metros con ochenta y nueve centímetros), linda con calle del Loteamiento de María Arguello de Rodas y John M. Rodas Arguello.
-
-Línea B - C: Con Rumbo N 66º 22’ 49” W (Norte, sesenta y seis grados, veintidós minutos, cuarenta y nueve segundos, Oeste), mide 201,83 m (doscientos un metros con ochenta y tres centímetros), linda con calle del Loteamiento de María Arguello de Rodas y John M. Rodas Arguello.
-
-Línea C - D: Con Rumbo N 24º 19’ 50” E (Norte, veinticuatro grados, diecinueve minutos, cincuenta segundos, Este), mide 34,98 m (treinta y cuatro metros con noventa y ocho centímetros), linda con la calle del fraccionamiento aprobado por Resolución Municipal Nº 132/94.
-
-Línea D - E: Con Rumbo N 60º 9’ 50” E (Norte, sesenta grados, nueve minutos, cincuenta segundos, Este), mide 112,05 m (ciento doce metros con cinco centímetros), linda con calle del fraccionamiento aprobado por Resolución Municipal Nº 132/94.
-
-Línea E - 3: Con Rumbo S 50º 47’ 45” E (Sur, cincuenta grados, cuarenta y siete minutos, cuarenta y cinco segundos, Este), mide 301,68 m (trescientos un metros con sesenta y ocho centímetros). Linda con Derechos de Juana Bazzano de David.
-
-Línea 3 - A: Con Rumbo S 46º 39’ 10” W (Sur, cuarenta y seis grados, treinta y nueve minutos, diez segundos, Oeste), mide 53,29 m (cincuenta y tres metros con veintinueve centímetros), linda con resto de la Fracción B.
-
-SUPERFICIE: 3 ha 0496 m2 (TRES HECTAREAS CON CUATROCIENTOS NOVENTA Y SEIS METROS CUADRADOS).
-
-COORDENADAS U.T.M. - WGS 84 - ZONA 21 J
-
-Vértice Nº E: E= 451.877,83; N= 7.198.324,86
-
-Vértice Nº 3: E= 452.118,81; N= 7.198.143,38
+> *Modificado por Ley N° 5510 (2015-10-27)*
 
 ### Artículo 2°
 
