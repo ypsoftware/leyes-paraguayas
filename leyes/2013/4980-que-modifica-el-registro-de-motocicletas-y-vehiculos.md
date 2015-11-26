@@ -15,17 +15,24 @@ short_title: "QUE MODIFICA EL REGISTRO DE MOTOCICLETAS Y VEHICULOS…"
 
 ### Artículo 1°
 
-Las personas físicas y jurídicas que se dediquen a la venta de motocicletas que aún no se encuentren matriculadas en el Registro del Automotor, en los términos de lo dispuesto en el Artículo 2º de la Ley Nº 608/95 “QUE CREA EL SISTEMA DE MATRICULACION Y LA CEDULA DEL AUTOMOTOR”, deberán entregar a los compradores de dichos vehículos el formulario necesario para la tramitación de la matrícula correspondiente ante la Dirección del Registro del Automotor, previamente completado con los datos de la motocicleta vendida y de su titular.
+
+Las personas físicas y jurídicas que se dediquen a la fabricación, ensamblaje y/o venta de motocicletas que aún no se encuentren matriculadas en el Registro del Automotor, en los términos de lo dispuesto en el artículo 2° de la Ley Nº 608/95 “QUE CREA EL SISTEMA DE MATRICULACIÓN Y LA CÉDULA DEL AUTOMOTOR”, deberán entregar a los compradores de dichos vehículos las chapas, el certificado de verificación y el formulario necesario para la tramitación de la cédula correspondiente ante la Dirección del Registro del Automotor.
+
+> *Modificado por Ley N° 5531 (2015-11-26)*
 
 ### Artículo 2°
 
-El formulario de referencia deberá ser proveído por la Dirección del Registro del Automotor y será confeccionado en triplicado. El original deberá ser remitido por el vendedor al Registro del Automotor dentro de los 2 (dos) días de la entrega de la motocicleta vendida; el duplicado será para el comprador, quien lo utilizará como documento habilitante para retirar la respectiva matrícula y; el triplicado quedará para el vendedor como constancia del cumplimiento de la obligación impuesta por la presente Ley, quien deberá archivarlo por espacio de 5 (cinco) años.
 
-La Cédula de Identidad será el único documento habilitante para la identificación de los compradores de motocicletas, para todos los trámites legales.
+El formulario de referencia deberá ser proveído por el Registro del Automotor y será confeccionado en duplicado. El original deberá ser entregado al comprador para su utilización como documento habilitante para circular y gestionar la matriculación en un plazo máximo de noventa días hábiles. El duplicado quedará en poder del vendedor como constancia del cumplimiento de la obligación impuesta por la presente ley, debiendo archivarlo por espacio de cinco años.
+
+> *Modificado por Ley N° 5531 (2015-11-26)*
 
 ### Artículo 3°
 
-Recibida la documentación requerida conforme al procedimiento establecido, el Registro del Automotor deberá otorgar la matrícula correspondiente, en un plazo que no exceda de 5 (cinco) días hábiles de recibida la documentación. Las motocicletas que circulen sin la matrícula respectiva, deberán ser retiradas de la vía pública por la autoridad encargada del tránsito vehicular; sin perjuicio de la aplicación de la sanción que correspondiere.
+
+El Registro del Automotor deberá otorgar la cédula del automotor correspondiente, en un plazo que no exceda de veinte días hábiles de recibida la documentación conforme al procedimiento establecido. Las motocicletas que circulen sin la matrícula respectiva, deberán ser retiradas de la vía pública por la autoridad encargada del tránsito vehicular; sin perjuicio de la aplicación de lo establecido en la Ley General de Tránsito y Seguridad Vial.
+
+> *Modificado por Ley N° 5531 (2015-11-26)*
 
 ### Artículo 4°
 
@@ -33,7 +40,10 @@ Una vez deducido los costos administrativos, se destinará el 10% (diez por cien
 
 ### Artículo 5°
 
-La autoridad de aplicación reglamentará la presente ley en el plazo de 60 (sesenta) días de su promulgación. El proceso indicado en la misma podrá hacerse de manera digitalizada, toda vez que la reglamentación respectiva lo habilite y que el comprador tenga una constancia física de la operación realizada, a los efectos del posterior retiro de la matrícula y la comprobación de que la misma se halla en trámite, de manera a poder circular por la vía pública dentro del plazo permitido.
+
+La autoridad de aplicación reglamentará la presente ley en el plazo máximo de sesenta días de su promulgación. El proceso indicado en la misma podrá hacerse de manera electrónica y con certificación digital, toda vez que la reglamentación respectiva lo habilite y que el comprador obtenga una constancia física de la operación realizada, a los efectos del posterior retiro de la cédula del automotor y la comprobación de que la misma se halla en trámite. Esta constancia permitirá la circulación por la vía pública dentro del plazo permitido.
+
+> *Modificado por Ley N° 5531 (2015-11-26)*
 
 ### Artículo 6°
 
