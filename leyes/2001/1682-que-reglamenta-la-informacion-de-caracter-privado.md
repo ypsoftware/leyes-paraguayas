@@ -42,15 +42,18 @@ Se consideran datos sensibles los referentes a pertenencias raciales o étnicas,
 ### Artículo 5°
 
 
+
 Los datos de personas físicas o jurídicas que revelen, describan o estimen su situación patrimonial, su solvencia económica o el cumplimiento de sus obligaciones comerciales y financieras, podrán ser publicados o difundidos solamente:
 
 a) cuando esas personas hubiesen otorgado autorización expresa y por escrito para que se obtengan datos sobre el cumplimiento de sus obligaciones no reclamadas judicialmente;
 
-b) cuando se trate de informaciones o calificaciones que entidades estatales o privadas deban publicar o dar a conocer en cumplimiento de disposiciones legales específicas; y,
+b) cuando se trate de informaciones o calificaciones que entidades estatales o privadas deban publicar o dar a conocer en cumplimiento de disposiciones legales específicas;
 
-c) cuando consten en las fuentes públicas de información
+c) cuando consten en las fuentes públicas de información; y,
 
-> *Modificado por Ley N° 1969 (2002-09-02)*
+d) cuando la información verse sobre el cumplimiento de obligaciones financieras y comerciales como límite de crédito, compromisos del mes y saldo adeudado.
+
+> *Modificado por Ley N° 5543 (2015-12-11)*
 
 ### Artículo 6°
 
@@ -84,17 +87,18 @@ Toda persona podrá acceder a la información y a los datos que sobre sí misma,
 ### Artículo 9°
 
 
+
 Las empresas, personas o entidades que suministran información sobre la situación patrimonial, la solvencia económica o sobre el cumplimiento de obligaciones comerciales no transmitirán ni divulgarán datos:
 
-b) pasados tres años de la inscripción de deudas vencidas no reclamadas judicialmente;
+a) pasados tres años de la inscripción de deudas vencidas no reclamadas judicialmente;
 
-c) pasados tres años del momento en que las obligaciones reclamadas judicialmente hayan sido canceladas por el deudor o extinguidas de modo legal;
+b) desde el momento que es cancelada la deuda, inmediatamente;
 
-h) sobre juicios de convocatoria de acreedores después de cinco años de la resolución judicial que la admita.
+c) sobre juicios de convocatoria de acreedores después de cinco años de la resolución judicial que la admita.
 
-Las empresas o entidades que suministran información sobre la situación patrimonial, la solvencia económica y el cumplimiento de compromisos comerciales y financieros deberán implementar mecanismos informáticos que de manera automática eliminen de su sistema de información los datos no publicables, conforme se cumplan los plazos establecidos en este Artículo
+Las empresas o entidades que suministran información sobre la situación patrimonial, la solvencia económica y el cumplimiento de compromisos comerciales y financieros deberán implementar mecanismos informáticos que de manera automática eliminen de su sistema de información los datos no publicables, conforme se cumplan los plazos establecidos en este artículo.
 
-> *Modificado por Ley N° 1969 (2002-09-02)*
+> *Modificado por Ley N° 5543 (2015-12-11)*
 
 ### Artículo 10°
 
