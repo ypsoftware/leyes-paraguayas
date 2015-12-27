@@ -15,7 +15,10 @@ short_title: "QUE ESTABLECE EL SEGURO SOCIAL PARA DOCENTES DEPENDIENTES…"
 
 ### Artículo 1°
 
-Establécese el seguro social obligatorio para el docente dependiente de instituciones educativas privadas, de la educación formal y no formal, y de todos los niveles y modalidades.
+
+Establécese el seguro social obligatorio para los docentes dependientes de instituciones educativas privadas, reconocidas por el Ministerio de Educación y Cultura, de la educación formal y no formal, y de todos los niveles y modalidades.
+
+> *Modificado por Ley N° 5555 (2015-12-27)*
 
 ### Artículo 2°
 
@@ -27,23 +30,50 @@ Este seguro social cubre los riesgos de enfermedad no profesional, maternidad, a
 
 ### Artículo 4°
 
-La base imponible de los sujetos de la presente Ley será la suma total de las remuneraciones realmente percibidas, ya sea en una sola entidad, o bajo la modalidad de pluriempleo.
+
+La base imponible del aporte obrero patronal para el Instituto de Previsión Social será la suma total de las remuneraciones percibidas, ya sea en una sola institución o bajo la modalidad de pluriempleo en otras instituciones educativas.
+
+> *Modificado por Ley N° 5555 (2015-12-27)*
 
 ### Artículo 5°
 
-El seguro social obligatorio de los docentes dependientes de instituciones educativas privadas, será financiado como sigue:
+
+El seguro social obligatorio de los docentes dependientes de instituciones educativas privadas, será financiado de la siguiente manera:
 
 a) Con la cuota mensual obligatoria del trabajador, que será del 9% (nueve por ciento) calculado sobre el total del salario o remuneraciones percibidas.
 
-b) Con la cuota mensual del empleador, que será del 14 % (catorce por ciento) calculado sobre el total del salario o remuneraciones percibidas por el personal docente.
+b) Con la cuota mensual del empleador, que será del 14% (catorce por ciento) calculado sobre el total del salario o remuneraciones percibidas por el personal docente.
 
-c) Con el aporte estatal previsto en el Artículo 6º de la presente Ley.
+c) Los demás ingresos que correspondan en virtud del artículo 17 del Decreto-Ley N° 1.860/50 aprobado por la Ley N° 375/56, modificado por la Ley N° 98/92 y sus leyes complementarias.
 
-d) Los demás ingresos que correspondan en virtud del Artículo 17 del Decreto Ley Nº 1860/50 aprobado por la Ley Nº 375/56, modificado por la Ley Nº 98/92 y sus Leyes complementarias.
+> *Modificado por Ley N° 5555 (2015-12-27)*
 
 ### Artículo 6°
 
-El Estado subsidiará, en reconocimiento de los años de servicios, un monto del 12,5 % (doce y medio por ciento), equivalente al aporte jubilatorio no abonado en ese período de tiempo para los docentes privados nacidos hasta el año 1975, y que a la fecha de promulgación de esta Ley cuenten con aportes superiores a cincuenta y nueve meses en el Instituto de Previsión Social. El subsidio se calculará de tal forma a completar los trescientos meses de aportes necesarios para la jubilación ordinaria completa (sesenta años de edad, veinticinco años de aporte y cien por ciento de haber jubilatorio). El aporte jubilatorio a cargo del Estado, previsto en esta disposición será actualizado en base a coeficientes o índices de revalorización a ser establecidos por el Instituto de Previsión Social.
+
+Los docentes dependientes de instituciones educativas privadas reconocidas por el Ministerio de Educación y Cultura, de la educación formal y no formal, y de todos los niveles y modalidades:
+
+1. Tendrán derecho a una prestación previsional con Componente No Contributivo a cargo del Ministerio de Hacienda, cumpliendo los siguientes requisitos:
+
+a) Haber nacido hasta el año 1975.
+
+b) Encontrarse en actividad laboral docente y cotizando al seguro social de salud del Instituto de Previsión Social, al 13 de julio de 2011.
+
+c) Contar con un mínimo de sesenta meses de aportes al Instituto de Previsión Social realizados bajo el régimen del artículo 2° de la Ley N° 1.085/65 “QUE MODIFICA Y AMPLÍA DISPOSICIONES DEL DECRETO-LEY N° 1.860 APROBADO POR LEY N° 375 DEL 26 DE AGOSTO DE 1957”, al 13 de julio de 2011.
+
+d) Tener por lo menos sesenta años de edad y veinticinco años de servicio docente en instituciones educativas privadas reconocidas por el Ministerio de Educación y Cultura, de todos los niveles y modalidades, al tiempo de la presentación de la solicitud de prestación previsional.
+
+2. Cumplidos los requisitos precedentes, el Instituto de Previsión Social calculará una Prestación Previsional como si el docente dependiente de instituciones educativas privadas hubiera cotizado durante un mil doscientos cincuenta semanas o veinticinco años. Obtenida esta Prestación Previsional, la misma estará compuesta y será financiada de la siguiente manera:
+
+a) Un Componente Contributivo o Jubilatorio a cargo del Instituto de Previsión Social, financiado con los aportes ingresados hasta la fecha de solicitud del Beneficio, el cual será proporcional al tiempo de aportes efectivamente realizados. Esta jubilación será reglamentada por el Instituto de Previsión Social.
+
+b) Un Componente No Contributivo a cargo del Ministerio de Hacienda, complementario de la jubilación del Instituto de Previsión Social.
+
+El Componente No Contributivo no excederá dos salarios mínimos legales para actividades diversas no especificadas y se sumará al componente contributivo.
+
+Los docentes dependientes de instituciones educativas privadas en actividad, que se encuentren percibiendo una jubilación o pensión otorgada por la Caja Fiscal u otra Entidad Previsional Paraguaya o Extranjera, deberán cotizar igualmente como sujetos obligados de la presente ley, y tendrán derecho a la jubilación del Instituto de Previsión Social, una vez completados los requisitos establecidos en el seguro social obligatorio, conforme al artículo 59, inciso a) del Decreto-Ley N° 1.860/50, aprobado por Ley N° 375/56.
+
+> *Modificado por Ley N° 5555 (2015-12-27)*
 
 ### Artículo 7°
 
