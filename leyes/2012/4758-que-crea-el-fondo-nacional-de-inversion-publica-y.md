@@ -45,7 +45,12 @@ Las intervenciones serán realizadas conforme a las normativas vigentes y a los 
 
 ### Artículo 5°
 
-La distribución y depósito de los ingresos destinados a las Gobernaciones y Municipios señalados en el Artículo 3°, inciso c) de la presente Ley, será hecha y los fondos transferidos por el Ministerio de Hacienda, dentro de los 15 (quince) primeros días del mes siguiente al que fueron depositados dichos recursos en el Banco Central del Paraguay por la Entidad Binacional de Itaipú, en las cuentas bancarias especialmente habilitadas por aquellos y destinados exclusivamente a financiar gastos de inversión. Para disponer de dichos fondos, las Gobernaciones y Municipalidades deberán estar al día con la rendición de cuentas de las partidas provenientes de este Fondo, que hayan sido recibidas con antelación.
+
+La distribución y depósito de los ingresos destinados a las Gobernaciones y Municipios señalados en el Artículo 3°, inciso c) de la presente Ley, será hecha y los fondos transferidos por el Ministerio de Hacienda, dentro de los 15 (quince) primeros días del mes siguiente al que fueron depositados dichos recursos en el Banco Central del Paraguay por la Entidad Binacional de Itaipú, en las cuentas bancarias especialmente habilitadas por aquellos y destinados exclusivamente a financiar gastos de inversión.
+
+Para disponer de dichos fondos, las Gobernaciones y Municipalidades deberán estar al día con la rendición de cuentas de las partidas provenientes de este Fondo que hayan sido recibidas con antelación y haber cumplido la obligación de publicar la información correspondiente en su portal electrónico en los términos del Artículo 8° de la presente Ley.
+
+> *Modificado por Ley N° 5581 (2016-04-06)*
 
 ### Artículo 6°
 
@@ -57,7 +62,18 @@ Los recursos del FONACIDE deberán ser incluidos dentro del Presupuesto General 
 
 ### Artículo 8°
 
-Los Organos de Control, dentro del ámbito de sus competencias, controlarán la ejecución de los programas o proyectos financiados con recursos del FONACIDE.
+
+La Contraloría General de la República y los órganos de control internos pertinentes, dentro del ámbito de sus competencias, controlarán la ejecución de los programas o proyectos financiados con recursos del Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE).
+
+A los efectos del control externo y el examen de cuentas, los organismos y entidades que reciban y administren recursos del Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE), deberán presentar a la Contraloría, informes semestrales pormenorizados sobre la utilización de los recursos con la correspondiente documentación respaldatoria.
+
+Si de los informes recibidos, surgen indicios de la comisión de algún hecho punible contra el patrimonio público, la Contraloría deberá realizar la correspondiente denuncia al Ministerio Público, y en su caso, presentar informe al Ministerio del Interior a los efectos previstos en la Ley N° 317/94 “QUE REGLAMENTA LA INTERVENCIÓN A LOS GOBIERNOS DEPARTAMENTALES Y/O A LOS GOBIERNOS MUNICIPALES”.
+
+Las autoridades y funcionarios que hayan malversado, distraído, retenido, desviado fondos o incurrido en negligencia en la administración de los recursos del Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE) que le hayan sido confiada, responderán con su patrimonio por los perjuicios causados, con independencia de las responsabilidades administrativas, políticas o penales que les puedan corresponder.
+
+Los organismos y entidades públicos que reciban y administren recursos del Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE) deberán además, publicar en un portal de internet información sobre los programas y proyectos financiados con dichos fondos, describiendo las metas, el grado de ejecución de las mismas y el presupuesto aplicado. La información deberá ser actualizada trimestralmente.
+
+> *Modificado por Ley N° 5581 (2016-04-06)*
 
 ### Artículo 9°
 
