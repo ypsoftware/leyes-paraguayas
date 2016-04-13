@@ -15,9 +15,10 @@ short_title: "QUE ESTABLECE EL CEREMONIAL DEL ESTADO."
 
 ### Artículo 1°
 
-Establécese que esta ley, tiene por objeto, regular todo lo concerniente al Ceremonial del Estado, que deberá cumplirse en todos los Actos Oficiales de conformidad a la presente legislación.
 
-ACTOS OFICIALES
+La Dirección General del Ceremonial del Estado de la Presidencia de la República, es la autoridad responsable de la planificación, supervisión y ejecución de todos los actos, ceremonias o eventos oficiales donde asista el señor Presidente de la República, en coordinación con los Directores Generales de Protocolo de las instituciones afectadas para dichas actividades y de conformidad a lo establecido en esta ley.
+
+> *Modificado por Ley N° 5584 (2016-04-13)*
 
 ### Artículo 2°
 
@@ -81,7 +82,10 @@ DEL USO DE LA BANDA Y DEL BASTÓN DE MANDO PRESIDENCIAL
 
 ### Artículo 6°
 
-El Presidente de la República deberá usar la Banda Presidencial y el Bastón de Mando, como atributos distintivos de su alta investidura, el día de la Toma de Posesión al Cargo de la Primera Magistratura, el 1 de julio, cuando dirija su Mensaje en la Sesión Solemne del Honorable Congreso de la Nación, el día de la Independencia Patria, y en aquellas ceremonias que la Dirección General de Ceremonial del Poder Ejecutivo considere pertinente por la solemnidad del acto.
+
+El Presidente de la República deberá usar la Banda Presidencial y el Bastón de Mando, como atributos distintivos de su alta investidura, en el día de la Toma de Posesión al Cargo de la Primera Magistratura, cuando rinda su informe al Congreso de la Nación, al inicio de cada período anual de sesiones, en el día de la Independencia Patria, y en aquellas ceremonias que la Dirección General del Ceremonial del Estado de la Presidencia de la República considere pertinente por la solemnidad del acto.
+
+> *Modificado por Ley N° 5584 (2016-04-13)*
 
 ### Artículo 7°
 
@@ -283,7 +287,10 @@ DEL PRESIDENTE Y VICEPRESIDENTE DE LA REPÚBLICA
 
 ### Artículo 23°
 
-Para la Toma de Posesión de Cargos del Presidente y Vicepresidente de la República, se conformarán comisiones especiales, con representantes de la Presidencia de la República en ejercicio, del ciudadano electo y proclamado Presidente de la República, de ambas Cámaras del Congreso de la Nación y del Ministerio de Relaciones Exteriores, quienes se encargarán de planificar, coordinar y ejecutar la Ceremonia de Toma de Posesión de Mando Presidencial.
+
+Para la toma de Posesión de Cargos del Presidente y Vicepresidente de la República, se conformarán comisiones especiales, con representantes de la Dirección General del Ceremonial del Estado de la Presidencia de la República, del ciudadano electo y proclamado Presidente de la República, de las Direcciones Generales de Protocolo de ambas Cámaras del Congreso de la Nación y del Ministerio de Relaciones Exteriores, quienes se encargarán de planificar, coordinar y ejecutar la Toma del Mando Presidencial.
+
+> *Modificado por Ley N° 5584 (2016-04-13)*
 
 ### Artículo 24°
 
@@ -301,9 +308,12 @@ Y SU ASISTENCIA A ACTOS OFICIALES
 
 ### Artículo 26°
 
-El Presidente de la República no retribuye personalmente visitas, excepto las de Jefes de Estados extranjeros.
 
-Cuando el Presidente de la República asista invitado a actos o ceremonias oficiales, realice o reciba una visita oficial, el programa deberá ser sometido a su aprobación por intermedio de la Dirección General de Ceremonial de la Presidencia de la República.
+El Presidente de la República no retribuye personalmente visitas, excepto las de Jefes de Estados Extranjeros.
+
+Cuando el Presidente de la República asista invitado a actos o ceremonias oficiales, realice o reciba una visita oficial, el programa deberá ser sometido a su aprobación por intermedio de la Dirección General del Ceremonial del Estado de la Presidencia de la República.
+
+> *Modificado por Ley N° 5584 (2016-04-13)*
 
 ### Artículo 27°
 
