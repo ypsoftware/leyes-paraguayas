@@ -1048,13 +1048,32 @@ De las Audiencias Públicas
 
 ### Artículo 69°
 
-Objetivo y Carácter de las Audiencias Públicas.
 
-las municipalidades podrán convocar a audiencias públicas para brindar información al público, recabar la opinión de la ciudadanía, evaluar la calidad de los servicios o debatir otros asuntos de interés público.
+**Objetivo y Carácter de las Audiencias Públicas.**
+
+Las municipalidades convocarán a audiencias públicas para brindar información al público, a más tardar en la primera quincena de febrero de cada año, en las cuales comunicarán las actividades, proyectos ejecutados y en ejecución, entre otros del período anterior fenecido, para lo cual deberán presentar un folleto informativo, que deberá contener los siguientes:
+
+a) El Balance General, Estado de Resultados y Ejecución Presupuestaria, correspondiente al Ejercicio Fiscal fenecido.
+
+b) Informar sobre los montos de las transferencias recibidas por el municipio del Ministerio de Hacienda en los rubros referidos a royaltíes, compensaciones y los del Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE) del ejercicio fenecido, con documentos respaldatorios.
+
+c) Informar el detalle de la aplicación y ejecución de los mismos en obras y otros rubros establecidos en la legislación de referencia, saldo presupuestario y financiero de los mismos, enumerando obras realizadas con sus especificaciones técnicas, obras por desarrollar en espera y criterios que hayan sido tenidos en cuenta para su realización o identificación como prioritarios, con documentos respaldatorios.
+
+d) Informar sobre las licitaciones del ejercicio fenecido y si existieren las del año en curso, que guarden referencia a la fuente de financiamiento de estos fondos.
+
+e) Informar sobre las transferencias realizadas a comisiones vecinales o entidades sin fines de lucro.
+
+Este folleto informativo deberá ser remitido por la Intendencia municipal a las comisiones vecinales y de fomentos, reconocidas legalmente por el municipio, una semana antes de ser realizada la audiencia pública. Como también tener a disposición de los interesados en el local municipal.
+
+Asimismo, las audiencias públicas se realizarán para recabar la opinión de la ciudadanía, evaluar la calidad de los servicios o debatir otros asuntos de interés público.
 
 Los participantes tendrán el derecho de opinar, debatir, formular observaciones y sugerencias en el acto de la audiencia sobre el tema objeto de la convocatoria.
 
 Las audiencias públicas tendrán carácter consultivo. Las opiniones y propuestas presentadas emitidas en ellas no son vinculantes. La forma de realización de las audiencias públicas, será reglamentada por Ordenanza.
+
+El acta de la audiencia pública acompañará al informe de gestión del período fenecido a las autoridades de control.
+
+> *Modificado por Ley N° 5590 (2016-04-29)*
 
 Capítulo IV
 
