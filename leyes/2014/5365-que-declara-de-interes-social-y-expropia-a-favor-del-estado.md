@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/3060/texto
 short_title: "QUE DECLARA DE INTERÉS SOCIAL Y EXPROPIA, A FAVOR DEL…"
+derogada: true
+derogada_por: Ley 5598
+derogada_fecha: 2016-05-06
 ---
 
 # LEY Nº 5365
@@ -64,3 +67,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los treintaiún días del mes de julio del año dos mil catorce, y por la Honorable Cámara de Senadores, a los seis días del mes de noviembre del año dos mil catorce, queda sancionado, de conformidad con lo dispuesto en el artículo 204 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 5598 (2016-05-06)*
