@@ -53,11 +53,12 @@ A partir de la promulgación de la presente Ley se prohíben el uso y tenencia d
 ### Artículo 7°
 
 
-Quedan eximidos de las exigencias establecidas en el Artículo 5° de la presente Ley los vehículos oficiales asignados a los Presidentes y Vicepresidentes de los Poderes del Estado, Senadores, Diputados, Ministros de la Corte Suprema de Justicia, Ministros del Poder Ejecutivo, el Fiscal General del Estado y Miembros del Tribunal Superior de Justicia Electoral.
 
-Quedan igualmente exceptuados de esta obligación los vehículos oficiales que cumplan misiones en unidades especializadas del Ministerio Público, de la Secretaría Nacional Antidrogas y de la Policía Nacional, quedando a cargo de la máxima autoridad de estas instituciones la aprobación de dichas excepciones en cada caso específico.
+Quedan eximidos de las exigencias establecidas en el artículo 5° de la ley, los vehículos oficiales asignados a los presidentes y vicepresidentes de los Poderes del Estado, senadores, diputados, ministros de la Corte Suprema de JustIcia, ministros del Poder Ejecutivo, el fiscal general del Estado, miembros del Tribunal Superior de Justicia Electoral y el comandante de las Fuerzas Militares.
 
-> *Modificado por Ley N° 4931 (2013-05-31)*
+Quedan igualmente exceptuados de esta obligación, los vehículos oficiales que cumplan misiones en unidades especializadas del Ministerio Público, de la Secretaría Nacional Antidrogas, de la Policía Nacional, quedando a cargo de la máxima autoridad de estas instituciones la aprobación de dichas excepciones en cada caso específico.
+
+> *Modificado por Ley N° 5609 (2016-06-09)*
 
 ### Artículo 8°
 
