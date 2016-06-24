@@ -205,15 +205,18 @@ Si entre el lapso de tiempo transcurrido entre la comunicación y el bloqueo se�
 
 ### Artículo 20°
 
-Prohibiciones.
 
-Los Emisores y comercios adheridos no podrán realizar los siguientes actos:
+**Prohibiciones.**
 
-1. Condicionar el pago de un producto o servicio con tarjeta de crédito o de débito a montos mínimos determinados.
+Los emisores y comercios adheridos no podrán realizar los siguientes actos:
+
+1. Condicionar el pago de un producto o servicio con tarjeta de crédito o de débito, a montos mínimos determinados.
 
 2. Realizar cualquier cobro adicional al precio de venta de cualquier bien o servicio, cuando la forma de pago utilizada fuera la tarjeta de crédito o de débito.
 
-3. Condicionar el uso de la tarjeta de crédito o de débito, mediante la implementación de cualquier práctica comercial o cobro por prestación de servicios en forma discriminatoria o que pudieran afectar la libre concurrencia.
+3. Condicionar el uso de la tarjeta de crédito o de débito mediante la implementación de cualquier práctica comercial o cobro por prestación de servicios en forma discriminatoria o que pudieran afectar la libre concurrencia, salvo que sea en beneficio del usuario.
+
+> *Modificado por Ley N° 5620 (2016-06-24)*
 
 ### Artículo 21°
 
