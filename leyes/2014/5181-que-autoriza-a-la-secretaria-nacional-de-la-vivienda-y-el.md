@@ -15,7 +15,12 @@ short_title: "QUE AUTORIZA A LA SECRETARÍA NACIONAL DE LA VIVIENDA Y EL…"
 
 ### Artículo 1°
 
-Autorízase a la Secretaría Nacional de la Vivienda y el Hábitat (SENAVITAT) a reducir el precio original de cada vivienda del Proyecto K-AR-003 de Areguá - Pindolo, en razón a las inversiones realizadas por los adjudicados en las unidades habitacionales afectadas.
+
+Autorízase a la Secretaría Nacional de la Vivienda y el Hábitat (SENAVITAT) a reducir el precio original de las viviendas del proyecto K-AR-003 de Areguá - Pindolo, en razón a las inversiones realizadas por los adjudicados en las unidades habitacionales afectadas, estableciéndose una disminución del 20% (veinte por ciento) del precio original de cada vivienda y manteniéndose la tasa de interés del 7% (siete por ciento) anual, sin reajuste.
+
+Las cuotas abonadas por los beneficiarios serán imputadas al precio establecido en la presente Ley y el saldo reprogramado en cuotas iguales entre las partes.
+
+> *Modificado por Ley N° 5649 (2016-07-29)*
 
 ### Artículo 2°
 
