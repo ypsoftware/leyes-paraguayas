@@ -17,9 +17,10 @@ short_title: "QUE MODIFICA LOS ARTICULOS 136 Y 137 DE LA LEY N° 1286/98…"
 
 
 
-Suspéndase por el plazo de cuatro años la vigencia de la Ley N° 4669/12 “QUE MODIFICA LOS ARTÍCULOS 136 Y 137 DE LA LEY N° 1286/98 ‘CÓDIGO PROCESAL PENAL’, MODIFICADO POR LA LEY N° 2341/03
 
-> *Modificado por Ley N° 5475 (2015-09-01)*
+Suspéndase por el plazo de seis años la vigencia de la Ley Nº 4.669/12 “QUE MODIFICA LOS ARTÍCULOS 136 Y 137 DE LA LEY Nº 1.286/98 ‘CÓDIGO PROCESAL PENAL’, MODIFICADO POR LEY Nº 2.341/03
+
+> *Modificado por Ley N° 5671 (2016-09-02)*
 
 CAPITULO V
 
