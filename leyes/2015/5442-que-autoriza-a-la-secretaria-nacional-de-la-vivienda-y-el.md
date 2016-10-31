@@ -21,9 +21,10 @@ Autorízase a la Secretaría Nacional de la Vivienda y el Hábitat (SENAVITAT) a
 
 ### Artículo 2°
 
-Podrán acogerse a los beneficios de la presente ley, los moradores de las viviendas correspondientes a los proyectos Brisas del Lago de Areguá, Villa Amistad de Colonia Thompson, Villa Integración de Colonia Thompson, Villa Virgen de Fátima y San Miguel de Colonia Thompson, Villa San Blás de Ypané y Villa del Maestro de Coronel Oviedo, debiendo los beneficiarios de esta ley reunir las condiciones previstas en el artículo 5° de la presente ley.
 
-De las condiciones para la legalización de la tenencia.
+Podrán acogerse a los beneficios de la presente Ley, los moradores de las viviendas correspondientes a los proyectos Brisas el Lago de Areguá, San Blas de Ypané, Las Mercedes de Ypané, San Miguel de Capiatá, Villa Amistad de Ypané, Villa Leticia de Ñemby, Virgen de Fátima de Ypané, Villa Integración de Ypané, San Miguel de Ypané y Villa del Maestro de Coronel Oviedo, debiendo los beneficiarios de esta Ley reunir las condiciones previstas en el Artículo 5° de la Ley N° 5442/15.
+
+> *Modificado por Ley N° 5682 (2016-10-31)*
 
 ### Artículo 3°
 
@@ -75,7 +76,10 @@ Para facilitar la adquisición por parte de la Secretaría Nacional de la Vivien
 
 ### Artículo 12°
 
-Establecer el plazo de 8 (ocho) meses desde la vigencia de la presente ley, para que la Secretaría Nacional de la Vivienda y el Hábitat (SENAVITAT), realice las ejecuciones hipotecarias o acciones legales correspondientes en contra de los beneficiarios del Subsidio Habitacional Directo (SHD), adjudicatarios de los proyectos individualizados en esta ley, que se encuentren en mora en el pago de sus cuotas o hayan incumplido las obligaciones establecidas en la Ley N° 815/96 “QUE MODIFICA LA LEY N° 118/90, ASI COMO DISPOSICIONES LEGALES VINCULADAS AL SISTEMA NACIONAL DE AHORRO Y PRÉSTAMO PARA LA VIVIENDA Y REGULA EL SISTEMA DE SUBSIDIO HABITACIONAL DIRECTO PARA LA ADQUISICIÓN, CONSTRUCCIÓN, AMPLIACIÓN O MEJORA DE VIVIENDAS ECONÓMICAS Y VIVIENDAS DE INTERÉS SOCIAL”, sus modificaciones y reglamentaciones.
+
+Establécece un plazo 12 (doce) meses para la vigencia de la presente Ley, para que la Secretaria Nacional de la Vivienda y el Hábitat (SENAVITAT), realice las ejecuciones hipotecarias o acciones legales correspondientes en contra de los beneficiarios del Subsidio Habitacional Directo (SHD), adjudicatorios de los proyectos individualizados en esta Ley, que se encuentren en mora en el pago de sus cuotas hayan incumplido las obligaciones establecidas en la Ley N° 815/96 “QUE MODIFICA LA LEY N° 118/90, ASÍ COMO DISPOSICIONES LEGALES VINCULADAS AL SISTEMA NACIONAL DE AHORRO Y PRÉSTAMO PARA LA VIVIENDA Y REGULA EL SISTEMA DE SUBSIDIO HABITACIONAL DIRECTO PARA LA ADQUISICIÓN, CONSTRUCCIÓN, AMPLIACIÓN O MEJORA DE VIVIENDAS ECONÓMICAS Y VIVIENDAS DE INTERÉS SOCIAL”, sus modificaciones y reglamentaciones.
+
+> *Modificado por Ley N° 5682 (2016-10-31)*
 
 ### Artículo 13°
 
