@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/1028/texto
 short_title: "QUE RECONOCE AL INSTITUTO TECNICO SUPERIOR “SANTA CLARA DE…"
+derogada: true
+derogada_por: Ley 5726
+derogada_fecha: 2016-10-31
 ---
 
 # LEY Nº 3476
@@ -38,3 +41,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los veinticinco días del mes de octubre del año dos mil siete, y por la Honorable Cámara de Senadores, a los veintinueve días del mes de abril del año dos mil ocho, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 211 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 5726 (2016-10-31)*
