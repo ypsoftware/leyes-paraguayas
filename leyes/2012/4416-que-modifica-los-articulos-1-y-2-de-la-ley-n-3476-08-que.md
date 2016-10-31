@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/3765/texto
 short_title: "QUE MODIFICA LOS ARTICULOS 1° Y 2° DE LA LEY N° 3476/08…"
+derogada: true
+derogada_por: Ley 5726
+derogada_fecha: 2016-10-31
 ---
 
 # LEY Nº 4416
@@ -28,3 +31,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a catorce días del mes de julio del año dos mil once, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a dieciocho días del mes de agosto del año dos mil once, de conformidad a lo dispuesto en el Artículo 207 numeral 1) de la Constitución Nacional*
+
+> *Derogada en su totalidad por Ley N° 5726 (2016-10-31)*
