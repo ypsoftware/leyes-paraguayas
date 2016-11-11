@@ -15,23 +15,26 @@ short_title: "QUE DECLARA DE INTERÉS SOCIAL Y EXPROPIA A FAVOR DE LA…"
 
 ### Artículo 1°
 
+
 Declárase de interés social y exprópiase a favor de la Secretaría de Acción Social (SAS), un inmueble individualizado como Finca N° 3.228, Padrón Nº 3.838 del Distrito de Horqueta, ubicado en la Colonia José Berges del Municipio de Horqueta, para su posterior transferencia a Título oneroso a favor de los actuales ocupantes del asentamiento “Villa San Pedro”, cuyas dimensiones y linderos son los siguientes:
 
-LINEA 1-2: Mide 648,17 m. (seiscientos cuarenta y ocho metros con diecisiete centímetros), linda con la calle 40;
+LINEA 1-2: Mide 647,06 m. (seiscientos cuarenta y siete metros con seis centímetros), linda con la calle 40;
 
 LINEA 2-3: Mide 114,73 m. (ciento catorce metros con setenta y tres centímetros), linda con la calle Peguahó;
 
 LINEA 3-4: Mide 500 m. (quinientos metros), linda con derechos de Tranquilino Achucarro (Lote 29); y,
 
-LINEA 4-1: Mide 527,19 m. (quinientos veintisiete metros con diecinueve centímetros), linda con derechos de Juan Areco (Lotes 1 y 2).
+LINEA 4-1: Mide 527 m. (quinientos veintisiete metros), linda con derechos de Juan Areco (Lote 1).
 
-SUPERFICIE: 16 ha 480 m2 5.303 cm2 (DIECISÉIS HECTÁREAS, CUATROCIENTOS OCHENTA METROS CUADRADOS CON CINCO MIL TRESCIENTOS TRES CENTÍMETROS CUADRADOS).
+SUPERFICIE: 16 ha (DIECISÉIS HECTÁREAS).
 
 Las coordenadas de los vértices 1 y 2 son:
 
-Vértice 1 – N = 7.415.897,420 E = 495.074,302
+Vértice 1 – N = 7.415.182,2439 E = 495.150,7599
 
-Vértice 2 – N = 7.415.262,174 E = 495.203,095
+Vértice 2 – N = 7.415.485,1158 E = 494.752,9300
+
+> *Modificado por Ley N° 5736 (2016-11-11)*
 
 ### Artículo 2°
 
