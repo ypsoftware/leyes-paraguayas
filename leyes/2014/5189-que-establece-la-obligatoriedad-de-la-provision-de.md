@@ -83,7 +83,12 @@ Todas las instituciones y dependencias citadas en el artículo 2° deberán publ
 
 ### Artículo 8°
 
-Los titulares de Organismos o Entidades Públicas que incumplan la obligación de informar prescrita en la presente ley, serán castigados con ciento ochenta días de multa.
+
+Los Organismos y Entidades mencionadas en los incisos a), b), c) y d) del Artículo 2° de la Ley N° 5189/14 “QUE ESTABLECE LA OBLIGATORIEDAD DE LA PROVISIÓN DE INFORMACIONES EN EL USO DE LOS RECURSOS PÚBLICOS SOBRE REMUNERACIONES Y OTRAS RETRIBUCIONES ASIGNADAS AL SERVIDOR PÚBLICO DE LA REPÚBLICA DEL PARAGUAY”, que incumplan la obligación de informar dispuesta en la misma, serán castigados con ciento ochenta días de multa.
+
+La resolución de la Secretaría de la Función Pública que imponga la sanción mencionada, una vez que se encuentre firme y ejecutoriada, tendrá el carácter de título ejecutivo, con carácter de privilegio especial a los fines de su cobro judicial.
+
+> *Modificado por Ley N° 5747 (2016-11-22)*
 
 ### Artículo 9°
 
