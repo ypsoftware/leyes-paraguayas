@@ -2008,7 +2008,14 @@ Sobre la base de las investigaciones realizadas, el Consejo Nacional de Salarios
 
 ### Artículo 255°
 
-El salario mínimo fijado de acuerdo con el procedimiento adoptado por este Capítulo quedará en vigencia durante dos años. Este plazo se prorrogará automáticamente por períodos de igual duración, a no ser que la Autoridad Administrativa del Trabajo o las partes interesadas soliciten su modificación de acuerdo con lo preceptuado en el artículo siguiente.
+
+La consideración del reajuste del salario mínimo será efectuada por el Poder Ejecutivo a propuesta del Consejo Nacional de Salarios Mínimos (CONASAM), sobre la base de la variación interanual del Índice de Precios al Consumidor (IPC) y su impacto en la economía nacional, al mes de junio de cada año.
+
+La Autoridad Administrativa del Trabajo, cuando las conclusiones así lo indicaran, elevará al Poder Ejecutivo para su consideración y resolución, antes del 30 de junio de cada año, la propuesta de reajuste de salario mínimo, acompañada de las memorias correspondientes.
+
+En los casos de profunda alteración de las condiciones macroeconómicas y financieras o de elevadas tasas de inflación, el Consejo Nacional de Salarios Mínimos podrá reunirse en un período distinto al indicado anteriormente, y considerará para la fijación del porcentaje del reajuste, los informes sobre la inflación y la situación económica y financiera del Banco Central del Paraguay y del Ministerio de Hacienda, como así también, las perspectivas o proyecciones inflacionarias y económicas respectivas.
+
+> *Modificado por Ley N° 5764 (2016-11-28)*
 
 ### Artículo 256°
 
