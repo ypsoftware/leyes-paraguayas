@@ -22,25 +22,49 @@ El Municipio y su constitución
 
 ### Artículo 1°
 
-El Municipio es el conjunto de vecinos que ocupan un determinado territorio y que reúne los requisitos señalados en ésta Ley.-
+
+Los Oficiales que se encuentran en período de ascenso a la vigencia de la presente Ley, serán promovidos al grado inmediato superior, por única vez, de conformidad con los requisitos legales establecidos con anterioridad.
+
+Los siguientes ascensos se conferirán, de acuerdo con los requisitos y con el tiempo total de servicio contemplado en esta Ley.
+
+Entiéndase por tiempo total de servicio, la siguiente escala:
+
+4 años de servicio: para Oficial Segundo.
+
+8 años de servicio: para Oficial Primero.
+
+12 años de servicio: para Oficial Inspector.
+
+16 años de servicio: para Subcomisario.
+
+20 años de servicio: para Comisario.
+
+24 años de servicio: para Comisario Principal.
+
+28 años de servicio: para Comisario General Inspector.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 2°
 
-corresponde exclusivamente a la cámara de Representantes crear o suprimir municipios y fijar o modificar sus límites.-
+
+Los Comisarios Generales permanecerán en el grado que ostentan al momento de la vigencia de esta Ley, hasta completar el tiempo total de servicio para el ascenso al grado inmediato superior o su pase a retiro.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 3°
 
-Para dar existencia legal a un municipio se requiere:
 
-1) Una población residente no menor de 3.000 habitantes;
+Los Oficiales y Suboficiales, quienes se desempeñan en el área y dependencia que cumplan funciones investigativas, podrán optar por la especialidad de Investigaciones, previa capacitación y aprobación de los exámenes a ser realizados en el Instituto de Criminalística y dictamen del Tribunal de Calificaciones de Servicio.
 
-2) Un territorio circunscrito por limitación fija; y
-
-3) Una capacidad financiera suficiente para subvenir a los gastos de la vida municipal.-
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 4°
 
-En casos excepcionales la Cámara de Representantes podrá dejar sin efecto el cumplimiento del requisito del inciso 1º del artículo anterior.-
+
+Autorízase a la Policía Nacional a percibir aranceles, como recursos propios, en concepto de expedición de cédula de identidad, pasaporte, antecedentes policiales, antecedentes para extranjeros, certificado de Interpol, pericias criminalísticas, certificado de vida y residencia, carné de portación de armas, certificados y demás trámites académicos, y otros, de conformidad con la reglamentación a ser dictada.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 5°
 
@@ -48,7 +72,13 @@ En la apreciación de la capacidad financiera de un municipio se tendrán en cue
 
 ### Artículo 6°
 
-No se procederá a la creación de Municipios, ni a la anexión de un territorio a otro Distrito, cuando de ello resultare que los municipios afectados quedaren sin alguno de los requisitos señalados en los incisos 2º y 3º del Art. 3º.-
+
+
+El Suboficial y/o funcionario, que por ostentar título académico universitario, pasaron al cuadro de Oficiales, se les debe sumar el tiempo total de servicio cumplido en ambas categorías e incorporarlos al grado jerárquico correspondiente de Oficial, de acuerdo con el tiempo de servicio cumplido, por única vez.
+
+Solo a los efectos de percibir correctamente el salario, que en legítimo derecho le corresponde, en cumplimiento de la Ley N° 4493/11 “QUE ESTABLECE LOS MONTOS DE LA ESCALA DEL SUELDO BÁSICO MENSUAL Y OTRAS REMUNERACIONES DE LOS INTEGRANTES DE LAS FUERZAS PÚBLICAS”, que establece una escala de salario conforme al grado y año de servicio prestado. Los mismos podrán llegar solo hasta Comisario Principal con excepción de la especialidad de sanidad, quienes se regirán por los artículos de esta Ley.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 7°
 
@@ -117,7 +147,12 @@ Son derechos, obligaciones y prohibiciones para el personal policial en activida
 
 ### Artículo 11°
 
-Los miembros de la Junta Parroquial tomarán posesión del cargo ante el Intendente Municipal o el Presidente de la Junta Municipal, en su caso, y en la sesión inaugural designará a uno de ellos como Presidente.-
+
+El personal de la Policía Nacional en servicio activo, no podrá afiliarse a partido o movimiento político alguno, ni realizar ningún tipo de actividad político partidaria. Se exceptuarán: la docencia, la investigación científica, las pericias, las actividades gremiales tales como: círculo de oficiales, círculos de suboficiales, asociaciones, cooperativas, comisiones vecinales, fundaciones, clubes y mutuales.
+
+El Comandante y Subcomandante de la Policía Nacional y los miembros del Tribunal de Calificaciones no podrán ejercer las actividades de carácter gremial.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 12°
 
@@ -125,11 +160,25 @@ La Junta Parroquial podrá designar de su seno un Secretario, que se encargará 
 
 ### Artículo 13°
 
-El Presidente de la Junta Parroquial informará al Presidente de la Junta Municipal o al Intendente Municipal en su caso, mensualmente, acerca del funcionamiento del organismo de su Presidencia y de la situación general de la parroquia.
+
+El Estado Policial se pierde por las siguientes causas:
+
+1. Por pérdida de la nacionalidad o ciudadanía.
+
+2. Por condena de inhabilitación para ejercer cargos públicos impuesta por sentencia firme y ejecutoriada.
+
+3. Por condena a una pena o medida dispuesta por la justicia ordinaria por sentencia firme y ejecutoriada.
+
+4. Por sanción disciplinaria de baja.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 14°
 
-Las atribuciones y deberes de las Juntas Parroquiales serán las que les confieran las ordenanzas municipales y su ejercicio constituirá carga pública.-
+
+La pérdida del estado policial no implica la privación de los derechos adquiridos para los haberes de retiro, los derechos del retirado, ni la pensión que pueda corresponder a sus herederos, salvo que la causal sea la prevista en el numeral 3 o 4 del artículo anterior, caso en el cual el afectado no podrá acogerse a los beneficios de la jubilación, pudiendo únicamente retirar sus aportes del Fondo de Jubilaciones y Pensiones, de conformidad con las previsiones legales respectivas.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 CAPÍTULO IIIº
 
@@ -159,21 +208,20 @@ La Municipalidad es autónoma en el ejercicio de sus funciones e independienteme
 
 ### Artículo 18°
 
-Las garantías fundamentales de la autonomía municipal son:
 
-1) Las Ordenanzas, acuerdos y resoluciones municipales, no podrán quedar sin efectos sino de acuerdo con las disposiciones de esta Ley;
+En el Cuadro de Oficiales y Suboficiales de la Policía Nacional, se establecen las siguientes especialidades:
 
-2) Los Miembros de la Junta y las demás autoridades municipales no podrán ser suspendidos o separados sino de acuerdo con las disposiciones de esta Ley;
+a) De Prevención y Seguridad.
 
-3) Ninguna institución del Estado podrá apropiarse de las rentas municipales sino con sujeción a lo prescripto en esta Ley;
+b) De Investigación.
 
-4) No se declarará nacional un impuesto u otra fuente de renta municipal, sin conceder al mismo tiempo al municipio respectivos ingresos equivalentes a aquellos de que se le privare;
+c) De Intendencia.
 
-5) El Municipio no está obligado a recaudar impuestos de carácter fiscal, sino de conformidad con la Ley y mediante el pago de los gastos reales;
+d) De Sanidad.
 
-6) No se puede obligar a un municipio, sino mediante su propia resolución a pagar un servicio que no administra;
+La Policía Nacional capacitará a su personal en otras especialidades que serán reglamentadas.
 
-7) El Estado no podrá tomar para sí ni para otro organismo, o institución, los bienes, muebles o inmuebles de un municipio, sino de acuerdo con una resolución de la Junta Municipal; ésta resolverá la transferencia de los bienes previo pago del precio correspondiente.-
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 CAPÍTULO Vº
 
@@ -181,23 +229,16 @@ Relaciones con el Poder Ejecutivo y con otros organismos públicos.-
 
 ### Artículo 19°
 
-Las relaciones entre el Municipio y el Poder Ejecutivo se regularán por intermedio del Ministro del Interior, al que corresponde:
 
-1) Velar por la corrección y eficiencia de la administración municipal;
+Las condiciones para el ingreso al Cuadro Permanente de Oficiales son:
 
-2) Atender, de acuerdo con la Ley, los reclamos contra la administración errónea, descuidada o incorrecta de los intereses municipales;
+a) Ser de nacionalidad paraguaya.
 
-3) Resolver las consultas que, conforme a la Ley, le presentaren las Municipalidades;
+b) Ser egresados de Instituciones Policiales de Enseñanza.
 
-4) Ordenar en cualquier tiempo la fiscalización, de las municipalidades;
+Excepcionalmente para la especialidad de Sanidad, podrán ingresar los egresados universitarios del área de salud, previa capacitación en el Centro de Capacitación del Instituto Superior de Educación Policial (ISEPOL).
 
-5) Denunciar ante las autoridades correspondientes, los fraudes, desfalcos o conclusiones que se cometieren en la administración municipal;
-
-6) Observar a las municipalidades respecto a las ordenanzas, acuerdos o resoluciones que, a juicio del Ministerio, violen la Constitución o las Leyes;
-
-7) Solicitar de la Corte Suprema de Justicia la aplicación del artículo 125 de esta Ley;
-
-8) Las demás atribuciones que le concede la Ley.-
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 20°
 
@@ -233,7 +274,16 @@ De las Juntas Municipales.
 
 ### Artículo 25°
 
-Las Juntas Municipales se constituirán mediante elección directa por el pueblo, en la misma forma y tiempo que se determina en la Ley Electoral, pudiendo ser elegidos para integrarlas los ciudadanos paraguayos y los extranjeros con más de cinco años de residencia, mayores de veinte y cinco años de edad y avecindados en el municipio.-
+
+Las condiciones para el ingreso al Cuadro Permanente de Suboficiales son:
+
+a) Ser de nacionalidad paraguaya.
+
+b) Ser egresado de Instituciones Policiales de Enseñanza. El Suboficial egresado está obligado a servir en la Institución por lo menos 3 (tres) años. La misma disposición rige para los egresados de la Escuela de Aprendices de la Banda de Músicos.
+
+c) Haber aprobado la evaluación psicológica, de conformidad con los parámetros fijados objetivamente con antelación, cuyo resultado se adjuntará a su legajo personal.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 26°
 
@@ -309,15 +359,56 @@ Como único emolumento los Concejales podrán percibir dietas por cada sesión o
 
 ### Artículo 33°
 
-En los casos de excusa ilegal del concejal electo, además de la responsabilidad penal a que hubiere lugar, el renunciante será sancionado con una multa equivalente al monto de doce a veinte y cuatro veces la suma que se estipulare como dieta, multa que será impuesta por el Ministerio del Interior y percibida en sellado de Ley.-
+
+La clasificación jerárquica de Oficiales comprende:
+
+1. Oficiales Superiores.
+
+2. Oficiales Jefes.
+
+3. Oficiales Subalternos.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 34°
 
-Los vecinos que, habiendo sido elegidos Concejales, no concurrieren dentro de treinta días, sin causa justificada, a tomar posesión del cargo, o no asistieren a la Junta dentro del mismo plazo, después de negada la excusa, serán pasible de una multa igual a la establecida en el Art. anterior, y si a pesar de la aplicación de esta multa insistiese en la rebeldía, ellos serán pasibles de procesamiento ante la Justicia del Crimen por desacato. La multa será impuesta por el Ministerio del Interior y percibida en sellado de Ley.-
+
+Los Comisarios Generales de la Policía Nacional conforman el Cuadro de Oficiales Superiores de la Institución.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 35°
 
-El plazo para las sanciones establecidas en el Art. anterior se contará desde el día que la Junta celebró su sesión inaugural, en el primer caso, y, desde el día en que comunicó la negativa, en el segundo.-
+
+Los grados de Oficiales de la Policía Nacional comprenden:
+
+a) Oficiales Superiores:
+
+1. Comisario General Comandante.
+
+2. Comisario General Director.
+
+3. Comisario General Inspector.
+
+b) Oficiales Jefes:
+
+1. Comisario Principal.
+
+2. Comisario.
+
+3. Subcomisario.
+
+c) Oficiales Subalternos:
+
+1. Oficial Inspector.
+
+2. Oficial Primero.
+
+3. Oficial Segundo.
+
+4. Oficial Ayudante.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 36°
 
@@ -382,7 +473,10 @@ Las Juntas Municipales designarán por mayoría de votos al personal de sus depe
 
 ### Artículo 47°
 
-Las Juntas no podrán conceder, en el año, permiso a sus miembros por más de cuatro sesiones sin causa justificada.-
+
+La incorporación, derechos y obligaciones del personal docente se regirán por lo establecido en la Ley de Educación Superior, esta Ley, la Ley del Instituto Superior de Educación Policial (ISEPOL) y el Reglamento del Instituto pertinente. En cuanto al salario, será establecido conforme a las categorías de docente: de Pregrado, Grado y Postgrado, que estará previsto en el Presupuesto General de la Nación, dentro del rubro de la Policía Nacional. El docente será nombrado por Decreto del Poder Ejecutivo, a pedido de la Dirección General del Instituto Superior de Educación Policial (ISEPOL), previo concurso de Méritos y Aptitudes.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 48°
 
@@ -446,7 +540,14 @@ Las Municipalidades no podrán invertir más del veinte y seis por ciento de sus
 
 ### Artículo 51°
 
-La Municipalidad de la Capital destinará por lo menos el veinte y cinco por ciento de sus rentas ordinarias a Obras Públicas y deberá invertir en beneficio de las parroquias, Lambaré y Trinidad cuanto menos el cincuenta por ciento de sus contribuciones respectivas.-
+
+Revistan en Disponibilidad:
+
+1. El Oficial o Suboficial sometido a proceso y sobre quien pesare orden de detención, prisión preventiva o condena; deberá guardar reclusión por razones de seguridad en dependencias de la Policía Nacional o en el lugar que disponga el órgano jurisdiccional interviniente.
+
+2. Si la resolución recaída en la causa le fuere favorable el Oficial o Suboficial revistará nuevamente en actividad y recuperará su grado y antigüedad. Se entenderá como resolución favorable, aquella en la cual el Oficial o Suboficial sea beneficiado con sobreseimiento definitivo, dispuesto en el Artículo 359, numerales 1 y 2 del Código Procesal Penal y la absolución en juicio, dispuesta en el Artículo 401 o 421, primer párrafo, segunda alternativa del Código Procesal Penal.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 52°
 
@@ -466,33 +567,22 @@ OBRAS Y SERVICIOS PUBLICOS.
 
 ### Artículo 55°
 
-En lo relativo a esta sección corresponde a la Junta:
 
-1) Disponer el estudio, construcción, ampliación y mejoras de obras públicas dentro del radio de su jurisdicción;
+Se podrá disponer de oficio al Retiro Absoluto cuando haya cumplido:
 
-2) Disponer el estudio, ejecución y aplicación del Plan Regulador;
+1. Oficiales
 
-3) Proceder a la apertura y clausura de calles, avenidas, plazas y jardines;
+- Comisarios Generales y Principales 60 años
 
-4) Tomar las medidas adecuadas para proveer de agua potable a las poblaciones;
+- Las demás graduaciones 50 años
 
-5) Reglamentar por ordenanzas la construcción, reparación, transformación y demolición de edificios; la fijación de postes para alumbrado, líneas telefónicas, el montaje e instalación de aparatos y maquinarias;
+2. Suboficiales
 
-6) Reglamentar por ordenanzas las instalaciones industriales y comerciales, para salvaguardar el bienestar y la tranquilidad del vecindario;
+- Suboficial Superior, Principal y Mayor 60 años
 
-7) Dictar las medidas necesarias para la limpieza, recolección y tratamiento de basuras en el Municipio;
+- Las demás graduaciones: 50 años.
 
-8) Disponer la construcción y conservación de sistemas de cloacas y drenajes de aguas de lluvias;
-
-9) Otorgar concesiones y fijar condiciones para la explotación de líneas de tranvías, ómnibus y trolebuses, dentro de su jurisdicción;
-
-10) Mantener en las riberas de los ríos, canales y lagos, el ancho fijado por el Art. 2639 de Código Civil, pudiendo permitir en ellas construcciones de carácter transitorio y establecer la tarifa correspondiente;
-
-11) Proveer de energía eléctrica y alumbrado al Municipio, directamente, por concesiones o por medio de cooperativas;
-
-12) Atender a la conservación de los monumentos públicos;
-
-13) El cuidado y conservación de Cementerios.-
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 Sección III.
 
@@ -518,7 +608,10 @@ Construir viviendas higiénicas y baratas para las clases populares de escasos r
 
 ### Artículo 58°
 
-La Municipalidad podrá intervenir, de acuerdo con la Ley, en todos los problemas relativos a las casas de alquiler, tales como construcción, higiene, fijación de arrendamientos, sanciones, etc.-
+
+Todo ascenso, inactividad, disponibilidad, retiro temporal, retiro absoluto o baja, se producirá por decreto del Poder Ejecutivo a propuesta del Comandante de la Policía Nacional.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 59°
 
@@ -687,7 +780,18 @@ Para establecer la base imponible de la contribución para las obras mencionadas
 
 ### Artículo 72°
 
-Las calles, caminos y puentes, abiertos y construidos en los dominios particulares por sus respectivos dueños con el objeto de valorizarlos y venderlos, se transfieren gratuitamente al municipio. Las obras mencionadas se harán previo permiso de la municipalidad y de acuerdo con las ordenanzas municipales.-
+
+El Oficial que hubiere cumplido 30 (treinta) años de servicio y no haya ascendido a Comisario General Inspector, deberá acogerse a los beneficios del retiro.
+
+El Comisario General Inspector que hubiere cumplido 32 (treinta y dos) años de servicio y no haya ascendido a Comisario General Director, deberá acogerse a los beneficios del retiro.
+
+El Comisario General Director que hubiere cumplido 33 (treinta y tres) años de servicio y no haya sido nombrado Comandante o Subcomandante, deberá acogerse a los beneficios del retiro.
+
+El Suboficial que hubiere cumplido 30 (treinta) años de servicio, deberá acogerse a los beneficios del retiro.
+
+El personal policial al acogerse al beneficio de retiro, recibirá los honores correspondientes por los servicios prestados a la Patria.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 73°
 
@@ -975,7 +1079,10 @@ En la Municipalidad de la Capital, las funciones del Secretario Municipal, será
 
 ### Artículo 105°
 
-Cuando la Junta Municipal lo considere conveniente, a propuesta del Departamento Ejecutivo, podrá diferir la aplicación de los preceptos que contiene el Art. 104º que antecede.-
+
+El Oficial o Suboficial postergado por el Tribunal de Calificaciones de Servicio en su ascenso, por no reunir los requisitos necesarios, podrá solicitar su ascenso una vez completados los requisitos exigidos.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 TITULO VI
 
@@ -999,23 +1106,38 @@ La Junta Municipal, de acuerdo con las necesidades y las posibilidades económic
 
 ### Artículo 107°
 
-La Junta Municipal a instancia del Departamento Ejecutivo podrá crear además, cuantos departamentos administrativos y técnicos fueren necesarios para la mejor marcha de la Administración Municipal, subdividir los existentes y ordenar la fusión de los mismos.-
+
+Para ser nombrado Oficial Ayudante de la Policía Nacional, se requiere haber egresado de la Academia Nacional de Policía. Para la especialidad de Sanidad, podrán ingresar los egresados universitarios del área de la salud, previa capacitación del Centro de Capacitación del Instituto Superior de Educación Policial (ISEPOL).
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 108°
 
-En la Municipalidad de la Capital habrá un departamento Legal.-
+
+Para ser promovido a Oficial Segundo, se requiere haber cumplido 4 (cuatro) años en el grado anterior, realizar el curso básico de operaciones técnicas, y aprobar los exámenes de aptitud. Para la especialidad de Sanidad, se excluye el citado curso.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 109°
 
-La Junta Municipal fijará los sueldos de los funcionarios y empleados municipales y reglamentará por ordenanza el nombramiento, remoción y ascenso de los mismos y en general todo lo relacionado con la posición jurídica de dichos funcionarios y empleados.-
+
+Para ser promovido a Oficial Primero, se requiere haber cumplido 4 (cuatro) años en el grado anterior, tener el Título de Postgrado en Seguridad o Investigación e Inteligencia, como egresado de la Escuela de Especialización Profesional, a excepción de la especialidad de Sanidad, que deberá obtener una especialización en el área de la salud, debidamente reconocido por el Instituto Superior de Educación Policial (ISEPOL) y aprobar los exámenes de aptitud.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 110°
 
-Los funcionarios y empleados municipales serán nombrados y removidos por el Intendente o el Presidente de la Junta en su caso, salvo las excepciones que se indican en esta Ley.-
+
+Para ser promovido a Oficial Inspector, se requiere haber cumplido 4 (cuatro) años en el grado anterior, y aprobar los exámenes de aptitud.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 111°
 
-Todo caso de duda sobre la competencia o el alcance de las atribuciones de los funcionarios o empleados municipales, será resuelto por el Presidente de la Junta o por el Intendente, donde lo hubiere.-
+
+Para ser promovido a Subcomisario, se requiere haber cumplido 4 (cuatro) años en el grado anterior, y egresar de la Escuela de Administración y Asesoramiento Policial, a excepción de la especialidad de Sanidad que deberá presentar otra especialización en el área de la salud, debidamente reconocida por el Instituto Superior de Educación Policial (ISEPOL) y aprobar los exámenes de aptitud.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 TITULO VII
 
@@ -1025,33 +1147,49 @@ Los Actos Legislativos Municipales.
 
 ### Artículo 112°
 
-Los actos municipales de aplicación general que tengan fuerza de ley en todo el municipio, dictados por la Junta Municipal, se denominará Ordenanzas. Los actos municipales de aplicación general para la administración, se denominará reglamentos. Se denominarán resoluciones lo que versaren sobre asuntos de interés particular o especial.-
+
+Para ser promovido a Comisario, se requiere haber cumplido 4 (cuatro) años en el grado anterior, y tener el Título de Magíster en Administración y Asesoramiento Policial, a excepción de la especialidad de Sanidad que deberá presentar un título en Administración Hospitalaria, debidamente reconocido por el Instituto Superior de Educación Policial (ISEPOL) y aprobar los exámenes de aptitud.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 113°
 
-El Presupuesto Municipal se sancionará por Ordenanza. Será promulgado por el Departamento Ejecutivo y se sujetará a las normas especiales establecidas en esta Ley.-
+
+Para ser promovido a Comisario Principal, se requiere haber cumplido 4 (cuatro) años en el grado anterior, ser egresado de la Escuela de Estrategia Policial, ejercer el cargo correspondiente al grado y contar con el acuerdo del Senado.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 114°
 
-Dictada una Ordenanza se remitirá al Ministerio del Interior en doble ejemplar, a los efectos de su revisión.-
+
+Para ser promovido a Comisario General Inspector, se requiere haber cumplido 4 (cuatro) años en el grado anterior, egresado de la Academia Nacional de Policía, tener el Título de Magíster en Ciencias Policiales expedido por Instituto Superior de Educación Policial (ISEPOL), ejercer el cargo correspondiente al grado y contar con el acuerdo del Senado.
+
+En la especialidad de Sanidad, se requiere ser egresado universitario-profesional médico, especialista en Administración Hospitalaria y Salud Pública y Magíster en Ciencias Policiales.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 115°
 
-El Ministro del Interior comprobará:
 
-1) Haberse cumplido con el trámite legal;
+Para ser promovido a Comisario General Director, se requiere haber cumplido 2 (dos) años en el grado anterior, ejercer el cargo correspondiente y contar con el acuerdo del Senado.
 
-2) Estar de acuerdo con la Constitución y las Leyes.-
+En la especialidad de Sanidad, se requiere ser egresado universitario-profesional médico, especialista en Administración Hospitalaria y Salud Pública y Magíster en Ciencias Policiales reconocido por el Instituto Superior de Educación Policial (ISEPOL).
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 116°
 
-Si la Ordenanza no reuniese los requisitos señalados en los incisos 1 y 2 del Art. 115, el Ministerio devolverá a la Junta dentro de los treinta días siguientes a la recepción, formulando las observaciones pertinentes.
 
-Si dentro de este término el Ministerio no formulare sus observaciones o reparos, la Ordenanza entrará en vigencia y tendrá fuerza de Ley.-
+Para ser promovido a Comisario General Comandante, se requiere ostentar el grado de Comisario General Director, ejercer el cargo de Comandante de la Policía Nacional y contar con el acuerdo del Senado.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 117°
 
-Si la Junta se ratificare por dos tercios de votos sobre la cuestión planteada, hará saber los motivos al Ministerio del Interior y la Ordenanza entrará en vigor. Sin este requisito, prevalecerá la sanción del Poder Ejecutivo.-
+
+El Cuadro de Comisarios Generales Inspectores estará conformado, proporcionalmente, por dos promociones de egresados de la Academia Nacional de Policía, incluyendo la de Sanidad.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 118°
 
@@ -1131,7 +1269,24 @@ Cuando los arrendatarios de solares municipales hubieren cumplido estrictamente 
 
 ### Artículo 134°
 
-Los excedentes de terrenos municipales cuyo frente y superficie no se ajusten a las condiciones mínimas exigidas en las respectivas ordenanzas para constituir un lote, podrán ser vendidos directamente a los propietarios de predios colindantes, previa tasación pericial.-
+
+Las sanciones disciplinarias que se establecen son:
+
+Para las faltas leves las siguientes:
+
+- Apercibimiento por escrito.
+
+- Multa equivalente al importe de 3 (tres) a 5 (cinco) días de salario mínimo legal.
+
+Para las faltas graves las siguientes:
+
+- Suspensión en el cargo sin goce de sueldo de hasta 30 (treinta) días.
+
+- Baja.
+
+Su aplicación será conforme al Reglamento Disciplinario.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 135°
 
@@ -1161,29 +1316,17 @@ Los ingresos municipales.
 
 ### Artículo 140°
 
-Son ingresos municipales:
 
-1) Las rentas patrimoniales;
+La sanción disciplinaria por faltas leves será aplicada, conforme a las facultades establecidas en el Reglamento Disciplinario.
 
-2) Los impuestos;
-
-3) Las tasas;
-
-4) Las multas;
-
-5) Las subvenciones;
-
-6) Las donaciones o legados;
-
-7) Los Empréstitos;
-
-8) Las contribuciones especiales;
-
-9) Los ingresos varios.-
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 141°
 
-La Junta Municipal determinará todo lo relativo a los ingresos municipales y fijará las condiciones de arrendamiento, alquileres, empréstitos, compras, ventas, permutas y compromisos de acuerdo con los preceptos de esta Ley y del Código Civil.-
+
+La sanción disciplinaria correspondiente a la suspensión sin goce de salario, será conforme al Reglamento Disciplinario y aplicada previo sumario administrativo.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 SECCIÓN 1ª.
 
@@ -1191,7 +1334,14 @@ Rentas Patrimoniales.
 
 ### Artículo 142°
 
-Pertenece a las Rentas Patrimoniales el producto de la explotación de los bienes municipales, tales como terrenos, mercados, edificios, cementerios, bosques, canteras, calles, plazas, jardines, etc.-
+
+Los uniformes, distintivos, insignias del grado, placas de identificación policial y demás emblemas son usos privativos de la Institución y del personal de la Policía Nacional que constituyen símbolos de autoridad, y estarán establecidos, conforme a la resolución de la Comandancia de la Policía Nacional. Los distintos tipos y usos serán reglamentados.
+
+Se prohíben su fabricación y venta a personas física o jurídicas que no hayan sido debidamente autorizadas por la Comandancia de la Policía Nacional, así como el uso por empresas públicas, privadas o personas ajenas a la Institución, como los que ofrezcan semejanza en el color o diseño con los usados por la Policía Nacional y que puedan inducir a confusión con ellos.
+
+El uniforme deberá ser proveído y/o supervisado en la entrega por la Dirección de Logística y Abastecimiento, a través del Departamento de Intendencia.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 143°
 
@@ -1259,7 +1409,10 @@ SECCION 4ª.
 
 ### Artículo 150°
 
-Por incumplimiento de las Ordenanzas y Resoluciones, la Municipalidad podrá imponer multa hasta de diez mil guaraníes por la primera vez y en caso de reincidencia, el doble de la aplicada.-
+
+El Comando es el máximo organismo de las Fuerzas Policiales, responsable de la dirección, planeamiento, coordinación, control, administración y empleo de los recursos presupuestarios, humanos y bienes asignados a la Policía Nacional; se ejerce a través del Comandante y el Subcomandante de la Policía Nacional.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 151°
 
@@ -1271,7 +1424,18 @@ Impuesto Inmobiliario - Subvenciones.
 
 ### Artículo 152°
 
-Las Municipalidades percibirán el treinta por ciento del Impuesto Inmobiliario que recauda el Estado sobre los inmuebles urbanos situados en los respectivos municipios. Además, el treinta por ciento del adicional progresivo a los baldíos y semi baldíos que se perciba en los mismos, de conformidad con la ley correspondiente.-
+
+Son requisitos para ser Comandante de la Policía Nacional:
+
+a) Ser de nacionalidad paraguaya;
+
+b) Egresado de la Academia Nacional de Policía en la especialidad de Prevención y Seguridad o Investigaciones.
+
+c) Egresado de la Escuela de Estrategia Policial, con el Título de Magíster en Ciencias Policiales.
+
+d) Ser Comisario General Director en actividad.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 153°
 
@@ -1283,7 +1447,32 @@ Empréstitos, legados y donaciones.
 
 ### Artículo 154°
 
-Los fondos provenientes de legados, donaciones o empréstitos, no podrán invertirse en otros objetos que los especialmente determinados por él, testados o donante, o por la ley u ordenanza que los autorizó.-
+
+Integran la Comandancia de la Policía Nacional:
+
+- El Consejo de Comisarios Generales.
+
+- Los Tribunales de Calificaciones de Servicio.
+
+- Departamento de Enlace con el Congreso Nacional.
+
+- Departamento de Asuntos Internacionales y Agregadurías Policiales.
+
+- Departamento de Relaciones Públicas.
+
+- Departamento Ceremonial y Protocolo.
+
+- Departamento Jurídico.
+
+- Departamento de Derechos Humanos.
+
+- Departamento de Auditoría Interna.
+
+- El Gabinete.
+
+Las Jefaturas de los Departamentos serán ejercidas por Comisarios Principales de Prevención y Seguridad o Investigaciones, egresados de la Escuela de Estrategia Policial, con el título de Magíster en Ciencias Policiales, expedido por Instituto Superior de Educación Policial (ISEPOL). La organización y funcionamiento de las dependencias se regirán por reglamentos.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 TITULO X
 
@@ -1297,7 +1486,20 @@ El cobro y la recaudación de los impuestos, tasas y multas municipales, se regu
 
 ### Artículo 156°
 
-La recaudación de los impuestos, tasas y multas municipales, se hará directamente por la tesorería municipal, de conformidad con los títulos de créditos y las órdenes de ingresos emitidas de acuerdo con la ley, ordenanzas o reglamentos.-
+
+Los Tribunales de Calificaciones de Servicio son organismos competentes para expedirse sobre los méritos, aptitudes, distinciones, citaciones, ascensos, retiros, baja y reincorporaciones. Sus resoluciones son irrecurribles.
+
+Los componen:
+
+1. Los Tribunales de Calificaciones de Servicio para Oficiales constituidos por:
+
+a) El Tribunal Superior: que tiene a su cargo entender en cuestiones de su competencia referidas a Oficiales desde el grado de Comisario. Es presidido por el Comandante de la Policía Nacional y lo componen 7 (siete) Comisarios Generales Directores y 12 (doce) Comisarios Generales Inspectores, todos en actividad, nombrados por el Comandante de la Policía Nacional.
+
+b) El Tribunal Ordinario: que tiene a su cargo entender en cuestiones de su competencia referidas a Oficiales hasta el grado de Subcomisario. Es presidido por el Comandante de la Policía Nacional y lo componen 8 (ocho) Comisarios Generales en actividad, nombrados por el Comandante de la Policía Nacional.
+
+El Tribunal de Calificaciones de Servicio para Suboficiales: tiene a su cargo entender las cuestiones de su competencia referida a Suboficiales. Es presidido por el Subcomandante de la Policía Nacional o su representante, quien convocará para integrarlo como miembros a los jefes de dependencias que considere pertinentes.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 157°
 
@@ -1305,7 +1507,18 @@ Cuando las disposiciones de una ley u ordenanza, que establezca el cobro de un i
 
 ### Artículo 158°
 
-En caso de declaraciones fraudulentas, debidamente comprobadas por parte del contribuyente y que tiendan a ocultar o falsear, los datos que la Municipalidad requiera para el cobro de impuestos o tasas, será sancionado de acuerdo con las disposiciones pertinentes del Código Penal.-
+
+El Gabinete del Comandante lo conforman:
+
+- Ayudantía General.
+
+- Secretaría Privada.
+
+- Asesores.
+
+Las Jefaturas de los Departamentos serán ejercidas por Comisarios Principales de Prevención y Seguridad o Investigaciones, egresados de la Escuela de Estrategia Policial, con el título de Magíster en Ciencias Policiales, expedido por el Instituto Superior de Educación Policial (ISEPOL). La Organización y funcionamiento de las dependencias se regirán por reglamentos.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 159°
 
@@ -1317,38 +1530,188 @@ Los Impuestos, tasas y multas, establecidos por las Municipalidades serán cobra
 
 ### Artículo 161°
 
-Para proceder contra el deudor al cobro de impuestos, tasas y multas, por la vía de la ejecución de sentencias, de acuerdo con lo dispuesto por el artículo anterior, será suficiente título de ejecución la boleta respectiva con el VºBº del Intendente o del Presidente de la Junta Municipal, en su caso.-
+
+Integran la Subcomandancia de la Policía Nacional:
+
+- Dirección de Planificación Estratégica.
+
+- Dirección de Asuntos Internos.
+
+- Departamento de Comunicaciones y Publicaciones.
+
+- Departamento de Comisión de Estudios de Leyes y Reglamentos.
+
+Las Direcciones serán ejercidas por Comisarios Generales Inspectores de Prevención y Seguridad o Investigaciones y los Departamentos por Oficiales Jefes de las mismas especialidades.
+
+El Gabinete del Subcomandante lo integran:
+
+- La Ayudantía.
+
+- La Secretaría.
+
+- Los Asesores.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 162°
 
-Los impuestos, tasas y multas que no se hubiesen satisfecho quedarán prescriptas a los cinco años contados a partir de la fecha de su exigibilidad, o del día en que se ejecutorió la sentencia de que habla el artículo anterior. La fecha de la exigibilidad del pago correrá desde el día siguiente al vencimiento del plazo estipulado para el mismo.-
+
+La Dirección de Planificación Estratégica es la dependencia responsable de diseñar y desarrollar programas y planes de seguridad, conforme a las estadísticas, así como del fortalecimiento estructural de la Institución y su relacionamiento con otras Instituciones, para el cumplimiento de su misión constitucional. Su organización y funcionamiento serán reglamentados.
+
+La integran:
+
+- Secretaría de Prevención e Investigación del Terrorismo.
+
+- Unidad de Inteligencia Sensible (SIU).
+
+- Departamento de Estadística.
+
+- Departamento Centro de Documentación e Informaciones.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 163°
 
-El Departamento Ejecutivo elaborará los catastros y padrones de contribuyentes que han de servir de base para el cobro de los impuestos y tasas. Los catastros y padrones de contribuyentes serán aprobados por la Junta Municipal y refrendados por el Intendente o Presidente de la Junta, en su caso.-
+
+La Dirección de Asuntos Internos es la responsable de investigar al personal policial, cuyas conductas en ocasión del cumplimiento de sus funciones o fuera de ella, atentan contra la Ley y los reglamentos institucionales; así como solicitar la aplicación de las medidas administrativas disciplinarias, y a tal efecto, ejerce la acción en el sumario instruido. Asimismo, deberá poner a conocimiento del Ministerio Público, los hechos que llegan a su conocimiento que podrían constituir hechos punibles.
+
+Para el cumplimiento de su cometido, podrá tomar testimonio de las personas y solicitar informes a las dependencias policiales, a las instituciones públicas o privadas.
+
+Será ejercida por un Comisario General Inspector con Título de Abogado.
+
+La integran:
+
+- Departamento de Investigación Interna.
+
+- Fiscalías de Sumarios.
+
+Su organización y funcionamiento serán conforme al Reglamento Disciplinario.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 164°
 
-La Junta Municipal reglamentará el procedimiento para la aplicación del recurso de apelación por parte de los contribuyentes cuando estos se creyeren lesionados por el resultado de una fiscalización o por la liquidación de un impuesto o tasa que de acuerdo con la ley u ordenanza, estuvieren obligados a abonar al tesoro municipal.-
+
+El Departamento de Comunicaciones es la responsable de transmitir las informaciones relacionadas al desenvolvimiento institucional, definiendo los respectivos protocolos de socialización interna y externa.
+
+El Departamento de Publicaciones es el organismo encargado de la producción de material bibliográfico de apoyo a la gestión policial, para cuyo efecto coordinará actividades con los estamentos institucionales pertinentes.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 165°
 
 
-La Comisión Permanente de Estudios de Leyes y Reglamentos es el organismo que se encarga de la revisión y actualización de los reglamentos que regulan el funcionamiento institucional y del estudio de Leyes, decretos, ordenanzas y otras disposiciones legales que se relacionan con la función policial. Su organización y funcionamiento se regirán por reglamento. La Jefatura de la Comisión Permanente de Estudios de Leyes y Reglamentos será ejercida por un Comisario Principal de Orden y Seguridad.
 
-> *Modificado por Ley N° 4650 (2012-07-18)*
+El Departamento de Comisión de Estudios de Leyes y Reglamentos es el organismo que se encarga de la revisión, actualización de los reglamentos que regulan el funcionamiento institucional y del estudio de Leyes, decretos, ordenanzas y otras disposiciones legales que se relacionan con la función policial. Su organización y funcionamiento se regirán por reglamento. La Jefatura del Departamento de Comisión de Estudios de Leyes y Reglamentos será ejercida por un Oficial Jefe de la Especialidad de Prevención y Seguridad o Investigaciones, con Título de Abogado.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 166°
 
-La Municipalidad podrá recaudar mensual, trimestral o semestralmente los impuestos o tasas anuales, susceptibles de subdivisión cuando lo creyere conveniente.-
+
+Son Direcciones Generales:
+
+- La Dirección General de Talento Humano.
+
+- La Dirección General de Prevención y Seguridad.
+
+- La Dirección General de Investigación Criminal.
+
+- La Dirección General de Inteligencia Policial.
+
+- La Dirección General del Instituto Superior de Educación Policial.
+
+- La Dirección General de Justicia Policial.
+
+- La Dirección General de Administración y Finanzas.
+
+- La Dirección General de Sanidad Policial.
+
+Las Direcciones Generales de Talento Humano, Prevención y Seguridad, Investigación Criminal; Inteligencia y del Instituto Superior de Educación Policial (ISEPOL), serán ejercidas por Comisarios Generales Directores de la especialidad de Prevención y Seguridad o de Investigaciones.
+
+La Dirección General de Justicia Policial será ejercida por un Comisario General Director de la especialidad de Prevención y Seguridad o Investigaciones con Título de Abogado.
+
+La Dirección General de Administración y Finanzas será ejercida por un Comisario General Director de la especialidad de Intendencia.
+
+La Dirección General de Sanidad Policial será ejercida por un Comisario General Director de Sanidad.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 167°
 
-No podrá extenderse escritura de venta, permuta u otra que implique transmisión o restricción de dominio, o que establezcan gravamen sobre la propiedad o de la cancelación de dichos gravámenes sin el comprobante de estar pagados todos los impuestos, tasas y multas municipales, hasta el año y el mes inclusive de la fecha de las respectivas escrituras.-
+
+La Dirección General de Talento Humano es la dependencia responsable sobre la política de incorporación, administración y destino del personal; de diseñar las políticas para el bienestar del personal y su familia, en materia de vivienda, recreación, asistencia social, estabilidad y condiciones adecuadas de trabajo.
+
+La integran:
+
+- Dirección de Gestión del Personal.
+
+- Dirección de Bienestar Policial.
+
+Las Direcciones serán ejercidas por un Comisario General Inspector de la especialidad de Prevención y Seguridad o de Investigaciones.
+
+La Dirección de Gestión del Personal es la encargada de organizar, coordinar, seleccionar, evaluar, administrar y capacitar los recursos humanos de la Institución.
+
+La integran:
+
+- Departamento de Selección y Admisión.
+
+- Departamento de Evaluación de Desempeño y Ascenso.
+
+- Departamento de Capacitación y Desarrollo.
+
+- Departamento de Administración de Personal.
+
+- Departamento de Legajos.
+
+Las Jefaturas de las secciones serán ejercidas por Oficiales Jefes, y su organización y funcionamiento serán reglamentados.
+
+La Dirección de Bienestar Policial es la encargada de la búsqueda permanente de protección al personal policial y su familia, en lo referente a la vivienda, recreación, ayuda social, y otros, relativos al bienestar de los mismos.
+
+La integran:
+
+- Departamento de Vivienda.
+
+- Departamento de Asistencia Jurídica.
+
+- Departamento de Acción Social y Asuntos Familiares.
+
+- Departamento de Capellanía Católica y Evangélica.
+
+Las Jefaturas de los Departamentos serán ejercidas por Oficiales Jefes, egresados de la Escuela de Estrategia Policial, con el título de Magíster en Ciencias Policiales expedido por Instituto Superior de Educación Policial (ISEPOL), y su organización y funcionamiento serán reglamentados.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 168°
 
-No se cobrará impuesto municipal alguno por los artículos en tránsito de un municipio a otro.-
+
+La Dirección General de Prevención y Seguridad es la responsable de organizar, planificar y ejecutar la misión de la Policía Nacional en el ámbito de la prevención y seguridad ciudadana, conforme a la Constitución Nacional y, a las Leyes.
+
+La integran:
+
+- La Dirección del Centro de Seguridad y Emergencias.
+
+- Las Direcciones de Policía de Asunción. Las Direcciones de Policía Departamentales integran: Dirección de Policía de Concepción, Dirección de Policía de San Pedro, Dirección de Policía de Cordillera, Dirección de Policía de Guairá, Dirección de Policía de Caaguazú, Dirección de Policía de Caazapá, Dirección de Policía de Itapúa, Dirección de Policía de Misiones, Dirección de Policía de Paraguarí, Dirección de Policía de Alto Paraná, Dirección de Policía del Departamento Central, Dirección de Policía de Ñeembucú, Dirección de Policía de Amambay, Dirección de Policía de Canindeyú, Dirección de Policía de Presidente Hayes, Dirección de Policía de Alto Paraguay y Dirección de Policía de Boquerón.
+
+- La Dirección de Apoyo Táctico a la que se adscriben el Departamento de Planificación y Operaciones; la Subunidad de Administración y Finanzas, y Gabinete.
+
+- Las Direcciones serán ejercidas por Comisarios Generales Inspectores de la especialidad de Prevención y Seguridad. Y las demás dependencias por Oficiales Jefes. La organización y funcionamiento de las mismas se regirán por reglamento.
+
+La Dirección del Centro de Seguridad y Emergencias: es la responsable de planificar, organizar, controlar y evaluar la atención inmediata y eficaz de las solicitudes de emergencias que se reciben en la Policía Nacional, y orientan a cada uno de los componentes operativos del sistema.
+
+La integran:
+
+- Departamento del Sistema 911.
+
+- Departamentos de Bomberos.
+
+- Subunidad de Administración y Finanzas.
+
+- Gabinete.
+
+La Jefatura del Departamento del Sistema 911 será ejercida por un Comisario Principal de Prevención y Seguridad, egresado de la Escuela de Estrategia Policial, con el título de Magíster en Ciencias Policiales, expedido por Instituto Superior de Educación Policial (ISEPOL) y las demás dependencias por Oficiales Jefes de su Especialidad.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 TITULO XI
 
@@ -1356,95 +1719,386 @@ El Presupuesto.
 
 ### Artículo 169°
 
-El Presupuesto de la Municipalidad se regirá en la preparación y ejecución por la Ley General de Organización financiera, en todo lo que no se oponga a la presente Ley.-
+
+Las Direcciones de Policía de Asunción y Departamentales serán ejercidas por Comisarios Generales Inspectores egresados de la Escuela de Estrategia Policial, con título de Magíster en Ciencias Policiales, expedido por el Instituto Superior de Educación Policial (ISEPOL), de la especialidad de Prevención y Seguridad y son los responsables de planificar, organizar, controlar y evaluar el cumplimiento de las funciones y obligaciones que competen a la Policía Nacional en el mantenimiento del orden público, la seguridad de las personas y de sus bienes, desarrollar la inteligencia y coordinar la investigación de los hechos punibles.
+
+Representan al Comando Institucional en el espacio territorial de su competencia y jurisdicción, con facultades de efectuar coordinación con otros organismos públicos o privados que por sus actividades se vinculan al ejercicio de la función policial.
+
+Se organizan en:
+
+- Departamento de Seguridad Ciudadana.
+
+- Departamento de Inteligencia.
+
+- Departamento Táctico.
+
+- Departamento de Seguridad de Eventos Deportivos y Especiales.
+
+- Departamento de Seguridad Turística.
+
+- Departamento de Seguridad Centros Educativos.
+
+- Departamento de Seguridad de Tránsito.
+
+- Subunidad de Administración y Finanzas.
+
+- Departamento de Logística.
+
+- Gabinete.
+
+El Departamento de Seguridad Ciudadana se organiza en Comisarías, Subcomisarías, Puestos Policiales y Destacamentos, será ejercido por un Comisario Principal egresado de la Escuela de Estrategia Policial, con título de Magíster en Ciencias Policiales, en la especialidad de Prevención y Seguridad. Las Jefaturas de los demás Departamentos serán ejercidas por Oficiales Jefes de su especialidad. La organización y funcionamiento de las dependencias se regirán por reglamentos.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 170°
 
-El ejercicio comprende desde el 1º de Enero hasta el treinta y un de Diciembre de cada año. El Proyecto de Presupuesto se sancionará y promulgará en el mes de Diciembre.-
+
+La Dirección de Apoyo Táctico es el organismo encargado de apoyar las operaciones tácticas de las dependencias de la Policía Nacional, cuando la situación lo requiera.
+
+La integran:
+
+- Agrupación Especializada.
+
+- Agrupación de Seguridad.
+
+- Agrupación de Fuerzas de Operaciones Policiales Especiales (FOPE).
+
+- Agrupación Motorizada.
+
+- Agrupación Montada.
+
+- Agrupación de Protección Ecológica y Rural (APER).
+
+- Agrupación Aérea Policial.
+
+- Subunidad de Administración y Finanzas.
+
+- Gabinete.
+
+Las Jefaturas de las Agrupaciones serán ejercidas por Comisarios Principales de la especialidad de Prevención y Seguridad, egresados de la Escuela de Estrategia Policial, con el título de Magíster en Ciencias Policiales. La organización y funcionamiento de las mismas se regirán por reglamentos.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 171°
 
 
-La Dirección de Apoyo Táctico es el organismo encargado de apoyar en las operaciones policiales a las distintas dependencias de la Policía Nacional, cuando la situación lo requiera.
 
-Lo conforman:
+La Dirección General de Investigación Criminal es el organismo responsable del cumplimiento de la misión institucional en el área de la investigación de los hechos punibles, así como de la organización del servicio técnico – científico de la Institución, conforme a la Constitución Nacional y a las Leyes.
 
-- La Agrupación Especializada;
+La integran:
 
-- La Agrupación de Seguridad;
+- La Dirección de Investigación de Hechos Punibles.
 
-- La Agrupación Motorizada;
+- La Dirección de Hechos Punibles Económicos y Financieros.
 
-- La Agrupación Bomberos;
+- La Dirección Científica y Técnica.
 
-- La Agrupación Montada;
+- Subunidad de Administración y Finanzas.
 
-- La Agrupación de Protección Ecológica;
+- Gabinete.
 
-- La Agrupación Fluvial y Aero Policial; y,
+Las Direcciones serán ejercidas por Comisarios Generales Inspectores de la Especialidad de Investigaciones.
 
-- La Agrupación de Seguridad Urbana y Turística.
+La Dirección de Investigación de Hechos Punibles es la responsable de planificar, organizar, ejecutar y supervisar el cumplimiento de las funciones investigativas de sus diferentes dependencias componentes.
 
-Las Jefaturas de las Agrupaciones que integran la Dirección de Apoyo Táctico serán ejercidas por Oficiales Superiores con el grado de Comisario Principal de Orden y Seguridad.
+La componen:
 
-La organización y funcionamiento de las mismas se regirán por reglamento.
+- Departamento Antisecuestro de Personas.
 
-> *Modificado por Ley N° 4650 (2012-07-18)*
+- Departamento de Investigación de Homicidios.
+
+- Departamento de Investigaciones Departamentales.
+
+- Departamento Contra Delitos Económicos y Financieros.
+
+- Departamento Antinarcóticos.
+
+- Departamento de Investigación de Trata de Personas.
+
+- Departamento de Control de Desarmadores de Vehículos.
+
+- Departamento de Lucha Contra el Abigeato.
+
+- Subunidad de Administración y Finanzas.
+
+- Gabinete.
+
+Los Departamentos de Investigaciones Departamentales son dependencias conformadas por diferentes especialidades del área de investigación, que desempeñan sus funciones operativas en la jurisdicción territorial de las respectivas. Direcciones de Policía de Asunción y Departamentales, en coordinación con estas. Las Jefaturas de estos Departamentos serán ejercidas por Comisarios Principales de la especialidad de Investigaciones, egresados de la Escuela de Estrategia Policial, con el título de Magíster en Ciencias Policiales. La organización y funcionamiento de las dependencias se regirán por reglamento.
+
+La Dirección Científica y Técnica es la encargada de planificar y ejecutar el apoyo técnico - científico, a las funciones preventivas e investigativas de la Policía Nacional.
+
+La componen:
+
+- Departamento de Identificaciones.
+
+- Departamento de INTERPOL.
+
+- Departamento Judicial.
+
+- Departamento de Criminalística.
+
+- Departamento de Informática.
+
+- Departamento de Registros Extranjeros.
+
+- Departamento de Bosques y Asuntos Ambientales.
+
+- Departamento de Portación de Armas de Fuego.
+
+- Subunidad de Administración y Finanzas.
+
+- Gabinete.
+
+Las Jefaturas de estos Departamentos serán ejercidas por Comisarios Principales de la especialidad de Investigaciones, egresados de la Escuela de Estrategia Policial, con el título de Magíster en Ciencias Policiales.
+
+La organización y funcionamiento de las dependencias se regirán por reglamentos.
+
+La Dirección de los Hechos Punibles Económicos y Financieros es la responsable de planificar, organizar y supervisar el cumplimiento de las funciones investigativas de sus diferentes dependencias componentes.
+
+La integran:
+
+- Departamento Especializado Contra el Lavado de Dinero y Financiamiento del Terrorismo.
+
+- Departamento Especializado Contra la Violación de los Derechos Intelectuales.
+
+- Departamento Especializado en la Investigación del Cybercrímen y los Hechos Punibles Informáticos.
+
+- Departamento Especializado Contra los Hechos Punibles Financieros.
+
+- Departamento Especializado Contra los Hechos Punibles Económicos.
+
+- Departamento Especializado Contra la Falsificación de Documentos y Abuso de Documentos de Identidad.
+
+- Departamento Especializado en el Control de la Seguridad Bancaria y de Empresas Privadas.
+
+- Subunidad de Administración y Finanzas.
+
+- Gabinete.
+
+Las Jefaturas de estos Departamentos serán ejercidas por Comisarios Principales de la especialidad de Investigaciones, egresados de la Escuela de Estrategia Policial, con el título de Magíster en Ciencias Policiales. La organización y funcionamiento de las dependencias se regirán por reglamentos.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 172°
 
-El Departamento Ejecutivo elaborará el Presupuesto y lo presentará a la Junta para su estudio y consideración. Si la Junta no estuviese de acuerdo, en todo o en parte, con el proyecto de Presupuesto, hará las modificaciones necesarias sujetándose a las disposiciones de esta Ley.-
 
-Si la Junta Municipal no provee durante el mes de Diciembre de presupuesto para el ejercicio siguiente, se considerará que ella ha aprobado el proyecto del Departamento Ejecutivo.-
+La Dirección General de Inteligencia Policial: es una dependencia especializada en reunir y procesar informaciones que permitan conocer la situación, actividades e intenciones de las organizaciones que puedan constituir amenaza contra la seguridad interna de la Nación, convertidas en inteligencia y proporcionar al Comando Institucional para la toma de decisiones.
+
+La integran:
+
+- Departamento de Producción de Informaciones.
+
+- Departamento de Análisis.
+
+- Departamento de Contra Inteligencia.
+
+- Subunidad de Administración y Finanzas.
+
+- Gabinete.
+
+El Departamento de Producción de Informaciones será ejercido por un Comisario Principal de Prevención y Seguridad o Investigaciones, egresado de la Escuela de Estrategia Policial (ISEPOL), con el título de Magíster en Ciencias Policiales y las demás dependencias por Oficiales Jefes. Su organización y funcionamiento serán reglamentados.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 173°
 
-Las Juntas no podrán aumentar las partidas de sueldos proyectadas por el Departamento Ejecutivo relativas a las dependencias del mismo, pero podrá disminuirlas y suprimir cargos.-
+
+La Dirección General del Instituto Superior de Educación Policial: es el organismo encargado de planear, organizar, dirigir, coordinar y supervisar los planes y programas para la formación, especialización y perfeccionamiento profesional, técnico, científico y cultural del personal policial, como Institución de Educación Superior reconocida por la Ley N° 2946/06 “QUE RECONOCE AL INSTITUTO SUPERIOR DE EDUCACIÓN POLICIAL (ISEPOL), COMO INSTITUCIÓN DE EDUCACIÓN SUPERIOR”.
+
+Se organiza de la siguiente manera:
+
+- Consejo Asesor Superior.
+
+- Dirección de Postgrado.
+
+- Dirección de Grado.
+
+- Dirección de Pregrado.
+
+- Secretaría General.
+
+- Asesoría Técnica Pedagógica.
+
+- Departamento de Cultura y Becas.
+
+- Departamento de Estudio, Evaluación y Acreditación.
+
+- Centro de Investigación.
+
+- Centro de Recursos Didácticos.
+
+- Subunidad de Administración y Finanzas.
+
+- Gabinete.
+
+La Dirección de Postgrado y Capacitación. La conforman las siguientes Unidades Académicas:
+
+- Escuela de Estrategia Policial.
+
+- Escuela de Administración y Asesoramiento Policial.
+
+- Escuela de Especialización Profesional.
+
+- Centro de Capacitaciones.
+
+La Dirección de Grado. La conforman las siguientes Unidades Académicas:
+
+- Academia Nacional de Policía “Gral. José E. Díaz”.
+
+- Instituto de Criminalística.
+
+- Escuela de Educación Física.
+
+- Escuela de Pilotos y Mecánicos.
+
+- Instituto de Idiomas.
+
+La Dirección de Pregrado. La conforman las siguientes Unidades Académicas:
+
+- Colegio de Policía “Sgto. Aydte. José Merlo Saravia”.
+
+- Escuela de Capacitación para Suboficiales.
+
+- Escuela de Estudios Musicales y Banda de Músicos “José Asunción Flores”.
+
+Las Direcciones de Postgrado, Grado y Pregrado serán ejercidas por Comisarios Generales Inspectores de Prevención y Seguridad o Investigaciones.
+
+Las Jefaturas serán ejercidas por un Comisario Principal de Prevención y Seguridad o Investigaciones, egresado de la Escuela de Estrategia Policial, con el título de Magíster en Ciencias Policiales. Y las Unidades Académicas serán ejercidas por Oficiales Jefes de las mismas especialidades.
+
+La Dirección General del Instituto Superior de Educación Superior Policial (ISEPOL), podrá crear o suprimir Unidades Académicas, de acuerdo con las necesidades del servicio y conforme a las disposiciones legales vigentes. Su organización y funcionamiento serán reglamentados.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 174°
 
-El Intendente o el Presidente en su caso, comunicará a la Junta, en la primera sesión ordinaria su conformidad o reparos.-
+
+La Dirección General de Justicia Policial es el organismo que representa al Comando Institucional, en la aplicación de las Leyes y de los reglamentos que regulan las faltas disciplinarias a los deberes policiales; así como el responsable de velar que los miembros de la Policía Nacional actúen conforme a la Ley y a los reglamentos, en el cumplimiento de sus funciones.
+
+La integran:
+
+- Tribunales de Apelación.
+
+- Juzgados de Sumarios.
+
+- Fiscalías.
+
+- Subunidad de Administración y Finanzas.
+
+- Gabinete.
+
+La organización y funcionamiento serán conforme al reglamento.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 175°
 
-La Junta Municipal podrá ratificarse por los dos tercios de votos de la totalidad de sus miembros, haciéndolos saber al Departamento Ejecutivo.-
+
+La Dirección General de Administración y Finanzas es la responsable de la planificación, organización, dirección, ejecución y control general de todas las actividades relacionadas a la administración y uso de los recursos económicos y financieros; contrataciones de bienes materiales y servicio, de conformidad con lo asignado a la Policía Nacional en el Presupuesto General de la Nación.
+
+La integran:
+
+- Dirección de Logística y abastecimiento.
+
+- Departamento de Unidad Operativa de Contrataciones.
+
+- Departamento de Contabilidad.
+
+- Departamento de Patrimonio.
+
+- Departamento de Presupuesto.
+
+- Departamento de Rendición de Cuentas.
+
+- Subunidades de Administración y Finanzas.
+
+- Gabinete.
+
+Las Jefaturas de los Departamentos serán ejercidas por Comisarios Principales de la especialidad de Intendencia. La organización y funcionamiento de las dependencias se regirán por reglamentos.
+
+La Dirección de Logística y Abastecimiento es la responsable de planificar, organizar, ejecutar y supervisar los servicios de apoyo de su competencia. Controla la calidad, así como la provisión en tiempo y forma de los insumos recibidos.
+
+La integran:
+
+- Departamento de Intendencia.
+
+- Departamento de Mantenimientos y Reparaciones.
+
+- Departamento de Talleres y Obras.
+
+- Departamento de Construcciones.
+
+- Departamento de Armas y Municiones.
+
+- Departamento Agropecuario.
+
+- Gabinete.
+
+La Dirección será ejercida por un Comisario General Inspector de la especialidad de Intendencia. Las Jefaturas de los Departamentos serán ejercidas por Comisarios Principales de la especialidad de Intendencia. La organización y funcionamiento de las dependencias se regirán por reglamentos.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 176°
 
 
-La Dirección General de Bienestar Policial es el organismo que se encarga de la búsqueda permanente de protección al personal policial y su familia, en lo referente a salud, vivienda, recreación, ayuda social, educativa y otros, relativos al bienestar de los mismos.
 
-Lo integran:
+La Dirección General de Sanidad Policial es el organismo encargado de la planificación, organización, funcionamiento y supervisión de la política de la asistencia a la salud del personal policial y su familia con derecho a pensión en todo el territorio nacional.
 
-- La Dirección de Sanidad;
+La integran:
 
-- El Departamento de Vivienda;
+- La Dirección del Hospital Central de Policía “Doctor Rigoberto Caballero”.
 
-- Los Clubes Policiales;
+- Hospitales Regionales.
 
-- El Departamento Financiero y Económico;
+- Centros asistenciales.
 
-- El Departamento de Asistencia Social;
+- Departamento de Planeación Estratégica.
 
-- El Departamento de Asistencia Jurídica;
+- Departamento de Suministro.
 
-- El Departamento de Asistencia Educativa;
+- Departamento de Servicio Médico, Externo y Servicio Tercerizado.
 
-- La Capellanía;
+- Departamento de Asistencia Social.
 
-- El Hogar de Reposo y de Menores; y,
+- Departamento de Junta de Reconocimiento Médico Policial.
 
-- La Junta de Reconocimiento Médico y Policial.
+- Unidad Operativa de Contrataciones.
 
-La Dirección de Sanidad es el organismo encargado de la planificación, organización, funcionamiento y supervisión de la asistencia a la salud en todo el territorio nacional. Será ejercido por un Comisario General Inspector de Sanidad Médico, y los demás Departamentos serán ejercidos por Oficiales Superiores.
+- Gabinete.
 
-La organización y funcionamiento de los Departamentos se regirán por reglamento
+La Dirección del Hospital Central de Policía “Doctor Rigoberto Caballero", será ejercida por un Comisario General Inspector de Sanidad con título de médico y es el responsable de la supervisión general del servicio a la salud policial.
 
-> *Modificado por Ley N° 2143 (2003-06-20)*
+Los demás Hospitales y Centros Asistenciales serán ejercidos por Oficiales Jefes de Sanidad, con postgrado en Administración Hospitalaria y/o Salud Pública, y los Departamentos por Oficiales Jefes de la Especialidad de Sanidad. La organización y funcionamiento de las dependencias se regirán por reglamentos.
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 177°
 
-El cálculo de recursos tendrá como base el promedio de rendimiento de los dos años anteriores, con las modificaciones en más o en menos que impongan las variaciones tributarias.-
+
+Serán nombrados por decreto del Poder Ejecutivo:
+
+- El Comandante de la Policía Nacional.
+
+- El Subcomandante de la Policía Nacional.
+
+- El Director General de la Dirección General de Administración y Finanzas de la Dirección Administrativa.
+
+- El Director General de la Dirección General de Justicia Policial y Miembros.
+
+- Los Integrantes del Departamento de Asistencia Jurídica.
+
+- Los Asesores Jurídicos.
+
+- Los Profesores de los Institutos Policiales de Enseñanza.
+
+- Los Alumnos de los Institutos de Formación Policial.”
+
+TÍTULO XIV
+
+DE LAS DISPOSICIONES TRANSITORIAS Y FINALES
+
+CAPÍTULO ÚNICO
+
+> *Modificado por Ley N° 5757 (2016-12-07)*
 
 ### Artículo 178°
 
