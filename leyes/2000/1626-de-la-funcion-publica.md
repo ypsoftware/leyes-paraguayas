@@ -401,17 +401,16 @@ Cuando termine la relación jurídica entre el Estado y sus funcionarios, sin qu
 
 ### Artículo 54°
 
-Podrá asimismo concederse permiso especial, sin goce de sueldo, en los siguientes casos:
 
-a) para prestar servicios en otra repartición, hasta un año;
+Podrá concederse permiso especial, sin goce de sueldo, en los siguientes casos:
 
-b) para usufructuar una beca de estudio o capacitación, hasta tres años; y,
+para prestar servicios en otra repartición, hasta un año; y,
 
-c) para ejercer funciones en organismos públicos internacionales, hasta cuatro años.
+para ejercer funciones en organismos internacionales, hasta cuatro años.
 
-Al término del permiso especial, el funcionario público podrá ocupar la primera vacancia que hubiera en el organismo o entidad respectivo, en la categoría que le corresponda.
+Al término del permiso especial, el funcionario público podrá ocupar la primera vacancia que hubiera en el organismo o entidad respectiva, en la categoría que le corresponda.
 
-El cargo dejado por el funcionario público beneficiario de lo previsto en el inc. b) será ocupado por otro en forma provisoria hasta tanto dure la ausencia del becario.
+> *Modificado por Ley N° 5766 (2016-12-14)*
 
 ### Artículo 55°
 
@@ -419,7 +418,22 @@ El permiso especial sin goce de sueldo producirá la vacancia en el cargo. No ob
 
 ### Artículo 56°
 
-En caso de permiso para usufructuar una beca en los términos del inciso b) del Artículo 54 de esta ley, si la beca hubiese sido solventada por el Estado, el funcionario estará obligado a reintegrarse a la función por un tiempo mínimo equivalente a la duración del permiso. Si se retirase antes de este plazo, el funcionario deberá reembolsar al Estado, proporcionalmente al tiempo que faltara para completar el plazo, los montos en que el Estado hubiera incurrido en razón de la beca.
+
+Asimismo, se concederá permiso especial solo a los servidores públicos de carrera, para usufructuar becas de capacitación o especialización profesional de postgrado en universidades o centros de formación terciaria de nivel equivalente en el exterior, por un plazo de hasta tres años prorrogables hasta un año más, o para realizar varias capacitaciones que en duración total no superen el mismo tiempo.
+
+En ese caso, el permiso concedido se hará con goce de sueldo y no causará vacancia, debiendo el funcionario reintegrarse por un tiempo mínimo equivalente a la duración del permiso usufructuado.
+
+Para ser beneficiario del presente régimen, el funcionario deberá realizar una especialización en materia afín a sus funciones institucionales o al menos en materia afín de los objetivos institucionales. Se deberá contar con un previo dictamen vinculante de la Secretaría de la Función Pública en cuanto a la determinación de la pertinencia de dicha correspondencia.
+
+Cuando el funcionario beneficiado con este permiso especial no cumpliera con la obligación de prestar servicios a la Institución por un período de tiempo igual al subsidio, y si la beca hubiese sido solventada por el Estado, el funcionario deberá reembolsar al Estado, el costo total de la beca más los salarios percibidos. Si el origen de la beca es otro, deberá reembolsar el total de los salarios percibidos.
+
+Será registrado en una base de datos dependiente de la Secretaría de la Función Pública, los casos de servidores públicos que no hayan cumplido con la obligación de prestar servicios en la Institución por un período de tiempo igual al subsidio recibido, una vez culminado el período especial.
+
+El beneficiario que no terminara el curso de capacitación o especialización profesional de postgrado, deberá reembolsar a la Institución el monto total de las erogaciones realizadas a su favor.
+
+El cargo dejado por el funcionario público beneficiario será ocupado por otro en forma provisoria hasta tanto dure la ausencia del becario.
+
+> *Modificado por Ley N° 5766 (2016-12-14)*
 
 CAPÍTULO IX
 
