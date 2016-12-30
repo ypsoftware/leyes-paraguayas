@@ -15,7 +15,30 @@ short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA A FAVOR DEL ESTADO…"
 
 ### Artículo 1°
 
-Declárase de interés social y exprópiase a favor del Estado paraguayo, Ministerio de Hacienda, un inmueble individualizado como parte de la Finca Nº 1170, ubicado en el Distrito de Itá, propiedad de la entidad Ahorros Paraguayos Sociedad Anónima de Ahorro y Préstamo para la Vivienda Emisora de Capital Abierto (en quiebra), para su posterior transferencia a Título oneroso a favor de sus actuales ocupantes del Asentamiento Jerovia, cuyas dimensiones y linderos son los siguientes:
+
+Declárase de interés social y exprópiase a favor del Estado paraguayo, Ministerio de Hacienda, un inmueble individualizado como parte de la Finca N° 1170, ubicado en el Distrito de Itá, propiedad de la entidad Ahorros Paraguayos Sociedad Anónima de Ahorro y Préstamo para la Vivienda Emisora de Capital Abierto (en quiebra), para su posterior transferencia a Título oneroso a favor de sus actuales ocupantes del Asentamiento Jerovia, cuyas dimensiones y linderos son los siguientes:
+
+MANZANA: 4
+
+Se halla compuesta por veintiún lotes, individualizados como Lotes 1 al 21, cuya dimensión de la manzana es como sigue:
+
+Lotes del N°: 01 al 21
+
+Cuyas dimensiones y linderos de la manzana son:
+
+Norte: 47,45 m Este: 60,82 m Este: 62,41 m Este: 63,80 m
+
+Sur: 21,14 m Oeste: 128,31 m
+
+SUPERFICIE DE LA MANZANA 4: 8.063,82 m2 (OCHO MIL SESENTA Y TRES METROS CUADRADOS CON OCHENTA Y DOS CENTÍMETROS CUADRADOS).
+
+Ctas. Ctes. Ctrales. N°s: 27-0820-01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21.
+
+SUPERFICIE TOTAL EXPROPIADA CORRESPONDIENTE A LA MANZANA 4: 8.063,82 m2 (OCHO MIL SESENTA Y TRES METROS CUADRADOS CON OCHENTA Y DOS CENTÍMETROS CUADRADOS).
+
+Fraccionamiento aprobado por la Municipalidad de Itá según Resolución N° 1166 de fecha 7 de junio de 1996 del Distrito de Itá, lugar denominado “Itá Pyahú.
+
+> *Modificado por Ley N° 5678 (2016-12-30)*
 
 Parte de la Finca Nº 1170
 
