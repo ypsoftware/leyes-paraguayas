@@ -73,17 +73,23 @@ De la Facultad Administrativa. El Registro de Automotores, dependiente de la Dir
 
 ### Artículo 9°
 
-De los Trámites. Los propietarios o poseedores de automotores podrán realizar los trámites de matriculación y cedulación, por sí, por personas debidamente autorizadas o por intermedio de las escribanías públicas del país.
 
-A tal efecto se habilitarán formularios especiales.
+De los Trámites. Las personas físicas o jurídicas que se dediquen a la venta de automotores en forma habitual o casual tienen un plazo de veinte días para formalizar la escritura pública correspondiente.
+
+Los propietarios o poseedores de automotores podrán realizar los trámites de matriculación y cedulación, por sí, por personas debidamente autorizadas o por intermedio de las escribanías públicas del país.
+
+> *Modificado por Ley N° 5236 (2017-07-17)*
 
 ### Artículo 10°
 
-El Registro de Automotores, dependiente de la Dirección General de los Registros Públicos, se encargará de la expedición de las chapas y de la grabación de la matrícula a las que alude esta Ley.
 
-Ningún municipio percibirá el importe de la patente de un automotor sin tener a la vista la Cédula del mismo.
+De la expedición de las chapas. El Registro de Automotores se encargará de la expedición de las chapas a las que se alude en el artículo anterior. Las mismas serán expedidas al ingreso del testimonio de la escritura pública para su matriculación.
 
-La reglamentación de esta Ley deberá prever un procedimiento de identificación visible que justifique el pago de la patente municipal.
+Finalizado el período de matriculación inicial, ninguna Municipalidad percibirá el importe de la patente de automotor sin tener a la vista la cédula respectiva.
+
+La reglamentación de esta ley deberá prever un procedimiento de identificación visible que justifique el pago de la patente municipal.
+
+> *Modificado por Ley N° 5236 (2017-07-17)*
 
 ### Artículo 11°
 
@@ -91,7 +97,12 @@ En caso de pérdida, extravío, sustracción o grave deterioro de la cédula o l
 
 ### Artículo 12°
 
-De la Intercomunicación Informática. Todos los datos que integran la matriculación y la Cédula del Automotor, as condiciones de dominios y cualquier modificación de los datos originales, deberán transferirse a un banco de datos de la sección informática del registro y conectarse con la red informática de la Policía Nacional, de las Municipalidades de la República y del Ministerio de Obras Públicas y Comunicaciones.
+
+De la intercomunicación informática. Todos los datos que integran la matriculación y la Cédula del Automotor, las condiciones de dominio y cualquier modificación de los datos originales, deberán transferirse a un banco de datos de la sección informática del registro y conectarse con la red informática de la Policía Nacional, de las Municipalidades de la República y del Ministerio de Obras Públicas y Comunicaciones.
+
+Para proceder a la formalización de la escritura pública, los escribanos públicos obtendrán informáticamente por los mecanismos tecnológicos habilitados para el efecto, los certificados de condiciones de dominio y de anotaciones personales, previo pago de las tasas judiciales a través de la red bancaria.
+
+> *Modificado por Ley N° 5236 (2017-07-17)*
 
 ### Artículo 13°
 
