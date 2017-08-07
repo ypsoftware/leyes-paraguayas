@@ -27,9 +27,10 @@ La Comisión estará compuesta por 7 (siete) Senadores, 7 (siete) Diputados, un 
 ### Artículo 3°
 
 
-Una vez instalada la Comisión, que funcionará en la sede del Congreso Nacional, elevará a consideración del Poder Legislativo, en el plazo de 18 (dieciocho) meses, sus conclusiones.
 
-> *Modificado por Ley N° 5493 (2015-09-24)*
+Una vez instalada la Comisión, que funcionará en la sede del Congreso Nacional, elevará sus conclusiones a consideración del Poder Legislativo, en el mes de diciembre del año 2017.
+
+> *Modificado por Ley N° 5853 (2017-08-07)*
 
 ### Artículo 4°
 
