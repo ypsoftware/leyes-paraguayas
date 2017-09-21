@@ -89,31 +89,46 @@ La Dirección tendrá capacidad para comprar, vender o arrendar bienes muebles e
 
 ### Artículo 10°
 
-Son funciones de la Autoridad de Aplicación: 1. Formular, proponer y participar de las políticas de protección del bienestar animal y de control y erradicación de la violencia hacia los mismos, así como ejecutar conjunta o separadamente con los organismos competentes los programas nacionales, especialmente en las siguientes áreas:
 
-a) El rescate, albergue, esterilización (control de superpoblación), sanitación, y tratamiento de muerte humanitaria de los animales; b) El apoyo a la autoridad competente en la intervención y control de depredación de los animales silvestres y de la fauna ictícola; c) La intervención para que se les otorgue trato y muerte humanitaria, transportación controlada, sanitación y vigilancia de los animales; d) El otorgamiento de trato y muerte humanitarios, sanitación, habilitación, transportación controlada de los animales de carga y aves de corral; e) La experimentación mediante métodos humanitarios; f) Otorgamiento de trato y muerte humanitarios, así como sanitación a los animales de granja, zoológicos y parques recreativos; y, g) Otorgamiento de trato y muerte humanitarios, así como sanitación apropiada a los animales utilizados en espectáculos públicos.
+Son funciones de la Autoridad de Aplicación:
 
-2. Fomentar el interés de participación de la ciudadanía en el control de la ejecución de las políticas de trabajo propugnadas por la Secretaría a favor de la vida y bienestar animal, que redundará en una mejor calidad de vida para la población.
+Formular, proponer y participar de las políticas de protección del bienestar animal y de control y erradicación de la violencia hacia los mismos, así como ejecutar conjunta o separadamente con los organismos competentes los programas nacionales, especialmente en las siguientes áreas:
 
-3. Proponer el ordenamiento y adecuación de la legislación nacional a los niveles internacionales, especialmente a la Declaración Universal de los Derechos del Animal (ONU 1978), la revisión y actualización de Leyes y ordenanzas municipales.
+a) El rescate, gerenciamiento para albergues, esterilización (control de superpoblación), sanitación y tratamiento de muerte humanitaria de los animales domésticos, considerados como mascotas, siendo éstos últimos los que acompañan a los seres humanos en su vida cotidiana, ya sea por motivos sociales, lúdicos o educativos, por lo que no son destinados al trabajo, ni tampoco son destinados a ser sacrificados para que se conviertan en alimento;
 
-4. Fomentar y desarrollar programas de educación nacional ya existentes e incorporar nuevos programas internacionales actualizados de educación preventiva y conservacionista y promover su divulgación a través de los órganos educativos oficiales y privados, así como a través de los medios de prensa: televisiva, oral, escrita.
+b) El apoyo a la autoridad competente en la intervención y control de depredación de los animales silvestres y de la fauna ictícola;
 
-5. Proponer la celebración de acuerdos de cooperación técnica con organismos nacionales e internacionales y controlar el cumplimiento de la ética y obligaciones de los profesionales en sus respectivas áreas de trabajo, relacionados a la vida y bienestar animal.
+c) La cooperación con el Servicio Nacional de Calidad y Salud Animal (SENACSA), para que se evite el sufrimiento innecesario durante, la transportación controlada, sanitación y vigilancia de los animales destinados al consumo masivo;
 
-6. Gestionar asistencia financiera ante instituciones nacionales e internacionales, bilaterales o multilaterales.
+d) La experimentación mediante métodos humanitarios;
 
-7. La Autoridad de Aplicación promoverá la creación y desarrollo de programas con hospitales veterinarios de las Universidades de todo el país y celebrará convenios que habilitarán a los mismos a prestar asistencia en el marco de dichos programas.
+e) Tratamiento adecuado, así como sanitación a los animales de granja, zoológicos y parques recreativos; y,
 
-8. Promover acciones judiciales ante los Juzgados y Tribunales de la República, tendientes a hacer cumplir las disposiciones de esta Ley, tales como solicitar medidas cautelares; órdenes de allanamientos; órdenes de registro; de secuestro, de liberación de animales en emergencia u otras medidas, así como los actos que complementan a estos, especialmente en los casos en que el éxito de la acción dependa de la perentoriedad de su ejecución.
+f) Tratamiento adecuado, control y protección apropiada a los animales que realizan espectáculos públicos.
 
-9. Vigilar e inspeccionar los Centros de Animales a los efectos de verificar el cumplimiento de la presente Ley e intervenir los establecimientos que no estén debidamente habilitados.
+2. Gestionar coordinadamente con el Ministerio Público la creación de la Unidad Especializada de Protección Animal, conforme a su capacidad presupuestaria, la cual estará integrada por personal capacitado en las materias de medicina veterinaria, biología o carreras afines; a fin de que a través de dicha Unidad se pueda intervenir en los casos de delitos de violencia y crueldad en contra de los animales domésticos, considerados como mascotas, y en su caso, poner a disposición de las autoridades pertinentes los animales maltratados para su resguardo conforme a las disposiciones legales aplicables.
 
-10.Promover convenios con asociaciones u organizaciones debidamente habilitadas que tengan como finalidad apoyar las actividades de vigilancia e inspección de los establecimientos de venta, guarda o cría de animales, de acuerdo con lo establecido en la presente Ley.
+3. Fomentar el interés de participación de la ciudadanía en el control de la ejecución de las políticas de trabajo propugnadas por la Autoridad de Aplicación a favor de la vida y bienestar animal, que redundará en una mejor calidad de vida para la población.
 
-11.Recibir y diligenciar las denuncias sobre actos de maltrato y abandono de animales; actuar de oficio cuando corresponda, pudiendo requerir la intervención de la fuerza pública, autoridades sanitarias y judiciales competentes.
+4. Proponer el ordenamiento y adecuación de la legislación nacional a los niveles internacionales, especialmente a la Declaración Universal de los Derechos del Animal (ONU 1978), la revisión y actualización de leyes y ordenanzas municipales.
 
-12.Emitir todas las resoluciones necesarias para el cumplimiento de los fines de esta Ley.
+5. Fomentar y desarrollar programas de educación nacional ya existentes e incorporar nuevos programas internacionales actualizados de educación preventiva y conservacionista y promover su divulgación a través de los órganos educativos oficiales y privados, así como a través de los medios de prensa: televisiva, oral y escrita.
+
+6. Proponer la celebración de acuerdos de cooperación técnica con organismos nacionales e internacionales y controlar el cumplimiento de la ética y obligaciones de los profesionales en sus respectivas áreas de trabajo, relacionados a la vida y bienestar animal.
+
+7. Gestionar asistencia financiera ante instituciones nacionales e internacionales, bilaterales o multilaterales.
+
+8. La Autoridad de Aplicación promoverá la creación y desarrollo de programas con hospitales veterinarios de las Universidades de todo el país y celebrará convenios que habilitarán a los mismos a prestar asistencia en el marco de dichos programas.
+
+9. Promover acciones judiciales ante los Juzgados y Tribunales de la República, tendientes a hacer cumplir las disposiciones de esta Ley, tales como solicitar medidas cautelares; órdenes de allanamientos; órdenes de registro; de secuestro, de liberación de animales en emergencia u otras medidas, así como los actos que complementan a estos, especialmente en los casos en que el éxito de la acción dependa de la perentoriedad de su ejecución.
+
+10. Vigilar e inspeccionar los Centros de Animales a los efectos de verificar el cumplimiento de la presente ley e intervenir los establecimientos que no estén debidamente habilitados para la venta, criaderos, guarda de animales domésticos considerados mascotas.
+
+11. Reglamentar las previsiones necesarias para la tenencia de animales peligrosos para la seguridad pública.
+
+12. Emitir todas las resoluciones de carácter administrativo necesarias para el cumplimiento de los fines de esta ley.
+
+> *Modificado por Ley N° 5892 (2017-09-21)*
 
 CAPITULO III DE LOS CENTROS DE ANIMALES, DE LOS CRIADEROS, DE LAS INSTITUCIONES PUBLICAS O PRIVADAS Y DE LAS INSTITUCIONES DE PROTECCION
 
@@ -255,7 +270,10 @@ Las infracciones de la presente Ley serán sancionadas con apercibimiento o con 
 
 ### Artículo 38°
 
-La incursión en infracciones muy graves podrá comportar, además de multa correspondiente, la prohibición de adquirir o poseer otros animales por un plazo que podrá ser de hasta 10 (diez) años.
+
+Las conductas contempladas en la presente ley como infracciones muy graves serán de Acción Penal Pública y castigadas con pena privativa de libertad de hasta dos años o con multa y en caso de que el animal doméstico considerado mascota resultare muerto, la prohibición de adquirir o poseer otras mascotas, por un plazo que podrá ser de hasta diez años.
+
+> *Modificado por Ley N° 5892 (2017-09-21)*
 
 ### Artículo 39°
 
