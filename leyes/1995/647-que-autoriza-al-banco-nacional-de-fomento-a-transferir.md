@@ -14,27 +14,32 @@ short_title: "QUE AUTORIZA AL BANCO NACIONAL DE FOMENTO A TRANSFERIR…"
 
 ### Artículo 1°
 
+
 Autorízase al Banco Nacional de Fomento a transferir los siguientes bienes, obras civiles e instalaciones, en las condiciones y a los fines establecidos en la presente Ley, como sigue:
 
-I- A la Administración Nacional de Electricidad (ANDE), los inmuebles sitos en las intersecciones de las calles España, Estados Unidos y Sebastián Gaboto, e individualizados como Fincas Nos. 3.847, 7.411, 7.306, 3.891, 396, 7.198, 3.845, 8.989 y 6.338, del Distrito de San Roque, en los cuales funciona el Frigorífico Nacional, dependiente del Ministerio de Agricultura y Ganadería.
+I – A la Administración Nacional de Electricidad (ANDE), los inmuebles sitos en las Intersecciones de las calles España, Estados Unidos y Sebastián Gaboto, e Individualizadas como Fincas Nºs 3.847, 7.411, 7.306, 3.891, 396, 7.198, 3.845, 8.989 y 6.338, del Distrito de San Roque.
 
-II- Al Ministerio de Agricultura y Ganadería (MAG), los inmuebles individualizados como sigue:
+II – A favor del Ministerio de Agricultura y Ganadería (MAG), los siguientes:
 
-a) Inmuebles en Asunción:
+a) Inmuebles situados en la Ciudad de Asunción:
 
-Finca Nº 23.658 Cta. Cte. Catastral Nº 12 339-08 Distrito de San Roque;
+- Finca Nº 23.658 del Distrito de San Roque.
 
-Finca Nº 12.933 Cta. Cte. Catastral Nº 12 339-10 Distrito de San Roque;
+- Finca Nº 12.933 del Distrito de San Roque.
 
 b) Inmuebles situados en el Distrito de San Lorenzo, individualizados como:
 
-1.1- Finca Nº 2.290 -Cta. Cte. Catastral Nº 27.067.05;
+1.1.- Finca Nº 2.290, con Cuenta Corriente Catastral Nº 27.067.05, a excepción del Lote Nº 13 que permanecerá en propiedad del Banco Nacional de Fomento.
 
-1.2- Finca Nº 2.506 -Cta. Cte. Catastral Nº 27.067.27;
+1.2.- Finca Nº 2.506, con Cuenta Corriente Catastral Nº 27.067.27.
+
+1.3.- Finca Nº 2.102, Lote Nº 11, con Cuenta Corriente Catastral Nº 27.067.36, pasará en propiedad del Ministerio de Agricultura y Ganadería (MAG).
 
 c) Inmueble situado en el Distrito de Itá, Finca Nº 2.141; y,
 
-d) Inmueble situado en el Distrito de Villa de San Pedro; Finca Nº 817, Padrón Nº 1.311.
+d) Inmueble situado en el Distrito de Villa de San Pedro, Finca Nº 817, Padrón Nº 1.311.
+
+> *Modificado por Ley N° 5985 (2017-10-04)*
 
 ### Artículo 2°
 
