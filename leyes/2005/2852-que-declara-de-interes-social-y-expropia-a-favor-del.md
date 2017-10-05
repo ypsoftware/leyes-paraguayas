@@ -15,55 +15,36 @@ short_title: "QUE DECLARA DE INTERÉS SOCIAL Y EXPROPIA A FAVOR DEL…"
 
 ### Artículo 1°
 
-Declárase de interés social y exprópiase a favor del Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT), para ser destinados a los fines de la reforma agraria, el inmueble individualizado a través de las Fincas adyacentes:
 
-1) N° 3.810 de Hernandarias (hoy Mbaracayú), bajo el Nº 2, folio 2 vuelto y siguientes del año 1974;
+Declárase de interés social y exprópiase a favor del Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT), para ser destinados a los fines de la Reforma Agraria, el inmueble individualizado a través de las Fincas adyacentes:
 
-2) N° 3.011 de Hernandarias (hoy Mbaracayú), bajo el Nº 3, al folio 4 y siguientes del año 1990;
+1) N° 3.810 de Hernandarias (hoy Mbaracayú), bajo el N° 2, folio 2 vuelto y siguientes del año 1974;
 
-3) N° 3.099 de Hernandarias (hoy Mbaracayú), bajo el Nº 5, al folio 8 y siguientes del año 1981;
+2) N° 3.099 de Hernandarias (hoy Mbaracayú), bajo el N° 5, al folio 8 y siguientes del año 1981;
 
-4) N° 3.074 de Hernandarias (hoy Mbaracayú), bajo el Nº 6, al folio 11 y siguientes del año 1991;
+3) N° 2.693 de Hernandarias (hoy Mbaracayú), bajo el N° 5, al folio 12 y siguientes del año 1991;
 
-5) N° 13.259 de Hernandarias (hoy Mbaracayú), bajo el Nº 4, al folio 8 y siguientes del año 1991;
+4) N° 52 de Hernandarias (hoy Mbaracayú), bajo el N° 4, al folio 11 y siguientes del año 2002;
 
-6) N° 2.693 de Hernandarias (hoy Mbaracayú), bajo el Nº 5, al folio 12 y siguientes del año 1991;
+5) N° 24.617 de Hernandarias (hoy Mbaracayú);
 
-7) N° 24.698 de Hernandarias (hoy Mbaracayú), bajo el Nº 2, al folio 5 y siguientes del año 1991;
+6) N° 166 de Mbaracayú, bajo el N° 1, al folio 1 y siguientes del año 1994;
 
-8) N° 2.378 de Hernandarias (hoy Mbaracayú), bajo el Nº 2, al folio 3 y siguientes del año 1991;
+7) N° 92 de Mbaracayú, bajo el N° 2, al folio 5 y siguientes del año 1994;
 
-9) N° 52 de Hernandarias (hoy Mbaracayú), bajo el Nº 4, al folio 11 y siguientes del año 2002;
+8) N° 1.251 de Hernandarias (hoy Mbaracayú);
 
-10) N° 25.434 de Hernandarias (hoy Mbaracayú), bajo el Nº 3, al folio 11 y siguientes del año 1997;
+9) N° 94 de Mbaracayú, bajo el N° 4, al folio 12 y siguientes del año 2002;
 
-11) Nº 22.132 de Hernandarias (hoy Mbaracayú), bajo el Nº 2, al folio 5;
+10) N° 172 de Mbaracayú, bajo el N° 3, al folio 8 y siguientes del año 2002;
 
-12) Nº 24.617 de Hernandarias (hoy Mbaracayú);
+11) N° 304 de Mbaracayú, bajo el N° 2 y siguientes del año 1995;
 
-13) N° 166 de Mbaracayú, bajo el Nº 1, al folio 1 y siguientes del año 1994;
+12) N° 189 de Mbaracayú, bajo el N° 1, al folio 5 y siguientes.
 
-14) N° 491 de Mbaracayú, bajo el Nº 1, al folio 1 y siguientes;
+SUPERFICIE: 723 ha (SETECIENTOS VEINTITRÉS HECTÁREAS).
 
-15) N° 92 de Mbaracayú, bajo el Nº 2, al folio 5 y siguientes del año 1994;
-
-16) N° 1.251 de Hernandarias (hoy Mbaracayú);
-
-17) N° 3.055 de Mbaracayú;
-
-18) N° 94 de Mbaracayú, bajo el Nº 4, al folio 12 y siguientes del año 2002;
-
-19) N° 172 de Mbaracayú, bajo el Nº 3, al folio 8 y siguientes del año 2002;
-
-20) N° 304 de Mbaracayú, bajo el Nº 2 y siguientes del año 1995;
-
-21) Sgtes. del año 1998, Finca Nº 3.819 de Mbaracayú;
-
-22) N° 3.041 de Mbaracayú;
-
-23) N° 189 de Mbaracayú, bajo el Nº 1, al folio 5 y siguientes.
-
-Superficie: 723 Has. (setecientos veintitrés hectáreas).
+> *Modificado por Ley N° 5900 (2017-10-05)*
 
 ### Artículo 2°
 
