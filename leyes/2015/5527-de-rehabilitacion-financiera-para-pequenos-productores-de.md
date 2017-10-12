@@ -23,19 +23,16 @@ AUTORIDAD DE APLICACIÓN. La aplicación de la presente ley estará a cargo del 
 
 ### Artículo 3°
 
-REGLAMENTACIÓN. El Crédito Agrícola de Habilitación (CAH) deberá reglamentar las condiciones jurídicas y financieras de acceso a la modalidad de crédito establecido por la presente ley, en tanto que el Ministerio de Agricultura y Ganadería (MAG) será el encargado de la selección de las unidades productivas que califiquen para acogerse a los beneficios otorgados por la misma, debiendo considerar cuanto menos los siguientes requisitos y condiciones:
 
-a) No podrá otorgarse más de un crédito a cada unidad productiva familiar, aunque en ella coexistieran varios emprendimientos;
+El Crédito Agrícola de Habilitación (CAH) deberá reglamentar las condiciones jurídicas y financieras para el acceso a los créditos establecidos por la presente ley, debiendo considerar cuanto menos los siguientes requisitos y condiciones:
 
-b) Los integrantes de la unidad productiva serán solidariamente responsables de la obligación financiera asumida por el titular del crédito;
+a) Los integrantes de las unidades productivas seleccionadas deberán asistir y completar satisfactoriamente los cursos de educación financiera y productiva que se dicten para la implementación de la presente ley, conforme lo determine la reglamentación correspondiente.
 
-c) Los integrantes de las unidades productivas seleccionadas deberán asistir y completar satisfactoriamente los cursos de educación financiera y productiva que se dicten para la implementación de la presente ley, conforme lo determine la reglamentación correspondiente, conforme a la reglamentación a dictarse.
+b) El monto de los créditos habrá de calcularse en función de cada unidad productiva y no podrá superar la cantidad necesaria para el cumplimiento del objeto de la presente ley y las necesidades básicas de la unidad familiar beneficiada por la misma, atribuibles al período de vigencia del crédito otorgado o de desarrollo del proyecto.
 
-d) El monto de los créditos habrá de calcularse en función de cada unidad productiva, y no podrá superar la cantidad necesaria para el cumplimiento del objeto de la presente ley y las necesidades básicas de la unidad familiar beneficiada por la misma, atribuibles al período de vigencia del crédito otorgado o de desarrollo del proyecto.
+A los efectos de la supervisión de los créditos, la Superintendencia de Bancos del Banco Central del Paraguay (BCP) estará a lo dispuesto por el artículo 24 de la Ley N° 5.361/14 "DE REFORMA DE LA CARTA ORGANICA DEL CREDITO AGRICOLA DE HABILITACIÓN.
 
-e) Los beneficiarios del crédito creado por la presente ley, no podrán tomar otros créditos del sector público o privado, hasta el pago total de la deuda emergente del mismo; al igual que sus codeudores solidarios: so pena de las sanciones administrativas emergentes del hecho, las cuales deberán estar contempladas en la reglamentación.
-
-A los efectos de la supervisión de los créditos, la Superintendencia de Bancos del Banco Central del Paraguay (BCP) estará a lo dispuesto por el artículo 24 de la Ley N° 5.361/14 “DE REFORMA DE LA CARTA ORGÁNICA DEL CRÉDITO AGRÍCOLA DE HABILITACIÓN”.
+> *Modificado por Ley N° 5908 (2017-10-12)*
 
 ### Artículo 4°
 
