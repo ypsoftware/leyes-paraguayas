@@ -49,7 +49,14 @@ De las Disposiciones Generales
 
 ### Artículo 3°
 
-La introducción al país de los bienes y objetos donados o cedidos en uso o adquiridos con las donaciones previstas en el Artículo 2º., estará exenta de todo tributo creado o a crearse, con excepción de las tasas que corresponden por los servicios efectivamente prestados.
+
+La introducción al país de los bienes y objetos donados o cedidos en uso o adquiridos con las donaciones previstas en el Artículo 2º, estará exenta de todo tributo creado o a crearse, con excepción de las tasas que corresponden por los servicios efectivamente prestados.
+
+Asimismo, estarán exentas, la adquisición o contratación dentro del territorio nacional de los bienes, servicios y objetos a ser donados o cedidos en uso a instituciones del Estado, previstas y citadas en el Artículo 2º, incisos a), b), c) y f) de la presente Ley.
+
+El compromiso de donación efectuado por personas físicas o jurídicas, nacionales o extranjeras a favor del Estado paraguayo y de las reparticiones de la administración pública, los entes autárquicos, autónomos y descentralizados, los gobiernos departamentales y municipales, deberán ser formalizados mediante escritura y la autorización de la exención mediante resolución del Ministerio de Hacienda
+
+> *Modificado por Ley N° 5931 (2017-10-25)*
 
 ### Artículo 4°
 
