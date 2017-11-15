@@ -15,7 +15,10 @@ short_title: "QUE DECLARA ÁREA SILVESTRE PROTEGIDA BAJO DOMINIO PÚBLICO…"
 
 ### Artículo 1°
 
-Declárase como Área Silvestre Protegida bajo dominio público, sujeta a las disposiciones de la Ley N° 352/94 "DE AREAS SILVESTRES PROTEGIDAS", con la categoría de manejo Parque Nacional, bajo la denominación Serranía de San Luis al Parque Nacional, según Decreto del Poder Ejecutivo N° 11.964/91, modificado por Decreto del Poder Ejecutivo N° 16.359/97 y rectificado por Decreto del Poder Ejecutivo N° 17.740/97, con una superficie de 10.282 has. (Diez mil doscientos ochenta y dos hectáreas), 5454 m2., (cinco mil cuatrocientos cincuenta y cuatro metros cuadrados), Finca Nº 372, ubicado en el Distrito de San Carlos Departamento de Concepción.
+
+Declárase como Área Silvestre Protegida bajo dominio público, sujeta a las disposiciones de la Ley Nº 352/94 “DE AREAS SILVESTRE PROTEGIDAS”, con la categoría de manejo Parque Nacional, bajo la denominación Serranía de San Luis al Parque Nacional, según Decreto del Poder Ejecutivo Nº 16.359/97 y rectificado por el Decreto del Poder Ejecutivo Nº 17.740/97 con una superficie de 10.282 ha 5.454 m2 (Diez mil doscientos ochenta y dos hectáreas con cinco mil cuatrocientos cincuenta y cuatro metros cuadrados), Finca Nº 10.612 ubicado en el Distrito de San Carlos, Departamento Concepción
+
+> *Modificado por Ley N° 5966 (2017-11-15)*
 
 ### Artículo 2°
 
