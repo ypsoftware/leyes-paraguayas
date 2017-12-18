@@ -1835,35 +1835,15 @@ El encargado de la educación, tutela o guarda de una persona menor de dieciocho
 ### Artículo 135°
 
 
-**Abuso sexual en niños.**
 
-1º.- El que realizara actos sexuales con un niño o lo indujera a realizarlos en sí mismo o a terceros, será castigado con pena privativa de libertad de hasta tres años o con multa. Con la misma pena será castigado el que realizara actos sexuales manifiestamente relevantes ante un niño y dirigidos a él, o lo indujera a realizarlos ante sí o ante terceros.
 
-2º.- En los casos señalados en el inciso anterior la pena privativa de libertad será aumentada hasta cinco años cuando el autor:
+b.- Abuso por medios tecnológicos.
 
-1. al realizar el hecho haya maltratado físicamente a la víctima en forma grave;
+El que por medio de comunicaciones electrónicas, telecomunicaciones o cualquier otra tecnología de transmisión de datos, solicite o exija de cualquier modo a un niño o niña que realice actos sexuales o que le envíe imágenes de sí misma con contenido sexual, será castigado con pena privativa de libertad de hasta tres años.
 
-2. haya abusado de la víctima en diversas ocasiones; o
+Será castigada también la tentativa.
 
-3. haya cometido el hecho con un niño que sea su hijo biológico, adoptivo o hijastro, o con un niño cuya educación, tutela o guarda esté a su cargo.
-
-3º.- Cuando concurran varios agravantes de los señalados en el inciso 2º, el autor será castigado con pena privativa de libertad de hasta seis años.
-
-4º.- En los casos señalados en el inciso 1º, la pena privativa de libertad será de tres a doce años cuando el autor haya realizado el coito con la víctima. En caso de que la victima sea menor de diez años, la pena podrá aumentarse hasta quince años.
-
-5º.- Será castigado con pena de multa el que:
-
-1. realizara delante de un niño actos exhibicionistas aptos para perturbarle; o
-
-2. con manifestaciones verbales obscenas o publicaciones pornográficas en los términos del artículo 14, inciso 3º se dirigiera al niño para estimularlo sexualmente o causarle rechazo respecto al sexo.
-
-6°.- Cuando el autor sea menor de diez y ocho años, se podrá prescindir de la pena.
-
-7º.- En los casos de los incisos 1º y 5º se podrá prescindir de la persecución penal, cuando el procedimiento penal intensificara desproporcionadamente el daño ocasionado a la víctima.
-
-8°.- Se entenderá por niño, a los efectos de este artículo, a la persona menor de catorce años.
-
-> *Modificado por Ley N° 3440 (2008-07-16)*
+> *Modificado por Ley N° 6002 (2017-12-18)*
 
 ### Artículo 136°
 
