@@ -15,29 +15,20 @@ short_title: "QUE DECLARA DE INTERÉS SOCIAL Y EXPROPIA A FAVOR DE LA…"
 
 ### Artículo 1°
 
-Declárase de interés social y exprópiase a favor de la Secretaría de Acción Social, un inmueble individualizado como Finca N° 525 del Distrito de Presidente Franco, ubicado en el km 5 Monday del Barrio San Miguel del citado Municipio, para su posterior transferencia a Título oneroso a favor de los actuales ocupantes del Asentamiento "Bello Amanecer", cuyas dimensiones y linderos son los siguientes:
 
-Línea 1-2: Con rumbo N 18° W (Norte, dieciocho grados, Oeste), mide 580 m. (quinientos ochenta metros), linda con derechos de Luis Ohara;
+Declárase de interés social y exprópiase a favor de la Secretaría de Acción Social (SAS), un inmueble individualizado como Matrícula K08/10357 Padrón Nº 4.615, ubicado en el Km 5 Monday - Barrio San Miguel del Municipio de Presidente Franco, para su posterior transferencia a Título oneroso a favor de los actuales ocupantes, cuyas dimensiones y linderos son los siguientes:
 
-Línea 2-3: Con rumbo S 79° W (Sur, setenta y nueve grados, Oeste), mide 139,30 m. (ciento treinta y nueve metros con treinta centímetros), linda con derechos de Salustiano Domínguez;
+LÍNEA 1-2: Con rumbo geográfico N 73° 31' 28" E (Norte, setenta y tres grados, treinta y un minutos, veintiocho segundos, Este), mide 139,30 m (ciento treinta y nueve metros con treinta centímetros), linda con derechos de Salustiano Domínguez, hoy calle pública;
 
-Línea 3-4: Con rumbo S 18° E (Sur, dieciocho grados, Este), mide 300 m. (trescientos metros), linda con derechos de Trinidad Samudio;
+LÍNEA 2-3: Con rumbo geográfico S 23° 41' 48” E (Sur, veintitrés grados, cuarenta y un minutos, cuarenta y ocho segundos, Este), mide 291,84 m (doscientos noventa y un metros con ochenta y cuatro centímetros), linda con derechos de Luis Ohara;
 
-Línea 4-11: Con rumbo N 75° 52´ 26" E (Norte, setenta y cinco grados, cincuenta y dos minutos, veintiséis segundos, Este), mide 121,71 m. (ciento veintiún metros con setenta y un centímetros), linda con fracción B;
+LÍNEA 3-4: Con rumbo geográfico S 71° 48' 58” W (Sur, setenta y un grados, cuarenta y ocho minutos, cincuenta y ocho segundos, Oeste), mide 135 m (ciento treinta y cinco metros), linda con la fracción B, hoy de Horacio Martínez; y,
 
-Línea 11-10: Con rumbo S 18° E (Sur, dieciocho grados, Este), mide 288,25 m. (doscientos ochenta y ocho metros con veinticinco centímetros), linda con Fracción B y Fracción A; y,
+LÍNEA 4-1: Con rumbo geográfico N 24° 26' 6" W (Norte, veinticuatro grados, veintiséis minutos, seis segundos, Oeste), mide 296,41 m (doscientos noventa y seis metros con cuarenta y un centímetros), linda una parte con derechos de Trinidad Samudio y la otra parte con proyección de calle.
 
-Línea 10-1: Con rumbo N 46° E (Norte, cuarenta y seis grados, Este), mide 8,80 m. (ocho metros con ochenta centímetros), linda con calle pública.
+SUPERFICIE: 4 ha 0053 m2 8.236 cm2 (CUATRO HÉCTAREAS, CINCUENTA Y TRES METROS CUADRADOS CON OCHO MIL DOSCIENTOS TREINTA Y SEIS CENTÍMETROS CUADRADOS).
 
-SUPERFICIE: 3 ha 8.416 m2 (TRES HECTÁREAS CON OCHO MIL CUATROCIENTOS DIECISÉIS METROS CUADRADOS).
-
-VÉRTICES GEORREFERENCIADOS COORDENADAS UTM- WGS84
-
-Vértice 2: E 736916.34; N 7171151.33
-
-Vértice 3: E 736782.00; N 7171114.0
-
-Vértice 4: E 736896.00; N 7170837.00
+> *Modificado por Ley N° 6032 (2018-03-21)*
 
 ### Artículo 2°
 
