@@ -15,19 +15,31 @@ short_title: "QUE CONCEDE PENSIÓN GRACIABLE AL NIÑO ELIAS MANUEL CACERES…"
 
 ### Artículo 1°
 
-Concédese pensión graciable de G. 1.500.000.- (Guaraníes un millón quinientos mil) mensuales, a favor del niño Elías Manuel Cáceres Valdez, con Cédula de Identidad Civil N° 5.099.196.-
+
+Aumentase a G. 3.000.000 (Guaraníes tres millones) mensuales, la pensión graciable concedida a favor de Elías Manuel Cáceres Valdez, con Cédula de Identidad Civil N° 5.099.196.
+
+> *Modificado por Ley N° 6040 (2018-04-03)*
 
 ### Artículo 2°
 
+
 Los fondos a ser transferidos para hacer efectiva la pensión dispuesta en esta Ley, serán proveídos por la Dirección General del Tesoro a la Dirección de Pensiones no Contributivas, dependiente de la Subsecretaría de Estado de Administración Financiera del Ministerio de Hacienda, conforme al Código Presupuestario vigente.
+
+> *Modificado por Ley N° 6040 (2018-04-03)*
 
 ### Artículo 3°
 
-El beneficiario de esta pensión graciable no podrá acogerse a otros beneficios jubilatorios.
+
+En caso de que el beneficiario de esta pensión graciable cuente con otras asignaciones en concepto de haberes previsionales o jubilatorios, deberá optar por una u otra, con suspensión de la remuneración no escogida.
+
+> *Modificado por Ley N° 6040 (2018-04-03)*
 
 ### Artículo 4°
 
-La aplicación de la presente disposición legal será en carácter de excepción a lo establecido en la Ley N° 4.027/10 "QUE REGULA LA CONCESION Y AUMENTO DE PENSIONES GRACIABLES"
+
+La aplicación de la presente disposición legal será en carácter de excepción con lo establecido en la Ley N° 4.027/10 “QUE REGULA LA CONCESIÓN Y AUMENTO DE PENSIONES GRACIABLES.
+
+> *Modificado por Ley N° 6040 (2018-04-03)*
 
 ### Artículo 5°
 
