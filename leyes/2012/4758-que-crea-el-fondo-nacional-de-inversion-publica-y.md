@@ -105,49 +105,28 @@ Los recursos del Fondo y los del Fondo de Salud que no sean utilizados en un Eje
 ### Artículo 12°
 
 
-Los proyectos y programas financiados por los Fondos previstos en los incisos b) y e) del Artículo 3º de la presenta Ley, serán aplicados a los objetivos señalados, respectivamente, en este artículo.
 
-2. El Fondo Nacional para la Salud tendrá como objetivo:
+Los proyectos y programas financiados por los Fondos previstos en los incisos b) y e) del Artículo 3° de la presente Ley, serán aplicados a los objetivos señalados, respectivamente, en este artículo.
 
-Plan de fortalecimiento y renovación tecnológica para hospitales.
+1. El Fondo para la Excelencia de la Educación e Investigación tendrá como objetivo financiar, prioritariamente, los siguientes programas y proyectos:
 
-Complemento para la adquisición de medicamentos de alto costo y medicina de alta complejidad.
+a) Programas de incorporación de TIC (Tecnologías de la Información y Comunicación) en el sistema educativo, como herramienta de uso pedagógico que pone al alcance de estudiantes y docentes recursos para el acceso y generación de conocimientos para el mejoramiento de los procesos educativos, de la competitividad y productividad; en este marco, conforme a las características del contexto, nivel/modalidad educativa se financiarán proyectos, tales como: una computadora por niño y por docente, laboratorios, televisión educativa, portal educativo, enciclopedia virtual, magazine informativo en formato gráfico, radio de difusión digital u otras formas de incorporación de TIC, con los requerimientos y servicios conexos directamente relacionados a la aplicación del mismo; a los cuales se destinará un monto anual entre el 30% (treinta por ciento) y el 40% (cuarenta por ciento) del presupuesto anual del Fondo.
 
-Fortalecimiento de los servicios hospitalarios y de unidades de cuidados intensivos, con énfasis en el interior del país.
+b) Programas de Apoyo para el mejoramiento de la calidad de la formación de los docentes principalmente de instituciones educativas del sector oficial, de los diferentes niveles y/o modalidades educativas (Educación Inicial, Escolar Básica, Media, Superior, Educación Permanente, Educación Escolar Indígena y Educación Especial), a través de programas de fortalecimiento e implementación de mecanismos de aseguramiento de la calidad de los Institutos de Formación Docente, capacitación de formadores de formadores y a los cuales se destinará un monto no inferior al 10% (diez por ciento) del presupuesto anual del Fondo.
 
-Fortalecimiento de programas de apoyo de la atención integral de la mujer embarazada, niños menores de 5 años y adultos mayores.
+c) Programas de Mejoramiento de la oferta educativa, en escuelas, colegios e Institutos de Formación Docente del Sector Oficial, Universidades e Institutos de Educación Superior Públicos, a través de la implementación de proyectos de infraestructura y equipamiento adecuado, que contemple la ampliación o mejoramiento de espacios educativos en uso y la construcción de nuevos espacios educativos como comedores escolares en los predios de las instituciones educativas, el equipamiento, mobiliario escolar y la dotación de materiales educativos, todo conforme con los parámetros establecidos por el Ministerio de Educación y Ciencias; a los cuales se destinará un monto anual equivalente de hasta el 15% (quince por ciento) del presupuesto anual del Fondo.
 
-Fortalecimiento de los laboratorios de hospitales.
+d) Programa de atención integral a la primera infancia conforme a lo establecido en el marco de los lineamientos del Pian Nacional de la Primera Infancia 2011-2020; a los cuales se destinará un monto anual equivalente de hasta el 10% (diez por ciento) del presupuesto anual del Fondo.
 
-Apoyo al desarrollo de los recursos humanos con énfasis en salud pública e investigación relacionados a la salud.
+e) Programas de Organización, formación y fortalecimiento de Redes de Cooperación escolar de Padres y Tutores de alumnos, así como de las comunidades en las que se encuentren insertas las escuelas y colegios públicos, para que participen y fomenten activamente en el mejoramiento de la calidad y oferta educativa de los niños y jóvenes de la comunidad, a través de controles y participación activa en el proceso educativo, al que se destinará entre el 3% (tres por ciento) y 5% (cinco por ciento) del presupuesto anual del Fondo.
 
-Fortalecimiento del Programa Nacional de Drogas Antineoplásicas (PRONAD).
+f) El otorgamiento de becas de estudio para la formación superior que consistirá en el financiamiento de cursos universitarios, en el país o en el extranjero, a favor de estudiantes que no dispongan de suficientes recursos financieros, con capacidad académica comprobada, que sean seleccionados por concurso público nacional de méritos y aptitudes, organizado anualmente por el MEC; y de doctorados y postdoctorados de alta especialización para investigadores en centros de estudios de internacionalmente reconocida reputación académica, al que se destinará entre el 10% (diez por ciento) y el 20% (veinte por ciento), del presupuesto anual del Fondo. Estos programas serán administrados por el Consejo Nacional de Ciencia y Tecnología, en adelante CONACYT, el que priorizará su otorgamiento para las áreas del conocimiento de mayor requerimiento para el desarrollo del país.
 
-Complemento para la provisión de prótesis y otros insumos para el tratamiento de ortopedia y traumatología.
+g) La investigación y desarrollo, que consistirá en los programas y proyectos propuestos por el CONACYT principalmente para el Programa de Incentivo de los Investigadores Nacionales (PRONI), al que se destinará entre el 20% (veinte por ciento) y el 30% (treinta por ciento) del presupuesto anual del Fondo.
 
-Los recursos previstos para el financiamiento de estos programas y proyectos serán considerados del tipo de Presupuesto de Inversión, no siendo reprogramables, salvo las excepciones previstas en esta Ley y que los mismos no tengan otra fuente de financiamiento, o cuando la tuvieren, que sus recursos fueren insuficientes. Los beneficiarios de las becas deberán comprometerse contractualmente a trabajar en el país, luego de concluidos sus estudios, por un período de por lo menos 5 (cinco) años, o a devolver al Fondo los aportes recibidos.
+h) Fortalecimiento de la Agencia Nacional de Evaluación y Acreditación de la Educación Superior y del Sistema Nacional de Evaluación de la Calidad de la Educación de los diferentes niveles/modalidades educativas como herramienta que contribuya al mejoramiento de la calidad educativa, a los cuales se destinará hasta el 5% (cinco por ciento) del presupuesto anual del Fondo.
 
-Los porcentajes destinados a los programas financiados con estos Fondos podrán variar conforme al cumplimiento de las metas o situaciones emergentes que se identifiquen y que requieran atención prioritaria.
-
-Los recursos financieros del Fondo Nacional para la Salud, constituido según el inciso e) del Artículo 3° de esta Ley, serán gestionados de la siguiente manera:
-
-Al menos el 50% (cincuenta por ciento) para cubrir los incisos a), b), c), d) y f) del numeral 2 de este artículo, como complemento en la ejecución de planes y programas nacionales, en concordancia con estos objetivos.
-
-Al menos el 40% (cuarenta por ciento) para cubrir el inciso g) del numeral 2 de este artículo, para el fortalecimiento del Programa Nacional de Drogas Antineoplásticas (PRONAD) cuya finalidad es proveer servicios de tratamiento precoz e integral a las personas con diagnóstico de cáncer. Para ello se podrán realizar adquisiciones, provisión mediante asistencia social y transferencia en el ámbito del Sistema Nacional de Salud. En todos los casos se utilizarán protocolos terapéuticos y un listado de medicamentos basado en evidencias científicas. Para una gestión más efectiva de este componente, se conformará una Comisión Nacional integrada por el Ministerio de Salud Pública y Bienestar Social, el Instituto de Previsión Social, la Facultad de Ciencias Médicas de la Universidad Nacional de Asunción y el Círculo Paraguayo de Médicos. Esta comisión estará presidida por el Ministerio de Salud Pública y Bienestar Social y tendrá como funciones:
-
-Aprobar, difundir y actualizar los protocolos terapéuticos y el listado de medicamentos para el tratamiento integral de las personas con diagnóstico de cáncer.
-
-Aprobar el anteproyecto de presupuesto anual de este componente del Fondo Nacional para la Salud.
-
-Aprobar los mecanismos administrativos para la utilización efectiva, eficiente y equitativa del Fondo, de conformidad a esta Ley.
-
-Conformar equipos técnicos de trabajo, los cuales estarán presididos por el Instituto Nacional del Cáncer, dependiente del Ministerio de Salud Pública y Bienestar Social.
-
-Rendir cuentas anuales sobre los resultados administrativos y sanitarios del uso de estos recursos.
-
-Hasta el 10% (diez por ciento) para cubrir el inciso h), del numeral 2 de este artículo, de conformidad a los requerimientos del Centro de Emergencias Médicas, Hospital de Trauma y otros establecimientos del Ministerio de Salud Pública y Bienestar Social. Se podrán realizar adquisiciones, provisión mediante asistencia social y transferencias en el ámbito del Sistema Nacional de Salud.
-
-> *Modificado por Ley N° 6069 (2018-05-16)*
+> *Modificado por Ley N° 6102 (2018-06-28)*
 
 ### Artículo 13°
 
