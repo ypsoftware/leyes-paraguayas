@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/2321/texto
 short_title: "CODIGO DE ORGANIZACION JUDICIAL"
+derogada: true
+derogada_por: Ley 6059
+derogada_fecha: 2018-07-02
 ---
 
 # LEY Nº 879
@@ -3077,3 +3080,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *DADA EN LA SALA DE SESIONES DEL HONORABLE CONGRESO NACIONAL A LOS DIEZ Y NUEVE DIAS DEL MES DE NOVIEMBRE DEL AÑO UN MIL NOVECIENTOS OCHENTA Y UNO.*
+
+> *Derogada en su totalidad por Ley N° 6059 (2018-07-02)*
