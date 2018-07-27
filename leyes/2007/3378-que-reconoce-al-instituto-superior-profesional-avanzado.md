@@ -14,11 +14,17 @@ short_title: "QUE RECONOCE AL INSTITUTO SUPERIOR PROFESIONAL AVANZADO…"
 
 ### Artículo 1°
 
-Reconócese al Instituto Superior Profesional Avanzado como Institución de Educación Superior, que se regirá por la presente Ley, el Artículo 79 de la Constitución Nacional, la Ley N° 1264/98 “GENERAL DE EDUCACION” y las normas pertinentes.
+
+Reconócese al Instituto Superior Profesional Avanzado (ISPA), como Institución de Educación Superior, que se regirá por la presente ley, el artículo 79 de la Constitución Nacional, la Ley N° 4.995/2013 “DE EDUCACIÓN SUPERIOR” y las demás normas pertinentes.
+
+> *Modificado por Ley N° 6129 (2018-07-27)*
 
 ### Artículo 2°
 
-Facúltase al Instituto Superior Profesional Avanzado a implementar planes y programas de estudios en el campo de la educación en salud y a expedir títulos de grado y post-grado en dicha área del conocimiento, incorporando la investigación y la extensión académica.
+
+Facúltase al Instituto Superior Profesional Avanzado (ISPA), a implementar planes y programas de estudios de alta exigencia en el campo de las Ciencias de la Salud y a expedir títulos de grado y postgrado, de acuerdo a las carreras ofrecidas, incorporándose la investigación y la extensión académica, de conformidad a lo establecido en la Ley N° 4.995/2013 “DE EDUCACIÓN SUPERIOR”.
+
+> *Modificado por Ley N° 6129 (2018-07-27)*
 
 ### Artículo 3°
 
