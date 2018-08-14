@@ -15,11 +15,17 @@ short_title: "QUE RECONOCE AL “INSTITUTO SUPERIOR DE FORMACION TRIBUTARIA…"
 
 ### Artículo 1°
 
-Reconócese al “Instituto Superior de Formación Tributaria y Empresarial” como Institución de Educación Superior, que se regirá por la presente Ley, el Artículo 79 de la Constitución Nacional, la Ley Nº 1264/98 “GENERAL DE EDUCACION” y las demás normas pertinentes.
+
+Reconócese al “Instituto Superior de Formación Tributaria, Comercial y Administrativa” como Institución de Educación Superior, que se regirá por el artículo 79 de la Constitución, la Ley N° 4.995/2013 “DE EDUCACIÓN SUPERIOR” y las demás normas pertinentes.
+
+> *Modificado por Ley N° 6134 (2018-08-14)*
 
 ### Artículo 2°
 
-Facúltase al Instituto Superior de Formación Tributaria y Empresarial a implementar planes y programas de estudios en el campo de las áreas jurídico – tributaria y ciencias empresariales, y a expedir títulos de grado, maestría y diplomados, de acuerdo a las carreras ofrecidas, incorporándose la investigación y la extensión académica.
+
+Facúltase al “Instituto Superior de Formación Tributaria, Comercial y Administrativa”, a implementar planes y programas de estudios de alta exigencia en el campo del área de las Ciencias Sociales: Ciencias de la Educación, Comercial y Administración; en especial: jurídico-tributaria, comercial y administrativa, y a expedir títulos de grado y de postgrado, de acuerdo a las carreras ofrecidas, incorporándose la investigación y la extensión académica, de conformidad a lo establecido en la Ley N° 4.995/2013 “DE EDUCACIÓN SUPERIOR”.
+
+> *Modificado por Ley N° 6134 (2018-08-14)*
 
 ### Artículo 3°
 
