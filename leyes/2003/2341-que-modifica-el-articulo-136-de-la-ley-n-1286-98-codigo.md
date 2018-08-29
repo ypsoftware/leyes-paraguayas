@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/5046/texto
 short_title: "QUE MODIFICA EL ARTICULO 136 DE LA LEY N° 1286/98 “CODIGO…"
+derogada: true
+derogada_por: Ley 6146
+derogada_fecha: 2018-08-29
 ---
 
 # LEY Nº 2341
@@ -29,3 +32,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a once días del mes de setiembre del año dos mil tres, quedando sancionado el mismo por la Honorable Cámara de Diputados, a once días del mes de diciembre del año dos mil tres, de conformidad con lo dispuesto en el Artículo 204 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 6146 (2018-08-29)*
