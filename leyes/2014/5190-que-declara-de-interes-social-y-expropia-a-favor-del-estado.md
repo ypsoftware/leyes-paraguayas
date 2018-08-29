@@ -15,25 +15,24 @@ short_title: "QUE DECLARA DE INTERÉS SOCIAL Y EXPROPIA A FAVOR DEL ESTADO…"
 
 ### Artículo 1°
 
-Declárase de interés social y exprópiase a favor del Estado paraguayo - Secretaría de Acción Social (SAS), un inmueble individualizada como Finca N° 6.438 con Padrón Nº 7.346 del Barrio 23 de Octubre del Municipio de Ciudad del Este, para su posterior transferencia a título oneroso a favor de los actuales ocupantes del Asentamiento denominado “San Miguel”, cuyas dimensiones y linderos son los siguientes:
 
-LADO 1-2: Con rumbo S 60º 44’ 54” E (Sur, sesenta grados, cuarenta y cuatro minutos, cincuenta y cuatro segundos, Este), mide 302,45 m. (trescientos dos metros con cuarenta y cinco centímetros), linda con calle existente.
+Declárase de interés social y exprópiase a favor del Estado paraguayo – Secretaría de Acción Social (SAS), un inmueble individualizado con Matrícula N° K04/6438 con Padrón N° 7346, designado como Lote N° 24-A de la Manzana 005, del Barrio 23 de Octubre del Municipio de Ciudad del Este, para su posterior transferencia a Título oneroso a favor de los actuales ocupantes del Asentamiento denominado “San Miguel”, cuyas dimensiones y linderos son los siguientes:
 
-LADO 2-3: Con rumbo S 21º 19’ 19” W (Sur, veintiún grados, diecinueve minutos, diecinueve segundos, Oeste), mide 39,19 m. (treinta y nueve metros con diecinueve centímetros), linda con calle existente.
+LINEA 1-2: Con rumbo N 30° 3’ 29” E (Norte, treinta grados, tres minutos, veintinueve segundos, Este), del mojón número uno mide 38 m (treinta y ocho metros), esta línea linda con la calle 5 Monday, indicando el mojón número dos;
 
-LADO 3-4: Con rumbo S 62º 11’ 23” W (Sur, sesenta y dos grados, once minutos, veintitrés segundos, Oeste), mide 245,49 m. (doscientos cuarenta y cinco metros con cuarenta y nueve centímetros), linda con calle existente.
+LINEA 2-3: Con rumbo N 53° 6’ W (Norte, cincuenta y tres grados, seis minutos, Oeste), del mojón número dos mide 290 m (doscientos noventa metros), esta línea linda con una calle, indicando el mojón número tres;
 
-LADO 4-5: Con rumbo N 35º 46’ 1” W (Norte, treinta y cinco grados, cuarenta y seis minutos, un segundo, Oeste), mide 66,63 m. (sesenta y seis metros con sesenta y tres centímetros), linda con calle existente.
+LINEA 3-4: Con rumbo N 21° 02’ W (Norte, veintiún grados, dos minutos, Oeste), del mojón número tres mide 15,07 m (quince metros con siete centímetros), esta línea linda con una calle, indicando el mojón número cuatro;
 
-LADO 5-1: con rumbo N 22º 37’ 52” E (Norte, veintidós grados, treinta y siete minutos, cincuenta y dos segundos, Este), mide 12,98 m. (doce metros con noventa y ocho centímetros), linda con calle existente.
+LINEA 4-5: Con rumbo S 34° 34’ W (Sur, treinta y cuatro grados, treinta y cuatro minutos, Oeste), del mojón número cuatro mide 17,17 m (diecisiete metros con diecisiete centímetros), esta línea linda con la propiedad Municipal, indicando el mojón número cinco.
 
-SUPERFICIE: 1 ha. 731 m2 1.752 cm2 (UNA HECTÁREA, SETECIENTOS TREINTA Y UN METROS CUADRADOS CON UN MIL SETECIENTOS CINCUENTA Y DOS CENTÍMETROS CUADRADOS).
+LINEA 5-6: Con rumbo S 26° 12’ 47” E (Sur, veintiséis grados, doce minutos, cuarenta y siete segundos, Este), del mojón número cinco mide 53,19 m (cincuenta y tres metros con diecinueve centímetros), esta línea linda con resto de la propiedad, indicando el mojón número seis, y;
 
-REFERENCIAS: Los puntos 1 y 2 tienen coordenadas (U.T.M).
+LINEA 6-1: Con rumbo S 52° 6’ 3” E (Sur, cincuenta y dos grados, seis minutos, tres segundos, Este), del mojón número seis mide 259,19 m (doscientos cincuenta y nueve metros con diecinueve centímetros), esta línea linda con el resto de la propiedad, indicando el mojón uno.
 
-Punto Nº 1: E = 734.869,34 N = 7.173.275,31
+SUPERFICIE: 1 ha 731 m2 1.752 cm2 (UNA HECTÁREA, SETECIENTOS TREINTA Y UN METROS CUADRADOS CON UN MIL SETECIENTOS CINCUENTA Y DOS CENTÍMETROS CUADRADOS).
 
-Punto Nº 2: E = 735.133,13 N = 7.173.127,52
+> *Modificado por Ley N° 6147 (2018-08-29)*
 
 ### Artículo 2°
 
