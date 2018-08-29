@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/4311/texto
 short_title: "QUE MODIFICA Y AMPLIA DISPOSICIONES DE LAS LEYES QUE RIGEN…"
+derogada: true
+derogada_por: Ley 6146
+derogada_fecha: 2018-08-29
 ---
 
 # LEY Nº 1286
@@ -123,3 +126,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL, A LOS CUATRO DIAS DEL MES DE DICIEMBRE DEL AÑO UN MIL NOVECIENTOS OCHENTA Y SIETE*
+
+> *Derogada en su totalidad por Ley N° 6146 (2018-08-29)*
