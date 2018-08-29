@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/3119/texto
 short_title: "QUE MODIFICA LOS ARTICULOS 136 Y 137 DE LA LEY N° 1286/98…"
+derogada: true
+derogada_por: Ley 6146
+derogada_fecha: 2018-08-29
 ---
 
 # LEY Nº 4669
@@ -49,3 +52,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a veintinueve días del mes de marzo del año dos mil doce, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a veintiocho días del mes de junio del año dos mil doce, de conformidad a lo dispuesto en el Artículo 206 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 6146 (2018-08-29)*
