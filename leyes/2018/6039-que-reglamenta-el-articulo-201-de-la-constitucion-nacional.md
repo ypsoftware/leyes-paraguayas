@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/8599/texto
 short_title: "QUE REGLAMENTA EL ARTÍCULO 201 DE LA CONSTITUCIÓN NACIONAL,…"
+derogada: true
+derogada_por: Ley 6164
+derogada_fecha: 2018-09-03
 ---
 
 # LEY Nº 6039
@@ -46,3 +49,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los siete días del mes de marzo del año dos mil dieciocho, y por la Honorable Cámara de Senadores, a los quince días del mes de marzo del año dos mil dieciocho, queda sancionado, de conformidad con lo dispuesto en el artículo 204 de la Constitución Nacional. Objetado parcialmente por el Poder Ejecutivo, según Decreto Nº 8.717 del 23 de marzo de 2018. Aceptada la objeción parcial y sancionada la parte no objetada por la H. Cámara de Diputados en fecha 4 de abril de 2018 y por la H. Cámara de Senadores en fecha 26 de junio de 2018, de conformidad con lo establecido en el artículo 2° de la Ley N° 2.648/2005.*
+
+> *Derogada en su totalidad por Ley N° 6164 (2018-09-03)*
