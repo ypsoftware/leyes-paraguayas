@@ -15,55 +15,33 @@ short_title: "QUE MODIFICA EL ARTÍCULO 11 Y EL NUMERAL 2 DEL ARTÍCULO 12…"
 
 ### Artículo 1°
 
-Modifícanse el Artículo 11 y el numeral 2 del Artículo 12 de la Ley N° 4758/12 “QUE CREA EL FONDO NACIONAL DE INVERSIÓN PÚBLICA Y DESARROLLO (FONACIDE) Y EL FONDO PARA LA EXCELENCIA DE LA EDUCACIÓN Y LA INVESTIGACIÓN”, quedando redactados como sigue:
 
-“Art. 11.- Los recursos del Fondo y los del Fondo de Salud que no sean utilizados en un Ejercicio Fiscal, en el marco de lo previsto en esta Ley, no serán devueltos a Rentas Generales del Estado, sino que permanecerán dentro del Fondo y continuarán afectados a los programas y proyectos del Fondo en los siguientes Ejercicios Fiscales.”
+La presente Ley tiene por objeto regular las actividades de investigación, información pública, comunicación social, promoción, procuración, ablación e implante de órganos y tejidos entre seres humanos vivos y fallecidos, en todo el territorio de la República. Estas actividades estarán reguladas por el Instituto Nacional de Ablación y Trasplante (INAT) en el ámbito del Ministerio de Salud Pública y Bienestar Social.
 
-“Art. 12.- Los proyectos y programas financiados por los Fondos previstos en los incisos b) y e) del Artículo 3º de la presenta Ley, serán aplicados a los objetivos señalados, respectivamente, en este artículo.
-
-2. El Fondo Nacional para la Salud tendrá como objetivo:
-
-Plan de fortalecimiento y renovación tecnológica para hospitales.
-
-Complemento para la adquisición de medicamentos de alto costo y medicina de alta complejidad.
-
-Fortalecimiento de los servicios hospitalarios y de unidades de cuidados intensivos, con énfasis en el interior del país.
-
-Fortalecimiento de programas de apoyo de la atención integral de la mujer embarazada, niños menores de 5 años y adultos mayores.
-
-Fortalecimiento de los laboratorios de hospitales.
-
-Apoyo al desarrollo de los recursos humanos con énfasis en salud pública e investigación relacionados a la salud.
-
-Fortalecimiento del Programa Nacional de Drogas Antineoplásicas (PRONAD).
-
-Complemento para la provisión de prótesis y otros insumos para el tratamiento de ortopedia y traumatología.
-
-Los recursos previstos para el financiamiento de estos programas y proyectos serán considerados del tipo de Presupuesto de Inversión, no siendo reprogramables, salvo las excepciones previstas en esta Ley y que los mismos no tengan otra fuente de financiamiento, o cuando la tuvieren, que sus recursos fueren insuficientes. Los beneficiarios de las becas deberán comprometerse contractualmente a trabajar en el país, luego de concluidos sus estudios, por un período de por lo menos 5 (cinco) años, o a devolver al Fondo los aportes recibidos.
-
-Los porcentajes destinados a los programas financiados con estos Fondos podrán variar conforme al cumplimiento de las metas o situaciones emergentes que se identifiquen y que requieran atención prioritaria.
-
-Los recursos financieros del Fondo Nacional para la Salud, constituido según el inciso e) del Artículo 3° de esta Ley, serán gestionados de la siguiente manera:
-
-Al menos el 50% (cincuenta por ciento) para cubrir los incisos a), b), c), d) y f) del numeral 2 de este artículo, como complemento en la ejecución de planes y programas nacionales, en concordancia con estos objetivos.
-
-Al menos el 40% (cuarenta por ciento) para cubrir el inciso g) del numeral 2 de este artículo, para el fortalecimiento del Programa Nacional de Drogas Antineoplásticas (PRONAD) cuya finalidad es proveer servicios de tratamiento precoz e integral a las personas con diagnóstico de cáncer. Para ello se podrán realizar adquisiciones, provisión mediante asistencia social y transferencia en el ámbito del Sistema Nacional de Salud. En todos los casos se utilizarán protocolos terapéuticos y un listado de medicamentos basado en evidencias científicas. Para una gestión más efectiva de este componente, se conformará una Comisión Nacional integrada por el Ministerio de Salud Pública y Bienestar Social, el Instituto de Previsión Social, la Facultad de Ciencias Médicas de la Universidad Nacional de Asunción y el Círculo Paraguayo de Médicos. Esta comisión estará presidida por el Ministerio de Salud Pública y Bienestar Social y tendrá como funciones:
-
-Aprobar, difundir y actualizar los protocolos terapéuticos y el listado de medicamentos para el tratamiento integral de las personas con diagnóstico de cáncer.
-
-Aprobar el anteproyecto de presupuesto anual de este componente del Fondo Nacional para la Salud.
-
-Aprobar los mecanismos administrativos para la utilización efectiva, eficiente y equitativa del Fondo, de conformidad a esta Ley.
-
-Conformar equipos técnicos de trabajo, los cuales estarán presididos por el Instituto Nacional del Cáncer, dependiente del Ministerio de Salud Pública y Bienestar Social.
-
-Rendir cuentas anuales sobre los resultados administrativos y sanitarios del uso de estos recursos.
-
-Hasta el 10% (diez por ciento) para cubrir el inciso h), del numeral 2 de este artículo, de conformidad a los requerimientos del Centro de Emergencias Médicas, Hospital de Trauma y otros establecimientos del Ministerio de Salud Pública y Bienestar Social. Se podrán realizar adquisiciones, provisión mediante asistencia social y transferencias en el ámbito del Sistema Nacional de Salud.”
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 2°
 
-El Poder Ejecutivo reglamentará el Fondo Nacional para la Salud del Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE), según lo dispuesto en el Artículo 12, numeral 2 a más tardar a los 90 (noventa) días de la promulgación de la presente Ley.
+
+La ablación e implantación de órganos y tejidos podrá ser realizada cuando se hayan agotado otros medios disponibles que pudieran lograr resultados similares, o estos sean insuficientes como alternativa terapéutica para mejorar la salud y la calidad de vida de una persona determinada. Estas prácticas se considerarán de técnica corriente y no experimental. El Instituto Nacional de Ablación y Trasplante (INAT), podrá incorporar nuevas tecnologías conforme a los avances médicos y a la evidencia científica disponible y aceptada por expertos nacionales, mediante un proceso de vigilancia y evaluación sistemática de tecnologías sanitarias, respetando los principios de bioética y la legislación vigente.
+
+Todas las actividades reguladas por esta Ley se regirán por los siguientes principios:
+
+a) El respeto a la vida y a la dignidad humana.
+
+b) La justicia social, la equidad, la solidaridad y la universalidad en el acceso a los tratamientos de trasplante regulados por esta Ley.
+
+c) El derecho a la salud, la cobertura universal y atención integral, con atención a los determinantes sociales asociados;
+
+d) El respeto a la integridad, autonomía, confidencialidad y privacidad de los donantes, los receptores y sus familias.
+
+e) El carácter estrictamente altruista de la donación.
+
+f) El respeto a los principios de bioética aplicados a la investigación y al ejercicio profesional.
+
+g) Autosuficiencia con el desarrollo de políticas y estrategias que permitan maximizar el número de órganos y tejidos a fin de garantizar la disminución progresiva de las listas de espera.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 3°
 
