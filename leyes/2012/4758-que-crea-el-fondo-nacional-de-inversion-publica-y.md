@@ -15,11 +15,33 @@ short_title: "QUE CREA EL FONDO NACIONAL DE INVERSION PUBLICA Y…"
 
 ### Artículo 1°
 
-Créase el Fondo Nacional de Inversión Pública y Desarrollo, en adelante FONACIDE, el cual estará destinado exclusivamente al financiamiento de proyectos de inversión pública y de desarrollo.
+
+La presente Ley tiene por objeto regular las actividades de investigación, información pública, comunicación social, promoción, procuración, ablación e implante de órganos y tejidos entre seres humanos vivos y fallecidos, en todo el territorio de la República. Estas actividades estarán reguladas por el Instituto Nacional de Ablación y Trasplante (INAT) en el ámbito del Ministerio de Salud Pública y Bienestar Social.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 2°
 
-El FONACIDE estará financiado por la totalidad de los recursos referidos en la Nota Reversal N° 4 de fecha 1 de setiembre de 2009, aprobado por Ley N° 3923/09 “QUE APRUEBA EL ACUERDO POR NOTAS REVERSALES ENTRE LA REPUBLICA DEL PARAGUAY Y LA REPUBLICA FEDERATIVA DEL BRASIL, RELATIVO AL VALOR ESTABLECIDO EN EL NUMERAL III.8 DEL ANEXO C DEL TRATADO DE ITAIPU”.
+
+La ablación e implantación de órganos y tejidos podrá ser realizada cuando se hayan agotado otros medios disponibles que pudieran lograr resultados similares, o estos sean insuficientes como alternativa terapéutica para mejorar la salud y la calidad de vida de una persona determinada. Estas prácticas se considerarán de técnica corriente y no experimental. El Instituto Nacional de Ablación y Trasplante (INAT), podrá incorporar nuevas tecnologías conforme a los avances médicos y a la evidencia científica disponible y aceptada por expertos nacionales, mediante un proceso de vigilancia y evaluación sistemática de tecnologías sanitarias, respetando los principios de bioética y la legislación vigente.
+
+Todas las actividades reguladas por esta Ley se regirán por los siguientes principios:
+
+a) El respeto a la vida y a la dignidad humana.
+
+b) La justicia social, la equidad, la solidaridad y la universalidad en el acceso a los tratamientos de trasplante regulados por esta Ley.
+
+c) El derecho a la salud, la cobertura universal y atención integral, con atención a los determinantes sociales asociados;
+
+d) El respeto a la integridad, autonomía, confidencialidad y privacidad de los donantes, los receptores y sus familias.
+
+e) El carácter estrictamente altruista de la donación.
+
+f) El respeto a los principios de bioética aplicados a la investigación y al ejercicio profesional.
+
+g) Autosuficiencia con el desarrollo de políticas y estrategias que permitan maximizar el número de órganos y tejidos a fin de garantizar la disminución progresiva de las listas de espera.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 3°
 
@@ -63,37 +85,34 @@ Los recursos del FONACIDE deberán ser incluidos dentro del Presupuesto General 
 ### Artículo 8°
 
 
-La Contraloría General de la República y los órganos de control internos pertinentes, dentro del ámbito de sus competencias, controlarán la ejecución de los programas o proyectos financiados con recursos del Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE).
 
-A los efectos del control externo y el examen de cuentas, los organismos y entidades que reciban y administren recursos del Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE), deberán presentar a la Contraloría, informes semestrales pormenorizados sobre la utilización de los recursos con la correspondiente documentación respaldatoria.
+Los actos médicos contemplados en esta Ley sólo podrán ser realizados en el ámbito de establecimientos acreditados, registrados y habilitados por el Instituto Nacional de Ablación y Trasplante (INAT) de conformidad a las siguientes disposiciones:
 
-Si de los informes recibidos, surgen indicios de la comisión de algún hecho punible contra el patrimonio público, la Contraloría deberá realizar la correspondiente denuncia al Ministerio Público, y en su caso, presentar informe al Ministerio del Interior a los efectos previstos en la Ley N° 317/94 “QUE REGLAMENTA LA INTERVENCIÓN A LOS GOBIERNOS DEPARTAMENTALES Y/O A LOS GOBIERNOS MUNICIPALES”.
+a) El Instituto Nacional de Ablación y Trasplante (INAT) establecerá requisitos de infraestructura, equipamientos, recursos humanos y criterios de calidad para la acreditación de establecimientos y servicios, para su registro y habilitación para cada tipo de actividad relacionada al ámbito de su competencia;
 
-Las autoridades y funcionarios que hayan malversado, distraído, retenido, desviado fondos o incurrido en negligencia en la administración de los recursos del Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE) que le hayan sido confiada, responderán con su patrimonio por los perjuicios causados, con independencia de las responsabilidades administrativas, políticas o penales que les puedan corresponder.
+b) De conformidad al inciso anterior, el Instituto Nacional de Ablación y Trasplante (INAT) realizará una evaluación a solicitud de la máxima autoridad del establecimiento y establecerá los criterios para el otorgamiento de la acreditación, registro y habilitación de los mismos en los casos que corresponda, para la realización de actividades específicas reguladas por esta Ley.
 
-Los organismos y entidades públicos que reciban y administren recursos del Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE) deberán además, publicar en un portal de internet información sobre los programas y proyectos financiados con dichos fondos, describiendo las metas, el grado de ejecución de las mismas y el presupuesto aplicado. La información deberá ser actualizada trimestralmente.
+c) Los servicios o establecimientos habilitados a los efectos de esta Ley no podrán efectuar modificaciones que disminuyan las condiciones de habilitación.
 
-> *Modificado por Ley N° 5581 (2016-04-06)*
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 9°
 
-Créase el Fondo Fiduciario para la Excelencia de la Educación y la Investigación o “El Fondo”, el cual estará conformado con los siguientes recursos:
 
-a. Con los recursos previstos en el inciso b) del Artículo 3° de la presente Ley.
+La inscripción a que se refiere el artículo 8° tendrá validez por el período de dos años. Su renovación sólo podrá efectuarse previa inspección del establecimiento por parte del Instituto Nacional de Ablación y Trasplante (INAT).
 
-b. El rendimiento de sus inversiones, el que solo podrá provenir de la compra de Letras de Regulación Monetaria u otros instrumentos de corto plazo del Banco Central del Paraguay o del Tesoro Nacional, siempre que no afecte su liquidez para atender los pagos comprometidos. Los recursos del Fondo serán depositados en el Banco Central del Paraguay.
-
-c. Las donaciones que reciba.
-
-d. Otros recursos que le sean asignados por el Presupuesto General de la Nación.
-
-e. La devolución de los financiamientos de becas.
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 10°
 
-Los recursos del Fondo serán recursos adicionales y complementarios al mínimo presupuestario previsto en el Artículo 85 de la Constitución Nacional y al gasto consolidado del Ministerio de Educación y Cultura; el cual deberá mantener la proporcionalidad y crecimiento progresivo en los años de aplicación de la presente Ley, conforme a lo establecido en la política sectorial. El Ministerio de Educación y Cultura, en adelante denominado MEC, no podrá remplazar con la asignación creada por esta Ley, ninguna política universal de formación, equipamiento, dotación de materiales escolares o subsidio a actividades educativas complementarias dentro y fuera del establecimiento escolar.
 
-Los recursos asignados al Ministerio de Salud Pública y Bienestar Social en el inciso e) del Artículo 3° de la presente Ley, no podrán aplicarse a otros gastos que no sean los previstos en el Artículo 12, numeral 2) de este cuerpo legal.
+Las actividades reguladas por la presente Ley se darán en el marco del Sistema Nacional de Salud con la participación de establecimientos del sector público, la facultad de Ciencias Médicas de la Universidad Nacional de Asunción, la seguridad social y el sector privado, como una red especial de servicios de salud integrados, bajo la coordinación del Instituto Nacional de Ablación y Trasplante (INAT) y de acuerdo a sus reglamentaciones.
+
+Bajo este marco, se deberá implementar actividades de procuración de órganos y tejidos de forma coordinada por el Instituto Nacional de Ablación y Trasplante (INAT).
+
+En todos los establecimientos de salud con servicios de cuidados intensivos será obligatorio contar con un médico designado como coordinador de trasplante del establecimiento cuyas funciones serán: detectar potenciales donantes, proveer información adecuada a las familias, apoyar los procesos y actividades relacionadas con esta Ley. En estos establecimientos será obligatoria la realización de capacitaciones continuas del personal de salud. Los establecimientos acreditados, registrados y habilitados conforme al artículo 8° de esta Ley, llevarán un registro de todos los actos médicos regulados por la presente Ley, y procederán a notificar al Instituto Nacional de Ablación y Trasplante (INAT) según los formatos, plazos y procedimientos establecidos en la reglamentación. Para estos fines, podrán realizarse convenios y acuerdos de cooperación y asesoramiento con el Instituto Nacional de Ablación y Trasplante (INAT).
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 11°
 
@@ -134,21 +153,22 @@ El Fondo será administrado financieramente por Agencia Financiera de Desarrollo
 
 ### Artículo 14°
 
-El Consejo de Administración del Fondo o del Fideicomitente, en adelante El Consejo, estará conformado por:
 
-a) El Ministro de Hacienda.
+El Estado paraguayo, a través de las instituciones pertinentes garantizará, como parte del derecho a la salud, la cobertura y el acceso universal al tratamiento de trasplante cuando éste sea indicado por profesionales competentes y aceptado por el receptor o su representante legal, de acuerdo a la presente Ley y sus reglamentaciones. En ningún caso los gastos vinculados con la ablación y el trasplante estarán a cargo del donante o de sus derechohabientes.
 
-b) El Ministro de Educación y Cultura.
+Los recursos necesarios serán cubiertos por las entidades encargadas de la cobertura social o sanitaria del receptor.
 
-c) El Ministro de Salud Pública y Bienestar Social.
+Las entidades públicas, la facultad de Ciencias Médicas de la Universidad Nacional de Asunción, la seguridad social y las entidades privadas deberán notificar a sus beneficiarios sobre el tipo de cobertura relacionado al trasplante.
 
-d) El Secretario Ejecutivo de la Secretaría Técnica de Planificación.
+En ningún caso, las limitaciones de cobertura financiera del receptor serán motivo de suspensión o postergación del tratamiento indicado.
 
-e) El Presidente del CONACYT.
+El Ministerio de Salud Pública y Bienestar Social, a través del Fondo Nacional de Salud, del Fondo Nacional de Recursos Solidarios para la Salud, del Fondo Solidario de Trasplantes y de los recursos establecidos en el Presupuesto General de la Nación, gestionará los recursos pertinentes para cada caso y establecerá los mecanismos para la transferencia al sector público, a la facultad de Ciencias Médicas de la Universidad Nacional de Asunción, a la seguridad social y al sector privado, cuando corresponda, así como las disposiciones para las rendiciones de cuentas. Los recursos así asignados se calcularán con base a las metas de resultados anuales y deberán contemplar de manera especial los recursos destinados para los procedimientos relacionados a la ablación y trasplante, para el tratamiento y seguimiento de los pacientes trasplantados, para la inversión de equipos e infraestructura, para la capacitación continua de profesionales, para la procuración de órganos y tejidos, para la coordinación de trasplantes en hospitales, para programas de educación y comunicación social, para los gastos corrientes de funcionamiento del Instituto Nacional de Ablación y Trasplante (INAT) y otros gastos relacionados, establecidos por el Instituto Nacional de Ablación y Trasplante (INAT). Estos recursos serán depositados en una cuenta especial que no podrán ser reutilizados para otros fines, ni podrán ser reprogramados, ni le serán aplicados planes financieros.
 
-f) Cuatro personas de reconocida solvencia moral, con experiencia en el área educativa, y que tengan participación en proyectos ejecutados o apoyados por el sector privado, designadas por el Presidente la República, a propuesta del CONACYT, las que durarán 3 (tres) años en sus cargos, pudiendo ser relectas por una vez. También se designarán hasta 4 (cuatro) suplentes quienes remplazarán temporalmente a los titulares en caso de permiso, enfermedad o ausencia u otro impedimento temporal; y definitivamente hasta la finalización del mandato, en caso de renuncia, muerte, inhabilidad o incapacidad definitiva. Las personas designadas en este carácter integrarán el consejo, con voz, pero sin voto.
+Así mismo, los otros sub-sectores de salud pública; el Instituto de Previsión Social, la Sanidad Militar y de la Armada, la Sanidad Policial y la facultad de Ciencias Médicas de la Universidad Nacional de Asunción, deberán incluir en sus Presupuestos las partidas presupuestarias afectadas a su Institución para el cumplimiento de la presente Ley.
 
-La participación en el Consejo constituye una carga pública y no será remunerada.
+Con los mismos criterios se garantizará el seguimiento y la atención integral del paciente trasplantado, de conformidad a las reglamentaciones y protocolos de tratamiento médico actualizados.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 15°
 
@@ -172,43 +192,86 @@ f) Establecer su Reglamento Interno.
 
 ### Artículo 17°
 
-La Secretaría Ejecutiva del Consejo estará a cargo de la Secretaría Técnica de Planificación, en adelante denominada la STP, la que tendrá a su cargo la preparación de las reuniones, la custodia de sus resoluciones y demás documentos y la publicidad de sus actos.
+
+Toda persona capaz, mayor de dieciocho años, podrá manifestar su oposición ante el Instituto Nacional de Ablación y Trasplante (INAT) o en las instituciones o locales que éste habilite al efecto, para que después de ser confirmada su muerte, no se proceda a la ablación de órganos y tejidos de su cuerpo, para ser trasplantados en otros seres humanos vivos o con fines de estudio e investigación científica. Esta voluntad expresada será respetada en todos los casos.
+
+La oposición a que se refiere el presente artículo podrá especificar los órganos cuya ablación se prohíbe, de un modo específico o genérico. De no existir esta especificación, se entenderán abarcados exclusivamente a los fines de trasplante en seres humanos vivos y excluidos los de estudios e investigación científica.
+
+El Instituto Nacional de Ablación y Trasplante (INAT) habilitará un registro nacional de opositores a la donación de órganos y tejidos, en el cual se asentarán en forma ordenada y con los datos pertinentes, las manifestaciones de oposición para la ablación de órganos y tejidos.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 18°
 
-El Fondo habilitará una página web en la que se incluirá, cuanto menos, información detallada de los programas y proyectos aprobados y sobre la ejecución de los mismos. Será responsabilidad de la STP organizarla y mantenerla actualizada.
+
+Igual manifestación a la del artículo anterior podrá ser hecha ante el Departamento de Identificaciones en ocasión de gestionar su documento de identidad y ante la municipalidad al solicitar el registro de conducir. Las personas deberán ser informadas de este derecho por escrito o cualquier otro medio que establezca la Autoridad de Aplicación. Tanto el documento de identidad y el registro de conducir consignarán la oposición a la que se refiere el artículo anterior. Esta oposición podrá ser revocada en cualquier momento ante los Registros del Instituto Nacional de Ablación y Trasplante (INAT).
+
+El Departamento de Identificaciones y las municipalidades deberán informar la oposición o su revocación, al Instituto Nacional de Ablación y Trasplante (INAT) dentro del plazo de cuarenta y ocho horas de realizadas las mismas.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 19°
 
-Los programas y proyectos del Fondo que hayan sido incorporados al Presupuesto General de la Nación, serán objeto de convenios entre la AFD y las unidades ejecutoras responsables de los mismos en cada Ministerio o ente afectado. A los efectos de su aprobación, cada programa o proyecto deberá contar con una unidad encargada de su ejecución y ajustarse al marco legal que rige la política institucional de la entidad.
 
-El Consejo podrá sustituir a las unidades ejecutoras, por haberse registrado una demora en la ejecución de un programa o proyecto, cuando ella supere los 3 (tres) meses de atraso y ello sea atribuible a la unidad correspondiente. En estos casos, el Consejo quedará facultado a constituir una nueva unidad ejecutora o a remplazarla por otra ya existente.
+En caso de muerte de personas mayores de dieciocho años que no hayan expresado su oposición para la donación de órganos y tejidos, deberá informarse a los familiares presentes, sobre todos los procedimientos terapéuticos y de diagnóstico que se hayan realizado. A continuación, se informará a los familiares presentes sobre la necesidad, la importancia y los procesos para la donación de órganos y tejidos, brindando apoyo y contención.
 
-Las unidades ejecutoras podrán obtener una asistencia financiera del Fondo para sus gastos operativos, la cual no podrá exceder del 5% (cinco por ciento) del financiamiento aprobado.
+A los efectos de ablación de órganos y tejidos se verificará previamente si consta en el Registro del Instituto Nacional de Ablación y Trasplante (INAT), en la historia clínica o en algún documento que porte la persona fallecida la oposición correspondiente.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 20°
 
-Para su concesión y ejecución, todos los programas y proyectos del Fondo estarán sometidos a las normas y procedimientos establecidos en la legislación nacional para las contrataciones públicas.
+
+En caso de muerte violenta accidental, no existiendo constancia en el Registro del Instituto Nacional de Ablación y Trasplante (INAT) de voluntad expresa de oposición, se debe contar con la autorización judicial. El juez interviniente deberá expedirse dentro de las dos horas de recibido el pedido de autorización judicial.
+
+El médico que realice la ablación deberá informar en el plazo de setenta y dos horas al juzgado sobre las circunstancias del caso y sobre el estado del órgano o material ablacionado.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 21°
 
-Durante el mes de mayo, el MEC, MSPYBS y el CONACYT presentarán al Consejo los programas y proyectos de las áreas de su competencia que se proponen sean financiados por el Fondo, y la AFD respecto de los programas y proyectos que el Fondo le instruya que tome a su cargo. Los mismos contendrán información pormenorizada de los propósitos, destino, tiempo de ejecución y montos estimados, unidades ejecutoras y recursos que el Fondo debe aportar.
 
-Durante el mes de junio, la STP distribuirá a los Consejeros las solicitudes recibidas de tales instituciones y de organizaciones que trabajan en el área educativa, acompañando un estudio sobre las mismas y sus recomendaciones, así como los comentarios, sugerencias y propuestas recibidos de la ciudadanía, por los medios habilitados por el Consejo para dicho efecto.
+La muerte encefálica de una persona se considerará tal cuando se verifiquen de modo acumulativo los siguientes signos, que deberán persistir ininterrumpidamente al menos seis horas después de su constatación conjunta, en ausencia de sedación, intoxicación barbitúrica, hipotermia de menos de treinta y cinco grados centígrados, bloqueo neuromuscular, hipovolemia aguda o shock, teniéndose en cuenta los siguientes criterios:
 
-El Consejo tendrá las más amplias facultades para aprobar, rechazar total o parcialmente los programas y proyectos recibidos, priorizarlos, someterlos a nuevos estudios, designar unidades ejecutoras distintas a las propuestas; así como realizar las reprogramaciones que considere necesarias, debiendo someter estas a la aprobación del Congreso Nacional.
+a) ausencia irreversible de respuesta cerebral con pérdida absoluta de conciencia;
+
+b) ausencia de respiración espontánea;
+
+c) ausencia de reflejos tronco encefálicos y constatación de pupilas midriáticas no reactivas;
+
+d) la constatación de criterios neurológicos de muerte encefálica definidos en un protocolo para la determinación de este diagnóstico, aprobado por el Ministerio de Salud Pública y Bienestar Social. Se entiende por este protocolo a las instrucciones escritas en las que se describen los pasos del proceso específico para determinar de manera fehaciente la muerte encefálica de una persona, incluidos los materiales y métodos que deben utilizarse, las condiciones, los requisitos y los parámetros de resultados para llegar a ese diagnóstico, de conformidad a los avances médicos y científicos y a los principios de bioética;
+
+e) cuando se utilicen pruebas no instrumentales para el diagnóstico de muerte encefálica, el tiempo de observación requerido será de doce horas y deberá practicarse en todos los casos un test de apnea, de acuerdo al protocolo establecido en el inciso d);
+
+f) si hubo injuria anóxica (falta de oxígeno), o se tratase de niños menores de cinco años de edad, se deben esperar veinticuatro horas para declarar muerte encefálica;
+
+h) la utilización de medios instrumentales sólo será obligatoria en situaciones especiales como: causa de coma desconocida, graves destrucciones del macizo facial, otras situaciones que dificulten las pruebas de reflejo troncoencefálico, intolerancia o contraindicación del test de apnea, traumatismo raquimedular y otras situaciones establecidas por el Ministerio de Salud Pública y Bienestar Social de acuerdo al protocolo establecido en el inciso d).
+
+En todos los casos deberá registrarse de manera pormenorizada todas las pruebas realizadas y los resultados, elevándose un informe de todo lo actuado al Instituto Nacional de Ablación y Trasplante (INAT).
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 22°
 
-El MEC, CONACYT, la STP, la AFD y las unidades ejecutoras presentarán al Consejo los informes de evaluación, seguimiento y control cualitativo y cuantitativo de los programas y proyectos ejecutados o en ejecución de las áreas de su competencia, que sean financiados por el Fondo, con cortes al 31 de diciembre y al 30 de junio. Los primeros serán presentados durante el mes de marzo y los segundos durante el mes de setiembre. En las mismas fechas, la AFD presentará sus informes en calidad de Fiduciario.
 
-La Secretaria Ejecutiva distribuirá a los Consejeros los informes recibidos de tales instituciones, acompañando un estudio de los mismos, y sus recomendaciones, así como los comentarios, propuestas y sugerencias recibidos por parte de la ciudadanía, dentro del mes siguiente al de su recepción.
+A los efectos del artículo anterior, la certificación de la muerte encefálica deberá ser suscripta por dos médicos, entre los que figurará por lo menos un médico especialista en neurología, neurocirugía o medicina crítica y cuidados intensivos. Ninguno de ellos integrará el equipo que realice ablaciones o trasplantes de los órganos del fallecido.
 
-En los mismos plazos, la Contraloría General de la República presentará sus informes correspondientes.
+El Instituto Nacional de Ablación y Trasplante (INAT), promoverá la capacitación de profesionales para la aplicación del protocolo para el diagnóstico de muerte encefálica aprobado por el Ministerio de Salud Pública y Bienestar Social. La hora del fallecimiento será aquella registrada en la historia clínica en que por última vez se constataron los signos previstos en el artículo 21.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 23°
 
-El 7% (siete por ciento) de los recursos del FONACIDE previsto en el inciso d) del artículo 3° de la presente Ley para la capitalización de la AFD, pasará a integrar el patrimonio de la misma y su aplicación estará sujeta a las normas generales que rigen dicha entidad.
+
+El establecimiento en cuyo ámbito se realice la ablación estará obligado a:
+
+a) arbitrar todos los medios a su alcance en orden a la restauración estética del cadáver, sin cargo alguno a los sucesores del fallecido;
+
+b) realizar todas las operaciones que no hayan sido objeto de oposición, dentro del menor plazo posible de haber solicitado los sucesores del fallecido la devolución del cadáver; y,
+
+c) conferir en todo momento al cadáver del donante un trato digno y respetuoso.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 24°
 
@@ -216,9 +279,30 @@ Autorízase excepcionalmente al Poder Ejecutivo durante el primer año de vigenc
 
 ### Artículo 25°
 
-Facúltase al Poder Ejecutivo, a través del Ministerio de Hacienda, a reglamentar los procedimientos administrativos, presupuestarios y operativos necesarios para el cumplimiento de lo dispuesto en la presente Ley, en el plazo de 60 (sesenta) días.
 
-DISPOSICIONES FINALES Y TRANSITORIAS.
+Queda prohibida la realización de todo tipo de ablación para trasplante:
+
+a) sin que se haya dado cumplimiento a los requisitos y previsiones de la presente Ley;
+
+b) sobre el cuerpo de quien haya manifestado la oposición, previstas en los artículos 17 y 18;
+
+c) sobre cuerpos de pacientes internados en institutos neuropsiquiátricos;
+
+d) sobre el cuerpo de una mujer embarazada;
+
+e) por el profesional que haya atendido y tratado al fallecido durante su última enfermedad; y por los profesionales médicos que diagnosticaron su muerte encefálica.
+
+Asimismo, quedan prohibidos:
+
+f) toda contraprestación u otro beneficio por la donación de órganos y tejidos, en vida o para después de la muerte, y la intermediación con fines de lucro;
+
+g) la inducción o coacción al donante en vida para dar una respuesta afirmativa respecto a la donación de órganos. La explicación dada por el médico, con testigos acerca de la utilidad de la donación de un órgano o tejido, no será considerado como una violación de la presente regla; y,
+
+h) los anuncios o publicidad negativa en relación con las actividades mencionadas en esta Ley.
+
+El apoyo a la familia del donante, cuando fuera pertinente, para dar una disposición digna al cuerpo del fallecido, incluido el sepelio y traslado, no se considerarán contraprestación o beneficio por la donación.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 26°
 
@@ -232,7 +316,10 @@ b) 10% (diez por ciento) para el Ministerio de Salud Pública y Bienestar Social
 
 ### Artículo 27°
 
-Por un lapso de 3 (tres) años consecutivos, a partir de la entrada en vigencia de la presente Ley, Gs. 15.000.000.000 (Guaraníes quince mil millones) de los recursos previstos en el inciso a) del Artículo 3°, se destinarán al Comité Olímpico Paraguayo, a efectos de la Construcción de un Parque Olímpico.
+
+Será sancionado con pena privativa de libertad de seis meses a tres años e inhabilitación especial de uno a cinco años, el profesional de la salud, o una persona que ejerza actividades de colaboración del arte de curar, cuando extrajera órganos y tejidos de seres humanos con muerte encefálica declarada sin cumplir con todo lo establecido en esta Ley y sus reglamentaciones.
+
+> *Modificado por Ley N° 6170 (2018-09-07)*
 
 ### Artículo 28°
 
