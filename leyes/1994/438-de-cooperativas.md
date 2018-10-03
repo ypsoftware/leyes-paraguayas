@@ -982,17 +982,20 @@ Medidas de Fomento. El fomento estatal del cooperativismo se realizará por medi
 ### Artículo 113°
 
 
-Exenciones Tributarias. Cualquiera sea la clase o el grado de la cooperativa, queda exenta de los siguientes tributos:
 
-a) Todo impuesto que grave su constitución, reconocimiento y registro, incluyendo los actos de transferencia de bienes en concepto de capital;
+Exenciones tributarias. Cualquiera sea la clase o el grado de la Cooperativa, queda exenta de pleno derecho de los siguientes tributos:
 
-b) Todo impuesto municipal o departamental, con excepción del Impuesto Inmobiliario, el Impuesto a la Patente de Rodados y el Impuesto a la Construcción;
+a) Todo Impuesto que grave su constitución, reconocimiento y registro, incluyendo los actos de transferencia de bienes en concepto de capital.
 
-c) Aranceles aduaneros, adicionales y recargos, por la importación de bienes de capital destinados al cumplimiento del objeto social, los que no podrán ser transferidos sino después de cinco años de haber ingresados al país;
+b) Todo Impuesto municipal o departamental, con excepción del Impuesto Inmobiliario, el Impuesto a la Patente de Rodados y el Impuesto a la Construcción.
 
-d) El Impuesto a la Renta, sobre los excedentes de las entidades cooperativas que se destinen al cumplimiento de lo dispuesto en los incisos a), b) y f) del Artículo 42 y sobre los excedentes de las entidades cooperativas que sean créditos de los socios por sumas pagadas de más o cobradas de menos originadas en prestaciones de servicios o de bienes del socio con su cooperativa o de ésta con aquel.
+c) El Impuesto al Valor Agregado que grave los actos de los socios con su cooperativa, de las cooperativas entre sí y de las cooperativas con las centrales, federaciones y confederaciones de cooperativas; y de éstas entre sí, con exclusión de las adquisiciones y enajenaciones realizadas por la cooperativa con terceros.
 
-> *Modificado por Ley N° 5501 (2015-09-14)*
+d) El Impuesto a la Renta sobre los excedentes de la entidad cooperativa que se destinen al cumplimiento de los incisos a), b) y f) del artículo 42 y sobre los excedentes de las cooperativas que sean créditos de los socios por sumas pagadas demás o cobradas de menos originadas en prestaciones de servicios o de bienes de socios con su cooperativa o de ésta con aquel.
+
+Aranceles aduaneros, adicionales y recargos por la importación de bienes de capital destinados al cumplimiento del objeto social, los que no podrán ser transferidos libremente sino después de 5 (cinco) años de ingresados al país
+
+> *Modificado por Ley N° 6178 (2018-10-03)*
 
 ### Artículo 114°
 
