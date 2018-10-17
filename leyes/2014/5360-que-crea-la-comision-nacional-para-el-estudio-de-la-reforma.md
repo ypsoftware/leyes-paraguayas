@@ -20,17 +20,19 @@ Crear la Comisión Nacional para el Estudio de la Reforma de las leyes que regul
 ### Artículo 2°
 
 
-La Comisión estará compuesta por 7 (siete) Senadores, 7 (siete) Diputados, un representante de la Corte Suprema de Justicia, un representante del Poder Ejecutivo, un representante del gremio de Abogados, un representante de los Jueces, un representante de los Agentes Fiscales y un representante de los Defensores Públicos.
 
-> *Modificado por Ley N° 5493 (2015-09-24)*
+La Comisión estará compuesta por 1 (un) representante de las bancadas de la Cámara de Senadores y 1 (un) representante de las bancadas de la Cámara de Diputados, 2 (dos) representantes de la Corte Suprema de Justicia, 2 (dos) representantes del Poder Ejecutivo, 1 (un) representante del Gremio de Abogados, 1 (un) representante de los Jueces, 1 (un) representante de los Agentes Fiscales y 1 (un) representante de los Defensores Públicos.
+
+> *Modificado por Ley N° 6200 (2018-10-17)*
 
 ### Artículo 3°
 
 
 
-Una vez instalada la Comisión, que funcionará en la sede del Congreso Nacional, elevará sus conclusiones a consideración del Poder Legislativo, en el mes de diciembre del año 2017.
 
-> *Modificado por Ley N° 5853 (2017-08-07)*
+Una vez instalada la Comisión, que funcionará en la sede del Congreso Nacional, elevará a consideración del Poder Legislativo, en el plazo de 1 (un) año, sus conclusiones.
+
+> *Modificado por Ley N° 6200 (2018-10-17)*
 
 ### Artículo 4°
 
