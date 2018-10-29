@@ -51,29 +51,32 @@ c) Los demás ingresos que correspondan en virtud del artículo 17 del Decreto-L
 ### Artículo 6°
 
 
-Los docentes dependientes de instituciones educativas privadas reconocidas por el Ministerio de Educación y Cultura, de la educación formal y no formal, y de todos los niveles y modalidades:
 
-1. Tendrán derecho a una prestación previsional con Componente No Contributivo a cargo del Ministerio de Hacienda, cumpliendo los siguientes requisitos:
+Los docentes dependientes de instituciones educativas privadas reconocidas por el Ministerio de Educación y Ciencias, de la educación formal y no formal, y de todos los niveles y modalidades:
+
+1. Tendrán derecho a una prestación previsional con Componente No Contributivo, a cargo del Ministerio de Hacienda, cumpliendo los siguientes requisitos:
 
 a) Haber nacido hasta el año 1975.
 
 b) Encontrarse en actividad laboral docente y cotizando al seguro social de salud del Instituto de Previsión Social, al 13 de julio de 2011.
 
-c) Contar con un mínimo de sesenta meses de aportes al Instituto de Previsión Social realizados bajo el régimen del artículo 2° de la Ley N° 1.085/65 “QUE MODIFICA Y AMPLÍA DISPOSICIONES DEL DECRETO-LEY N° 1.860 APROBADO POR LEY N° 375 DEL 26 DE AGOSTO DE 1957”, al 13 de julio de 2011.
+c) Contar con un mínimo de sesenta meses de aportes al Instituto de Previsión Social realizados bajo el régimen del artículo 2° de la Ley N° 1.085/1965 "QUE MODIFICA Y AMPLÍA DISPOSICIONES DEL DECRETO-LEY N° 1.860 APROBADO POR LEY N° 375 DEL 26 DE AGOSTO DE 1957", al 13 de julio de 2011.
 
-d) Tener por lo menos sesenta años de edad y veinticinco años de servicio docente en instituciones educativas privadas reconocidas por el Ministerio de Educación y Cultura, de todos los niveles y modalidades, al tiempo de la presentación de la solicitud de prestación previsional.
+d) Tener por lo menos sesenta años de edad y veinticinco años de servicio docente en instituciones educativas privadas, reconocidas por el Ministerio de Educación y Ciencias, de todos los niveles y modalidades, al tiempo de la presentación de la solicitud de prestación previsional.
 
-2. Cumplidos los requisitos precedentes, el Instituto de Previsión Social calculará una Prestación Previsional como si el docente dependiente de instituciones educativas privadas hubiera cotizado durante un mil doscientos cincuenta semanas o veinticinco años. Obtenida esta Prestación Previsional, la misma estará compuesta y será financiada de la siguiente manera:
+Tendrán también derecho a la prestación individualizada en el numeral 1, aquellos docentes que cumpliesen con lo dispuesto en los incisos a) y d) precedentes y hubiesen excedido el mínimo de sesenta meses de aportes al Instituto de Previsión Social, independientemente de la fecha de culminación de su actividad laboral docente, siempre y cuando hayan presentado la solicitud de prestación al Instituto de Previsión Social, hasta el 31 de agosto de 2018.
+
+Cumplidos los requisitos precedentes, el Instituto de Previsión Social calculará una Prestación Previsional como si el docente dependiente de instituciones educativas privadas hubiera cotizado durante un mil doscientos cincuenta semanas o veinticinco años. Obtenida esta Prestación Previsional, la misma estará compuesta y será financiada de la siguiente manera:
 
 a) Un Componente Contributivo o Jubilatorio a cargo del Instituto de Previsión Social, financiado con los aportes ingresados hasta la fecha de solicitud del Beneficio, el cual será proporcional al tiempo de aportes efectivamente realizados. Esta jubilación será reglamentada por el Instituto de Previsión Social.
 
 b) Un Componente No Contributivo a cargo del Ministerio de Hacienda, complementario de la jubilación del Instituto de Previsión Social.
 
-El Componente No Contributivo no excederá dos salarios mínimos legales para actividades diversas no especificadas y se sumará al componente contributivo.
+El Componente No Contributivo, no excederá dos salarios mínimos legales para actividades diversas no especificadas y se sumará al componente contributivo.
 
-Los docentes dependientes de instituciones educativas privadas en actividad, que se encuentren percibiendo una jubilación o pensión otorgada por la Caja Fiscal u otra Entidad Previsional Paraguaya o Extranjera, deberán cotizar igualmente como sujetos obligados de la presente ley, y tendrán derecho a la jubilación del Instituto de Previsión Social, una vez completados los requisitos establecidos en el seguro social obligatorio, conforme al artículo 59, inciso a) del Decreto-Ley N° 1.860/50, aprobado por Ley N° 375/56.
+Los docentes dependientes de instituciones educativas privadas en actividad, que se encuentren percibiendo una jubilación o pensión otorgada por la Caja Fiscal u otra Entidad Previsional Paraguaya o Extranjera, deberán cotizar igualmente como sujetos obligados de la presente ley, y tendrán derecho a la jubilación del Instituto de Previsión Social, una vez completados los requisitos establecidos en el seguro social obligatorio, conforme al artículo 59, inciso a) del Decreto-Ley N° 1.860/1950, POR EL CUAL SE MODIFICA EL DECRETO- LEY N° 17.071, DEL 18 DE FEBRERO DE 1943, DE CREACIÓN DEL INSTITUTO DE PREVISIÓN SOCIAL, aprobado por Ley N° 375/1956.
 
-> *Modificado por Ley N° 5555 (2015-12-27)*
+> *Modificado por Ley N° 6195 (2018-10-29)*
 
 ### Artículo 7°
 
