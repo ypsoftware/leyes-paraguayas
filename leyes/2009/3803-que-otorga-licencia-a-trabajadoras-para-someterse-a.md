@@ -15,7 +15,10 @@ short_title: "QUE OTORGA LICENCIA A TRABAJADORAS PARA SOMETERSE A…"
 
 ### Artículo 1°
 
-Toda trabajadora, dependiente o no, del sector privado o público, con cargo permanente, temporal o contratada, con cargo electivo o no, goza de licencia remunerada de un día laborable en cada año, para someterse a exámenes de Papanicolau y Mamografía.
+
+Toda trabajadora, dependiente o no, del sector privado o público, con cargo permanente, temporal o contratada, con cargo electivo o no, goza de licencia remunerada de dos días laborables en cada año, para someterse a exámenes de Papanicolau y Mamografía.
+
+> *Modificado por Ley N° 6211 (2018-11-01)*
 
 ### Artículo 2°
 
