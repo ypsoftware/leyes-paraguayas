@@ -19,11 +19,17 @@ Reconócese al Comando de Institutos Navales de Enseñanza de la Armada (CINAE) 
 
 ### Artículo 2°
 
-Facúltase al Comando de Institutos Navales de Enseñanza de la Armada (CINAE) y al Comando de Institutos Aeronáuticos de Enseñanza de la Fuerza Aérea (CIAERE) a organizar programas en Ciencias Militares, y a expedir títulos de licenciatura y maestría en dicha disciplina.
+
+Facúltase al Comando de Institutos Navales de Enseñanza de la Armada (CINAE), a desarrollar y organizar programas en Ciencias Militares, y a expedir títulos de Pregrado, Grado y Postgrados en dicha área del saber.
+
+> *Modificado por Ley N° 6209 (2018-11-02)*
 
 ### Artículo 3°
 
-Comuníquese al Poder Ejecutivo.
+
+Facúltase al Comando de Institutos Aeronáuticos de Enseñanza de la Fuerza Aérea (CIAERE) a desarrollar y organizar programas en el área del saber de las Ciencias Militares, y a expedir títulos de Pregrado, Grado y Postgrado, en dichas áreas del conocimiento.
+
+> *Modificado por Ley N° 6209 (2018-11-02)*
 
 ---
 
