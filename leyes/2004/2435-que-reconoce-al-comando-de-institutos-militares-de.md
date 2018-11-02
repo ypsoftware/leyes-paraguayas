@@ -19,7 +19,10 @@ Reconócese al Comando de Institutos Militares de Enseñanza del Ejército (CIME
 
 ### Artículo 2°
 
-Facúltase al Comando de Institutos Militares de Enseñanza del Ejército (CIMEE) a organizar programas en Ciencias Militares y a expedir títulos de licenciatura y maestría en dicha disciplina.
+
+Facúltase al Comando de Institutos Militares de Enseñanza del Ejército (CIMEE) a organizar cursos, carreras y programas en el campo de las Ciencias Militares y a expedir títulos de pregrado, grado y postgrado en ese campo y afines. El Consejo de Educación Superior (CONES), reglamentará y establecerá las exigencias académicas para las áreas que no se refieran al campo específico de las ciencias militares, de conformidad con lo establecido en los Artículos 49, 54 y 60 de la Ley Nº 4995/13 “DE EDUCACIÓN SUPERIOR.
+
+> *Modificado por Ley N° 6208 (2018-11-02)*
 
 ### Artículo 3°
 
