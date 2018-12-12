@@ -14,11 +14,17 @@ short_title: "QUE DECLARA DE INTERES SOCIAL Y EXPROPIA A FAVOR DEL…"
 
 ### Artículo 1°
 
-Decláranse de interés social y exprópianse a favor del Instituto de Bienestar Rural (IBR) a los fines de la Reforma Agraria, las Fincas Ns. 1.404 de 94 has. (noventa y cuatro hectáreas), 1.405 de 83 has. (ochenta y tres hectáreas), 1.411 de 67 has. (sesenta y siete hectáreas), 1.992 de 84 has. (ochenta y cuatro hectáreas), 1.993 de 57 has. (cincuenta y siete hectáreas), 1.994 de 55 has. (cincuenta y cinco hectáreas), 1.996 de 46 has. (cuarenta y seis hectáreas), 1.998 de 50 has. (cincuenta hectáreas), 2.011 de 102 has. (ciento dos hectáreas), 2.014 de 65 has. (sesenta y cinco hectáreas), 2.015 de 39 has. (treinta y nueve hectáreas), 2.016 de 108 has. (ciento ocho hectáreas), 2.018 de 82 has. (ochenta y dos hectáreas), 2.155 de 75 has. (setenta y cinco hectáreas), 3.108 de 30 has. (treinta hectáreas), 3.952 de 69 has. (sesenta y nueve hectáreas), 3.953 Lote Nº 27 de 63 has. 5.250 ms2. (sesenta y tres hectáreas, cinco mil doscientos cincuenta metros cuadrados), 4.098 de 57 has. (cincuenta y siete hectáreas), todos del Distrito de Yhú, Departamento Caaguazú. Siendo la superficie total expropiada de 1.226 has., 5.250 ms2. (mil doscientos veintiséis hectáreas, cinco mil doscientos cincuenta metros cuadrados).
+
+Declárase de interés social y exprópiase a favor del Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT), a los fines de la Reforma Agraria, las Fincas N°s. 1404 de 94 ha (noventa y cuatro hectáreas), 1405 de 83 ha (ochenta y tres hectáreas), 1411 de 67 ha (sesenta y siete hectáreas), 1992 de 84 ha (ochenta y cuatro hectáreas), 2011 de 102 ha (ciento dos hectáreas), 2014 de 65 ha (sesenta y cinco hectáreas), 2016 de 108 ha (ciento ocho hectáreas), 2018 de 82 ha (ochenta y dos hectáreas), 3953 Lote Nº 27 de 63 ha 5.250 m2 (sesenta y tres hectáreas con cinco mil doscientos cincuenta metros cuadrados), todos del Distrito de Yhú, Departamento Caaguazú. Siendo la superficie total expropiada de 748 ha 5.250 m2 (SETECIENTAS CUARENTA Y OCHO HECTÁREAS, CON CINCO MIL DOSCIENTOS CINCUENTA METROS CUADRADOS).
+
+> *Modificado por Ley N° 6242 (2018-12-12)*
 
 ### Artículo 2°
 
-El Instituto de Bienestar Rural (IBR) y los propietarios acordarán en un plazo no mayor a noventa días el precio de las tierras expropiadas. En caso de no haber acuerdo entre las partes, recurrirán al Juzgado de Primera Instancia en lo Civil y Comercial para la determinación judicial del precio.
+
+Queda sin efecto la expropiación contemplada en la Ley N° 1131/97, sobre las Fincas Nºs. 1993 de 57 ha (cincuenta y siete hectáreas), 1994 de 55 ha (cincuenta y cinco hectáreas), 1996 de 46 ha (cuarenta y seis hectáreas), 1998 de 50 ha (cincuenta hectáreas), 2015 de 39 ha (treinta y nueve hectáreas), 2155 de 75 ha (setenta y cinco hectáreas), 3108 de 30 ha (treinta hectáreas), 3952 de 69 ha (sesenta y nueve hectáreas), 4098 de 57 ha (Cincuenta y siete hectáreas), todos del Distrito de Yhú, Departamento Caaguazú. Siendo la superficie total dejada fuera de la expropiación 478 ha (CUATROCIENTOS SETENTA Y OCHO HECTÁREAS).
+
+> *Modificado por Ley N° 6242 (2018-12-12)*
 
 ### Artículo 3°
 
