@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/1424/texto
 short_title: "QUE DECLARA DE UTILIDAD PUBLICA Y AUTORIZA AL BANCO CENTRAL…"
+derogada: true
+derogada_por: Ley 6264
+derogada_fecha: 2018-12-17
 ---
 
 # LEY Nº 3798
@@ -44,3 +47,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el proyecto de Ley por la Honorable Cámara de Senadores, a los veintiseis días del mes de mayo del año dos mil nueve, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a los dieciseis días del mes de julio del año dos mil nueve, de conformidad a lo dispuesto en el Artículo 204 de la Constitución Nacional. -*
+
+> *Derogada en su totalidad por Ley N° 6264 (2018-12-17)*
