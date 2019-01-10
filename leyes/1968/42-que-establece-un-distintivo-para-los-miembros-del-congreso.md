@@ -7,6 +7,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/8714/texto
 short_title: "QUE ESTABLECE UN DISTINTIVO PARA LOS MIEMBROS DEL CONGRESO…"
+derogada: true
+derogada_por: Ley 6257
+derogada_fecha: 2019-01-10
 ---
 
 # LEY Nº 42
@@ -33,3 +36,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *DADA EN LA SALA DE SESIONES DEL CONGRESO NACIONAL A LOS ONCE DIAS DEL MES DE DICIEMBRE DEL AÑO MIL NOVENCIENTOS SESENTA Y OCHO.*
+
+> *Derogada en su totalidad por Ley N° 6257 (2019-01-10)*
