@@ -19,9 +19,12 @@ Créase la Ley de Alimentación Escolar y Control Sanitario, en atención a los 
 
 ### Artículo 2°
 
+
 A los efectos de esta Ley, se entiende por alimentación escolar:
 
-A la alimentación, variada, balanceada, de calidad óptima y adecuada a los requerimientos nutricionales de cada grupo etáreo, proporcionado en el marco del régimen escolar, conforme a las características socio-culturales y la disponibilidad de los productos e insumos alimenticios característicos de los territorios, y que al mismo tiempo, promuevan acciones pedagógicas que permitan que se conviertan en una experiencia educativa para la formación de hábitos alimentarios saludables en la población escolar atendida por el Sistema Educativo y el desarrollo de los componentes pedagógicos en materia de derecho a la alimentación y seguridad alimentaria, con la participación de la comunidad educativa.
+A la alimentación, variada, balanceada, de calidad óptima y adecuada a los requerimientos nutricionales de cada grupo etáreo, proporcionado en el marco del régimen escolar, conforme a las características socio-culturales y la disponibilidad de los productos e insumos alimenticios característicos de los territorios, y que al mismo tiempo, promuevan acciones pedagógicas que permitan que se conviertan en una experiencia educativa para la formación de hábitos alimentarios saludables en la población escolar atendida por el Sistema Educativo y el desarrollo de los componentes pedagógicos en materia de derecho a la alimentación y seguridad alimentaria, con la participación de la comunidad educativa. Complementando la alimentación escolar, se incluirá como mínimo dos bananas, de producción nacional, por lo menos tres días a la semana, de acuerdo a la disponibilidad.
+
+> *Modificado por Ley N° 6277 (2019-01-14)*
 
 ### Artículo 3°
 
@@ -99,6 +102,7 @@ f) Integralidad: La alimentación escolar debe tener carácter integrado e integ
 
 ### Artículo 10°
 
+
 Se establecen como directrices de la alimentación escolar:
 
 a) Que la misma deberá basarse en una dieta saludable y adecuada para el estudiante.
@@ -111,9 +115,11 @@ d) Que los esquemas de la Alimentación Escolar deberán ser diseñados en conco
 
 e) Que deberá contemplar la inclusión de la educación alimentaria y nutricional en el proceso de enseñanza-aprendizaje, considerando la perspectiva de la soberanía alimentaria y la seguridad alimentaria y nutricional.
 
-f) Que se deberá priorizar la adquisición de alimentos de la Agricultura Familiar, mediante procedimientos sumarios que garanticen la compra a sus integrantes. Estos procedimientos se aplicarán en carácter de excepción a las disposiciones contenidas en la Ley Nº 2051/03 “DE CONTRATACIONES PUBLICAS” y en la Ley Nº 1535/99 “DE ADMINISTRACION FINANCIERA DEL ESTADO”.
+f) Que se deberá priorizar la adquisición de alimentos de la Agricultura Familiar, y en especial de la producción bananera nacional mediante procedimientos sumarios que garanticen la compra a sus integrantes. Estos procedimientos se aplicarán en carácter de excepción a las disposiciones contenidas en la Ley N° 2051/03 “DE CONTRATACIONES PÚBLICAS” y en la Ley N° 1535/99 “DE ADMINISTRACIÓN FINANCIERA DEL ESTADO”.
 
 Que la asignación de programas de alimentación escolar y control sanitario deberá priorizar las instituciones educativas situadas en zonas de extrema pobreza, conforme a parámetros oficiales publicados por las autoridades competentes.
+
+> *Modificado por Ley N° 6277 (2019-01-14)*
 
 ### Artículo 11°
 
