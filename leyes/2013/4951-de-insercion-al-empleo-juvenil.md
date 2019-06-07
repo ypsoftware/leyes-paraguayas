@@ -49,9 +49,10 @@ b) Los empleadores.
 
 ### Artículo 5°
 
+
 Las modalidades denominadas beca de trabajo, contrato de primer empleo formal y contrato de aprendizaje, serán para uso exclusivo de las y los jóvenes que integren alguno de los siguientes grupos:
 
-a) Jóvenes discapacitados, con al menos un 33% (treinta y tres por ciento) de discapacidad certificada por la Secretaria Nacional por los Derechos Humanos de las Personas con Discapacidad (SENADIS).
+a) Jóvenes con discapacidad, con al menos un 33% (treinta y tres por ciento) de discapacidad certificada por la Secretaría Nacional por los Derechos Humanos de las Personas con Discapacidad (SENADIS).
 
 b) Jóvenes cuyo hogar se encuentre dentro del 20% (veinte por ciento) más pobre del país.
 
@@ -59,9 +60,11 @@ c) Mujeres jóvenes pertenecientes al 30% (treinta por ciento) de hogares más p
 
 d) Jóvenes con hijos a cargo que sean jefes o jefas de hogar o del núcleo familiar (en el caso de hogares extendidos) y pertenecientes al 30% (treinta por ciento) de hogares más pobres del país.
 
-e) Jóvenes que una de sus 2 (dos) últimas ocupaciones fuera trabajadora o trabajador doméstico o hubiesen estado más de 1 (un) año en dicha ocupación.
+e) Jóvenes que una de sus dos últimas ocupaciones fueran trabajadora o trabajador doméstico o hubiesen estado más de un año en dicha ocupación.
 
-f) En la reglamentación de la presente Ley, se detallará la forma de certificar que los beneficiarios cumplan con las características establecidas.
+f) En la reglamentación de la presente ley, se detallará la forma de certificar que los beneficiarios cumplan con las características establecidas.
+
+> *Modificado por Ley N° 6305 (2019-06-07)*
 
 ### Artículo 6°
 
