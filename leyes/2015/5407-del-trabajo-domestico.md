@@ -163,13 +163,14 @@ Salario
 
 ### Artículo 10°
 
-Salario Mínimo Legal.
 
-El salario mínimo legal para el trabajo doméstico no será inferior al 60% (sesenta por ciento) del salario mínimo legal para actividades diversas no especificadas establecido por el Poder Ejecutivo.
+**Salario Mínimo legal.**
 
-Las personas que desempeñen trabajo doméstico en turnos discontinuos o jornadas inferiores a la jornada máxima legal, no podrán recibir remuneraciones que sean proporcionalmente inferiores al salario mínimo legal para esta forma de actividad.
+Las trabajadoras y trabajadores domésticos se beneficiarán del régimen de salario mínimo legal para actividades diversas no especificadas establecido por el Poder Ejecutivo.
 
-La Autoridad Administrativa del Trabajo reglamentará, publicará y actualizará el salario mensual y el jornal mínimo vigentes para el trabajo doméstico.
+Las personas que desempeñen trabajo doméstico en turnos discontinuos o jornadas inferiores a la jornada máxima legal, no podrán recibir remuneraciones que sean proporcionalmente inferiores al salario mínimo legal para esta actividad.
+
+> *Modificado por Ley N° 6338 (2019-07-01)*
 
 ### Artículo 11°
 
