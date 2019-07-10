@@ -145,11 +145,14 @@ El beneficiario o el responsable de la afectación de los dispositivos electrón
 
 ### Artículo 7°
 
-Reglamentación e implementación.
 
-La reglamentación e implementación del sistema de monitoreo electrónico instituido en la presente ley, corresponderá a la Corte Suprema de Justicia.
+**Reglamentación e Implementación.**
 
-Se garantizará el acceso al SIMDEC a todas las personas que cumplan con los requisitos previstos en esta ley a cuyo efecto las autoridades deberán allanar los obstáculos que impidan su aplicación.
+1° La implementación del sistema de monitoreo electrónico instituido en la presente Ley, corresponderá al Poder Ejecutivo, el cual reglamentará en el plazo de 60 (sesenta) días contados a partir de la promulgación de la presente Ley.
+
+2° Se garantizará el acceso al Sistema de Monitoreo por Dispositivos Electrónicos de Control (SIMDEC), a todas las personas que cumplan con los requisitos previstos en esta Ley a cuyo efecto las autoridades deberán allanar los obstáculos que impidan su aplicación.
+
+> *Modificado por Ley N° 6345 (2019-07-10)*
 
 ### Artículo 8°
 
