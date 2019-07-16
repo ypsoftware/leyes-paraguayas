@@ -57,7 +57,10 @@ Recursos. Los recursos interpuestos contra las resoluciones de los Jueces de Paz
 
 ### Artículo 4°
 
-Los procesos tramitados ante la Justicia Letrada Civil y Comercial con anterioridad de la entrada en vigencia de esta Ley, deberán ser concluidos bajo las reglas establecidas para los juicios de menor cuantía regladas en el Título XIII del Libro IV del Código Procesal Civil, estableciéndose un plazo de un año para la conclusión de los mismos, una vez finalizado dicho plazo de depuración los juicios que no hubieren concluidos serán remitidos a los Juzgados de Paz respectivos.
+
+Los procesos actualmente tramitados ante los Juzgados de Justicia Letrada en lo Civil y Comercial, ingresados con anterioridad a la entrada en vigencia de esta ley, continuarán sus trámites hasta su conclusión, de conformidad con las reglas establecidas para los juicios de menor cuantía, previstas en el Título XIII, del Libro IV de la Ley N° 1.337/1988 “Código Procesal Civil”, por los mismos juzgados, independientemente de su nueva denominación de Juzgados de Primera Instancia en lo Civil y Comercial. Una vez finiquitados los expedientes, serán remitidos al Archivo General de los Tribunales a disposición de estos juzgados, los que entenderán en cualquier pretensión ulterior que sobre los mismos se llegase a promover.
+
+> *Modificado por Ley N° 6351 (2019-07-16)*
 
 ### Artículo 5°
 
@@ -67,9 +70,12 @@ DISPOSICIONES TRANSITORIAS.
 
 ### Artículo 6°
 
-Los Magistrados que a la fecha de la entrada en vigencia de la presente Ley desempeñen el cargo de Jueces de la Justicia Letrada en lo Civil y Comercial, seguirán ejerciendo las funciones en sus respectivos juzgados por el plazo de un año, cumplido el cual pasarán automáticamente a ejercer el cargo de Juez de Primera Instancia en lo Civil y Comercial, para cuyo efecto la Corte Suprema de Justicia deberá adoptar los recaudos administrativos y presupuestarios para adecuar la denominación de cargo para el ejercicio presupuestario del año siguiente.
 
-Los Magistrados que se encuentren desempeñando la función de Juez de Primera Instancia en lo Civil y Comercial en virtud al párrafo precedente permanecerán en dicha función hasta finalizar su mandato originario, pudiendo concursar para continuar en el ejercicio de dicho cargo, por los procedimientos constitucionales establecidos para el efecto, a excepción de los que hayan adquirido la inamovilidad.
+Los Magistrados que a la fecha de entrada en vigencia de la presente ley desempeñen el cargo de Jueces de la Justicia Letrada en lo Civil y Comercial, pasarán automáticamente a ejercer el cargo de juez de Primera Instancia en lo Civil y Comercial, sin perjuicio de la obligación de tramitar hasta su conclusión los juicios a los que hace referencia el artículo 4.° de la presente ley; para cuyo efecto la Corte Suprema de Justicia deberá adoptar los recaudos administrativos y presupuestarios para adecuar la denominación del cargo.
+
+Los Magistrados que se encuentren desempeñando la función de Juez de Primera Instancia en lo Civil y Comercial en virtud al párrafo precedente permanecerán en dicha función hasta finalizar su mandato originario, pudiendo concursar para continuar en el ejercicio de dicho cargo, por los procedimientos constitucionales establecidos para el efecto, a excepción de los que hayan adquirido la inamovilidad
+
+> *Modificado por Ley N° 6351 (2019-07-16)*
 
 ### Artículo 7°
 
