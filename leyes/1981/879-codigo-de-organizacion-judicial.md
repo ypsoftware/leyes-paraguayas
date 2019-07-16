@@ -70,7 +70,10 @@ los Oficiales de Justicia.
 
 ### Artículo 4°
 
-Son también Auxiliares de la Justicia las instituciones o personas a quienes la ley los atribuye tal función.
+
+Los procesos actualmente tramitados ante los Juzgados de Justicia Letrada en lo Civil y Comercial, ingresados con anterioridad a la entrada en vigencia de esta ley, continuarán sus trámites hasta su conclusión, de conformidad con las reglas establecidas para los juicios de menor cuantía, previstas en el Título XIII, del Libro IV de la Ley N° 1.337/1988 “Código Procesal Civil”, por los mismos juzgados, independientemente de su nueva denominación de Juzgados de Primera Instancia en lo Civil y Comercial. Una vez finiquitados los expedientes, serán remitidos al Archivo General de los Tribunales a disposición de estos juzgados, los que entenderán en cualquier pretensión ulterior que sobre los mismos se llegase a promover.
+
+> *Modificado por Ley N° 6351 (2019-07-16)*
 
 TITULO II
 
@@ -86,7 +89,12 @@ La jurisdicción consiste en la potestad de conocer y decidir en juicio y de hac
 
 ### Artículo 6°
 
-La jurisdicción es improrrogable, salvo la territorial, que podrá prorrogarse por conformidad de partes en los juicios civiles y comerciales, y tampoco podrá ser delegada. Los Jueces y Tribunales conocerán y decidirán por sí mismos los Juicios de su competencia, pero podrán comisionar cuando fuere necesario, a otros Jueces para diligencias determinadas.
+
+Los Magistrados que a la fecha de entrada en vigencia de la presente ley desempeñen el cargo de Jueces de la Justicia Letrada en lo Civil y Comercial, pasarán automáticamente a ejercer el cargo de juez de Primera Instancia en lo Civil y Comercial, sin perjuicio de la obligación de tramitar hasta su conclusión los juicios a los que hace referencia el artículo 4.° de la presente ley; para cuyo efecto la Corte Suprema de Justicia deberá adoptar los recaudos administrativos y presupuestarios para adecuar la denominación del cargo.
+
+Los Magistrados que se encuentren desempeñando la función de Juez de Primera Instancia en lo Civil y Comercial en virtud al párrafo precedente permanecerán en dicha función hasta finalizar su mandato originario, pudiendo concursar para continuar en el ejercicio de dicho cargo, por los procedimientos constitucionales establecidos para el efecto, a excepción de los que hayan adquirido la inamovilidad
+
+> *Modificado por Ley N° 6351 (2019-07-16)*
 
 ### Artículo 7°
 
