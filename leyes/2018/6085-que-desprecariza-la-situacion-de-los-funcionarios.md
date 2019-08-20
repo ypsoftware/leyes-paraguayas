@@ -39,7 +39,10 @@ Las solicitudes para el reconocimiento de servicios anteriores serán recepciona
 
 ### Artículo 6°
 
-La presente Ley es de carácter transitorio y su validez será automáticamente revocada al cabo de 2 (dos) años, contado a partir de la fecha de su promulgación.
+
+La presente Ley es de carácter transitorio y su validez será automáticamente revocada al cabo de 2 (dos) años, contados a partir de la fecha de su reglamentación por Decreto del Poder Ejecutivo.
+
+> *Modificado por Ley N° 6358 (2019-08-20)*
 
 ### Artículo 7°
 
