@@ -28,9 +28,10 @@ La Comisión estará compuesta por tres senadores, tres diputados, dos represent
 
 
 
-Una vez instalada la Comisión, que funcionará en la sede del Congreso Nacional, elevará sus conclusiones a consideración del Poder Legislativo, en el plazo de un año a partir de la promulgación de esta ley.
 
-> *Modificado por Ley N° 6189 (2018-10-17)*
+Una vez instalada la Comisión, elevará sus conclusiones a consideración del Poder Legislativo, en el plazo de un año. La misma funcionará en la sede del Congreso Nacional.
+
+> *Modificado por Ley N° 6361 (2019-08-27)*
 
 ### Artículo 4°
 
