@@ -25,17 +25,31 @@ A los efectos indicados en el párrafo anterior, no se requerirá de asamblea de
 
 ### Artículo 3°
 
-Canje de Acciones. Los accionistas deberán canjear sus acciones al portador por acciones nominativas ante el directorio de la sociedad, dentro de un plazo máximo de veinticuatro meses contados desde la vigencia de la presente ley. Las sociedades deberán comunicar dicho canje a la Abogacía del Tesoro, dependiente del Ministerio de Hacienda, en forma y plazo que determine la reglamentación pertinente.
 
-Fenecido dicho plazo sin realizarse el canje, quedarán suspendidos los derechos económicos que corresponden a los titulares de dichas acciones, hasta tanto se formalice la conversión y serán pasibles de las multas establecidas en el artículo 6.° de la presente ley.
+Canje de Acciones. Las sociedades tendrán tiempo hasta el 10 de diciembre de 2019 para iniciar los trámites de solicitud de dictamen de modificación de Estatutos ante el Departamento de Registros y Fiscalización de Sociedades, dependiente de la Abogacía del Tesoro. El Ministerio de Hacienda, vía Resolución, establecerá los trámites y plazos que deberán cumplir posteriormente las sociedades y accionistas para materializar efectivamente el canje del total de sus acciones, que en ningún caso podrá superar los ciento ochenta días contados desde el 10 de diciembre del presente año. Las sociedades deberán comunicar dicho canje a la Abogacía del Tesoro, dependiente del Ministerio de Hacienda, en forma y plazo que determine la reglamentación pertinente, en base a lo siguiente:
+
+a) Fenecido dicho término sin realizarse el canje de todas las acciones emitidas al portador, quedarán suspendidos los derechos económicos que corresponden a los titulares de las acciones no canjeadas, hasta tanto se formalice el canje y serán pasibles de las multas establecidas en el artículo 6.° de la presente ley.
+
+b) Si transcurridos seis meses desde el vencimiento del término para el canje de las acciones al portador por acciones nominativas, existieren aún acciones al portador sin canjear, estas perderán su validez como título accionario representativo de capital social. Quienes acrediten la legítima propiedad de dichos instrumentos, tendrán derecho a ser reembolsados por el valor nominal de las acciones, salvo que solicitaren a este efecto su reajuste conforme a valores reales, pero siempre con la reducción proporcional del pasivo asumido por la sociedad con anterioridad a la pérdida de validez del título. La acción de cobro por reembolso contra la sociedad prescribirá a los cinco años.
+
+Los certificados provisionales que representen la totalidad de una acción, serán canjeados por acciones nominativas a nombre de quien figure como en el libro de registro de acciones de la sociedad.
+
+c) Dentro de los seis meses posteriores al vencimiento del plazo para la pérdida de validez de las acciones al portador no canjeadas, señalado en el inciso b), las sociedades deberán convocar a asamblea extraordinaria para reducir del capital emitido el valor de las acciones no canjeadas.
+
+> *Modificado por Ley N° 6399 (2019-10-09)*
 
 ### Artículo 4°
 
-Impedimentos y Prohibiciones. Vencido el plazo de adecuación establecido en el artículo anterior, las sociedades constituidas por acciones que no hayan cumplido con la obligación de convertir sus acciones al portador en nominativas hasta un 90% (noventa por ciento) como mínimo, quedarán sujetas a las siguientes consecuencias:
 
-1. Las entidades que integran el Sistema Financiero considerados su­jetos obligados conforme al artículo 13 de la Ley N° 1.015/97 “QUE PREVIENE Y REPRIME LOS ACTOS ILÍCITOS DESTINADOS A LA LEGITIMACIÓN DE DINERO O BIENES”, tales como: Bancos, Financieras, Casa de Cambios, Casas de Bolsa, Cooperativas, otras, no podrán realizar operaciones activas, pasi­vas o neutras con personas jurídicas cuyo capital se encuentre re­presentado por acciones al portador.
+Impedimentos, prohibiciones y consecuencias. La sociedad que no adecue su capital accionario, de manera que esté íntegramente representado por acciones nominativas, en el plazo establecido en el artículo anterior, no podrá realizar operaciones activas, pasivas o neutras ante las entidades que integran el Sistema Financiero, considerados sujetos obligados conforme el artículo 13 de la Ley N° 1015/1997 “QUE PREVIENE Y REPRIME LOS ACTOS ILICITOS DESTINADOS A LA LEGITIMACION DE DINERO O BIENES”, tales como: Bancos, Financieras, Casas de Cambio, Cooperativas y otras. Asimismo, se procederá al bloqueo del Registro Único del Contribuyente (RUC) por parte de la Subsecretaría de Estado de Tributación (SET) dependiente del Ministerio de Hacienda.
 
-2. La Subsecretaría de Estado de Tributación (SET) dependiente del Ministerio de Hacienda, deberá proceder al bloqueo del Registro Único del Contribuyente (RUC) de aquellas sociedades por accio­nes que no hayan procedido a convertir sus acciones al portador a nominativas endosables e informado en los términos establecidos en la presente ley.
+Aquellas sociedades que, una vez transcurridos seis meses desde el vencimiento del plazo previsto, no hubieren iniciado ningún trámite de cumplimiento a lo establecido en la presente ley, deberán iniciar inmediatamente su proceso de disolución y liquidación conforme al procedimiento previsto en el Código Civil. La Abogacía del Tesoro tendrá acción para requerir judicialmente la disolución y liquidación en el caso previsto en este párrafo, así como el inicio de las acciones de extinción de la sociedad cuando sobreviniere imposibilidad física o jurídica de alcanzar a su fin, como consecuencia de la aplicación de la presente ley.
+
+Las multas que se generen como consecuencia del no canje de acciones, tendrán privilegio especial sobre todo crédito que el infractor pueda tener contra la sociedad y que deriven de las relaciones de éstos entre sí.
+
+La sociedad, antes de proceder al pago de lo que corresponda en concepto de reembolso previsto en el artículo 3.º, deberá exigir al requirente que acredite el pago de las multas por infracciones ante el incumplimiento generado por el no canje de acciones, por medio de una constancia emitida por la autoridad de aplicación.
+
+> *Modificado por Ley N° 6399 (2019-10-09)*
 
 ### Artículo 5°
 
