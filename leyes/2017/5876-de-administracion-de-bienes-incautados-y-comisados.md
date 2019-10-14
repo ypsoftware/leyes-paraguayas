@@ -431,13 +431,20 @@ Destino de bienes comisados
 
 ### Artículo 46°
 
-Destino de los bienes. Los productos financieros, el dinero en efectivo y el producto de la subasta de bienes declarados en comiso deberán ser destinados de la siguiente forma:
 
-El 25% (veinticinco por ciento), a la orden de la Secretaria Nacional de Administración de Bienes Incautados y Comisados (SENABICO), para cubrir los gastos de operación y mantenimiento y preservación de los bienes incautados y en comiso a través del Fondo Especial.
+Destino de los bienes. Los productos financieros, el dinero en efectivo y el producto de la subasta de bienes, declarados en comiso, ingresarán en su totalidad a la Tesorería General administrada por el Tesoro Público del Ministerio de Hacienda.
 
-El 25% (veinticinco por ciento), será distribuido en partes iguales entre el Poder Judicial; el Ministerio Público o la institución que haya realizado la primera intervención según se trate de: la Secretaría Nacional Antidrogas o la Policía Nacional.
+El 20% (veinte por ciento) de los recursos ingresados a la Tesorería General, serán destinados para cubrir los gastos de operación, mantenimiento y preservación de los bienes incautados y en comiso.
 
-El 50% (cincuenta por ciento) a la orden de la Secretaria Nacional de Administración de Bienes Incautados y Comisados (SENABICO), para financiar proyectos de prevención de hechos punibles, rehabilitación de adictos y reinserción social. La evaluación y la selección de los proyectos beneficiados estará a cargo de la Secretaria Nacional de Administración de Bienes Incautados y Comisados (SENABICO), a través de un Consejo que se integrará con representantes de las áreas gerenciales del Ministerio del Interior, la Secretaría Nacional Antidrogas, la Secretaria Nacional de Administración de Bienes Incautados y Comisados (SENABICO), el Poder Judicial y el Ministerio Público. Las condiciones para la presentación y selección de los proyectos, así como el funcionamiento del Consejo deberán ser reglamentadas por decreto.
+El 30% (treinta por ciento) será distribuido entre el Ministerio Público, el Centro Nacional de Control de Adicciones del Ministerio de Salud Pública y Bienestar Social, la Secretaría de Prevención de Lavado de Dinero o Bienes, la Secretaría Nacional Antidrogas, la Secretaría Nacional de Administración de Bienes Incautados y Comisados y la Policía Nacional, en un porcentaje individual del 5% (cinco por ciento) para el fortalecimiento institucional.
+
+El 50% (cincuenta por ciento) será destinado para financiar proyectos de rehabilitación de adictos y reinserción social, así como proyectos de prevención de lavado de activos, crimen organizado, el financiamiento del terrorismo, el financiamiento de la proliferación de armas de destrucción masiva y narcotráfico.
+
+La evaluación y selección de los proyectos de rehabilitación de adictos y reinserción social y de prevención de hechos punibles, serán establecidos por un consejo que se integrará con representantes del Ministerio del Interior, la Secretaría Nacional Antidrogas, la Secretaría Nacional de Administración de Bienes Incautados y Comisados, el Poder Judicial, el Ministerio Público y el Ministerio de Salud Pública y Bienestar Social.
+
+Las condiciones para la presentación y selección de los proyectos, así como el funcionamiento del consejo, deberán ser reglamentados por Decreto.
+
+> *Modificado por Ley N° 6396 (2019-10-14)*
 
 ### Artículo 47°
 
