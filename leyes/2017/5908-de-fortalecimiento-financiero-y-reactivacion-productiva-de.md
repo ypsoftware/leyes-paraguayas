@@ -43,7 +43,12 @@ A los efectos de la supervisión de los créditos, la Superintendencia de Bancos
 
 ### Artículo 5°
 
+
 Los beneficiarios sujetos de esta medida serán las personas inscriptas en el Registro Nacional de Beneficiarios (RENABE) del Ministerio de Agricultura y Ganadería (MAG), con fincas que no excedan de un máximo de 30 ha (treinta hectáreas), dando preferencia a aquellos que no puedan acceder a créditos ordinarios, sean del sector público o privado, por no reunir los estándares crediticios comúnmente aceptados, en razón de la imposibilidad momentánea de solventar sus obligaciones financieras.
+
+Además, podrán ser beneficiarios de los Servicios Financieros los sujetos mencionados en el Artículo 4° de la Ley N° 5361/14 “DE REFORMA DE LA CARTA ORGÁNICA DEL CRÉDITO AGRÍCOLA DE HABILITACIÓN”, conforme con su Manual de Crédito.
+
+> *Modificado por Ley N° 6404 (2019-10-16)*
 
 ### Artículo 6°
 
