@@ -23,7 +23,26 @@ Asociación Terrorista. 1º. - El que: 1. creara una asociación, organizada de 
 
 ### Artículo 3°
 
-Financiamiento del Terrorismo. El que proveyera, solventara o recolectara objetos, fondos u otros bienes, con la finalidad de que sean utilizados o a sabiendas que serán utilizados total o parcialmente para la realización de alguno de los hechos punibles en el sentido del Artículo 1° de la presente ley, será castigado con pena privativa de libertad de 5 (cinco) a 15 (quince) años.
+
+Financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva.
+
+1. El que, directa o indirectamente, por el medio que fuere, organizare, proveyere, facilitare o recolectare fondos, activos o cualquier tipo de bienes y valores, recursos o medios económicos o logísticos con independencia de la licitud o ilicitud de la fuente con intención de financiar, en todo o en parte:
+
+A actos de terrorismo o relacionados con la proliferación de armas de destrucción masiva.
+
+A una asociación terrorista o a un miembro de esta.
+
+A un terrorista individual o cualquier persona con fines terroristas.
+
+Actos relacionados con la propaganda, difusión o incitación a la planificación, preparación o comisión de actos de terrorismo o relacionados con la proliferación de armas de destrucción masiva.
+
+Aun cuando dichas conductas delictivas no se realizaren en el territorio nacional, será castigado con pena privativa de libertad de 5 (cinco) a 15 (quince) años.
+
+2. La pena privativa de libertad podrá ser aumentada hasta 20 (veinte) años, cuando los fondos, activos u otros bienes y valores de cualquier naturaleza, referidos en el numeral precedente, tuvieran origen en la comisión de otros hechos antijurídicos.
+
+3. Se aplicará, si resultara pertinente, las previsiones del artículo 94 de la Ley N° 1160/97 “CÓDIGO PENAL”.
+
+> *Modificado por Ley N° 6408 (2019-10-25)*
 
 ### Artículo 4°
 
