@@ -2985,37 +2985,42 @@ CONTRABANDO
 
 ### Artículo 336°
 
+
 Contrabando. Concepto. Constituye contrabando las acciones u omisiones, operaciones o manejos, que tiendan a introducir al país o extraer de él, mercaderías o efectos de cualquier clase, en violación de los requisitos esenciales exigidos por las leyes que regulan o prohíben su importación o exportación.
 
 Se entiende por requisitos esenciales, a los efectos de la presente ley, las obligaciones y formalidades aduaneras, bancarias y administrativas, en general, exigidas por las leyes, sin cuyo cumplimiento no pueden efectuarse lícitamente la importación o exportación que en cada caso se trata.
 
-El contrabando constituye, además de una infracción aduanera, un delito de acción penal pública. A los efectos penales y sin perjuicio del sumario administrativo, los antecedentes serán remitidos a la justicia penal. El delito de contrabando será sancionado con una pena privativa de libertad de hasta cinco años o con multa.
+El contrabando constituye, además de una infracción aduanera, un delito de acción penal pública. A los efectos penales y sin perjuicio del sumario administrativo, los antecedentes serán remitidos a la justicia penal. El delito de contrabando será sancionado con una pena privativa de libertad de hasta cinco años o con multa. En caso de que el contrabando se tratara de ingreso al territorio nacional de productos de origen animal o vegetal en estado natural, el hecho será considerado crimen y sancionado con una pena privativa de libertad de cinco a diez años. En los casos de contrabando de menor cuantía, si el valor FOB de las mercaderías fuese inferior a U$S 500 (quinientos dólares americanos), se aplicará el comiso de la misma quedando exonerado el infractor de la responsabilidad penal.
 
-Las siguientes acciones, omisiones, operaciones o manejos constituye contrabando:
+El que, obrando como funcionario participe por acción u omisión en cualquier tipo de contrabando, será sancionado con pena privativa de libertad de cinco a diez años.
 
-a) el ingreso o egreso de mercaderías por las fronteras nacionales, fuera de la zona primaria sin la documentación legal correspondiente.
+Las siguientes acciones, omisiones, operaciones o manejos constituyen contrabando:
 
-b) el ingreso o egreso de mercaderías sea o no por zona primaria en compartimento secreto o de doble fondo o en forma tal que escape a la revisión normal de la aduana.
+a) El ingreso o egreso de mercaderías por las fronteras nacionales, fuera de la zona primaria sin la documentación legal correspondiente.
 
-c) el ingreso o egreso de una unidad de transporte con mercaderías en horas o por lugares no habilitados.
+b) El ingreso o egreso de mercaderías sea o no por zona primaria en compartimento secreto o de doble fondo o en forma tal que escape a la revisión normal de la aduana.
 
-d) la movilización en el territorio aduanero de mercaderías, efectos, vehículos, embarcaciones o semovientes sin la documentación legal correspondiente.
+c) El ingreso o egreso de una unidad de transporte con mercaderías en horas o por lugares no habilitados.
 
-e) la tenencia de mercaderías extranjeras para su comercialización, sin la documentación que acredite su introducción legal al país.
+d) La movilización en el territorio aduanero de mercaderías, efectos, vehículos, embarcaciones o semovientes sin la documentación legal correspondiente.
 
-f) el ingreso o egreso del territorio aduanero de mercaderías cuya importación o exportación esté prohibida.
+e) La tenencia de mercaderías extranjeras para su comercialización, sin la documentación que acredite su introducción legal al país.
 
-g) el mantenimiento a bordo del medio de transporte de mercaderías que no estén registradas en el manifiesto de carga o documento equivalente o en otras declaraciones.
+f) El ingreso o egreso del territorio aduanero de mercaderías cuya importación o exportación esté prohibida.
 
-h) descarga del medio de transporte de mercaderías incluidas en el régimen de tránsito aduanero, sin autorización de la autoridad aduanera.
+g) El mantenimiento a bordo del medio de transporte de mercaderías que no estén registradas en el manifiesto de carga o documento equivalente o en otras declaraciones.
 
-i) el desvío de un medio de transporte que conduzca mercaderías sometidas al régimen de tránsito aduanero de la ruta establecida, salvo que medie caso fortuito o fuerza mayor.
+h) Descarga del medio de transporte de mercaderías incluidas en el régimen de tránsito aduanero, sin autorización de la autoridad aduanera.
 
-j) el ingreso o egreso de mercaderías de zona o área franca y área aduanera especial, sin autorización de la autoridad aduanera.
+i) El desvío de un medio de transporte que conduzca mercaderías sometidas al régimen de tránsito aduanero de la ruta establecida, salvo que medie caso fortuito o fuerza mayor.
 
-k) la transferencia directa o indirecta, gratuita u onerosa de mercaderías o efectos que se han introducido al país libre de los derechos aduaneros o adicionales, tasas consulares, tasas y gravámenes cambiarios u otros tributos fiscales en virtud de leyes o concesiones liberatorias para uso o consumo propio del beneficiario, sin el previo pago de los tributos liberados, cuando la transferencia se realice antes de los cinco años de la introducción al país, o antes del término fijado por la concesión. En el caso previsto en el presente inciso, son autores del delito de contrabando tanto el que transfirió ilícitamente los efectos o mercaderías liberados, como el que los adquirió a sabiendas.
+j) El ingreso o egreso de mercaderías de zona o área franca y área aduanera especial, sin autorización de la autoridad aduanera.
 
-l) el transporte de rollos de madera y sus derivados, sin la habilitación correspondiente y fuera de las rutas habilitadas, se presume contrabando, debiendo instruirse el correspondiente sumario, conforme a lo dispuesto en el presente capítulo, debiendo decomisarse las mercaderías, el vehículo que sirve de transporte y los conductores serán derivados a la justicia ordinaria.
+k) La transferencia directa o indirecta, gratuita u onerosa de mercaderías o efectos que se han introducido al país libre de los derechos aduaneros o adicionales, tasas consulares, tasas y gravámenes cambiarios u otros tributos fiscales en virtud de leyes o concesiones liberatorias para uso o consumo propio del beneficiario, sin el previo pago de los tributos liberados, cuando la transferencia se realice antes de los cinco años de la introducción al país, o antes del término fijado por la concesión. En el caso previsto en el presente inciso, son autores del delito de contrabando tanto el que transfirió ilícitamente los efectos o mercaderías liberados, como el que los adquirió a sabiendas.
+
+l) El transporte de rollos de madera y sus derivados, sin la habilitación correspondiente y fuera de las rutas habilitadas, se presume contrabando, debiendo instruirse el correspondiente sumario, conforme a lo dispuesto en el presente capítulo, debiendo decomisarse las mercaderías, el vehículo que sirve de transporte y los conductores serán derivados a la justicia ordinaria.
+
+> *Modificado por Ley N° 6417 (2019-11-01)*
 
 ### Artículo 337°
 
@@ -3063,7 +3068,10 @@ CONTRABANDO DE MENOR CUANTIA
 
 ### Artículo 345°
 
-Contrabando de menor cuantía. En los casos de contrabando de menor cuantía si el valor FOB de las mercaderías en infracción fuese inferior a U$S 500 (quinientos dólares americanos), se aplicará el comiso de la misma quedando exonerado el infractor de la responsabilidad penal.
+
+Contrabando de menor cuantía. En los casos de contrabando de menor cuantía si el valor FOB de las mercaderías en infracción fuese inferior a U$S 500 (quinientos dólares americanos), se aplicará el comiso de la misma quedando exonerado el infractor de la responsabilidad penal, salvo que se tratara de ingreso al territorio nacional de productos de origen animal o vegetal en estado natural, en cuyo caso se estará a lo previsto en la presente ley.
+
+> *Modificado por Ley N° 6417 (2019-11-01)*
 
 SECCION 5
 
