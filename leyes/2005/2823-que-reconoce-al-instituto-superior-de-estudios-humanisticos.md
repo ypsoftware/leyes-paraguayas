@@ -19,7 +19,10 @@ Reconócese al Instituto Superior de Estudios Humanísticos y Filosóficos “SA
 
 ### Artículo 2°
 
-Facúltase al Instituto Superior de Estudios Humanísticos y Filosóficos “SAN FRANCISCO JAVIER” a implementar planes y programas de estudios en el campo de la Filosofía – Ciencias de la Educación, y a expedir títulos de grado y maestría de acuerdo a las carreras ofrecidas.
+
+Facúltase al Instituto Superior de Estudios Humanísticos y Filosóficos “San Francisco Javier” en cumplimiento de su misión de investigación, formación profesional y servicio a la comunidad, para implementar planes y programas de estudio en el campo de la Filosofía - Ciencias de la Educación, y a expedir títulos para los cursos de pre-grado, carreras de grado y programas de postgrado conforme al campo del saber específico para el cual fue creado.
+
+> *Modificado por Ley N° 6420 (2019-11-13)*
 
 ### Artículo 3°
 
