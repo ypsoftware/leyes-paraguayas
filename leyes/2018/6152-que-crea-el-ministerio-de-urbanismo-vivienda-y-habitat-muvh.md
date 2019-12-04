@@ -93,7 +93,8 @@ c) La Política Nacional de Urbanismo Vivienda y Hábitat (PN-UVH) será aprobad
 
 ### Artículo 7°
 
-Competencias.
+
+**Competencias.**
 
 El Ministerio de Urbanismo, Vivienda y Hábitat (MUVH), tendrá las siguientes competencias:
 
@@ -105,7 +106,7 @@ c) Reglamentar, ejecutar, coordinar y evaluar la implementación de los sistemas
 
 d) Reglamentar, ejecutar, coordinar y evaluar la implementación de los sistemas de ayuda mutua desarrollados por los beneficiarios con la colaboración y asesoramiento de las cooperativas, organizaciones sociales, gremios y otros.
 
-e) Promover y coordinar la utilización de los fondos del Fondo Nacional de la Vivienda Social (FONAVIS) previstos en los Artículos 4° y 5° de la Ley N° 3637/09 “QUE CREA EL FONDO NACIONAL DE LA VIVIENDA SOCIAL – FONAVIS” y otros fondos creados para el cumplimiento de sus fines.
+e) Promover y coordinar la utilización de los fondos del Fondo Nacional de la Vivienda Social (FONAVIS) previstos en los artículos 4° y 5° de la Ley N° 3.637/2009 “QUE CREA EL FONDO NACIONAL DE LA VIVIENDA SOCIAL – FONAVIS” y otros fondos creados para el cumplimiento de sus fines.
 
 f) Promover, coordinar, fiscalizar o supervisar y evaluar la implementación de los proyectos encarados por cualquier entidad o institución pública que realice actividades relacionadas con los objetivos del Ministerio, de tal forma que se adecuen a la política del sector.
 
@@ -121,7 +122,7 @@ k) Propiciar programas que estimulen la participación de la sociedad civil.
 
 l) Incentivar la participación de las comunidades sobre la base de programas de desarrollo social sostenibles.
 
-m) Asesorar y prestar asistencia técnica a entidades estatales, privadas, organizaciones civiles, gobiernos departamentales y municipales, a solicitud de los mismos; así como también promover y coordinar con ellos las iniciativas que guarden relación con los fines de esta Ley.
+m) Asesorar y prestar asistencia técnica a entidades estatales, privadas, organizaciones civiles, gobiernos departamentales y municipales, a solicitud de los mismos; así como también promover y coordinar con ellos las iniciativas que guarden relación con los fines de la presente ley.
 
 n) Diseñar e implementar estrategias en los planes y programas, a fin de dar respuesta a las necesidades habitacionales de compatriotas con características especiales, como paraguayos residentes en el extranjero, repatriados, población indígena respetando las garantías constitucionales y legislación vigente, y otros en coordinación con las instituciones u organizaciones correspondientes.
 
@@ -131,13 +132,21 @@ o) Implementar un sistema de regularización de los inmuebles de los asentamient
 
 p) Implementar un sistema para la adquisición de inmuebles urbanizados para beneficiarios de los estratos de ingresos medios, conforme a las normas jurídicas preexistentes.
 
-q) Ejercer la Autoridad de Aplicación de la Ley N° 5638/16 “FOMENTO DE LA VIVIENDA Y DESARROLLO URBANO”.
+q) Ejercer la Autoridad de Aplicación de la Ley N° 5638/2016 “FOMENTO DE LA VIVIENDA Y DESARROLLO URBANO”.
 
-r) Ejercer la Autoridad de Administración de los fondos destinados al sector habitacional, así como los previstos en la Ley N° 2329/03 “QUE ESTABLECE EL MARCO DE ADMINISTRACIÓN DE LAS COOPERATIVAS DE VIVIENDA Y EL FONDO PARA VIVIENDAS COOPERATIVAS” y de la Ley N° 3637/09 “QUE CREA EL FONDO NACIONAL DE LA VIVIENDA SOCIAL - FONAVIS”.
+r) Ejercer la Autoridad de Administración de los fondos destinados al sector habitacional, así como los previstos en la Ley N° 2329/2003 “QUE ESTABLECE EL MARCO DE ADMINISTRACION DE LAS COOPERATIVAS DE VIVIENDA Y EL FONDO PARA VIVIENDAS COOPERATIVAS” y de la Ley N° 3.637/2009 “QUE CREA EL FONDO NACIONAL DE LA VIVIENDA SOCIAL - FONAVIS”.
 
 s) Implementar estrategias de supervisión y fiscalización en la ejecución de los proyectos ejecutados en el marco de los programas y planes del Ministerio.
 
-t) Ejercer las demás competencias que le confiere la presente Ley, las que fuesen establecidas por Leyes especiales y las establecidas en los Reglamentos del Poder Ejecutivo.
+t) Ejercer las demás competencias que le confiere la presente ley, las que fuesen establecidas por Leyes especiales y las establecidas en los Reglamentos del Poder Ejecutivo.
+
+u) El Ministerio de Urbanismo, Vivienda y Hábitat (MUHV) podrá actuar como fideicomitente y/o beneficiario en los negocios fiduciarios, con o sin transferencia de dominio de inmuebles en todos los negocios autorizados por la Ley N° 921/1996 “DE NEGOCIOS FIDUCIARIOS” y su reglamentación.
+
+Podrá en consecuencia constituir cualquier tipo de fiducia autorizada por la Ley; y en tal sentido podrá transferir al fideicomiso: inmuebles, recursos financieros del aporte estatal, así como la administración de los créditos de viviendas otorgados por la institución. Igualmente se podrá transferir el monto de los créditos complementarios y del ahorro previo, contemplados en los programas habitacionales, según el caso.
+
+Podrán ser fiduciarios: la Agencia Financiera de Desarrollo (AFD) autorizada expresamente a este efecto, el Banco Nacional de Fomento (BNF) u otras Entidades públicas o privadas autorizadas.
+
+> *Modificado por Ley N° 6451 (2019-12-04)*
 
 Capítulo II
 
