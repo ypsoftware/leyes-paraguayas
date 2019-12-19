@@ -79,9 +79,14 @@ Se entiende por trabajo, a los fines de este Código, toda actividad humana, con
 
 ### Artículo 9°
 
-El trabajo es un derecho y un deber social y goza de la protección del Estado. No debe ser considerado como una mercancía. Exige respeto para las libertades y dignidad de quien lo presta, y se efectuará en condiciones que aseguren la vida, la salud y un nivel económico compatible con las responsabilidades del trabajador padre o madre de familia.
 
-No podrán establecerse discriminaciones relativas al trabajador por motivo de raza, color, sexo, religión, opinión política o condición social.
+El trabajo es un derecho y un deber social y goza de protección del Estado. No debe ser considerado como una mercancía. Exige respeto para las libertades y dignidad de quienes lo prestan, y se efectuará en condiciones que aseguren la salud y un nivel económico compatible con las responsabilidades del trabajador padre o madre de familia.
+
+No podrán establecerse discriminaciones relativas al trabajador por motivos étnicos, de nacionalidad, sexo, edad, religión, condición social, preferencias religiosas, políticas o sindicales.
+
+El trabajo de las personas con discapacidad será especialmente amparado.
+
+> *Modificado por Ley N° 6470 (2019-12-19)*
 
 ### Artículo 10°
 
