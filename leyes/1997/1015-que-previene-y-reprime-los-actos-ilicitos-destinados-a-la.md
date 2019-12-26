@@ -28,19 +28,28 @@ La presente Ley regula las obligaciones, las actuaciones y los procedimientos pa
 
 ### Artículo 2°
 
-Definiciones.
 
-A los efectos de esta ley se entenderán como:
+**Definiciones.**
 
-a) "objeto": los bienes obtenidos o derivados directa o indirectamente de la comisión de un delito tipificado en esta ley;
+A los efectos de esta Ley se entenderán como:
 
-b) "bienes": los activos de cualquier tipo, corporales o incorporales, muebles o raíces, tangibles o intangibles y los documentos o instrumentos legales que acrediten la propiedad u otros derechos sobre dichos activos;
+a) Objeto: los bienes obtenidos o derivados directa o indirectamente de la comisión de un hecho punible;
 
-c) "crimen": todo delito cuya pena de penitenciaría media sea superior a dos años;
+b) Activo, bienes, o fondos: cualquier activo, incluyendo, aunque no exclusivamente, los activos financieros, activos virtuales, recursos económicos, bienes de todo tipo, tangibles o intangibles, muebles o inmuebles, como quiera que hayan sido adquiridos, y los documentos legales o instrumentos en cualquier forma, incluso electrónica o digital, que evidencien la titularidad de, o la participación en, tales fondos u otros activos, además de, aunque no exclusivamente, los créditos bancarios, cheques de viajero, cheques bancarios, giros postales, acciones, valores, bonos, letras de cambio o letras de crédito, y cualquier participación, dividendo u otros ingresos en, o valor acumulado a partir de, o generado por, tales fondos u otros activos;
 
-d) "banda criminal": asociación estructurada u organizada de tres o más personas con la finalidad de cometer hechos punibles o concretar sus fines por la vía armada, y los que las sostengan económicamente o les provea de apoyo logístico; y,
+c) Beneficiario Final: es la persona física que finalmente posee o controla a un cliente, así como la persona física en cuyo nombre se realiza una transacción. Incluye también a las personas que ejercen el control efectivo final sobre una persona jurídica u otra estructura jurídica;
 
-e) "grupo terrorista": asociación estructurada u organizada de tres o mas personas que emplee la violencia, incluyendo la comisión de delitos, para la consecución de sus fines políticos o ideológicos, incluyendo a sus mentores morales.
+d) Reporte: es la comunicación de hechos, transacciones u operaciones que realizan los sujetos obligados a la autoridad de aplicación de esta Ley;
+
+e) Operación sospechosa: operación realizada o tentada, con independencia de su cuantía, respecto del cual exista sospecha de que esté relacionada al hecho punible de lavado de activos, financiamiento del terrorismo u otros hechos punibles precedentes o relacionados;
+
+f) Debida Diligencia: es el conjunto de normas, medidas y procedimientos tendientes a obtener la información que permita conocer la identidad de un cliente o su beneficiario final, establecer su perfil transaccional y verificar que sus operaciones sean compatibles con dicho perfil;
+
+g) Informe de inteligencia: es el producto elaborado por la Unidad de Inteligencia Financiera en base a los reportes de operaciones y reportes de operaciones sospechosas, además de toda la información proveniente de otras fuentes a las que accede la misma, en el marco de su competencia.
+
+Asimismo, se aplicarán las definiciones que emita la Secretaría de Prevención de Lavado de Dinero o Bienes, resolución mediante, para ajustar la terminología a los estándares internacionales.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 CAPITULO II
 
@@ -124,13 +133,12 @@ DISPOSICIONES ADMINISTRATIVAS
 
 ### Artículo 12°
 
-Ambito de aplicación.
 
-Las obligaciones establecidas en este Capítulo se aplican a:
+**Alcance.**
 
-a) todas las operaciones que superen diez mil dólares americanos o su equivalente en otras monedas, salvo las excepciones contempladas en esta ley; y,
+Este Capítulo abarca los lineamientos básicos y políticas que todo sujeto obligado debe incorporar dentro de sus procesos de prevención, mitigación de riesgos y detección de operaciones, en base a un enfoque de riesgo y contexto, acorde a las pautas reglamentarias emitidas por la autoridad de aplicación.
 
-b) aquellas operaciones menores al monto señalado en el inciso anterior, de las que se pudiere inferir que fueron fraccionadas en varias con el fin de eludir las obligaciones de identificación, registro y reporte.
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 13°
 
@@ -183,54 +191,86 @@ Esta enumeración no será taxativa.
 
 ### Artículo 14°
 
-Obligación de identificación de los clientes.
 
-Los sujetos obligados deberán registrar y verificar por medios fehacientes la identidad de sus clientes, habituales o no, en el momento de entablar relaciones de negocio así como de cuantas personas pretendan efectuar operaciones.
+**Obligación de debida diligencia de los clientes.**
+
+Los sujetos obligados deberán aplicar la debida diligencia de sus clientes, sean estos personas físicas, jurídicas o estructuras jurídicas, en el momento de entablar la relación comercial o contractual, y continuamente durante la misma, así como cuando exista sospecha de la vinculación de los clientes o sus operaciones con actividades que sean conducentes, representen amenazas o exterioricen indicadores sobre la comisión de lavado de activos y financiamiento del terrorismo.
+
+Se deberán examinar las transacciones llevadas a cabo para asegurar que las mismas sean consistentes con el conocimiento que tiene el sujeto obligado del cliente, su actividad comercial y el perfil de riesgo, incluyendo, cuando corresponda, el origen de los fondos.
+
+La Secretaría de Prevención de Lavado de Dinero o Bienes, en coordinación con los organismos de supervisión y fiscalización, podrá reglamentar los parámetros de debida diligencia a ser aplicados por los sujetos obligados a sus clientes, pudiendo ser estos simplificados, generales o ampliados, los cuales serán determinados en base al riesgo, y a criterios operacionales, reputacionales, legales, de concentración y otros a ser establecidos reglamentariamente por éstas.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 15°
 
-Modo de identificación.
 
-La identificación consistirá en la acreditación de identidad propiamente dicha, la representación invocada, el domicilio, la ocupación o el objeto social de la persona jurídica, en su caso.
+**Medidas de debida diligencia de los clientes.**
+
+Las medidas de debida diligencia a adoptar, son las siguientes:
+
+a) Identificar al cliente, y verificar la identidad del mismo utilizando documentos, datos o información confiable, de fuentes independientes.
+
+b) Identificar al beneficiario final y tomar medidas razonables para verificar la identidad del mismo. Entender el propósito o carácter que los clientes pretendan dar a la relación comercial o contractual.
+
+c) Monitorear periódicamente las transacciones ejecutadas, verificando su correspondencia con el perfil del cliente.
+
+En caso de que los sujetos obligados no pudieran cumplir con las medidas de debida diligencia, esto dará lugar a no iniciar la relación comercial, no realizar la operación, terminar la relación comercial, y en su caso, emitir los reportes de operaciones sospechosas correspondientes a la autoridad de aplicación, de conformidad a las reglamentaciones emitidas.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 16°
 
-Identificación del mandante del cliente.
 
-Cuando existan indicios o certeza de que los clientes no actúan por cuenta propia, los sujetos obligados recabarán la información precisa a fin de conocer la identidad de las personas por cuenta de las cuales actúan.
+Obligación de contar con procedimientos y sistemas de identificación y administración de riesgos, y medidas de transparencia.
+
+Los sujetos obligados deberán implementar procedimientos y sistemas de identificación y administración con un enfoque basado en riesgos, destinados a conocer, prevenir e impedir la realización de los hechos punibles de Lavado de Activo y Financiamiento del Terrorismo.
+
+Al efecto, la autoridad de aplicación de la presente Ley podrá establecer los parámetros mínimos de evaluación de dichos riesgos.
+
+Los sujetos obligados deben velar por la transparencia relativa a los beneficiarios finales de las personas o estructuras jurídicas, implementando mecanismos razonables que permitan identificar y mantener actualizados sus correspondientes registros.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 17°
 
-Obligaciones de registrar las operaciones.
 
-Los sujetos obligados deberán identificar y registrar con claridad y precisión las operaciones que realicen sus clientes.
+**Obligaciones de registrar las operaciones y las medidas de debida diligencia.**
+
+Los sujetos obligados deberán identificar y registrar con claridad y precisión la totalidad de las operaciones tanto nacionales como internacionales realizadas por sus clientes, conteniendo, como mínimo, montos, tipos de moneda, y otros elementos que permitan su reconstrucción.
+
+El registro debe incluir los documentos, archivos y correspondencia que acrediten o identifiquen adecuadamente las operaciones, el cliente, así como todos los registros obtenidos a través de las medidas de debida diligencia, incluyendo los resultados de los análisis que se hayan realizado, independientemente de que los mismos hayan derivado o no en un reporte a la autoridad de aplicación.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 18°
 
-Obligación de conservar los registros.
 
-Los sujetos obligados deberán conservar durante un período mínimo de cinco años los documentos, archivos y correspondencia que acrediten o identifiquen adecuadamente las operaciones. El plazo de cinco años se computará desde que se hubiera concluido la transacción o desde que la cuenta hubiera sido cerrada.
+**Obligación de conservar los registros.**
+
+Los sujetos obligados deberán conservar durante un período de cinco años los registros de las operaciones y las medidas de debida diligencia que implementen.
+
+El plazo de conservación de los registros de las operaciones, de forma precisa y completa, se computará desde que se ha efectuado la operación o ha finalizado la relación comercial.
+
+Igualmente, los registros obtenidos a través de las medidas de debida diligencia del cliente, los archivos, correspondencia y los resultados de los análisis, se conservarán durante cinco años después de finalizada la relación comercial o desde la fecha de la transacción ocasional.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 19°
 
 
-**Obligación de informar operaciones sospechosas.**
 
-Los sujetos obligados deberán comunicar a la SEPRELAD cualquier hecho u operación con independencia de su cuantía, respecto de los cuales exista algún indicio o sospecha de que estén relacionados al ámbito de aplicación de esta Ley.
+**Obligación de reportar operaciones sospechosas.**
 
-Se considerarán operaciones sospechosas en especial, aquéllas que:
+Los sujetos obligados deberán reportar a la Secretaría de Prevención de Lavado de Dinero o Bienes, conforme a las reglamentaciones establecidas, cualquier operación realizada o tentada, con independencia de su cuantía, respecto de la cual se tengan motivos razonables o exista sospecha de la vinculación con actividades que sean conducentes, representen amenazas o exterioricen indicadores sobre la comisión de lavado de activos o financiamiento del terrorismo.
 
-1) sean complejas, insólitas, importantes o que no respondan a los patrones de transacciones habituales;
+El contenido de los reportes de operaciones sospechosas (ROS), así como los datos del oficial de cumplimiento y del sujeto obligado remitente serán confidenciales.
 
-2) aunque no sean importantes, se registren periódicamente y sin fundamento económico o legal razonable;
+La Secretaría de Prevención de Lavado de Dinero o Bienes analizará los reportes de operaciones sospechosas recibidos, u otras informaciones o datos procedentes de otras fuentes, con la finalidad de establecer la existencia de indicios de lavado de activos y financiamiento del terrorismo, dentro del marco de su competencia.
 
-3) por su naturaleza o volumen no correspondan a las operaciones activas o pasivas de los clientes según su actividad o antecedente operativo;
+Una vez obtenida de manera motivada la conclusión que correspondiera al caso, y en la medida en que los indicios hubieran sido establecidos, elaborará un informe de inteligencia, en base a un análisis financiero, operativo o estratégico, que será puesto a conocimiento del Ministerio Público y otros Organismos y Entidades del Estado competentes que formen parte del sistema Anti Lavado de Activos y contra el Financiamiento del Terrorismo, en su caso, en el marco de sus atribuciones legales, acorde a la naturaleza del informe, el cual tendrá carácter de reserva.
 
-4) sin causa que lo justifique sean abonadas mediante ingresos en efectivo, por un número elevado de personas; y,
-
-5) las señaladas en los reglamentos de la Secretaría de Prevención de Lavado de Dinero o Bienes.
-
-> *Modificado por Ley N° 3783 (2009-07-20)*
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 20°
 
@@ -246,9 +286,20 @@ Los sujetos obligados que sean entidades con o sin personería jurídica, establ
 
 ### Artículo 22°
 
-Obligación de colaborar.
 
-Los sujetos obligados deberán proveer toda la información relacionada con la materia legislada en esta ley que sea requerida por la autoridad de aplicación que la misma crea, en cuyo caso no serán aplicables las disposiciones relativas al secreto bancario. Sin embargo, el deber de secreto bancario será observado por las autoridades de aplicación, salvo que el juez del crimen solicite dicha información y sólo por un sumario o causa determinada.
+**Deber de colaboración y administración de la información.**
+
+Las personas físicas, los Organismos y Entidades del Estado, las entidades del sector privado, así como los sujetos obligados, deberán proveer toda la información relacionada con la materia legislada en esta Ley que sea requerida por la autoridad de aplicación para el cumplimiento de sus funciones. En estos casos no serán aplicables las disposiciones relativas al deber de secreto o reserva legal alguna.
+
+Además, en el marco de las políticas de cooperación y coordinación, la Secretaría de Prevención de Lavado de Dinero o Bienes podrá requerir a los Organismos y Entidades del Estado, la implementación de interconexiones para obtener accesos en línea a las bases de datos, centrales de información y otras fuentes de archivo, tanto de estas, así como sujetos obligados, que requiera para desarrollo de sus funciones.
+
+A los fines de este artículo, ninguna persona, pública o privada, podrá oponer el carácter reservado de la información solicitada por la Secretaría de Prevención de Lavado de Dinero o Bienes, ya que la misma está exceptuada del deber de secreto bancario, tributario o de otra naturaleza establecida en disposiciones legales.
+
+Los informes de inteligencia emitidos, así como la información administrada, por la Secretaría de Prevención de Lavado de Dinero o Bienes tendrán el carácter de reservado y solo podrán ser provistos con fines de inteligencia en el marco de lo establecido en la presente Ley.
+
+Los mismos no podrán ser requeridos por particulares ni terceros, resultando potestad exclusiva de la autoridad de aplicación la determinación de los sujetos que los podrán recepcionar, siempre en el carácter de reservado señalado.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 23°
 
@@ -264,17 +315,46 @@ c) se expidan certificados acreditativos de las ganancias obtenidas por el clien
 
 ### Artículo 24°
 
-Sanción administrativa a las personas jurídicas.
 
-El incumplimiento de las obligaciones establecidas en este capítulo y los reglamentos serán sancionadas con:
+**Responsabilidad administrativa de sujetos obligados.**
 
-a) nota de apercibimiento;
+Los incumplimientos a la presente Ley, las reglamentaciones y demás normas dictadas por la autoridad de aplicación darán lugar a sanciones administrativas a personas jurídicas y a personas físicas.
 
-b) amonestación pública;
+Sanciones administrativas a personas físicas infractoras. La comisión de faltas administrativas por parte de personas físicas, por los actos u omisiones previstas en la presente Ley y las reglamentaciones que se dicten en virtud a esta, dará lugar a la imposición de una de las siguientes sanciones:
 
-c) multa cuyo importe será entre el 50 (cincuenta) y 100 (cien) por ciento del monto de la operación en la cual se cometió la infracción; y,
+a) Nota de apercibimiento.
 
-d) suspensión temporal de treinta a ciento ochenta días.
+b) Amonestación pública.
+
+c) Multa de hasta 500 (quinientos) salarios mínimos mensuales.
+
+d) Multa cuyo importe será entre el 1% (uno por ciento) y el 10% (diez por ciento) del monto de la operación en la cual se cometió la infracción, para cuyo caso tomará en cuenta el valor de la operación a la fecha de su realización. En caso de no ser posible determinar el monto de la operación de infracción, se aplicará lo dispuesto en el inciso c).
+
+e) Remoción del cargo con inhabilitación, por un período de 3 (tres) a 10 (diez) años, para el ejercicio de cargos de dirección y administración.
+
+f) Fiscalización de personas jurídicas que fueren sujetos obligados de la presente Ley.
+
+g) Cancelación de su autorización o equivalente en el registro correspondiente.
+
+h) Suspensión de distribución de dividendos de hasta en 3 (tres) ejercicios a los accionistas con cargos directivos.
+
+2. Sanciones administrativas a personas jurídicas infractoras. La comisión de faltas administrativas por parte de las personas jurídicas, por los actos u omisiones previstas en la presente Ley y en las reglamentaciones que se dicten en virtud a esta, dará lugar a la imposición de una de las siguientes sanciones:
+
+a) Nota de apercibimiento.
+
+b) Amonestación pública.
+
+c) Multa de hasta 5000 (cinco mil) salarios mínimos mensuales.
+
+d) Multa de hasta el 50 % (cincuenta por ciento) del monto de la operación en la cual se cometió la infracción, para cuyo caso tomará en cuenta el valor de la operación a la fecha de su realización. En caso de no ser posible determinar el monto de la operación de infracción, se aplicará lo dispuesto en el inciso c).
+
+e) Suspensión, clausura o inhabilitación temporal de la licencia para operar hasta 1 (un) año.
+
+f) Revocación de la autorización para operar.
+
+A los funcionarios, empleados, directores y altos gerentes de las personas jurídicas infractoras se les impondrán las sanciones previstas para las personas físicas infractoras cuando se demuestre que existe causal de involucramiento en los hechos detectados.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 25°
 
@@ -308,15 +388,16 @@ Créase la Secretaría de Prevención de Lavado de Dinero o Bienes, (SEPRELAD) c
 ### Artículo 27°
 
 
-La SEPRELAD, se constituye como Unidad de Inteligencia Financiera de la República del Paraguay, la cual gozará de autonomía funcional y administrativa dentro de los límites de la ley y de los reglamentos.
 
-La Secretaría estará a cargo de un Secretario Ejecutivo, quien deberá cumplir para su nombramiento con los mismos requisitos exigidos para un Ministro del Poder Ejecutivo, y contar con la probada idoneidad en la materia. Será nombrado por el Presidente de la República. El Secretario Ejecutivo nombrará a los demás funcionarios por resolución, conforme a las disposiciones legales.
+**Administración y organización.**
 
-En caso de enfermedad o cualquier ausencia temporal, el Secretario será reemplazado interinamente por la autoridad que le siga en el orden jerárquico inmediato, de acuerdo con los reglamentos de la Institución.
+La Secretaría de Prevención de Lavado de Dinero o Bienes, se constituye como la Unidad de Inteligencia Financiera de la República del Paraguay, la cual gozará de autonomía funcional y administrativa y contará con personería jurídica propia, dentro de los límites de la Ley y de los reglamentos.
 
-La Secretaría de Prevención del Delito de Lavado de Dinero tendrá una partida específica en el Presupuesto General de la Nación, y administrará con autonomía los recursos que le sean asignados así como los ingresos provenientes del cobro de aranceles.
+La Secretaría de Prevención de Lavado de Dinero o Bienes, tendrá una partida específica en el Presupuesto General de la Nación y administrará con autonomía los recursos que le sean asignados, incluyendo los ingresos provenientes del cobro de multas, aranceles, bienes, productos financieros, dinero, producto de las subastas y otros conceptos que le fueren asignados en Leyes especiales, así como las donaciones nacionales y extranjeras destinadas a la consecución de los objetivos institucionales.
 
-> *Modificado por Ley N° 3783 (2009-07-20)*
+Estará a cargo de un Secretario Ejecutivo, quien ostenta el rango, las prerrogativas y los honores correspondientes a los Ministros del Poder Ejecutivo, y un Secretario Adjunto, quien ostenta el rango, las prerrogativas, los honores correspondientes a los Viceministros del Poder Ejecutivo y depende jerárquicamente del Secretario Ejecutivo. Ambos serán nombrados por el Poder Ejecutivo y deberán contar con probada idoneidad en la materia.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 28°
 
@@ -393,29 +474,83 @@ CAPITULO FINAL
 
 ### Artículo 35°
 
-Jurisdicción penal.
 
-Si el delito tipificado en la presente ley fuera cometido en territorio paraguayo, tendrán jurisdicción los tribunales de la República del Paraguay, sin perjuicio de las investigaciones que pudieran o debieran realizarse en jurisdicción extranjera por delitos conexos, o que los delitos que dieron origen al objeto de lavado hubiesen ocurrido en otra jurisdicción territorial.
+**Aplicación de sanciones administrativas.**
+
+Para la aplicación de las sanciones previstas en el Artículo 24 de la presente Ley, las autoridades de supervisión considerarán faltas administrativas, las siguientes:
+
+a) Carecer de políticas o procedimientos escritos adecuados para prevenir el lavado de activo y el financiamiento del terrorismo.
+
+b) El incumplimiento de la obligación de implementar sistemas de administración de riesgos establecida por la presente Ley.
+
+c) El incumplimiento de las medidas de debida diligencia al cliente, según los parámetros relativos a su perfil, así como a las reglamentaciones relacionadas al sector del cual provienen.
+
+d) No conservar los registros de las operaciones y los que acrediten la aplicación de las medidas de debida diligencia, de conformidad a lo establecido por la presente Ley.
+
+e) Carecer de un registro adecuado, claro y preciso de las operaciones realizadas.
+
+f) La falta de designación de un oficial de cumplimiento.
+
+g) Obstaculizar las actuaciones de inspección o supervisión realizadas por las autoridades de supervisión competentes.
+
+h) No realizar en tiempo y forma los reportes de operaciones sospechosas (ROS) a la autoridad de aplicación.
+
+i) Revelar a terceros las actuaciones o comunicaciones remitidas a la autoridad de aplicación.
+
+j) Incumplir con la obligación de colaborar en tiempo y forma con la autoridad de aplicación o con las instituciones encargadas de la supervisión o fiscalización de los sujetos obligados, según su naturaleza.
+
+k) Incumplir con la obligación de realizar auditoría externa, conforme con las disposiciones dictadas por la autoridad de aplicación.
+
+l) El incumplimiento de las obligaciones establecidas en esta materia por las instituciones encargadas de la supervisión y fiscalización de los sujetos obligados.
+
+m) El incumplimiento de las obligaciones establecidas en esta Ley y los reglamentos dictados por la autoridad de aplicación.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 36°
 
-Medidas cautelares.
 
-El juez podrá decretar de oficio o a pedido de p
+**Plazo de prescripción para iniciar procesos sancionatorios.**
 
-arte, al inicio o en cualquier estado del proceso, el embargo preventivo, el secuestro de bienes o cualquier otra medida cautelar encaminada a preservar los bienes, objetos o instrumentos relacionados con el delito tipificado en el artículo 3° de la presente ley.
+La acción para iniciar los procesos sumariales tendientes a imponer sanciones por faltas administrativas prescribe a los cinco años, contados a partir de que se hubiera concluido la transacción o de la cancelación de la cuenta según el caso.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 37°
 
-Destino de los bienes, objetos o instrumentos.
 
-Los bienes, objetos o instrumentos referidos en el artículo anterior, que no deban ser destruidos o resulten peligrosos para la población, una vez ejecutoriada la sentencia definitiva, serán transferidos a organismos especializados en la lucha contra el tráfico ilícito, la fiscalización, la prevención del uso indebido de estupefacientes y sustancias psicotrópicas, para el tratamiento de rehabilitación y reinserción social de los afectados por su consumo. El Juez podrá disponer que parte del producido de los bienes sea transferido a otro país que haya participado en la incautación de los mismos, siempre que medien acuerdos internacionales que regulen la materia.
+**Recursos admisibles.**
+
+Contra las resoluciones particulares dictadas por la máxima autoridad del órgano de supervisión en el marco de un sumario administrativo, podrá ser interpuesto el recurso de reconsideración, dentro del plazo perentorio de diez días hábiles contados a partir de la notificación de la resolución respectiva, quien deberá expedirse sobre el mismo dentro de los siguientes veinte días hábiles. El silencio de éste implicará la denegatoria solicitud planteada.
+
+Contra la resolución que rechaza el recurso de reconsideración podrá plantearse la acción contencioso-administrativa, dentro del plazo perentorio de dieciocho días hábiles contados, a partir de la notificación de dicha resolución. En caso de denegatoria ficta, el cómputo para plantear la acción contencioso-administrativa se iniciará a partir del día siguiente del término del plazo otorgado al órgano competente para expedirse.
+
+Asimismo, cuando las decisiones no hayan sido adoptadas por las máximas autoridades, se podrá interponer recurso jerárquico ante éstas, dentro de los siguientes diez días contados a partir de la notificación de la decisión. Para resolver dicho recurso, regirán los mismos plazos aplicables al recurso de reconsideración.
+
+La interposición de los recursos puramente administrativos y de la acción contencioso-administrativa contra las resoluciones no tendrá efecto suspensivo, salvo para la aplicación de multas.
+
+El juez o tribunal podrá decretar, como medida cautelar, la suspensión de los efectos del acto administrativo recurrido, siempre que se reúnan los presupuestos genéricos de las medidas cautelares y solo cuando pueda garantizarse debidamente que las mismas no afectarán la estabilidad o integridad del sistema financiero o económico.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 38°
 
-Cooperación judicial.
 
-El juez competente cooperará con sus similares de otros Estados para el diligenciamiento de los mandamientos de embargos y de otras medidas cautelares previstas en nuestra ley procesal a fin de identificar al delincuente y localizar bienes, objetos e instrumentos relacionados con el delito tipificado en el artículo 3° de esta ley, a cuyo efecto dará curso a todos los requerimientos formulados por exhortos recibidos del extranjero.
+**Ejecución y adjudicación.**
+
+Será título ejecutivo a los efectos del cobro compulsivo, la resolución dictada firme y ejecutoriada que impone la multa, y la gestión judicial de cobro se hará en la forma establecida en la legislación vigente, siendo competente la jurisdicción Civil y Comercial de la Capital por el procedimiento establecido para la ejecución de sentencia.
+
+El resultado de las multas que se apliquen en el caso de infracciones administrativas, se distribuirá de la siguiente manera:
+
+a) El 75% (setenta y cinco por ciento) para los órganos e instituciones encargados de supervisar y fiscalizar a los sujetos obligados cuando se detecten infracciones administrativas a la Ley o los reglamentos, propios de su competencia.
+
+b) El 25% (veinticinco por ciento) para la Secretaría de Prevención de Lavado de Dinero o Bienes.
+
+En los casos en que no exista un supervisor natural, la totalidad del monto correspondiente a las multas será adjudicado al órgano de aplicación de la presente Ley.
+
+Cuando sea requerido, la Secretaría de Prevención de Lavado de Dinero o Bienes también se constituirá en parte actora junto con los órganos de supervisión correspondientes.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 39°
 
