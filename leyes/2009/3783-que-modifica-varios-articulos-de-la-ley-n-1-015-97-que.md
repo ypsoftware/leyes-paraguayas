@@ -127,7 +127,28 @@ La Secretaría de Prevención de Lavado de Dinero o Bienes, para el cumplimiento
 
 ### Artículo 2°
 
-Deróganse los Artículos 23 y 31 de la Ley N° 1.015/97 “QUE PREVIENE Y REPRIME LOS ACTOS ILÍCITOS DESTINADOS A LA LEGITIMACIÓN DE DINERO O BIENES”.
+
+**Definiciones.**
+
+A los efectos de esta Ley se entenderán como:
+
+a) Objeto: los bienes obtenidos o derivados directa o indirectamente de la comisión de un hecho punible;
+
+b) Activo, bienes, o fondos: cualquier activo, incluyendo, aunque no exclusivamente, los activos financieros, activos virtuales, recursos económicos, bienes de todo tipo, tangibles o intangibles, muebles o inmuebles, como quiera que hayan sido adquiridos, y los documentos legales o instrumentos en cualquier forma, incluso electrónica o digital, que evidencien la titularidad de, o la participación en, tales fondos u otros activos, además de, aunque no exclusivamente, los créditos bancarios, cheques de viajero, cheques bancarios, giros postales, acciones, valores, bonos, letras de cambio o letras de crédito, y cualquier participación, dividendo u otros ingresos en, o valor acumulado a partir de, o generado por, tales fondos u otros activos;
+
+c) Beneficiario Final: es la persona física que finalmente posee o controla a un cliente, así como la persona física en cuyo nombre se realiza una transacción. Incluye también a las personas que ejercen el control efectivo final sobre una persona jurídica u otra estructura jurídica;
+
+d) Reporte: es la comunicación de hechos, transacciones u operaciones que realizan los sujetos obligados a la autoridad de aplicación de esta Ley;
+
+e) Operación sospechosa: operación realizada o tentada, con independencia de su cuantía, respecto del cual exista sospecha de que esté relacionada al hecho punible de lavado de activos, financiamiento del terrorismo u otros hechos punibles precedentes o relacionados;
+
+f) Debida Diligencia: es el conjunto de normas, medidas y procedimientos tendientes a obtener la información que permita conocer la identidad de un cliente o su beneficiario final, establecer su perfil transaccional y verificar que sus operaciones sean compatibles con dicho perfil;
+
+g) Informe de inteligencia: es el producto elaborado por la Unidad de Inteligencia Financiera en base a los reportes de operaciones y reportes de operaciones sospechosas, además de toda la información proveniente de otras fuentes a las que accede la misma, en el marco de su competencia.
+
+Asimismo, se aplicarán las definiciones que emita la Secretaría de Prevención de Lavado de Dinero o Bienes, resolución mediante, para ajustar la terminología a los estándares internacionales.
+
+> *Modificado por Ley N° 6497 (2019-12-26)*
 
 ### Artículo 3°
 
