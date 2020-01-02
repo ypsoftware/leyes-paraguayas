@@ -49,17 +49,18 @@ De la Financiación.
 
 ### Artículo 7°
 
+
 Los recursos del Fondo serán los siguientes:
 
-a) El aporte mensual obligatorio del Afiliado parlamentario del 20% (veinte por ciento), sobre el monto de la Dieta mensual y los Gastos de Representación.
+a) El aporte mensual obligatorio del Afiliado parlamentario del 22% (veintidós por ciento), sobre el monto de la dieta mensual y los gastos de representación.
 
-b) El aporte mensual del Estado del 7% (siete por ciento), calculado sobre el monto total de las Dietas Parlamentarias y los Gastos de Representación.
+b) El aporte mensual obligatorio del Jubilado parlamentario y Pensionado del 11% (once por ciento), sobre el monto de sus haberes jubilatorios.
 
-c) El importe del aumento de la Dieta y los Gastos de Representación establecidos en el Presupuesto General de la Nación correspondientes al primer mes.
+c) El importe del aumento de la dieta y los gastos de representación establecidos en el Presupuesto General de la Nación correspondiente al primer mes.
 
 d) El importe del aumento en concepto de actualización de las jubilaciones y pensiones correspondientes al primer mes.
 
-e) El aporte del Afiliado Voluntario, realizado sobre la base de la aplicación del 27% (veintisiete por ciento) sobre el monto de la Dieta mensual y los Gastos de Representación al momento del efectivo aporte, por el plazo necesario para acceder a la jubilación que le corresponda.
+e) El aporte del Afiliado Voluntario y los aportes atrasados reconocidos conforme al artículo 15, realizado sobre la base de la aplicación del 27% (veintisiete por ciento) sobre el monto de la dieta mensual y los gastos de representación al momento del efectivo aporte, por el plazo necesario para acceder a la jubilación que le corresponda. El incumplimiento de la obligación señalada traerá aparejado un recargo del 1% (uno por ciento) mensual sobre la suma a ingresar.
 
 f) Las rentas de las inversiones del Capital disponible del Fondo.
 
@@ -68,6 +69,8 @@ g) El monto de las multas que se perciben.
 h) Los legados, donaciones y otros aportes previstos en el Presupuesto General de la Nación.
 
 i) Otros ingresos de cualquier naturaleza no contemplados expresamente en los incisos anteriores.
+
+> *Modificado por Ley N° 6496 (2020-01-02)*
 
 ### Artículo 8°
 
@@ -125,11 +128,14 @@ A los efectos del cómputo de los plazos previstos en los incisos anteriores, se
 
 ### Artículo 15°
 
-Cuando el Afiliado deje de ser miembro del Poder Legislativo de la Nación o del Parlamento del Mercosur, y no cumpla con los meses de aporte requeridos para obtener la Jubilación, tendrá el derecho de solicitar a la Comisión su continuidad en el Fondo como Afiliado Voluntario, dentro del plazo de 6 (seis) meses de que haya dejado de ser miembro, debiendo realizar los aportes de conformidad al Artículo 7° inciso e) conforme lo establezca la Comisión, y por el plazo necesario para completar los meses de aportes exigidos por esta Ley para acceder a la Jubilación.
 
-El afiliado podrá aportar los montos pendientes en un solo pago, siempre y cuando sea hasta completar el período legislativo para el cual fue electo.
+Cuando el afiliado con 10 (diez) años de antigüedad deje de ser miembro del Poder Legislativo de la Nación o del Parlamento del Mercosur sin tener cumplidos los requisitos legales para obtener la Jubilación Ordinaria, tendrá el derecho de solicitar a la Comisión su continuidad en el Fondo, dentro del plazo de 6 (seis) meses de su retiro, como Afiliado Voluntario por el tiempo de aportes necesarios y la edad requerida para su jubilación ordinaria.
 
-La calidad de Afiliado Voluntario será concedida a los miembros titulares de las Bancas con permiso especial y/o renuncia.
+El afiliado que haya completado 10 (diez) años de antigüedad en el Fondo, podrá optar por el pago de los aportes atrasados, si los tuviere.
+
+La calidad del Afiliado Voluntario será concedida a los miembros titulares de las bancas con permiso especial y/o renuncia; así como también a aquellos que hayan dejado de ser miembros del Poder Legislativo de la Nación o del Parlamento del Mercosur con 10 (diez) años de antigüedad en el Fondo sin tener cumplidos los requisitos legales para obtener su jubilación.
+
+> *Modificado por Ley N° 6496 (2020-01-02)*
 
 ### Artículo 16°
 
@@ -163,25 +169,34 @@ De las Pensiones.
 
 ### Artículo 18°
 
-Al fallecimiento de un Afiliado que estaba en goce de una jubilación o reúna los requisitos para obtenerla, las personas que se mencionan más abajo, por orden excluyente, tendrán derecho a percibir una pensión desde la fecha de la aceptación de su solicitud debidamente acreditada, en las proporciones establecidas a continuación.
 
-Esta pensión será del 70% (setenta por ciento) de la jubilación que el causante percibía o tenía derecho a percibir para:
+Al fallecimiento de un Afiliado que estaba en goce de una jubilación o reúna los requisitos para obtenerla, las personas que se mencionan más abajo, por orden excluyente, tendrán derecho a percibir una pensión desde la fecha del mencionado fallecimiento en las proporciones establecidas a continuación.
 
-a) El cónyuge supérstite o concubino o concubina en concurrencia con los hijos menores de dieciocho años y los hijos discapacitados; la mitad de la pensión al cónyuge supérstite y la otra mitad a los hijos por partes iguales.
+Esta pensión será del 40% (cuarenta por ciento) de la jubilación que el causante percibía o tenía derecho a percibir para:
 
-b) Los hijos menores de dieciocho años, la totalidad de la pensión por partes iguales.
+a) El cónyuge supérstite o concubino o concubina en concurrencia con los hijos menores de 18 (dieciocho) años y los hijos discapacitados; la mitad de la pensión al cónyuge supérstite y la otra mitad a los hijos por partes iguales.
+
+b) Los hijos menores de 18 (dieciocho) años, la totalidad de la pensión por partes iguales.
 
 c) El cónyuge supérstite o concubino o concubina en concurrencia con los padres del causante; la mitad de la pensión al cónyuge supérstite o concubino o concubina, y la otra mitad a los padres, por partes iguales.
 
 d) El cónyuge supérstite o concubino o concubina, la totalidad de la pensión.
 
-e) Los padres del causante: la totalidad en parte iguales.
+e) Los padres del causante: la totalidad en partes iguales.
 
-El derecho a solicitar la pensión prescribirá en el plazo de 1 (un) año, contado a partir del fallecimiento del jubilado. Dicho plazo quedará suspendido desde la fecha de presentación de la solicitud de Pensión acompañada de la copia de las acciones judiciales que correspondieren para acreditar sus derechos. No se acordará beneficio alguno a las solicitudes que no se funden en una sentencia judicial firme y ejecutoriada que declare al solicitante heredero del jubilado. La obligación del Fondo para con los beneficiarios de este derecho será exigible desde la presentación de la sentencia al Fondo, pero serán otorgados en forma retroactiva al momento del fallecimiento de Afiliado. La modificación del beneficiario por disposición judicial, sólo será aplicable a las obligaciones futuras.
+El derecho a solicitar la pensión prescribirá en el plazo de 1 (un) año, contado a partir del fallecimiento del jubilado. Dicho plazo quedará suspendido desde la fecha de presentación de las acciones judiciales que correspondieren. No se acordará beneficio alguno a las solicitudes que no se funden en una sentencia judicial firme y ejecutoriada que declare al solicitante heredero del jubilado. La obligación del Fondo para con los beneficiarios de este derecho será exigible desde la presentación de la sentencia al Fondo; y la modificación del beneficiario por disposición judicial, sólo será aplicable a las obligaciones futuras.
 
 Los hijos discapacitados para el trabajo y mientras la discapacidad subsista, seguirán gozando de la pensión aún después de haber cumplido la mayoría de edad.
 
-Para el otorgamiento de la pensión, se deberá solicitar por escrito la misma, debiendo acreditarse suficientemente la condición invocada, de acuerdo a los términos y condiciones establecidos en este Capítulo.
+Para el otorgamiento de la pensión, se deberá solicitar por escrito, y será reconocido a partir de la fecha de presentación de la solicitud en el Fondo; de acuerdo a los términos y condiciones establecidos en este Capítulo.
+
+No se pagará pensión con efecto retroactivo. La pensión se interrumpe en el caso de que el pensionado acceda a un cargo electivo en el Congreso Nacional o en el Parlamento del Mercosur, mientras subsista el mandato.
+
+No serán compatibles la Pensión y la Jubilación en la presente ley. No se pagará Pensión al afiliado que alcance el beneficio de la Jubilación.
+
+El Afiliado del Fondo de Jubilaciones y Pensiones del Poder Legislativo y del Parlamento del Mercosur, tendrá derecho a optar por la restitución del 95% (noventa y cinco por ciento) de sus aportes. El pago se efectuará de una sola vez, toda vez que las condiciones financieras así lo permitan. En estos casos, el Afiliado perderá su antigüedad en el Fondo de forma irrevocable.
+
+> *Modificado por Ley N° 6496 (2020-01-02)*
 
 ### Artículo 19°
 
@@ -349,7 +364,10 @@ b) Las jubilaciones y pensiones recibidas a la fecha por los beneficiarios del F
 
 ### Artículo 40°
 
-Quedan derogadas la Ley Nº 2857/06 a excepción de los Artículos 18, inciso d) numeral 3), 21 y 22, la Ley Nº 3196/07, a excepción del Artículo 1º que se refiere a la modificación del Artículo 22 de la Ley Nº 2857/06, y las leyes Nºs 4142/10, 4214/10 y 5037/13, que constituían el régimen jurídico del Fondo.
+
+Derógase el Artículo 22 de la Ley N° 2857/2006, QUE UNIFICA, MODIFICA Y AMPLÍA LAS LEYES QUE RIGEN EL FONDO DE JUBILACIONES Y PENSIONES PARA MIEMBROS DEL PODER LEGISLATIVO DE LA NACIÓN, CREADO POR LA LEY N° 842 DEL 19 DE DICIEMBRE DE 1980.
+
+> *Modificado por Ley N° 6496 (2020-01-02)*
 
 ### Artículo 41°
 
