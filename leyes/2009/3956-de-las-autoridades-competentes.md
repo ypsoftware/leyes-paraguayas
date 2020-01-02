@@ -243,7 +243,18 @@ DE LA IMPORTACION Y EXPORTACION DE RESIDUOS SOLIDOS
 
 ### Artículo 27°
 
-Importación. Queda terminantemente prohibida la importación de residuos sólidos, salvo cuando mediante una ley sea autorizada de manera excepcional.
+
+Importación. Queda prohibida la importación de residuos sólidos, salvo la importación de materiales segregados no categorizados como residuos peligrosos para la salud y el ambiente, conforme al Convenio de Basilea, con fines de valorización como materia prima para los sistemas productivos de las industrias nacionales.
+
+A este efecto, la Autoridad de Aplicación establecerá la cantidad, las características, el tipo de residuo autorizado y el destino de los materiales segregados, estableciendo además la obligatoriedad de registro de industrias autorizadas a la importación.
+
+Para cada importación se requerirá de un Certificado de no Peligrosidad emitido por el Ministerio del Ambiente y Desarrollo Sostenible para el cual se establece la obligatoriedad de la presentación de Declaración Jurada, que deberá contener el origen, tipo material y uso que se dará al material a ser importado, como condicionante para la obtención del mencionado Certificado.
+
+La autoridad de aplicación reglamentará el presente artículo, estableciendo los mecanismos de verificación, control y sanción de la presente Ley.
+
+No está permitida la importación de residuos para la disposición final.
+
+> *Modificado por Ley N° 6488 (2020-01-02)*
 
 ### Artículo 28°
 
