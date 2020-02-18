@@ -15,99 +15,32 @@ short_title: "QUE MODIFICA VARIOS ARTÍCULOS DE LA LEY N° 834/1996 \"QUE…"
 
 ### Artículo 1°
 
-Modifícanse los artículos 64, 66, 68, 157, 278, 280, 281 y 282 de la Ley N° 834/1996 "QUE ESTABLECE EL CÓDIGO ELECTORAL PARAGUAYO", modificado por la Ley N° 4.743/2012 "QUE REGULA EL FINANCIAMIENTO POLÍTICO", que quedan redactados de la siguiente forma:
 
-“Art. 64.
+La presente Ley tiene por objeto regular la actividad financiera de los partidos, movimientos políticos, alianzas y concertaciones electorales.
 
-a) En las elecciones internas:
+A los efectos de esta Ley, se entenderá por:
 
-Los movimientos internos partidarios deberán llevar un registro de los ingresos que percibieron y los gastos en que incurrieron durante todas las campañas electorales internas, incluyendo las elecciones de autoridades partidarias.
+Actividad Financiera a toda acción que implique la recepción de fondos o activos de cualquier naturaleza, así como la disposición que se haga de los mismos.
 
-Cada movimiento interno partidario deberá realizar una declaración jurada, dentro de los cinco días siguientes a la oficialización de las candidaturas propuestas, en la que consignen todos los activos y recursos al inicio de la campaña, para presentarla ante la Subsecretaría de Estado de Tributación, a fin de obtener un identificador tributario que los individualice, a los efectos del control del financiamiento de la campaña política.
+Declaración de Ingresos y Gastos de Campaña (DIGC) a la descripción detallada de recursos disponibles realizado por el candidato en forma particular, destinados a solventar los gastos de campaña, incluyendo los ingresos en bienes o efectivo y su origen de fondo (identificador del aportante), así como los gastos en que incurrieron y montos específicos.
 
-La documentación comprobatoria de los ingresos provenientes de las donaciones recibidas ya sean de personas físicas o jurídicas, será respaldada por recibos con membretes y el identificador tributario del movimiento respectivo, detallando los datos completos del aportante.
+Declaración de Interés Económico vinculado a la declaración donde se informa la participación o vinculación que se tiene con alguna empresa, sociedad o asociación, especificando la vinculación o representación poseída, sin necesidad de establecer cantidad de acciones, bienes o montos.
 
-Los movimientos internos partidarios presentarán ante los Tribunales Electorales Partidarios un informe detallado de las contribuciones o donaciones recibidas para el financiamiento de las campañas, con indicación de su origen y monto, en formato a ser reglamentado por el Tribunal Superior de Justicia Electoral. Los movimientos internos que no dieren cumplimiento a esta obligación serán pasibles de una multa equivalente a trescientos jornales mínimos legales para actividades diversas no especificadas a ser aplicada por el órgano partidario disciplinario con observancia de las garantías del debido proceso. Las multas cobradas integraran los recursos del partido político.
+Movimiento interno partidario a todo movimiento o agrupación política que participará de elecciones internas dentro de su partido, movimiento, alianza o concertación, políticas.
 
-Los Tribunales Electorales Partidarios remitirán al Tribunal Superior de Justicia Electoral, dentro de los cuarenta días posteriores a los comicios respectivos, un Balance, Cuadro Demostrativo de Ingresos y Egresos de la campaña interna, en texto impreso y en archivo informático digitalizado no modificable, a los fines de su publicación en el portal web del Tribunal Superior de Justicia Electoral.
+Tribunal Electoral Partidario al Tribunal que reconoce y acepta la inscripción de los movimientos internos de los partidos, movimientos, alianzas o concertaciones políticas, que se encarga de llevar adelante el proceso electoral para la elección de autoridades internas o de los candidatos que representaran a la organización política en las elecciones nacionales o municipales.
 
-Está prohibido apoyar con recursos y bienes del partido político a cualquier movimiento en elecciones internas.
+Origen: la información detallada de donde proviene los recursos destinados a financiar las campañas electorales internas o generales.
 
-b) En las elecciones generales y municipales:
+Unidad Especializada de Fiscalización a la dependencia del Tribunal Superior de Justicia Electoral encargada de realizar los controles de autenticidad, completitud y correspondencia de los ingresos y gastos de campaña.
 
-Cada partido; movimiento político; alianza o concertación que propicie candidatos a elecciones generales y municipales deberá realizar una declaración jurada, dentro de los cinco días posteriores a la oficialización de las candidaturas presentadas, en la que se deberán consignar todos los activos y recursos al inicio de la campaña, para presentarla ante la Subsecretaría de Estado de Tributación, a fin de obtener un identificador tributario que los individualice para el control del financiamiento de la campaña política.
+Queda expresamente determinado que los partidos, movimientos políticos, alianzas y concertaciones electorales se constituyen en sujetos obligados conforme a la Ley N° 1015/1997 “QUE PREVIENE Y REPRIME LOS ACTOS ILÍCITOS DESTINADOS A LA LEGITIMACION DE DINERO O BIENES”, y sus modificaciones.
 
-Este identificador deberá ser utilizado para el registro y la documentación de todos los ingresos y los gastos que cada partido; movimiento político; alianza o concertación efectúe con relación a la campaña, debiendo llevar al efecto registros contables simplificados sobre los cuales se efectuará la rendición mencionada en el párrafo anterior, conforme a la reglamentación que al efecto dictará el Tribunal Superior de Justicia Electoral.
+El Tribunal Superior de Justicia Electoral deberá incluir dentro de su organigrama institucional una dependencia con jerarquía suficiente, encargada de disponer, coordinar y supervisar las políticas y procedimientos para la prevención de Riesgos de Lavado de Activos y Financiamiento del Terrorismo en el financiamiento de campañas electorales, conforme a la reglamentación emitida por la Secretaría de Prevención de Lavado de Dinero o Bienes, respecto de los sujetos obligados.
 
-Los comprobantes y toda otra documentación relativa a los registros contables, deberán ser conservados por la autoridad partidaria competente durante cinco años.
+Las agrupaciones políticas con o sin personería jurídica, deberán adoptar mecanismos de control y registro de las operaciones financieras realizadas a favor de sus estructuras, en base a un Sistema de Administración con enfoque basado en Riesgos, para la prevención de Lavado de Activos y Financiamiento del Terrorismo. El cumplimiento de las políticas mencionadas estará sujetas a supervisión del Tribunal Superior de Justicia Electoral, con la asistencia de la SEPRELAD, en cuanto al ámbito de su competencia.
 
-c) Disposiciones comunes:
-
-Los gastos electorales propios del día de la elección que, en cada caso, no superen el monto equivalente a un salario mínimo legal para actividades diversas no especificadas, podrán ser justificados con auto facturas, de conformidad a la reglamentación especial que para el efecto será establecido por la Subsecretaría de Estado de Tributación, dependiente del Ministerio de Hacienda."
-
-"Art. 66. Cada partido, alianza o concertación deberá remitir al Tribunal Superior de Justicia Electoral, el balance, cuadro demostrativo de ingresos y egresos, así como un registro contable detallado de las contribuciones o donaciones recibidas para el financiamiento de estos con indicación de su origen, conforme a los formatos que serán reglamentados por el Tribunal Superior de Justicia Electoral.
-
-En el caso de los partidos políticos, alianzas o concertaciones, además de lo señalado en el párrafo anterior, deberán presentar al Tribunal Superior de Justicia Electoral el informe pormenorizado con la correspondiente documentación respaldatoria acerca del cumplimiento que ha dado a lo dispuesto por el artículo 70 de este Código, dentro de los noventa días de finalizado el ejercicio anual.
-
-La Subsecretaría de Estado de Tributación y la Secretaría de Prevención de Lavado de Dinero o Bienes coadyuvarán las actividades de fiscalización realizadas por el Tribunal Superior de Justicia Electoral en el ámbito de aplicación de la presente ley, sin perjuicio de las facultades propias del Ministerio Público."
-
-"Art. 68. Los partidos, movimientos políticos, alianzas o concertaciones no podrán aceptar o recibir directa o indirectamente:
-
-a) Contribuciones o donaciones de entidades extranjeras como gobiernos, fundaciones, partidos, movimientos políticos, instituciones y personas físicas o jurídicas, salvo que tratándose de personas físicas o jurídicas las mismas fijen residencia o domicilio en el país y el destino de su contribución o donación sea cubrir los costos de actividades de formación, capacitación e investigación del partido o movimiento político.
-
-b) Contribuciones o donaciones de personas condenadas por la comisión de hechos punibles calificados como crímenes por la legislación penal vigente, especialmente los relacionados al tráfico ilícito de estupefacientes y drogas peligrosas establecidos en la Ley N° 1.340/1988 "QUE MODIFICA Y ACTUALIZA LA LEY N° 357/72 'QUE REPRIME EL TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y DROGAS PELIGROSAS Y OTROS DELITOS AFINES Y ESTABLECE MEDIDAS DE PREVENCIÓN Y RECUPERACIÓN DE FÁRMACO DEPENDIENTES" y sus leyes modificatorias al lavado de dinero establecido en la Ley N° 1.015/1997; a la trata de personas establecida en la Ley N° 4.788/2012; al terrorismo establecido en la Ley N° 4.024/2010; al tráfico de armas establecido en la Ley N° 4.036/2010 y al contrabando establecido en la Ley N° 2.422/2004 “CODIGO ADUANERO”.
-
-c) Contribuciones o donaciones individuales superiores al equivalente a diez mil jornales mínimos para actividades diversas no especificadas por cada ejercicio anual, ya sea de personas físicas o jurídicas.
-
-d) Contribuciones o donaciones anónimas.
-
-e) Contribuciones o donaciones de asociaciones o gremiales.
-
-f) Contribuciones o donaciones de personas que se encuentran en condición de subordinación administrativa o relación de dependencia, cuando aquellas se realicen a través de organismos oficiales o por deducciones del salario en las planillas de sueldos.
-
-g) Contribuciones o donaciones de entidades autárquicas o descentralizadas nacionales, departamentales, municipales, de empresas del Estado, empresas concesionarias del Estado o de las que explotan juegos de azar.
-
-Los aportes de dinero en efectivo que fueran superiores a diez salarios mínimos, deberán materializarse exclusivamente con cheques nominativos o transferencias formales.”
-
-“Art. 157. La presentación de candidatos o listas de candidatos contendrá:
-
-a) Comunicación del partido, movimiento político, alianza o concertación, en su caso.
-
-b) Nominación y constitución de domicilio de los apoderados del partido, movimiento político, alianza o concertación. A tal domicilio se remitirán todas las notificaciones, citaciones y emplazamientos, entendiéndose que el mandato faculta al o a los apoderados a actuar en los procedimientos judiciales a que pudiera dar lugar la candidatura.
-
-c) Aceptación de la candidatura suscrita por el o los postulados.”
-
-"Art. 278. A los efectos de establecer los debidos controles por parte del Tribunal Superior de Justicia Electoral, cada partido, movimiento político, alianza o concertación que propicie candidatos a elecciones internas o generales, está obligado a:
-
-a) Designar un administrador de la campaña electoral, con quien el Tribunal Superior de Justicia Electoral entenderá todas las cuestiones atinentes al flujo y control de los cómputos. Los candidatos no pueden ser administradores electorales.
-
-b) El administrador podrá designar subadministradores departamentales y locales de las respectivas campañas.
-
-c) Abrir una cuenta única en una institución financiera de plaza con el identificador tributario en la que se depositarán todos los fondos recaudados para financiar la campaña electoral, sea de origen público o privado, con indicación de las personas autorizadas a girar contra los mismos, disponiendo su cierre a los treinta días de finalizada la elección."
-
-“Art. 280. De la apertura y el cierre de la cuenta única deberá informarse al Tribunal Superior de Justicia Electoral, que podrá en cualquier momento exigir la presentación de todas las informaciones referidas al manejo de fondos electorales a los respectivos administradores. Los ciudadanos electores podrán solicitar en cualquier momento información referida al cumplimiento de las disposiciones que regulan el financiamiento de las campañas generales y municipales en los términos de la Ley N° 5.282/2014 DE LIBRE ACCESO CIUDADANO A LA INFORMACIÓN PÚBLICA Y TRANSPARENCIA GUBERNAMENTAL.”
-
-“Art. 281. Los administradores deberán llevar una ordenada contabilidad de los fondos recibidos, el origen claro y preciso de los mismos, así como el destino de los egresos que realicen, debiendo en todos los casos compilar y conservar la documentación que acredite tal movimiento de fondos.
-
-Dentro de los sesenta días de haber finalizado las elecciones, los administradores deberán dar cumplimiento a lo establecido en los artículos 64 b) y 66 de la presente ley.
-
-Deberán elevar al Tribunal Superior de Justicia Electoral cuenta documentada de todos los gastos e ingresos irrogados por la campaña, y un informe anexo acerca de las contribuciones o donaciones recibidas para su financiamiento con indicación de su origen y monto debiendo el tribunal Superior de Justicia Electoral ordenar su inmediata publicación en el sitio web de la Justicia Electoral a libre y gratuita disposición para consulta en el perentorio plazo de diez días de haberlo recibido. La falta de remisión de tales resultados al Tribunal de Justicia Electoral, determinará la suspensión de todo aporte, subsidio o subvención de parte del estado por hasta tres años y dos elecciones, según el caso."
-
-“Art. 282. En la recaudación de fondos destinados a la campaña electoral le está absolutamente prohibido a los partidos, movimientos políticos, alianzas y concertaciones:
-
-a) recibir contribuciones o donaciones de cualquier oficina de la administración pública, de entes descentralizados autónomos o autárquicos, de empresas de economía mixta, entidades binacionales, así como de empresas que sean concesionarias de obras o servicios públicos, o exploten juegos de azar;
-
-b) recibir aporte de gobiernos, entidades públicas o personas físicas o jurídicas extranjeras, salvo que tratándose de personas físicas o jurídicas las mismas fijen residencia o domicilio en el país;
-
-c) recibir aporte de sindicatos, asociaciones empresariales o entidades representativas de cualquier otro sector económico;
-
-d) recibir contribuciones o donaciones anónimas, salvo aquellas que surjan de actividades proselitistas lícitas de carácter masivo y naturaleza eventual que desarrolle el partido político, con el fin de obtener ingresos para el financiamiento de campañas electorales, siempre que los montos obtenidos no superen en una misma campaña electoral al equivalente a diez mil jornales mínimos para actividades diversas no especificadas;
-
-e) recibir contribuciones o donaciones individuales superiores al equivalente a diez mil jornales mínimos para actividades diversas no especificadas, ya sea de personas físicas o jurídicas; y,
-
-f) recibir contribuciones o donaciones de personas comprendidas en las disposiciones contenidas en el artículo 68, inciso g) de la presente ley. En este caso, los funcionarios o electores, que tengan conocimiento del hecho deberán comunicar inmediatamente el mismo al Ministerio Público para su investigación.
-
-Estas mismas prohibiciones regirán para los candidatos y movimientos internos de las organizaciones políticas."
+> *Modificado por Ley N° 6501 (2020-02-18)*
 
 ### Artículo 2°
 
