@@ -15,9 +15,32 @@ short_title: "QUE REGULA EL FINANCIAMIENTO POLÍTICO."
 
 ### Artículo 1°
 
-La presente ley tiene por objeto regular la actividad financiera de los partidos, movimientos políticos y alianzas electorales.
 
-Por “actividad financiera” se entiende toda acción que implique la recepción de fondos o activos de cualquier naturaleza, así como la disposición que se haga de los mismos.
+La presente Ley tiene por objeto regular la actividad financiera de los partidos, movimientos políticos, alianzas y concertaciones electorales.
+
+A los efectos de esta Ley, se entenderá por:
+
+Actividad Financiera a toda acción que implique la recepción de fondos o activos de cualquier naturaleza, así como la disposición que se haga de los mismos.
+
+Declaración de Ingresos y Gastos de Campaña (DIGC) a la descripción detallada de recursos disponibles realizado por el candidato en forma particular, destinados a solventar los gastos de campaña, incluyendo los ingresos en bienes o efectivo y su origen de fondo (identificador del aportante), así como los gastos en que incurrieron y montos específicos.
+
+Declaración de Interés Económico vinculado a la declaración donde se informa la participación o vinculación que se tiene con alguna empresa, sociedad o asociación, especificando la vinculación o representación poseída, sin necesidad de establecer cantidad de acciones, bienes o montos.
+
+Movimiento interno partidario a todo movimiento o agrupación política que participará de elecciones internas dentro de su partido, movimiento, alianza o concertación, políticas.
+
+Tribunal Electoral Partidario al Tribunal que reconoce y acepta la inscripción de los movimientos internos de los partidos, movimientos, alianzas o concertaciones políticas, que se encarga de llevar adelante el proceso electoral para la elección de autoridades internas o de los candidatos que representaran a la organización política en las elecciones nacionales o municipales.
+
+Origen: la información detallada de donde proviene los recursos destinados a financiar las campañas electorales internas o generales.
+
+Unidad Especializada de Fiscalización a la dependencia del Tribunal Superior de Justicia Electoral encargada de realizar los controles de autenticidad, completitud y correspondencia de los ingresos y gastos de campaña.
+
+Queda expresamente determinado que los partidos, movimientos políticos, alianzas y concertaciones electorales se constituyen en sujetos obligados conforme a la Ley N° 1015/1997 “QUE PREVIENE Y REPRIME LOS ACTOS ILÍCITOS DESTINADOS A LA LEGITIMACION DE DINERO O BIENES”, y sus modificaciones.
+
+El Tribunal Superior de Justicia Electoral deberá incluir dentro de su organigrama institucional una dependencia con jerarquía suficiente, encargada de disponer, coordinar y supervisar las políticas y procedimientos para la prevención de Riesgos de Lavado de Activos y Financiamiento del Terrorismo en el financiamiento de campañas electorales, conforme a la reglamentación emitida por la Secretaría de Prevención de Lavado de Dinero o Bienes, respecto de los sujetos obligados.
+
+Las agrupaciones políticas con o sin personería jurídica, deberán adoptar mecanismos de control y registro de las operaciones financieras realizadas a favor de sus estructuras, en base a un Sistema de Administración con enfoque basado en Riesgos, para la prevención de Lavado de Activos y Financiamiento del Terrorismo. El cumplimiento de las políticas mencionadas estará sujetas a supervisión del Tribunal Superior de Justicia Electoral, con la asistencia de la SEPRELAD, en cuanto al ámbito de su competencia.
+
+> *Modificado por Ley N° 6501 (2020-02-18)*
 
 ### Artículo 2°
 
