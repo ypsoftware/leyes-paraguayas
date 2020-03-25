@@ -278,6 +278,7 @@ Los créditos que se refieren a un mismo vuelo, son privilegiados en el orden de
 ### Artículo 36°
 
 
+
 **PRESTACIONES MÉDICAS POR MATERNIDAD.**
 
 Las aseguradas titulares y las aseguradas beneficiarias hijas de los asegurados y jubilados titulares, que no hayan alcanzado la mayoría de edad, recibirán durante el embarazo, parto y puerperio, los beneficios que establece la letra a) del Artículo 30, siempre que los titulares estén al día en sus cuotas de acuerdo al Artículo 31 o a los preceptos reglamentarios que dicte el Consejo de Administración al respecto. Los mismos derechos tendrán las personas señaladas en la letra a) del Artículo 33, sujeto a condiciones fijadas en dicho artículo y en el Artículo 34.
@@ -285,6 +286,7 @@ Las aseguradas titulares y las aseguradas beneficiarias hijas de los asegurados 
 > *Modificado por Ley N° 6508 (2020-03-25)*
 
 ### Artículo 37°
+
 
 
 PRESTACIONES A LA ASEGURADA TITULAR Y LA ASEGURADA BENEFICIARIA QUE NO HAYA ALCANZADO LA MAYORÍA DE EDAD.
