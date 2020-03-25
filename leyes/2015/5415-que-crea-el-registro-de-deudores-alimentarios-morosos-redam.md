@@ -25,23 +25,38 @@ La presente ley tiene por objeto crear y poner en funcionamiento el Registro de 
 
 ### Artículo 2°
 
-Deudor Alimentario Moroso.
 
-Se entiende por “deudor alimentario moroso” a la persona responsable del cumplimiento de una obligación alimentaria derivada de una sentencia firme o convenio judicialmente homologado, que incurriera en mora en el pago de tres o más cuotas sucesivas o alternativas.
+Deudor Alimentario Moroso
+
+Se entiende por “deudor alimentario moroso” a la persona responsable del cumplimiento de una obligación alimentaria derivada de una resolución, sentencia firme de fijación de la asistencia alimentaria o acuerdo judicialmente homologado, que incurriere en mora en el pago de tres o más cuotas sucesivas o alternadas.
+
+> *Modificado por Ley N° 6506 (2020-03-25)*
 
 ### Artículo 3°
 
-Deber de informar.
 
-La sentencia o el acuerdo homologado que imponga una obligación de cumplimiento del deber alimentario, incluirá información a la persona obligada, que exprese que en caso de incumplimiento del pago de tres o más cuotas vencidas, sucesivas o alternativas, será incluido en el REDAM y pasible de aplicación de las restricciones establecidas en la presente ley.
+**Deber de informar.**
+
+La resolución, sentencia firme de fijación de la asistencia alimentaria o acuerdo judicialmente homologado que imponga una obligación de cumplimiento del deber alimentario, deberá informar a la persona obligada que, en caso de incumplimiento del pago de tres o más cuotas vencidas, sucesivas o alternadas, será incluida en el Registro de Deudores Alimentarios Morosos (REDAM) y pasible de aplicación de las restricciones establecidas en la presente Ley.
+
+> *Modificado por Ley N° 6506 (2020-03-25)*
 
 ### Artículo 4°
 
-Inclusión en el REDAM.
 
-El deudor alimentario moroso será declarado como tal por el Juez competente, previo proceso sumario, iniciado a instancia de parte interesada.
+**Inclusión en el Registro de Deudores Alimentarios Morosos (REDAM).**
 
-Una vez firme la resolución judicial que declare al deudor alimentario en estado de mora, el Juez ordenará en forma inmediata al REDAM proceda a la inclusión en un plazo de cuarenta y ocho horas.
+El deudor alimentario moroso será declarado como tal por el Juez competente, previo procedimiento breve de comunicación de la mora del deudor, iniciado a instancia de parte interesada.
+
+Una vez dictada la resolución judicial que declare al deudor alimentario en estado de mora, el Juez ordenará en forma inmediata al Registro de Deudores Alimentarios Morosos (REDAM) que proceda a la inclusión en un plazo de cuarenta y ocho horas.
+
+Para los casos en donde los Juzgados de la Niñez y la Adolescencia se encuentren sistematizados, el proceso se hará en forma automática por los mismos.”
+
+CAPÍTULO II
+
+Registro de Deudores Alimentarios Morosos (REDAM).
+
+> *Modificado por Ley N° 6506 (2020-03-25)*
 
 ### Artículo 5°
 
@@ -55,43 +70,45 @@ Registro de Deudores Alimentarios Morosos (REDAM)
 
 ### Artículo 6°
 
-Funciones.
 
-Son funciones del REDAM:
+**Inclusión en el Registro de Deudores Alimentarios Morosos (REDAM).**
 
-a. Inscribir en su registro, dentro de las veinticuatro horas de recibido el oficio judicial respectivo, el nombre y demás datos de la persona morosa conforme el informe judicial.
+Son funciones del Registro de Deudores Alimentarios Morosos (REDAM):
 
-b. Expedir gratuitamente los certificados que soliciten las personas naturales o jurídicas, públicas o privadas.
+Inscribir en su registro, dentro de las veinticuatro horas de recibida la resolución judicial respectiva, el nombre y demás datos de la persona morosa, conforme lo establece la presente Ley.
 
-c. Informar, en forma gratuita, a pedido de las entidades que requieran información financiera y de conducta crediticia, el estado de los sujetos que pudieran estar incluidos o excluidos del REDAM.
+Informar, en forma gratuita, a pedido de las entidades y personas físicas que requieran información financiera y de conducta crediticia, el estado de los sujetos que pudieran estar incluidos o excluidos del Registro de Deudores Alimentarios Morosos (REDAM).
 
-d. Registrar los mandatos emitidos en virtud de oficios judiciales, por los cuales se ordenara la inclusión o exclusión de ciertas personas en el REDAM, dentro de las cuarenta y ocho horas de recibidos.
+Registrar los mandatos emitidos en virtud de las resoluciones judiciales, por las cuales se ordenará la inclusión o exclusión de las personas en el Registro de Deudores Alimentarios Morosos (REDAM), dentro de las cuarenta y ocho horas de recibidos.
+
+> *Modificado por Ley N° 6506 (2020-03-25)*
 
 ### Artículo 7°
 
-Administración del REDAM:
 
-El REDAM será administrado por el Poder Judicial, el cual tendrá a su cargo la dirección, organización, implementación y supervisión del mismo.
+Administración del Registro de Deudores Alimentarios Morosos (REDAM):
+
+El Registro de Deudores Alimentarios Morosos (REDAM) será administrado por el Poder Judicial, el cual tendrá a su cargo la dirección, organización, implementación, supervisión y control de los datos contenidos dentro del mismo.
+
+> *Modificado por Ley N° 6506 (2020-03-25)*
 
 ### Artículo 8°
 
-Contenido del REDAM.
 
-El REDAM dispondrá, como mínimo, de la siguiente información:
 
-Nombres y apellidos completos del deudor alimentario moroso.
+bis.- Certificado Antecedentes de Deudores Alimentarios Morosos.
 
-Domicilio actual o último conocido del deudor alimentario moroso.
+El Certificado Antecedentes de Deudores Alimentarios Morosos, otorgará el Registro de Deudores Alimentarios Morosos (REDAM) y contendrá los datos descriptos en el primer párrafo del Artículo 8° de la presente Ley.
 
-Número de documento de identidad del deudor alimentario moroso.
+Este Certificado será requisito obligatorio para los trámites establecidos por las entidades financieras, crediticias e Instituciones Estatales. El certificado será expedido y proveído a las entidades que lo solicitan a través de un sitio de internet en forma gratuita.
 
-Cantidad de cuotas en mora parcial o total.
+> *Modificado por Ley N° 6506 (2020-03-25)*
 
-Monto de la obligación pendiente.
+CAPÍTULO III
 
-Identificación del documento judicial donde conste la obligación alimentaria.
+Consecuencias del registro.
 
-g. Fecha del registro.
+> *Modificado por Ley N° 6506 (2020-03-25)*
 
 CAPÍTULO III
 
@@ -99,17 +116,31 @@ Consecuencias del registro
 
 ### Artículo 9°
 
-Certificado.
 
-El certificado de libre deuda alimentaria que otorgara el Registro de Deudores Alimentarios Morosos (REDAM), deberá ser requerido por las entidades financieras para la apertura de cuentas corrientes o cajas de ahorro o para el otorgamiento de tarjetas de créditos o préstamos de cualquier índole.
+
+bis.- Alcance del Certificado de Antecedentes de Deudores Alimentarios Morosos.
+
+El certificado de Antecedentes de Deudores Alimentarios Morosos deberá ser requerido para los siguientes procedimientos y trámites:
+
+Obtención de licencias y permisos de conducir.
+
+Los que se realicen ante notario público relativos a la compra venta de bienes registrables y no registrables.
+
+En las celebraciones de matrimonio civil, el funcionario del Registro del Estado Civil de las Personas encargado de llevar adelante el acto; pondrá a conocimiento del otro contrayente y de los testigos; si alguno de ellos, se encuentra inscrito en el Registro, mencionando la situación respecto de las obligaciones alimentarias que posee.”
+
+CAPITULO IV
+
+Disposiciones finales.
+
+> *Modificado por Ley N° 6506 (2020-03-25)*
 
 ### Artículo 10°
 
-Exclusión de personas incluidas en el REDAM.
 
-La exclusión de las personas incluidas en el REDAM será ordenada por Juez competente, dentro de las cuarenta y ocho horas de acreditado el cumplimiento de las obligaciones del deudor alimentario moroso.
 
-El REDAM, una vez recibida la orden judicial de exclusión, dispondrá de veinticuatro horas para excluir del registro a la persona individualizada por dicha orden judicial.
+bis. Créase la Comisión Técnica integrada por un representante del Ministerio Público y un representante del Poder Judicial especializados en el área, con una duración de 1 (un) año, a los efectos de armonizar las resoluciones que guardan relación con procesos por incumplimiento del deber alimentario radicados en el fuero penal y de la niñez y adolescencia; lo que posibilitará la inclusión automática al Registro de Deudores Alimentarios Morosos (REDAM).
+
+> *Modificado por Ley N° 6506 (2020-03-25)*
 
 CAPÍTULO IV
 
