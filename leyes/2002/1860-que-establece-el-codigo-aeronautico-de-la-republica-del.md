@@ -277,19 +277,27 @@ Los créditos que se refieren a un mismo vuelo, son privilegiados en el orden de
 
 ### Artículo 36°
 
-Los privilegios se ejercen sobre la aeronave, sus motores, sus partes componentes y la indemnización del seguro. La carga y el flete se verán afectados por ellos sólo en el caso de que se hayan beneficiado directamente con los gastos provenientes de la búsqueda, de la asistencia y del salvamento de la aeronave.
+
+**PRESTACIONES MÉDICAS POR MATERNIDAD.**
+
+Las aseguradas titulares y las aseguradas beneficiarias hijas de los asegurados y jubilados titulares, que no hayan alcanzado la mayoría de edad, recibirán durante el embarazo, parto y puerperio, los beneficios que establece la letra a) del Artículo 30, siempre que los titulares estén al día en sus cuotas de acuerdo al Artículo 31 o a los preceptos reglamentarios que dicte el Consejo de Administración al respecto. Los mismos derechos tendrán las personas señaladas en la letra a) del Artículo 33, sujeto a condiciones fijadas en dicho artículo y en el Artículo 34.
+
+> *Modificado por Ley N° 6508 (2020-03-25)*
 
 ### Artículo 37°
 
-Los privilegios se extinguen:
 
-a) por extinción de la obligación principal;
+PRESTACIONES A LA ASEGURADA TITULAR Y LA ASEGURADA BENEFICIARIA QUE NO HAYA ALCANZADO LA MAYORÍA DE EDAD.
 
-b) por la expiración del plazo de un año desde la inscripción en el Registro, siempre que no medie renovación antes de su expiración;
+La asegurada titular recibirá:
 
-c) por la venta judicial de la aeronave, después de satisfechos los créditos privilegiados de mejor rango, inscriptos conforme a lo dispuesto en el presente Capítulo; y,
+a) SUBSIDIO POR REPOSO POR MATERNIDAD: Un subsidio en dinero durante las tres semanas anteriores y las seis posteriores a la fecha probable del parto; y,
 
-d) por renuncia expresa del acreedor sobre su derecho preferente.
+b) PROVISIÓN DE LECHE: Provisión de leche para el hijo que no pueda amamantar por incapacidad constatada por médico, como mínimo durante los ocho meses siguientes del parto.
+
+La asegurada beneficiaria hija de los asegurados y jubilados titulares, que no haya alcanzado la mayoría de edad recibirá provisión de leche para el hijo o la hija que no pueda amamantar por incapacidad constatada por médico, como máximo durante los ocho meses siguientes del parto.
+
+> *Modificado por Ley N° 6508 (2020-03-25)*
 
 ### Artículo 38°
 
