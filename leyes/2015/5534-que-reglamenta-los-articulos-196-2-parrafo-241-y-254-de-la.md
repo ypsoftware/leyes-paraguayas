@@ -15,7 +15,12 @@ short_title: "QUE REGLAMENTA LOS ARTÍCULOS 196, 2° PÁRRAFO, 241 Y 254 DE…"
 
 ### Artículo 1°
 
-A los efectos de lo establecido en los Artículos 196, segundo párrafo, 241 y 254 de la Constitución Nacional, se entenderá como ejercicio parcial de la docencia y la investigación científica, sólo aquel que se realiza en horas cátedra y como educador o investigador en una institución educativa.
+
+A los efectos de lo establecido en los Artículos 196, segundo párrafo, 241 y 254 de la Constitución Nacional, se entenderá como ejercicio parcial de la docencia y la investigación científica, solo aquel que se realiza en horas cátedra y como educador o investigador en una institución educativa.
+
+Los Ministros de la Corte Suprema de Justicia, los miembros titulares de las Cámaras de Diputados y Senadores, y los referidos en los Artículos 241 y 254 de la Constitución Nacional, no podrán ser electos, designados, nombrados o ejercer el cargo de rector, vicerrector, decano y vicedecano o director general de universidades o institutos superiores y de otras entidades sujetas a la Ley de Educación Superior, mientras permanezcan en el ejercicio de sus funciones
+
+> *Modificado por Ley N° 6525 (2020-04-24)*
 
 ### Artículo 2°
 
