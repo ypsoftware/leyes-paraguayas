@@ -50,7 +50,12 @@ La distribución y depósito de los ingresos destinados a las gobernaciones y mu
 
 ### Artículo 5°
 
-Por lo menos el 80% (ochenta por ciento) de los ingresos percibidos por las gobernaciones en virtud de la presente Ley, deberá destinarse a gastos de capital. El porcentaje restante podrá utilizarse en gastos corrientes si los mismos se encuentran directamente vinculados en dichos gastos de capital. En cuanto al porcentaje destinado a las municipalidades, el 80% (ochenta por ciento) podrá ser utilizado en gastos de capital, el 10% (diez por ciento) a actividades de desarrollo sustentables y el 10% (diez por ciento) podrá utilizarse en gastos corrientes si los mismos se encuentran vinculados a dichos gastos de capital. El control de la utilización de los recursos regulados por la presente Ley, será realizado por la Contraloría General de la República al final de cada ejercicio presupuestario.
+
+Hasta el 40% (cuarenta por ciento) de los ingresos percibidos por las gobernaciones y municipalidades en virtud de la presente ley, deberá destinarse a compra de alimentos o kits de víveres, hasta el 40% (cuarenta por ciento) para gastos corrientes y como mínimo el 20% (veinte por ciento) restante para gastos de capital.
+
+Durante la duración de la presente ley no se podrá contratar ni nombrar personal.
+
+> *Modificado por Ley N° 6528 (2020-05-07)*
 
 ### Artículo 6°
 
