@@ -1118,9 +1118,14 @@ Disposiciones Generales
 
 ### Artículo 73°
 
-Falta o Contravención.
+
+**Falta o Contravención.**
 
 Se entenderá por “falta o contravención” toda acción u omisión, calificada como tal, que transgreda normas jurídicas de carácter municipal y las de carácter nacional, cuya aplicación haya sido delegada a la Municipalidad.
+
+Se promoverá la utilización de las tecnologías de la información y la comunicación, así como de cámaras fotográficas, videocámaras u otros medios tecnológicos para la comprobación fehaciente de las faltas o contravenciones. Las municipalidades reglamentarán por ordenanza el uso de dichas tecnologías tanto para el caso de instalación propia, el uso por medio de funcionarios, así como también de cualquier persona por sus propios medios.
+
+> *Modificado por Ley N° 6537 (2020-05-12)*
 
 ### Artículo 74°
 
@@ -1315,23 +1320,34 @@ Del Procedimiento Administrativo Previo
 
 ### Artículo 97°
 
-Contenido y Remisión del Acta.
 
-El funcionario municipal que constate uno o varios hechos que pudieran constituir faltas, labrará un acta en el lugar, que contendrá la información siguiente:
+**Contenido y Remisión del Acta.**
 
-1) lugar, fecha y hora del hecho o de la constatación del mismo;
+El funcionario municipal que constate uno o varios hechos que pudieran constituir faltas, labrará un acta en el lugar o a distancia cuando se utilice tecnologías de la información y la comunicación, cámaras fotográficas, videocámaras u otros medios tecnológicos, que contendrá la información siguiente:
 
-2) nombre y domicilio del imputado, en caso de que puedan ser determinados, así como de testigos, si los hubiere;
+Lugar, fecha y hora del hecho o de la constatación del mismo.
 
-3) naturaleza y circunstancias del hecho y descripción de los medios empleados para la comisión;
+Nombre y domicilio del imputado, en caso de que puedan ser determinados, así como de testigos, si los hubiere.
 
-4) la disposición legal presuntamente infringida;
+Naturaleza y circunstancias del hecho y descripción de los medios empleados para la comisión.
 
-5) la firma del funcionario interviniente con aclaración de nombre y cargo; y,
+La disposición legal presuntamente infringida.
 
-6) la firma del imputado o, en su defecto, las firmas e identificación de los testigos si los hubiere.
+La firma del funcionario interviniente con aclaración de nombre y cargo.
 
-La jefatura de la dependencia interviniente remitirá el acta de intervención junto con la acusación y, en su caso, los informes técnicos y demás elementos de juicio recogidos, que conforman el legajo acusatorio que deberá ser remitido al Intendente para los casos previstos en el Artículo 82 o al Juzgado de Faltas en los demás casos.
+La firma del imputado o, en su defecto, las firmas e identificación de los testigos si los hubiere.
+
+La descripción clara y precisa del hecho respaldado por el formato o soporte tecnológico mediante el cual se obtuvo la información.
+
+En caso de tratarse de un medio de locomoción el número de matrícula del mismo.
+
+La identificación precisa del supuesto infractor en caso de tratarse de faltas cometidas por violación del reglamento de tránsito vigente.
+
+La jefatura de la dependencia interviniente remitirá el acta de intervención junto con la acusación y, en su caso, los informes técnicos y demás elementos de juicio recogidos, que conforman el legajo acusatorio que deberá ser remitido al Intendente para los casos previstos en el artículo 82 o al Juzgado de Faltas en los demás casos.
+
+En caso de constatación de infracciones por medios tecnológicos el funcionario deberá redactar un acta a distancia del lugar y en un plazo perentorio de cinco días hábiles a partir de la ocurrencia de uno o varios hechos que pudieran constituir falta, recabadas de las informaciones proveídas por estos medios y en ausencia del supuesto infractor, quien deberá ser fehacientemente identificado, pudiendo refutarlas en el proceso que diere lugar.
+
+> *Modificado por Ley N° 6537 (2020-05-12)*
 
 ### Artículo 98°
 
