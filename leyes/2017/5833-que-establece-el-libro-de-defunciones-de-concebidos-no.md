@@ -83,11 +83,12 @@ DISPOSICIÓN TRANSITORIA
 
 ### Artículo 11°
 
-Desde la creación y puesta en funcionamiento del Libro de Defunciones de Concebidos no Nacidos por parte del Registro del Estado Civil, establécese un plazo de tres meses a los fines de la inscripción de todos los fallecidos en el vientre materno sin importar el tiempo que haya transcurrido desde el fallecimiento.
 
-Quienes desean realizar esta inscripción deberán presentar certificado de defunción elaborado por profesional médico u obstetra o el agente sanitario habilitado que atendió el parto, o en caso de poseerlo el Certificado de defunción emitido por el Registro Civil en el que se encuentra identificado el nacido sin vida como “NN”.
+Desde la creación y puesta en funcionamiento del Libro de Defunciones de Concebidos no Nacidos por parte del Registro del Estado Civil, establécese el plazo hasta el 1 de octubre de 2020, a los fines de la inscripción de todos los fallecidos en el vientre materno sin importar el tiempo que haya transcurrido desde el fallecimiento.
 
-DISPOSICIÓN FINAL
+Quienes desean realizar esta inscripción, deberán presentar el certificado de defunción elaborado por profesional médico u obstetra o el agente sanitario habilitado que atendió el parto, o en caso de poseerlo, el Certificado de Defunción emitido por el Registro Civil en el que se encuentra identificado el nacido sin vida como “NN”.
+
+> *Modificado por Ley N° 6546 (2020-05-29)*
 
 ### Artículo 12°
 
