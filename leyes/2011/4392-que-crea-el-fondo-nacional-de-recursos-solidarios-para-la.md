@@ -85,13 +85,18 @@ De las Patologías y Especialidades Médicas Financiadas
 
 ### Artículo 11°
 
-Insuficiencia Renal Aguda y Crónica: Incluyen diálisis peritoneal y hemodiálisis.
 
-Trasplante de Organos y Tejidos: Incluyen estudios de histocompatibilidad, eventos quirúrgicos y post quirúrgicos y medicación inmuno supresora.
+**Insuficiencia Renal Aguda y Crónica: Incluyen diálisis peritoneal y hemodiálisis.**
+
+Trasplante de Órganos y Tejidos: Incluyen estudios de histocompatibilidad, eventos quirúrgicos y post quirúrgicos y medicación inmuno supresora.
 
 Cardiopatías: Incluyen cardiología intervencionista, diagnóstica y terapéutica, estimulación cardiaca, cirugía cardiaca con o sin circulación extracorpórea.
 
 Cáncer: Incluyen insumos y reactivos para el diagnóstico precoz, drogas antineoplásicas de segunda línea, insumos para tratamiento paliativo, asimismo, utilización de técnicas especializadas, diagnósticas y terapéuticas.
+
+Atrofia Muscular Espinal (AME): Incluye el tratamiento completo con todas las especialidades médicas y con los medicamentos, así como también las intervenciones quirúrgicas inherentes al tratamiento.
+
+> *Modificado por Ley N° 6553 (2020-06-05)*
 
 ### Artículo 12°
 
