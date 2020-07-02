@@ -833,17 +833,22 @@ El Intendente Municipal deberá asistir a la sesión de la Junta Municipal por l
 
 ### Artículo 53°
 
-Ausencia, Renuncia, Inhabilitación o Muerte del Intendente Municipal.
+
+**Ausencia, Renuncia, Inhabilitación o Muerte del Intendente Municipal.**
 
 En caso de ausencia, renuncia, inhabilitación o muerte del Intendente Municipal, se procederá como sigue:
 
-a) la ausencia hasta veinte días será comunicada a la Junta Municipal y se encargará del despacho el Presidente de la misma;
+la ausencia hasta veinte días será comunicada a la Junta Municipal y se encargará del despacho el Presidente de la misma;
 
-b) si la ausencia fuese por más de veinte días, se requerirá permiso de la Junta Municipal y se encargará del despacho el Presidente de la misma;
+si la ausencia fuese por más de veinte días, se requerirá permiso de la Junta Municipal; y lo reemplazará el Presidente de la misma, mientras dure su ausencia;
 
-c) en caso de ausencia no justificada por más de treinta días, renuncia, inhabilitación, muerte o impedimento definitivo de un Intendente Municipal, ocurrido durante los tres primeros años del período, el Tribunal Superior de Justicia Electoral convocará a nuevas elecciones, dentro de los noventa días siguientes al hecho que motivare la vacancia, hasta tanto el Presidente de la Junta Municipal asumirá interinamente las funciones de aquél. Si el hecho ocurriera durante los dos últimos años, el Presidente de la Junta Municipal convocará a sesión de la misma, en la cual mediante el voto secreto de cada uno de sus miembros, será elegido de entre los mismos un nuevo Intendente por el voto de la mayoría absoluta para completar el mandato, dentro del plazo perentorio de treinta días siguientes al hecho que motivare la vacancia, hasta tanto el Presidente de la Junta Municipal asumirá interinamente las funciones de aquél.
+en caso de ausencia no justificada por más de treinta días, renuncia, inhabilitación, muerte o impedimento definitivo de un Intendente Municipal, ocurrido durante los tres primeros años del período, el Tribunal Superior de Justicia Electoral convocará a nuevas elecciones, dentro de los noventa días siguientes al hecho que motivare la vacancia, hasta tanto el Presidente de la Junta Municipal asumirá interinamente las funciones de aquel.
 
-La renuncia del Intendente será presentada ante la Junta Municipal correspondiente para su aceptación o rechazo.
+Si el hecho ocurriera durante los dos últimos años, el Presidente de la Junta Municipal convocará a sesión de la misma, en la cual mediante el voto secreto de cada uno de sus miembros, será elegido de entre los mismos un nuevo Intendente por el voto de la mayoría absoluta para completar el mandato, dentro del plazo perentorio de treinta días siguientes al hecho que motivare la vacancia, periodo que se computará como un primer mandato a los efectos de una eventual reelección, hasta tanto el Presidente de la Junta Municipal asumirá interinamente las funciones de aquél.
+
+La renuncia del Intendente, será presentada ante la Junta Municipal, y se hará con firma y fecha certificada por Escribano Público o Juez de Paz de la jurisdicción correspondiente, la que deberá tomar conocimiento de la misma para los fines pertinentes en un plazo máximo de tres días hábiles, quedando firme dicha renuncia una vez transcurrido ese plazo.
+
+> *Modificado por Ley N° 6564 (2020-07-02)*
 
 Sección 2
 
