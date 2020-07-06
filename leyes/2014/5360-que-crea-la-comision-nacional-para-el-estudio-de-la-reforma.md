@@ -30,9 +30,10 @@ La Comisión estará compuesta por 1 (un) representante de las bancadas de la C�
 
 
 
-Una vez instalada la Comisión, que funcionará en la sede del Congreso Nacional, elevará a consideración del Poder Legislativo, en el plazo de 1 (un) año, sus conclusiones.
 
-> *Modificado por Ley N° 6200 (2018-10-17)*
+Una vez instalada la Comisión, que funcionará en la sede del Congreso Nacional, elevará a consideración del Poder Legislativo, en el plazo de 2 (dos) años, sus conclusiones.
+
+> *Modificado por Ley N° 6567 (2020-07-06)*
 
 ### Artículo 4°
 
