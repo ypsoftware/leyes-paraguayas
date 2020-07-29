@@ -19,11 +19,14 @@ NATURALEZA JURÍDICA Y OBJETO
 
 ### Artículo 1°
 
-La presente Ley tiene por objeto crear una persona jurídica de derecho público, de duración indefinida, patrimonio propio y carácter autónomo, con domicilio en la ciudad de Asunción denominada "Fondo de Garantía para las Micro, Pequeñas y Medianas Empresas”, en adelante el “Fondo”.
 
-El Fondo tendrá por objeto otorgar garantías y/o reafianzar créditos, operaciones de leasing (arrendamiento) y otros mecanismos de financiamiento, en adelante “financiamiento” o “financiamientos” que las instituciones financieras públicas, privadas o mixtas; las cooperativas supervisadas y reguladas por el Instituto Nacional de Cooperativismo (INCOOP); y, otras entidades autorizadas por el Banco Central del Paraguay (BCP) para operar, en adelante “Instituciones Participantes”, otorguen a las Micro, Pequeñas y Medianas Empresas, en adelante también denominadas “MIPYMES”, en la forma y condiciones señaladas en la presente Ley y sus reglamentaciones.
+Créase el Fondo de Garantías del Paraguay, en adelante “FOGAPY” o “El Fondo” indistintamente, como persona jurídica de derecho público, de duración indefinida, patrimonio propio y carácter autónomo, con domicilio en la ciudad de Asunción.
 
-Para los efectos de esta Ley, se entenderá por reafianzar, a la cobertura de una garantía respecto de otra garantía, cualquiera sea la modalidad o estructuración financiera.
+El Fondo tendrá por objeto otorgar garantías y/o reafianzar créditos, operaciones de leasing (o arrendamiento) y otros mecanismos de financiamiento, en adelante “financiamiento” o “financiamientos” que las instituciones financieras públicas, privadas o mixtas, las cooperativas supervisadas y reguladas por el Instituto Nacional de Cooperativismo (INCOOP) y otras entidades autorizadas por el Banco Central del Paraguay (BCP), en adelante “Instituciones Participantes”, otorguen a las Micro, Pequeñas y Medianas Empresas (MIPYMES) en el marco de lo establecido en la presente ley, a aquellos individuos que sin constituir una empresa o sociedad comercial presten servicios a terceros mediante la contratación de personal dependiente, en adelante “Prestadores de Servicios”, así como a otros sectores, beneficiarios y actividades específicas a través de fondos a ser creados en el marco de la presente ley. Dichas garantías podrán ser otorgadas a las Instituciones Participantes en forma individual por cada operación o en forma global para grupos o conjuntos de carteras de créditos de sectores específicos, con el alcance, términos y condiciones establecidos por el Administrador.
+
+Para los efectos de esta ley, se entenderá por reafianzar, a la cobertura de una garantía respecto de otra garantía, cualquiera sea la modalidad o estructuración financiera.
+
+> *Modificado por Ley N° 6579 (2020-07-29)*
 
 ### Artículo 2°
 
@@ -31,7 +34,10 @@ El Fondo podrá con cargo a sus recursos, contratar con instituciones públicas 
 
 ### Artículo 3°
 
-El Fondo podrá, además de otorgar garantías, actuar como reafianzador y/o reasegurador de garantías y/o seguros financieros otorgados por terceros, nacionales o extranjeros a favor de las Micro, Pequeñas y Medianas Empresas.
+
+El Fondo podrá además de otorgar garantías, actuar como reafianzador y/o reasegurador de Garantías y/o seguros financieros otorgados por terceros, nacionales o extranjeros, conforme a los lineamientos establecidos por el Administrador.
+
+> *Modificado por Ley N° 6579 (2020-07-29)*
 
 CAPÍTULO II
 
@@ -89,11 +95,19 @@ El Fondo no podrá contratar personal.
 
 ### Artículo 8°
 
-El Ministerio de Industria y Comercio, a través del Viceministerio de las Micro, Pequeñas y Medianas Empresas (MIPYMES), promoverá y apoyará al Fondo a través del Administrador en la instalación de mecanismos adecuados para canalizar las inquietudes y necesidades del sector de las Micro, Pequeñas y Medianas Empresas (MIPYMES), con el propósito de coadyuvar en el desempeño del Fondo de Garantía conforme a la Ley N° 4457/12 “PARA LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS (MIPYMES)”.
+
+El Ministerio de Industria y Comercio (MIC), así como los demás Ministerios y/o Secretarías vinculados a los fondos creados, promoverán y apoyarán al Fondo a través del Administrador en la instalación de mecanismos adecuados para canalizar las inquietudes y necesidades de estos sectores, con el propósito de coadyuvar en el desempeño del Fondo.
+
+Las instituciones públicas intervinientes prestarán colaboración, y la autoridad de aplicación reglamentará, de tal forma a fomentar la formalización y el acceso al crédito por parte de los beneficiarios de las operaciones crediticias garantizadas por el Fondo.
+
+> *Modificado por Ley N° 6579 (2020-07-29)*
 
 ### Artículo 9°
 
-El Fondo podrá administrar otros recursos específicos asignados para el otorgamiento de garantías y/o reafianzamientos, dirigidos a sectores y actividades específicos distintas a los establecidos en el marco de la presente Ley. Estos recursos no formarán parte de los recursos iniciales asignados al Fondo ni del patrimonio del Administrador, y serán registrados separadamente en cuentas especiales para el efecto. Una vez cumplidos los objetivos definidos para esos recursos, seguirán el destino dispuesto por su aportante.
+
+El Fondo podrá recibir y administrar otros recursos asignados para el otorgamiento de garantías y/o reafianzamientos, dirigidos a sectores, beneficiarios y actividades específicas distintos a los destinados a las Micro, Pequeñas y Medianas Empresas (MIPYMES), a los cuales les será aplicable lo establecido en el CAPÍTULO VIII, “EXENCIONES IMPOSITIVAS Y LEGALES” de ésta ley. Estos recursos no formarán parte de los recursos iniciales asignados al Fondo ni del patrimonio del Administrador y serán registrados separadamente en cuentas especiales para el efecto. Una vez cumplidos los objetivos definidos para esos recursos, seguirán el destino dispuesto por su aportante.
+
+> *Modificado por Ley N° 6579 (2020-07-29)*
 
 CAPÍTULO IV
 
@@ -101,11 +115,14 @@ SUJETOS BENEFICIARIOS DEL FONDO
 
 ### Artículo 10°
 
-Podrán optar por garantizar y/o reafianzar sus créditos con recursos del Fondo las Micro, Pequeñas y Medianas Empresas (MIPYMES), definidas como tales en la Ley N° 4457/12 “PARA LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS (MIPYMES)”, ya sean unipersonales o sociedades de cualquier naturaleza, que desarrollen actividades agropecuarias, forestales, industriales, artesanales, agroindustriales, comerciales o de servicios de cualquier índole constituidas y domiciliadas en la República del Paraguay que, requiriendo capital de trabajo o financiamiento de inversión, soliciten la garantía y/o reafianzamiento a entidades habilitadas para el efecto.
 
-El Administrador del Fondo establecerá las condiciones que deberán cumplir las Micro, Pequeñas y Medianas Empresas (MIPYMES), que deseen acceder a la garantía o al reafianzamiento de sus créditos, a través de las instituciones autorizadas por el Administrador.
+El Fondo podrá garantizar y/o reafianzar en forma individual las operaciones crediticias de las personas físicas o jurídicas y prestadoras de servicios domiciliadas en la República del Paraguay otorgadas por las Instituciones Participantes habilitadas por el FOGAPY, y además podrá garantizar y/o reafianzar a los grupos o conjuntos de carteras de créditos de sectores específicos, de las Instituciones Participantes.
 
-Para optar por las garantías destinadas a sectores y destinos específicos según lo establecido en el Artículo 4° inciso g) y en el Artículo 9° de la presente Ley, el Administrador establecerá las condiciones requeridas para la utilización de las garantías.
+El Administrador del Fondo establecerá las condiciones que deberán cumplir los beneficiarios del Fondo que deseen acceder a la garantía o al reafianzamiento de sus financiamientos, a través de las Instituciones Participantes autorizadas por el Administrador, así como las condiciones que deberán cumplir las Instituciones Participantes que deseen garantizar y/o reafianzar carteras de crédito.
+
+Para optar por las garantías destinadas a sectores y destinos específicos según lo establecido en el artículo 4º inciso g) y en el artículo 9º de la presente ley, el Administrador establecerá las condiciones requeridas para la utilización de las garantías.
+
+> *Modificado por Ley N° 6579 (2020-07-29)*
 
 ### Artículo 11°
 
@@ -121,17 +138,20 @@ CONDICIONES DE GARANTÍA Y REAFIANZAMIENTO
 
 ### Artículo 12°
 
+
 Los financiamientos que garanticen y/o reafiancen el Fondo, podrán ser otorgados en moneda nacional o extranjera. La suma de las garantías y/o reafianzamientos otorgados podrán exceder el capital del Fondo, en una relación que establezca el Administrador del Fondo, conforme a los límites prudenciales establecidos por el Banco Central del Paraguay (BCP).
 
-La cobertura de garantía y/o de reafianzamiento será definida por el Administrador del Fondo, la que no podrá superar del 80% (ochenta por ciento) del saldo deudor de cada financiamiento o de cada garantía, respectivamente.
+La cobertura de garantía y/o de reafianzamiento será definida por el Administrador del Fondo, la que no podrá superar del 90% (noventa por ciento) del saldo deudor de cada financiamiento y/o de cada garantía, respectivamente.
 
-La garantía y/o reafianzamiento del Fondo cubrirá únicamente el monto del capital de cada financiamiento y el plazo no podrá ser superior a 10 (diez) años, incluidas eventuales renovaciones de la operación crediticia, sin perjuicio del plazo del financiamiento o garantía reafianzada, que puede ser mayor.
+La garantía y/o reafianzamiento del Fondo cubrirá únicamente el monto del capital de cada financiamiento y el plazo no podrá ser superior a diez años, incluidas eventuales renegociaciones (renovaciones, refinanciaciones o reestructuraciones) de la operación crediticia, sin perjuicio del plazo del financiamiento o garantía reafianzada, que puede ser mayor.
 
-El otorgamiento de la garantía y/o reafianzamiento importará un cargo financiero. El Administrador del Fondo tendrá la facultad de fijar tasas y criterios de diferenciación por riesgo u otros factores objetivos.
+El otorgamiento de la garantía y/o reafianzamiento importará un cargo financiero. El Administrador del Fondo tendrá la facultad de fijar tasas y criterios de diferenciación por riesgo y/u otros factores objetivos.
 
 Con sujeción a lo señalado, el Administrador del Fondo establecerá las normas e instrumentos operativos necesarios para el normal desarrollo del mismo.
 
-El Administrador del Fondo celebrará contratos con la o las instituciones participantes, en virtud de los manuales y reglamentos operativos del Fondo.
+El Administrador del Fondo celebrará contratos con la o las Instituciones Participantes, en virtud de los manuales y reglamentos operativos del Fondo.
+
+> *Modificado por Ley N° 6579 (2020-07-29)*
 
 CAPÍTULO VI
 
@@ -161,11 +181,17 @@ SUBROGACIÓN LEGAL Y REPRESENTACIÓN JUDICIAL
 
 ### Artículo 16°
 
-Las Instituciones participantes podrán solicitar el pago de la garantía y/o reafianzamiento luego de iniciada la acción judicial de recupero correspondiente dentro del plazo establecido por el Administrador para el efecto. El Fondo se subrogará los derechos correspondientes al pago de las garantías respectivas.
+
+Las Instituciones participantes podrán solicitar el pago de la garantía y/o reafianzamiento luego de cumplidas las condiciones establecidas por el Administrador del Fondo dentro del plazo establecido para el efecto. El Fondo se subrogará los derechos correspondientes al pago de las garantías respectivas.
+
+> *Modificado por Ley N° 6579 (2020-07-29)*
 
 ### Artículo 17°
 
-Las Instituciones participantes representarán al Fondo en la cobranza judicial de las garantías y/o reafianzamientos, respecto de cuyos derechos este se haya subrogado y remitirán al Fondo el recupero, en la oportunidad y forma que establezca el Administrador del Fondo.
+
+El Administrador del Fondo establecerá las condiciones para la representación del Fondo en los procesos de recupero de los financiamientos garantizados y/o reafianzados, respecto de cuyos derechos se hayan subrogado, así como la oportunidad y forma de remisión del recupero, sin perjuicio de la posibilidad de adoptar otras figuras o modalidades para la cesión o transferencia de la cartera, según lo considere pertinente el Administrador del Fondo.
+
+> *Modificado por Ley N° 6579 (2020-07-29)*
 
 CAPÍTULO VIII
 
