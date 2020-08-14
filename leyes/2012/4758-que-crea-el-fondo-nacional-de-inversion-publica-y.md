@@ -59,11 +59,16 @@ e) 10% (diez por ciento) para el Fondo Nacional para la Salud.
 
 ### Artículo 4°
 
-La distribución de los recursos destinados a los Gobiernos Departamentales y Municipales en el inciso c) del Artículo 3° de la presente Ley, mantendrá la proporcionalidad establecida en el Artículo 1°, incisos b), c), d) y e) de la Ley N° 3984/10 “QUE ESTABLECE LA DISTRIBUCION Y DEPOSITO DE PARTE DE LOS DENOMINADOS “ROYALTIES” Y “COMPENSACIONES EN RAZON DEL TERRITORIO INUNDADO” A LOS GOBIERNOS DEPARTAMENTALES Y MUNICIPALES”.
 
-Por lo menos el 50% (cincuenta por ciento) de los ingresos percibidos por Gobiernos Departamentales y Municipales en virtud de la presente Ley, deberá destinarse al financiamiento de proyectos de infraestructura en educación, consistentes en construcción, remodelación, mantenimiento y equipamiento de centros educativos; y el 30% (treinta por ciento) del total percibido en este concepto, al financiamiento de proyectos de almuerzo escolar, beneficiando a niños y niñas de Educación Inicial y Educación Escolar Básica del 1° y 2° ciclos de instituciones educativas del sector oficial, ubicados en contextos vulnerables.
+La distribución de los recursos destinados a los Gobiernos Departamentales y Municipales en el inciso c) del Artículo 3° de la presente Ley, mantendrá la proporcionalidad establecida en el Artículo 1°, incisos b), c), d) y e) de la Ley N° 3984/2010 “QUE ESTABLECE LA DISTRIBUCIÓN Y DEPÓSITO DE PARTE DE LOS DENOMINADOS “ROYALTIES” Y “COMPENSACIONES EN RAZÓN DEL TERRITORIO INUNDADO” A LOS GOBIERNOS DEPARTAMENTALES Y MUNICIPALES".
 
-Las intervenciones serán realizadas conforme a las normativas vigentes y a los estándares establecidos por el Ministerio de Educación y Cultura.
+Hasta el 50% (cincuenta por ciento), de los ingresos percibidos por las Gobernaciones y Municipalidades en virtud de la presente Ley, podrá destinarse a la compra de alimentos o kits de víveres para dar cumplimiento a lo establecido en la Ley N° 5210/2014 “DE ALIMENTACIÓN ESCOLAR Y CONTROL SANITARIO”.
+
+Como mínimo el 50% (cincuenta por ciento) para el financiamiento de proyectos de infraestructura en educación, consistente en construcción, remodelación, mantenimiento y equipamiento de centros educativos.
+
+Las intervenciones serán realizadas conforme a las normativas vigentes y a los estándares establecidos por el Ministerio de Educación y Ciencias.
+
+> *Modificado por Ley N° 6590 (2020-08-14)*
 
 ### Artículo 5°
 
