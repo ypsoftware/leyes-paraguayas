@@ -19,7 +19,8 @@ Modifícanse los Artículos 3°, 13 y 22 de la Ley N° 6524/2020 “QUE DECLARA 
 
 ### Artículo 3°
 
-Facúltase al Poder Ejecutivo, a través del Ministerio de Hacienda, a realizar modificaciones en el presupuesto de los Organismos y Entidades del Estado (OEE), aprobados por la Ley N° 6469/2020 “QUE APRUEBA EL PRESUPUESTO GENERAL DE LA NACIÓN PARA EL EJERCICIO FISCAL 2020”, independientemente a la fuente de financiamiento, con el objeto de redireccionar créditos presupuestarios necesarios para financiar el presupuesto de las entidades directamente afectadas a la atención de la emergencia sanitaria declarada, dentro de los montos globales aprobados por la Ley N° 6469/2020 “QUE APRUEBA EL PRESUPUESTO GENERAL DE LA NACIÓN PARA EL EJERCICIO FISCAL 2020”, garantizando el cumplimiento mínimo de los objetivos y metas previstos por los Organismos y Entidades del Estado (OEE) para el presente Ejercicio Fiscal.
+
+Facúltase al Poder Ejecutivo, a través del Ministerio de Hacienda, a realizar modificaciones en el presupuesto de los Organismos y Entidades del Estado (OEE), aprobados por la Ley N° 6.469/2020 “QUE APRUEBA EL PRESUPUESTO GENERAL DE LA NACIÓN PARA EL EJERCICIO FISCAL 2020”, independientemente a la fuente de financiamiento, con el objeto de redireccionar créditos presupuestarios necesarios para financiar el presupuesto de las entidades directamente afectadas a la atención de la emergencia sanitaria declarada, dentro de los montos globales aprobados por la Ley N° 6.469/2020 “QUE APRUEBA EL PRESUPUESTO GENERAL DE LA NACIÓN PARA EL EJERCICIO FISCAL 2020”, garantizando el cumplimiento mínimo de los objetivos y metas previstos por los Organismos y Entidades del Estado (OEE) para el presente Ejercicio Fiscal.
 
 Son entidades directamente afectadas a la atención de la emergencia sanitaria las siguientes:
 
@@ -55,29 +56,19 @@ Administración Nacional de Electricidad (ANDE).
 
 Petróleos Paraguayos (PETROPAR).
 
-Secretaria Nacional de Cultura (SNC).
+Secretaría Nacional de Cultura (SNC).
 
-El Poder Ejecutivo podrá determinar otras instituciones afectadas en el marco de lo dispuesto en el Artículo 2° de la presente Ley.
+Instituto de Investigaciones en Ciencias de la Salud (IICS) de la Universidad Nacional de Asunción (UNA).
 
-Dispóngase que en carácter de excepción con lo establecido en el Artículo 20 de la Ley N° 6469/2020 “QUE APRUEBA EL PRESUPUESTO GENERAL DE LA NACIÓN PARA EL EJERCICIO FISCAL 2020”, se podrán incrementar Objetos de Gastos del Grupo 100 “Servicios Personales” con créditos de otras partidas de gastos corrientes, exclusivamente para las entidades afectadas, con excepción de los Objetos de Gasto (OG) 111, 112, 113, 161 y 162, que deberán ser autorizados por Ley.
+Servicio Nacional de Calidad y Salud Animal (SENACSA).
 
-Asimismo, se podrán reasignar gastos de capital a Gastos Corrientes, en carácter de excepción a los Artículos 24 y 40 de la Ley N° 1535/1999 “DE ADMINISTRACIÓN FINANCIERA DEL ESTADO”.”
+El Poder Ejecutivo podrá determinar otras instituciones afectadas en el marco de lo dispuesto en el artículo 2° de la presente ley.
 
-“Art. 13.- A los efectos de ser beneficiarios de las acciones establecidas en la presente Ley, el Ministerio de Hacienda iniciará un proceso sumario de inscripción y de actualización de las Micro, Pequeñas y Medianas Empresas (MIPYMES) al registro de la Subsecretaría de Estado de Tributación (SET) en coordinación con el Ministerio de Industria y Comercio (MIC), el Instituto de Previsión Social (IPS) y el Ministerio de Trabajo, Empleo y Seguridad Social (MTESS), por sectores o rubros económicos, con el fin de avanzar con el proceso de formalización respectivo.
+Dispóngase que en carácter de excepción con lo establecido en el artículo 20 de la Ley N° 6.469/2020 “QUE APRUEBA EL PRESUPUESTO GENERAL DE LA NACIÓN PARA EL EJERCICIO FISCAL 2020”, se podrán incrementar Objetos de Gastos del Grupo 100 “Servicios Personales” con créditos de otras partidas de gastos corrientes, exclusivamente para las entidades afectadas, con excepción de los Objetos de Gastos (OG) 111, 112, 113, 161 y 162, que deberán ser autorizados por ley.
 
-La Secretaría Nacional de Cultura (SNC) deberá elaborar un padrón de manera sumaria que permita inscribir a artistas nacionales, naturalizados y extranjeros residentes de artistas, gestores culturales y personas cuya actividad laboral se encuentre directamente vinculada a las expresiones artísticas o culturales en sus diversas manifestaciones; que hayan quedado imposibilitados de realizar sus expresiones, vocaciones o actuaciones, debido a las restricciones impuestas por las autoridades competentes en el marco de la emergencia sanitaria producto de la pandemia producida por el virus COVID-19.”
+Asimismo, se podrán reasignar gastos de capital a gastos corrientes, en carácter de excepción a los artículos 24 y 40 de la Ley N° 1535/1999 “DE ADMINISTRACIÓN FINANCIERA DEL ESTADO.
 
-“Art. 22.- Autorízase al Poder Ejecutivo, a través del Ministerio de Hacienda, a implementar medidas para salvaguardar los ingresos de los trabajadores en situación de informalidad.
-
-A tal efecto, el Poder Ejecutivo deberá otorgar un subsidio del 25% (veinticinco por ciento) del Salario Mínimo Legal Vigente. Este beneficio podrá ser otorgado hasta 4 (cuatro) veces por el mismo monto, y será abonado a los beneficiarios a través de entidades de pago sujeto a disponibilidad.
-
-Este beneficio deberá otorgarse a trabajadores por cuenta propia o dependientes de las Micro, Pequeñas y Medianas Empresas (MIPYMES), que cuenten con 18 (dieciocho) años de edad o más, que no coticen a la seguridad social, no sean funcionarios o contratados de ningún Organismo o Entidad del Estado o de Entidades Binacionales, no sean jubilados o pensionados de alguna de las Entidades de Jubilaciones y Pensiones públicas o privadas y no sean beneficiarios de algún programa de asistencia social del Estado, como Tekoporá o el Programa de Pensión Alimentaria para Adultos Mayores en Situación de Pobreza; estén registrados o no como contribuyentes en la Subsecretaría de Estado de Tributación (SET), excepto aquellos que sean contribuyentes del Impuesto a la Renta Personal.
-
-El mismo beneficio será otorgado a los artistas padronizados por la Secretaria Nacional de Cultura (SNC) y que fueran seleccionados por esta para el presente beneficio. Los criterios de selección serán elaborados de manera conjunta entre el Ministerio de Hacienda y la Secretaria Nacional de Cultura (SNC) con la colaboración de los colectivos culturales afectados, el cual será publicado dentro de los 20 (veinte) días posteriores a la promulgación de la presente Ley.
-
-El Poder Ejecutivo, a través del Ministerio de Hacienda en forma coordinada con el Ministerio de Industria y Comercio (MIC), el Ministerio de Trabajo, Empleo y Seguridad Social (MTESS) y el Instituto de Previsión Social (IPS), establecerá la reglamentación correspondiente, la cual deberá contemplar el mecanismo de registro y las condiciones adicionales requeridas para el acceso al presente subsidio.
-
-Se dispone que todos los Organismos y Entidades del Estado (OEE), incluyendo las Entidades Públicas de Jubilaciones y Pensiones, colaboren con la provisión de información que se requiera para el efecto.”
+> *Modificado por Ley N° 6600 (2020-09-03)*
 
 ### Artículo 2°
 
