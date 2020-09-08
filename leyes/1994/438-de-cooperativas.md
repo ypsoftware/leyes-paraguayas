@@ -455,13 +455,18 @@ DE LOS ORGANOS DE GOBIERNO
 ### Artículo 51°
 
 
-Órganos. La dirección, administración, vigilancia y elección democrática de autoridades de la cooperativa, están a cargo de la Asamblea, el Consejo de Administración, la Junta de Vigilancia y el Tribunal Electoral Independiente respectivamente, además de otros órganos que establezca el Estatuto Social.
 
-La figura del Tribunal Electoral Independiente no será obligatoria para las cooperativas cuyo número de socios no exceda de 400 (cuatrocientos).
+Órganos. La dirección de la Cooperativa está a cargo de la Asamblea. Los órganos de gobierno integrados por socios electos, en la forma prevista en el artículo 59 de esta ley, para el ejercicio de la administración, la vigilancia socioeconómica y el control de la democracia en la entidad, respectivamente, se constituirán los siguientes órganos de gobierno:
 
-Todos los miembros de los órganos de gobierno serán constituidos de acuerdo al Sistema D’Hondt
+a) Consejo de Administración.
 
-> *Modificado por Ley N° 5501 (2015-09-14)*
+b) Junta de Vigilancia; y,
+
+c) Tribunal Electoral Independiente.
+
+La Constitución y la integración del Tribunal Electoral independiente no serán obligatorias para las Cooperativas cuyo número de socios no exceda de cuatrocientos, no obstante, las mismas deberán arbitrar en sus estatutos sociales los mecanismos que garanticen la objetividad y la independencia de intereses opuestos, en la calificación del cumplimiento de los requisitos para candidatarse a ocupar cargos electivos.
+
+> *Modificado por Ley N° 6608 (2020-09-08)*
 
 SECCION I
 
@@ -559,11 +564,20 @@ El estatuto social debe regular el procedimiento a seguir en el caso en que a la
 ### Artículo 59°
 
 
+
 Adopción de Resoluciones. Las resoluciones se adoptarán por simple mayoría de votos de los socios habilitados presentes, salvo aquellas cuestiones para las que se requiera mayoría calificada.
 
-La elección de autoridades para los órganos de gobierno que establece la Ley, deberá hacerse mediante votación nominal y secreta, correspondiendo la titularidad a los candidatos más votados y la suplencia a quienes les siguen en número de votos, conforme con la cantidad de vacancias disponibles para cada órgano.
+El sistema de elección de autoridades para los órganos de gobierno que establece la ley, deberá estar definido en el Estatuto Social de cada Cooperativa, pudiendo realizarse las elecciones mediante uno de los siguientes sistemas:
 
-> *Modificado por Ley N° 5501 (2015-09-14)*
+a) Sistema de candidaturas nominales: Correspondiendo la titularidad a los candidatos más votados y la suplencia a quienes les siguen en número de votos, conforme con la cantidad de vacancias disponibles para cada órgano.
+
+b) Sistema de representación proporcional: mediante un sistema de listas cerradas desbloqueadas o bloqueadas, que garanticen la participación de las minorías internas en la dirección Cooperativa; o,
+
+c) Cualquier otro sistema de elección democrática refrendada por la asamblea por mayoría de dos tercios y aprobado por el Instituto Nacional de Cooperativismo (INCOOP).
+
+En todos los casos, el procedimiento para la elección de autoridades, deberá adecuarse al Estatuto Social y a esta ley. El procedimiento deberá estar establecido y descripto en el correspondiente reglamento electoral de la Cooperativa, debidamente homologado por el Instituto Nacional de Cooperativismo (INCOOP); garantizando en todos los casos que la ubicación de las listas o de cada candidato en los boletines de votación, sea definida uno a uno y por sorteo. Así mismo el Reglamento Electoral deberá observar las disposiciones contenidas en el artículo 77 de la Ley N° 438/94 “DE COOPERATIVAS”, modificada por la Ley N° 5501/15.
+
+> *Modificado por Ley N° 6608 (2020-09-08)*
 
 ### Artículo 60°
 
