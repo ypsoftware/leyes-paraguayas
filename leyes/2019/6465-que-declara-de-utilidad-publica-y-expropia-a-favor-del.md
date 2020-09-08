@@ -19,89 +19,97 @@ EXPROPIACIÓN DE DETERMINADOS INMUEBLES.
 
 ### Artículo 1°
 
-Declárase de utilidad pública y exprópiase a favor del Estado - Poder Ejecutivo - Ministerio de Obras Públicas y Comunicaciones (MOPC), para la construcción de un camino vecinal a favor de las distintas Comunidades Indígenas, las fracciones de tierras y mejoras ubicadas en los inmuebles identificados como: Fincas N°s 3176, con Padrón N° 1381 y Padrón N° 4031 del distrito de Villa Hayes, a nombre de Ganadera Vista Alegre SA. y 287, actual Matrícula P01-2618, con Padrón N° 1404, del Distrito de Villa Hayes, a nombre de Mago SA.
+
+Declárase de utilidad pública e interés social y exprópiase a favor del Estado paraguayo - Ministerio de Obras Públicas y Comunicaciones (MOPC), de conformidad con el Artículo 109 de la Constitución Nacional, los inmuebles y mejoras afectados a la franja de dominio del Proyecto de Camino Vecinal a favor de varias comunidades indígenas, identificados con Finca Nº 3176, Matrícula Nº P01-2618, del Distrito de Villa Hayes, Departamento de Presidente Hayes, sin perjuicio de cualquier otro inmueble que pudiera resultar afectado.
+
+> *Modificado por Ley N° 6607 (2020-09-08)*
 
 ### Artículo 2°
 
-Las fracciones de tierras sujetas a expropiación comprenden las áreas que fueran afectadas por el trazado, conforme al eje de camino y diseño final de ingeniería, aprobado según los datos técnicos siguientes:
 
-3) Coordenadas UTM -WGS 84 (ZONA 21K)
+Las fracciones de tierras sujetas a expropiación comprenden las áreas que fueran afectadas por el trazado de la poligonal abierta, conforme al eje de camino con un ancho de 20 m, aprobada según los datos técnicos siguientes:
 
-3) Coordenadas UTM -WGS 84 (ZONA 21K)
+Coordenadas UTM – WGS84 (Zona 21K)
 
-Punto 1 (Ent. Michi)
+Vértice
 
-N=7399180
+Norte
 
-E=0414777
+Este
 
-Km. 0 (Inicio)
+Longitud (km)
 
-Vértice 2
+V1 (km 368 PY05)
 
-N=7404563
+7.399.180
 
-E=0414576
+414.777
 
-5,430 km
+Km 0 (inicio)
 
-Vértice 3
+V2
 
-N=7407357
+7.404.563
 
-E=0415417
+414.576
 
-2,916 km
+5,387
 
-Vértice 4
+V3
 
-N=7410055
+7.407.357
 
-E=0417658
+415.417
 
-3,500 km
+2,918
 
-Vértice 5
+V4
 
-N=7410129
+7.410.055
 
-E=0422210
+417.658
 
-14,550 km
+3,507
 
-Vértice 6
+V5
 
-N=7414980
+7.410.129
 
-E=0424132
+422.210
 
-5,200 km
+4,553
 
-Vértice 7
+V6
 
-N=7417772
+7.417.701
 
-E=0422934
+422.958
 
-3,000 km
+7,609
 
-Vértice 8
+V7
 
-N=7417770
+7.417.723
 
-E=0426655
+426.714
 
-3,700 km
+3,756
 
-Vértice 9
+V8
 
-N=7423270
+7.423.270
 
-E=0426602
+426.690
 
-5,500 km (Final)
+5,547 (final)
 
-El punto 1 (De inicio) se encuentra ubicado a la altura del km 368 de la ruta que une Pozo Colorado – Concepción.
+Total (km)
+
+33,277
+
+El Vértice 1 (de inicio) se encuentra ubicado en el km 368 de la ruta que une Pozo Colorado – Concepción.
+
+> *Modificado por Ley N° 6607 (2020-09-08)*
 
 ### Artículo 3°
 
