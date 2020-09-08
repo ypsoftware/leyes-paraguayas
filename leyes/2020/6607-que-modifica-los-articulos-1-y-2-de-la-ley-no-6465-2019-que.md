@@ -1,0 +1,114 @@
+---
+bacn_id: 9374
+numero: "6607"
+titulo: "QUE MODIFICA LOS ARTÍCULOS 1° Y 2° DE LA LEY Nº 6465/2019 “QUE DECLARA DE UTILIDAD PÚBLICA Y EXPROPIA A FAVOR DEL MINISTERIO DE OBRAS PÚBLICAS Y COMUNICACIONES, LAS FRACCIONES DE LOS INMUEBLES COMPRENDIDAS AL INTERIOR DE LAS FINCAS N°s 3176, CON PADRÓN N° 1381 Y PADRÓN N° 4031, DEL DISTRITO DE VILLA HAYES, A NOMBRE DE GANADERA VISTA ALEGRE SA. Y 287, ACTUAL MATRÍCULA P01-2618, CON PADRÓN Nº 1404, DEL DISTRITO DE VILLA HAYES, A NOMBRE DE MAGO SA., AFECTADOS POR EL PROYECTO DE CAMINO VECINAL EN EL DEPARTAMENTO VILLA HAYES Y ESTABLECE EL PROCEDIMIENTO PARA LA EXPROPIACIÓN E INDEMNIZACIÓN DE LAS FRACCIONES DE LOS INMUEBLES COMPRENDIDOS EN LAS ÁREAS DESTINADAS AL CAMINO VECINAL DE DOMINIO PÚBLICO Y DE OBRAS DE INFRAESTRUCTURA A CARGO DEL MINISTERIO DE OBRAS PÚBLICAS Y COMUNICACIONES”"
+fecha_promulgacion: 2020-09-08
+fecha_publicacion: 2020-09-09
+fuente: bacn.gov.py
+status: in_force
+source: https://www.bacn.gov.py/leyes-paraguayas/9374/texto
+short_title: "QUE MODIFICA LOS ARTÍCULOS 1° Y 2° DE LA LEY Nº 6465/2019…"
+---
+
+# LEY Nº 6607
+## QUE MODIFICA LOS ARTÍCULOS 1° Y 2° DE LA LEY Nº 6465/2019 “QUE DECLARA DE UTILIDAD PÚBLICA Y EXPROPIA A FAVOR DEL MINISTERIO DE OBRAS PÚBLICAS Y COMUNICACIONES, LAS FRACCIONES DE LOS INMUEBLES COMPRENDIDAS AL INTERIOR DE LAS FINCAS N°s 3176, CON PADRÓN N° 1381 Y PADRÓN N° 4031, DEL DISTRITO DE VILLA HAYES, A NOMBRE DE GANADERA VISTA ALEGRE SA. Y 287, ACTUAL MATRÍCULA P01-2618, CON PADRÓN Nº 1404, DEL DISTRITO DE VILLA HAYES, A NOMBRE DE MAGO SA., AFECTADOS POR EL PROYECTO DE CAMINO VECINAL EN EL DEPARTAMENTO VILLA HAYES Y ESTABLECE EL PROCEDIMIENTO PARA LA EXPROPIACIÓN E INDEMNIZACIÓN DE LAS FRACCIONES DE LOS INMUEBLES COMPRENDIDOS EN LAS ÁREAS DESTINADAS AL CAMINO VECINAL DE DOMINIO PÚBLICO Y DE OBRAS DE INFRAESTRUCTURA A CARGO DEL MINISTERIO DE OBRAS PÚBLICAS Y COMUNICACIONES”
+
+### Artículo 1°
+
+Modifícanse los Artículos 1º y 2° de la Ley Nº 6465/2019 “QUE DECLARA DE UTILIDAD PÚBLICA Y EXPROPIA A FAVOR DEL MINISTERIO DE OBRAS PÚBLICAS Y COMUNICACIONES, LAS FRACCIONES DE LOS INMUEBLES COMPRENDIDAS AL INTERIOR DE LAS FINCAS N°s 3176, CON PADRÓN N° 1381 Y PADRÓN 4031, DEL DISTRITO DE VILLA HAYES, A NOMBRE DE GANADERA VISTA ALEGRE SA. Y 287, ACTUAL MATRÍCULA P01-2618, CON PADRÓN Nº 1404, DEL DISTRITO DE VILLA HAYES, A NOMBRE DE MAGO SA., AFECTADOS POR EL PROYECTO DE CAMINO VECINAL EN EL DEPARTAMENTO VILLA HAYES Y ESTABLECE EL PROCEDIMIENTO PARA LA EXPROPIACIÓN E INDEMNIZACIÓN DE LAS FRACCIONES DE LOS INMUEBLES COMPRENDIDOS EN LAS ÁREAS DESTINADAS AL CAMINO VECINAL DE DOMINIO PÚBLICO Y DE OBRAS DE INFRAESTRUCTURA A CARGO DEL MINISTERIO DE OBRAS PÚBLICAS Y COMUNICACIONES”, los cuales quedan redactados de la siguiente manera:
+
+CAPÍTULO I
+
+EXPROPIACIÓN DE DETERMINADOS INMUEBLES
+
+“Art. 1°.- Declárase de utilidad pública e interés social y exprópiase a favor del Estado paraguayo - Ministerio de Obras Públicas y Comunicaciones (MOPC), de conformidad con el Artículo 109 de la Constitución Nacional, los inmuebles y mejoras afectados a la franja de dominio del Proyecto de Camino Vecinal a favor de varias comunidades indígenas, identificados con Finca Nº 3176, Matrícula Nº P01-2618, del Distrito de Villa Hayes, Departamento de Presidente Hayes, sin perjuicio de cualquier otro inmueble que pudiera resultar afectado.”
+
+“Art. 2°.- Las fracciones de tierras sujetas a expropiación comprenden las áreas que fueran afectadas por el trazado de la poligonal abierta, conforme al eje de camino con un ancho de 20 m, aprobada según los datos técnicos siguientes:
+
+Coordenadas UTM – WGS84 (Zona 21K)
+
+Vértice
+
+Norte
+
+Este
+
+Longitud (km)
+
+V1 (km 368 PY05)
+
+7.399.180
+
+414.777
+
+Km 0 (inicio)
+
+V2
+
+7.404.563
+
+414.576
+
+5,387
+
+V3
+
+7.407.357
+
+415.417
+
+2,918
+
+V4
+
+7.410.055
+
+417.658
+
+3,507
+
+V5
+
+7.410.129
+
+422.210
+
+4,553
+
+V6
+
+7.417.701
+
+422.958
+
+7,609
+
+V7
+
+7.417.723
+
+426.714
+
+3,756
+
+V8
+
+7.423.270
+
+426.690
+
+5,547 (final)
+
+Total (km)
+
+33,277
+
+El Vértice 1 (de inicio) se encuentra ubicado en el km 368 de la ruta que une Pozo Colorado – Concepción.”
+
+### Artículo 2°
+
+Comuníquese al Poder Ejecutivo.
+
+---
+
+*Aprobado el proyecto de Ley por la Honorable Cámara de Senadores, a los trece días del mes de agosto del año dos mil veinte, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a los veintiséis del mes de agosto del año dos mil veinte, de conformidad a lo dispuesto en el Artículo 204 de la Constitución Nacional.*
