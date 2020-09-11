@@ -19,7 +19,12 @@ Reconócese al Instituto Nacional de Salud (INS), dependiente del Ministerio de 
 
 ### Artículo 2°
 
-Facúltase al Instituto Nacional de Salud para ejecutar programas de post-grado en la formación de recursos humanos e investigación del área de la salud, conforme a lo establecido en la Ley N° 1264/98, General de Educación, y a expedir el título de Maestría en el campo de la salud pública.
+
+Facultase al Instituto Nacional de Salud (INS) a implementar cursos de pregrado y programas de postgrado en el área de la Ciencias de la Salud, que el Ministerio de Salud Pública y Bienestar Social considere pertinente en atención a las necesidades del Sistema Nacional de Salud.
+
+El Instituto Nacional de Salud expedirá títulos correspondientes a los cursos de pregrado y programas de postgrado conforme a lo establecido en la Ley N° 4995/2013 “DE EDUCACIÓN SUPERIOR”.
+
+> *Modificado por Ley N° 6611 (2020-09-11)*
 
 ### Artículo 3°
 
