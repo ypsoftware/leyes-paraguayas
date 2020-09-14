@@ -14,7 +14,18 @@ short_title: "QUE PROHIBE LA EXPORTACION Y TRAFICO DE ROLLOS, TROZOS Y…"
 
 ### Artículo 1°
 
-Prohíbese la exportación y el tráfico internacional de maderas en rollos, trozos y vigas de cualquier especie, cantidad, peso o volumen. La presente prohibición no admitirá excepción alguna.
+
+Prohíbase la exportación y el tráfico internacional de maderas en rollos, trozos y vigas de especies forestales nativas, cualquiera sea su cantidad, peso o volumen. Queda exceptuada de la prohibición prevista en este artículo la exportación de maderas en rollos, trozos y vigas de especies provenientes de plantaciones forestales exóticas.
+
+Los residuos de las maderas a ser exportadas podrán utilizarse en la industria nacional, para lo cual el Instituto Forestal Nacional (INFONA), proporcionará las guías de traslado en forma simplificada.
+
+Las modalidades y requisitos para la exportación de maderas en rollos, trozos y vigas, así como para los residuos de las maderas provenientes de plantaciones forestales exóticas, serán reglamentados por el Instituto Forestal Nacional (INFONA), en un plazo no mayor a sesenta días, a partir de la promulgación de la presente ley.
+
+El Instituto Forestal Nacional (INFONA), certificará el origen de las maderas en rollos, trozos y vigas, provenientes de plantaciones forestales exóticas y creará un registro de exportación.
+
+El Instituto Forestal Nacional (INFONA), adaptará su sistema de trazabilidad y control forestal, en un plazo no mayor a treinta días de promulgada la presente ley, con el objeto de dar seguimiento al flujo de la madera desde el sitio de extracción hasta su comercialización con fines de exportación.
+
+> *Modificado por Ley N° 6616 (2020-09-14)*
 
 ### Artículo 2°
 
