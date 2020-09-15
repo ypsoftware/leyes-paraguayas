@@ -31,7 +31,10 @@ SITUACION JURIDICA
 
 ### Artículo 3°
 
-El Soldado Profesional estará sometido a la presente Ley, a la Ley N° 1115/97 “DEL ESTATUTO DEL PERSONAL MILITAR” y sus modificaciones, y a los reglamentos militares vigentes.
+
+El Soldado Profesional estará sometido a la Constitución Nacional, la presente Ley, las leyes militares y a los Reglamentos Militares.
+
+> *Modificado por Ley N° 6599 (2020-09-15)*
 
 ### Artículo 4°
 
@@ -43,7 +46,10 @@ DE LA INCORPORACION EN LAS FUERZAS ARMADAS
 
 ### Artículo 5°
 
-El estado militar para el Soldado Profesional dura mientras reviste como tal y se inicia desde que el mismo suscribe contrato de prestación de servicio con las Fuerzas Armadas de la Nación, en la Categoría de Tropa dentro del cuadro permanente, por el término de 1 (un) año, prorrogable de común acuerdo, hasta un máximo de 2 (dos) años más.
+
+El estado militar para el Soldado Profesional dura mientras reviste como tal y se inicia desde que el mismo suscribe contrato de prestación de servicio con las Fuerzas Armadas de la Nación, en la Categoría de Tropa dentro del cuadro permanente, por el término de un año, prorrogable de común acuerdo, hasta un máximo de cinco años más.
+
+> *Modificado por Ley N° 6599 (2020-09-15)*
 
 ### Artículo 6°
 
