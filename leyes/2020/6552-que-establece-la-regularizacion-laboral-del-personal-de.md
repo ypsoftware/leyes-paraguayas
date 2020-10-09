@@ -15,7 +15,10 @@ short_title: "QUE ESTABLECE LA REGULARIZACIÓN LABORAL DEL PERSONAL DE…"
 
 ### Artículo 1°
 
-Establécese la regularización laboral del personal de salud, vinculado bajo régimen de contratos con fecha a término, que prestan servicios en los consejos regionales y locales de salud, cuyos haberes proceden de los fondos de equidad del Ministerio de Salud Pública y Bienestar Social (MSPYBS), quienes por esta ley, pasarán a formar parte de la nómina del personal contratado del citado Ministerio, con los mismos derechos en cuanto a la antigüedad y escala salarial conforme a la profesión.
+
+Establécese la regularización laboral de todo el personal, cualquiera sea su denominación, a excepción del Contador; vinculado bajo régimen de contratos con fecha a término, con los Consejos Regionales y Locales de Salud, que prestan servicios en establecimientos de salud del Ministerio de Salud Pública y Bienestar Social (MSPyBS) y en los Consejos Regionales y Locales de Salud, cuyos haberes proceden de los Fondos de Equidad del Ministerio de Salud Pública y Bienestar Social (MSPyBS), quienes por esta Ley, pasarán a formar parte de la nómina del personal contratado del citado Ministerio, con los mismos derechos en cuanto a la antigüedad y escala salarial conforme a la profesión. El Administrador beneficiado por esta Ley, podrá prestar servicios en los Consejos de Salud y/o donde la máxima autoridad del Ministerio de Salud Pública y Bienestar Social (MSPyBS), disponga.
+
+> *Modificado por Ley N° 6621 (2020-10-09)*
 
 ### Artículo 2°
 
@@ -31,7 +34,10 @@ La regularización laboral de los beneficiarios de la presente ley, será en car
 
 ### Artículo 5°
 
-En ningún caso se podrá contratar nuevo personal con los Fondos de Equidad del Ministerio de Salud Pública y Bienestar Social (MSPYBS); una vez regularizada la situación laboral del personal, los recursos de dichos Fondos, deberán ser utilizados exclusivamente para la adquisición de insumos médicos, inversión en infraestructura, mantenimiento y reparación de equipos médicos y hospitalarios.
+
+En ningún caso se podrá contratar nuevo personal con los Fondos de Equidad del Ministerio de Salud Pública y Bienestar Social (MSPyBS, a excepción del Administrador y el Contador; una vez regularizada la situación laboral del personal, cualquiera sea su denominación, los recursos de dichos fondos, deberán ser utilizados para la adquisición de insumos médicos, inversión en infraestructura, mantenimiento y reparación de equipos médicos y hospitalarios, así como para el fortalecimiento de los servicios de salud.
+
+> *Modificado por Ley N° 6621 (2020-10-09)*
 
 ### Artículo 6°
 
