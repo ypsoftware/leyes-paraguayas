@@ -45,17 +45,22 @@ g) Autosuficiencia con el desarrollo de políticas y estrategias que permitan ma
 
 ### Artículo 3°
 
-Los recursos del FONACIDE serán distribuidos de la siguiente manera:
 
-a) 28% (veintiocho por ciento) al Tesoro Nacional para programas y proyectos de infraestructura;
+Los recursos del Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE), serán distribuidos de la siguiente manera:
 
-b) 30% (treinta por ciento) al Fondo para la Excelencia de la Educación e Investigación;
+a) 25% (veinticinco por ciento) al Tesoro Nacional para programas y proyectos de infraestructura;
+
+b) 26% (veintiséis por ciento) al Fondo para la Excelencia de la Educación y la Investigación;
 
 c) 25% (veinticinco por ciento) a los Gobiernos Departamentales y Municipales;
 
-d) 7% (siete por ciento) para la capitalización de la Agencia Financiera de Desarrollo (AFD); y,
+d) 10% (diez por ciento) para el Fondo Nacional para la Salud;
 
-e) 10% (diez por ciento) para el Fondo Nacional para la Salud.
+e) 7% (siete por ciento) para la capitalización de la Agencia Financiera de Desarrollo (AFD); y,
+
+f) 7% (siete por ciento) para las Universidades Públicas del país, el Instituto Superior de Bellas Artes, el Instituto Nacional de Educación Superior, Institutos de Formación Docente, dependientes del Ministerio de Educación y Ciencias y el Instituto Nacional de Salud.
+
+> *Modificado por Ley N° 6628 (2020-10-19)*
 
 ### Artículo 4°
 
@@ -73,15 +78,21 @@ Las intervenciones serán realizadas conforme a las normativas vigentes y a los 
 ### Artículo 5°
 
 
-La distribución y depósito de los ingresos destinados a las Gobernaciones y Municipios señalados en el Artículo 3°, inciso c) de la presente Ley, será hecha y los fondos transferidos por el Ministerio de Hacienda, dentro de los 15 (quince) primeros días del mes siguiente al que fueron depositados dichos recursos en el Banco Central del Paraguay por la Entidad Binacional de Itaipú, en las cuentas bancarias especialmente habilitadas por aquellos y destinados exclusivamente a financiar gastos de inversión.
 
-Para disponer de dichos fondos, las Gobernaciones y Municipalidades deberán estar al día con la rendición de cuentas de las partidas provenientes de este Fondo que hayan sido recibidas con antelación y haber cumplido la obligación de publicar la información correspondiente en su portal electrónico en los términos del Artículo 8° de la presente Ley.
+La distribución y depósito de los ingresos destinados a las Gobernaciones y Municipios señalados en el Artículo 3°, inciso c) de la presente Ley, será hecha y los fondos transferidos por el Ministerio de Hacienda, dentro de los 15 (quince) primeros días del mes siguiente al que fueron depositados dichos recursos en el Banco Central del Paraguay por la Entidad Binacional Itaipú, en las cuentas bancarias especialmente habilitadas por aquellos y destinados exclusivamente a financiar gastos de inversión. Para disponer de dichos fondos, las Gobernaciones y Municipalidades deberán estar al día con la rendición de cuentas de las partidas provenientes de este Fondo, que hayan sido recibidas con antelación.
 
-> *Modificado por Ley N° 5581 (2016-04-06)*
+La distribución de los recursos destinados a las Instituciones señaladas en el Artículo 3°, inciso f) se realizará en proporción resultante del cálculo basado en el promedio de los ingresos efectivamente realizados en los Ejercicios Fiscales de los años 2017, 2018 y 2019, originados en Aranceles Educativos de egresados de la Educación Media de instituciones educativas del sector oficial o instituciones educativas del sector subvencionado.
+
+> *Modificado por Ley N° 6628 (2020-10-19)*
 
 ### Artículo 6°
 
+
 El Ministerio de Hacienda, a través de la Dirección General del Tesoro Público, habilitará en el Banco Central del Paraguay las Cuentas de Ingresos que sean necesarias para el depósito de los desembolsos a ser realizados por la Entidad Binacional Itaipú, en virtud al Artículo 2° de la presente Ley.
+
+El Ministerio de Hacienda transferirá los fondos a las Universidades Públicas del país, al Instituto Superior de Bellas Artes, al Instituto Nacional de Educación Superior, a Institutos de Formación Docente, dependientes del Ministerio de Educación y Ciencias, y al Instituto Nacional de Salud dentro de los 15 (quince) primeros días del mes siguiente al que fueron depositados dichos recursos en el Banco Central del Paraguay por la Entidad Binacional de Itaipú, en las cuentas bancarias especialmente habilitadas por aquellos y destinados exclusivamente a financiar la gratuidad de los cursos de admisión y de grado.
+
+> *Modificado por Ley N° 6628 (2020-10-19)*
 
 ### Artículo 7°
 
