@@ -119,15 +119,25 @@ Pago de los Títulos. Los tenedores de títulos recibirán los intereses y los p
 
 ### Artículo 17°
 
-De colocación y pago. El Poder Ejecutivo, a través del Ministerio de Hacienda, podrá contratar los servicios de colocación y pago de los Títulos de Deuda del Tesoro Público. Asimismo, podrá efectuar las contrataciones requeridas según la práctica internacional para colocar dichos títulos de deuda y las reestructuraciones autorizadas en esta ley. Estas contrataciones incluyen al agente financiero, agente fiduciario, asesores legales nacionales e internacionales, así como los servicios de calificación de riesgo del país y la calificación de la emisión, y otros contratos que resulten necesarios para cada operación.
 
-Estas contrataciones se entenderán comprendidas en lo dispuesto por el artículo 2°, inciso e) de la Ley N° 2.051/03 “DE CONTRATACIONES PÚBLICAS”.
+De colocación y pago. El Poder Ejecutivo, a través del Ministerio de Hacienda, podrá contratar los servicios de emisión, colocación y pago de los Títulos de Deuda del Tesoro Público. Asimismo, podrá efectuar las contrataciones requeridas, según la práctica internacional para realizar operaciones de administración de la deuda pública, expresamente autorizadas en esta ley.
+
+Estas contrataciones incluyen al agente financiero, agente fiduciario, agente de pago, agente de información, agente de custodia, asesores legales nacionales e internacionales, así como los servicios de calificación de riesgo del país y la calificación de la emisión, otros agentes y contratos que resulten necesarios para todas y cada una de las operaciones pertinentes para el cumplimiento de los fines de esta ley. Estas contrataciones se entenderán comprendidas en lo dispuesto por el artículo 2°, inciso e) de la Ley N° 2.051/2003 “De Contrataciones Públicas”.
+
+Los gastos derivados de la emisión y colocación de los Títulos de Deuda del Tesoro Público, así como los emergentes de las operaciones de administración de la deuda pública autorizadas por la presente ley, podrán ser deducidos del resultante de las colocaciones y deberán ser regularizados contable y presupuestariamente por el Ministerio de Hacienda.
+
+> *Modificado por Ley N° 6638 (2020-11-10)*
 
 ### Artículo 18°
 
-Administración de la deuda. El Poder Ejecutivo, a través del Ministerio de Hacienda, está facultado a efectuar operaciones de administración de deuda que no incrementen el endeudamiento neto total del Estado, con el objetivo de mantener una gestión prudente y contribuir al mejoramiento del perfil de la deuda. Podrá realizar operaciones de rescate, recompra, intercambio, renegociación, conversión, sustitución, y todas aquellas operaciones de similar naturaleza, vinculadas con los Títulos de Deuda del Tesoro Público.
 
-El Ministerio de Hacienda establecerá los mecanismos presupuestarios y contables para la realización de estas operaciones.
+Administración de la deuda pública. El Poder Ejecutivo, a través del Ministerio de Hacienda, está expresamente autorizado a efectuar operaciones de administración de la deuda pública con los objetivos de mantener una gestión prudente y contribuir al mejoramiento del perfil de la deuda pública, que podrá conllevar la modificación de los plazos de vencimiento de la deuda u otros elementos afines. A este efecto, podrán realizarse todas aquellas operaciones generalmente aceptadas o empleadas en la práctica internacional para la administración de la deuda pública, incluyendo, sin limitación, operaciones de rescate, recompra, intercambio, canje, renegociación, conversión, sustitución, reestructuración, operaciones para mitigar riesgos de fluctuación de monedas extranjeras así como para mitigar riesgos relacionados a tasas de interés y todas aquellas operaciones de similar naturaleza vinculadas con los Títulos de Deuda del Tesoro Público, que a criterio técnico del Poder Ejecutivo permitan lograr los objetivos establecidos en el párrafo anterior.
+
+Para los fines de este artículo, el Poder Ejecutivo está expresamente autorizado a emitir nuevos Títulos de Deuda del Tesoro Público sin requerir para su emisión la previa autorización por Ley del Presupuesto General de la Nación, establecido en el artículo 11 de la Ley N° 5.097/2013 “Que dispone medidas de modernización de la Administración Financiera del Estado y establece el Régimen de Cuenta Única y de los Títulos de Deuda del Tesoro Público”, hasta el límite señalado en el siguiente párrafo.
+
+Para cada Ejercicio Fiscal, por encima del monto autorizado en la ley de Presupuesto para la emisión de Títulos de Deuda del Tesoro Público, el Poder Ejecutivo está autorizado a realizar las emisiones para administración de deuda pública, hasta el límite del 40% (cuarenta por ciento), de la suma del valor nominal de todos los títulos ya emitidos y en circulación. La emisión y colocación de estos Títulos podrán realizarse en el mercado local, así como en el internacional, en guaraníes o en moneda extranjera.
+
+> *Modificado por Ley N° 6638 (2020-11-10)*
 
 ### Artículo 19°
 
@@ -165,7 +175,14 @@ No se considera deuda pública la deuda del Tesoro ni las operaciones que se rea
 
 ### Artículo 22°
 
-El Poder Ejecutivo, a través del Ministerio de Hacienda, se encargará de reglamentar la presente ley.
+
+El Ministerio de Hacienda establecerá los mecanismos presupuestarios y contables requeridos para el registro de las operaciones previstas en la presente ley.”
+
+CAPÍTULO I
+
+DISPOSICIONES COMPLEMENTARIAS A LA LEY N° 5.097/2013 “QUE DISPONE MEDIDAS DE MODERNIZACIÓN DE LA ADMINISTRACIÓN FINANCIERA DEL ESTADO Y ESTABLECE EL RÉGIMEN DE CUENTA ÚNICA Y DE LOS TÍTULOS DE DEUDA DEL TESORO PÚBLICO
+
+> *Modificado por Ley N° 6638 (2020-11-10)*
 
 ### Artículo 23°
 
