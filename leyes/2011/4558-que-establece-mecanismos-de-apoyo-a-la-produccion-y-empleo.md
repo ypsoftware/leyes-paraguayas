@@ -19,7 +19,10 @@ Esta Ley tiene por objeto establecer mecanismos de apoyo a la producción y empl
 
 ### Artículo 2°
 
-Dispóngase que en las contrataciones que realice el Estado paraguayo, por vía de procesos de carácter nacional, se establezca un margen de preferencia del 20% (veinte por ciento), a favor de los productos y servicios de origen nacional.
+
+Dispóngase que en las contrataciones que realice el Estado paraguayo, por vía de procesos de carácter nacional, se establezca un margen de preferencia del 40% (cuarenta por ciento), a favor de los productos y servicios de origen nacional.
+
+> *Modificado por Ley N° 6575 (2020-11-18)*
 
 ### Artículo 3°
 
