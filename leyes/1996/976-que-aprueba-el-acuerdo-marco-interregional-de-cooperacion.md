@@ -14,221 +14,32 @@ short_title: "QUE APRUEBA EL ACUERDO MARCO INTERREGIONAL DE COOPERACION…"
 
 ### Artículo 1°
 
-Apruébase el Acuerdo Marco Interregional de Cooperación entre la Comunidad Europea y sus Estados Miembros, por una parte, el Mercado Común del Sur y sus Estados Partes, por otra, suscrito el 15 de diciembre de 1995, en Madrid, España, cuyo texto es como sigue:
 
-ACUERDO MARCO INTERREGIONAL DE COOPERACION ENTRE LA
+Determínense zonas de seguridad y servicio para las líneas de transmisión, subtransmisión y distribución de la energía eléctrica en las propiedades de dominio público y privado sometidas a la servidumbre de electroducto por la Ley Nº 966, del 12 de agosto de 1964.
 
-COMUNIDAD EUROPEA Y SUS ESTADOS MIEMBROS, POR UNA PARTE, Y
+La extensión de dichas zonas serán las siguientes:
 
-EL MERCADO COMUN DEL SUR Y SUS ESTADOS PARTES, POR OTRA
+Líneas-Voltios
 
-EL REINO DE BELGICA
+Distancias en metros, medidas perpendiculares desde el eje geométrico de la línea, a cada lado de ese eje.
 
-EL REINO DE DINAMARCA
+500.000
 
-LA REPUBLICA FEDERAL DE ALEMANIA
+35
 
-LA REPUBLICA HELENICA
+220.000
 
-EL REINO DE ESPAÑA
+25
 
-LA REPUBLICA FRANCESA
+66.000
 
-IRLANDA
+9
 
-LA REPUBLICA ITALIANA
+23.000
 
-EL GRAN DUCADO DE LUXEMBURGO
+3.
 
-EL REINO DE LOS PAISES BAJOS
-
-LA REPUBLICA DE AUSTRIA
-
-LA REPUBLICA PORTUGUESA
-
-LA REPUBLICA DE FINLANDIA
-
-EL REINO DE SUECIA
-
-EL REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE,
-
-Partes del Tratado Constitutivo de la Comunidad Europea, y del Tratado de la Unión Europea, en adelante designadas los "Estados Miembros de la Comunidad Europea".
-
-LA COMUNIDAD EUROPEA, en adelante designada "la Comunidad", por una parte, y
-
-LA REPUBLICA ARGENTINA
-
-LA REPUBLICA FEDERATIVA DEL BRASIL
-
-LA REPUBLICA DEL PARAGUAY
-
-LA REPUBLICA ORIENTAL DEL URUGUAY
-
-Partes del Tratado de Asunción para la constitución de un Mercado Común del Sur y del Protocolo Adicional de Ouro Preto, en adelante designadas los "Estados Partes del Mercosur",
-
-y
-
-EL MERCADO COMUN DEL SUR, en adelante designado "el Mercosur", por otra,
-
-CONSIDERANDO los profundos lazos históricos, culturales, políticos y económicos que les unen e inspirados en los valores comunes a sus pueblos;
-
-CONSIDERANDO su plena adhesión a los propósitos y principios establecidos en la Carta de las Naciones Unidas, a los valores democráticos, al Estado de Derecho y al respecto y promoción de los Derechos Humanos;
-
-CONSIDERANDO la importancia que ambas partes atribuyen a los principios y valores recogidos en la Declaración Final de la Conferencia de Naciones Unidas sobre Medio Ambiente y Desarrollo celebrada en Río de Janeiro en junio de 1992, así como la Declaración Final de la Cumbre Social celebrada en la ciudad de Copenhague en marzo de 1995;
-
-TENIENDO EN CUENTA que ambas Partes consideran los procesos de integración regional como instrumentos de desarrollo económico y social que facilitan la inserción internacional de sus economías y, en definitiva, promueven el acercamiento entre los pueblos y contribuyen a una mayor estabilidad internacional;
-
-REAFIRMANDO su voluntad por mantener y reforzar las reglas de un comercio internacional libre de conformidad con las normas de la Organización Mundial de Comercio, y subrayando, en particular, la importancia de un regionalismo abierto;
-
-CONSIDERANDO que tanto la Comunidad como el Mercosur han desarrollado experiencias específicas en materia de integración regional de las que pueden beneficiarse mutuamente en el proceso de fortalecimiento de sus relaciones recíprocas, de acuerdo con sus propias necesidades;
-
-TENIENDO EN CUENTA las relaciones de cooperación que se han desarrollado por acuerdos bilaterales entre los Estados de las respectivas regiones, así como por los acuerdos marco de cooperación que han suscrito bilateralmente los Estados Partes del Mercosur con la Comunidad Europea.
-
-TENIENDO PRESENTE los resultados que ha producido el Acuerdo de Cooperación Interinstitucional del 29 de mayo de 1992 entre el Consejo del Mercado Común del Sur y la Comisión de las Comunidades Europeas, y destacando la necesidad de continuar las acciones realizadas a su amparo;
-
-CONSIDERANDO la voluntad política de ambas Partes para establecer, como objetivo final, una asociación interregional de carácter político y económico basada en una cooperación política reforzada, en una liberalización progresiva y recíproca de todo el comercio, teniendo en cuenta la sensibilidad de ciertos productos y conforme a las reglas de la Organización Mundial del Comercio, y, finalmente, la promoción de las inversiones y la profundización de la cooperación;
-
-TENIENDO EN CUENTA los términos de la Declaración Solemne Conjunta, en la cual ambas Partes se proponen concertar un Acuerdo Marco Interregional que cubra la cooperación económica y comercial, así como la preparación de la liberalización progresiva y recíproca de los intercambios comerciales entre ambas regiones, como etapa preparatoria para la negociación de un Acuerdo de Asociación Interregional entre ellas;
-
-HAN DECIDIDO concluir el presente Acuerdo y han designado a este efecto como plenipotenciarios:
-
-EL REINO DE BELGICA:
-
-Erik DERYCKE,
-
-Ministro de Asuntos Exteriores,
-
-EL REINO DE DINAMARCA:
-
-Hiels HELVEG PETERSEN,
-
-Ministro de Asuntos Exteriores,
-
-LA REPUBLICA FEDERAL DE ALEMANIA:
-
-Klaus KINKEL,
-
-Ministro Federal de Asuntos Exteriores y Vice-Canciller,
-
-LA REPUBLICA HELENICA:
-
-Karolos PAPOULIAS,
-
-Ministro de Asuntos Exteriores,
-
-EL REINO DE ESPAÑA:
-
-Javier SOLANA MADARIAGA,
-
-Ministro de Asuntos Exteriores,
-
-LA REPUBLICA FRANCESA:
-
-Hervé de CHARETTE,
-
-Ministro de Asuntos Exteriores,
-
-IRLANDA:
-
-Dick SPRING,
-
-Ministro de Asuntos Exteriores,
-
-LA REPUBLICA ITALIANA:
-
-Susanna AGNELLI,
-
-Ministra de Asuntos Exteriores,
-
-EL GRAN DUCADO DE LUXEMBURGO:
-
-Jacques F. POSS,
-
-Ministro de Asuntos Exteriores,
-
-EL REINO DE LOS PAISES BAJOS:
-
-Hans Van MIERLO,
-
-Ministro de Asuntos Exteriores,
-
-LA REPUBLICA DE AUSTRIA:
-
-Wolfgang SCHUSSEL,
-
-Ministro Federal de Asuntos Exteriores y Vice-Canciller,
-
-LA REPUBLICA PORTUGUESA:
-
-Jaime GAMA,
-
-Ministro de Asuntos Exteriores,
-
-LA REPUBLICA DE FINLANDIA:
-
-Tarja HALONEN,
-
-Ministra de Asuntos Exteriores,
-
-EL REINO DE SUECIA:
-
-Mats HELLSTRÖM,
-
-Ministro de Asuntos Europeos y Comercio Exterior,
-
-EL REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE:
-
-Malcolm RIFKIND,
-
-Ministro de Asuntos Exteriores y de la Commonwealth,
-
-LA COMUNIDAD EUROPEA:
-
-Javier SOLANA MADARIAGA,
-
-Ministro de Asuntos Exteriores,
-
-Presidente en ejercicio del Consejo de la Unión Europea,
-
-Manuel MARIN,
-
-Vicepresidente de la Comisión de las Comunidades Europeas,
-
-LA REPUBLICA ARGENTINA:
-
-Guido di TELLA,
-
-Ministro de Relaciones Exteriores,
-
-LA REPUBLICA FEDERATIVA DEL BRASIL:
-
-Luiz Felipe Palmeira LAMPREIA,
-
-Ministro de Relaciones Exteriores,
-
-LA REPUBLICA DEL PARAGUAY:
-
-Luis María RAMIREZ BOETTNER,
-
-Ministro de Asuntos Exteriores,
-
-LA REPUBLICA ORIENTAL DEL URUGUAY:
-
-Alvaro RAMOS TRIGO,
-
-Ministro de Relaciones Exteriores,
-
-EL MERCADO COMUN DEL SUR:
-
-Alvaro RAMOS TRIGO,
-
-Ministro de Relaciones Exteriores,
-
-Presidente en ejercicio del Mercado Común del Sur.
-
-QUIENES, después de haber intercambiado sus plenos poderes reconocidos en buena y debida forma;
-
-HAN CONVENIDO EN LAS DISPOSICIONES SIGUIENTES:
+> *Modificado por Ley N° 6681 (2020-12-11)*
 
 TITULO I
 
