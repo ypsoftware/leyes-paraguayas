@@ -17,7 +17,32 @@ I - DE SU NATURALEZA Y OBJETO
 
 ### Artículo 1°
 
-La Administración Nacional de Electricidad, en adelante denominada ANDE, creada por Decreto Nº 3161 del Poder Ejecutivo de fecha 29 de marzo de 1949, y luego organizada por Decreto Ley Nº 2340 del 30 de diciembre de 1950, aprobado por Ley Nº 274 del 2 de agosto de 1955, se sujetará en adelante a las disposiciones de la presente Ley, a las demás normas legales y reglamentarias pertinentes y a las resoluciones de su Consejo de Administración.
+
+Determínense zonas de seguridad y servicio para las líneas de transmisión, subtransmisión y distribución de la energía eléctrica en las propiedades de dominio público y privado sometidas a la servidumbre de electroducto por la Ley Nº 966, del 12 de agosto de 1964.
+
+La extensión de dichas zonas serán las siguientes:
+
+Líneas-Voltios
+
+Distancias en metros, medidas perpendiculares desde el eje geométrico de la línea, a cada lado de ese eje.
+
+500.000
+
+35
+
+220.000
+
+25
+
+66.000
+
+9
+
+23.000
+
+3.
+
+> *Modificado por Ley N° 6681 (2020-12-11)*
 
 ### Artículo 2°
 
