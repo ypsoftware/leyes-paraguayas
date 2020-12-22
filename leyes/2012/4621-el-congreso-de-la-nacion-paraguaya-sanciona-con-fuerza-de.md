@@ -239,17 +239,28 @@ El Ministerio de Salud Pública y Bienestar Social, a través del Programa Ampli
 
 ### Artículo 24°
 
-Se incluirá anualmente en el Presupuesto General de la Nación, en una partida especial, los recursos necesarios y suficientes para la provisión gratuita y efectiva de los servicios de vacunación y vigilancia epidemiológica contemplados en esta Ley.
+
+Se incluirá anualmente en el Presupuesto General de la Nación, en una partida especial, los recursos necesarios y suficientes para la provisión gratuita y efectiva de los servicios de vacunación y vigilancia epidemiológica contemplados en la presente Ley.
 
 El Programa Ampliado de Inmunizaciones contemplará las partidas presupuestarias para:
 
-a) Compra de vacunas, jeringas e insumos;
+a) Compra de vacunas, jeringas e insumos.
 
-b) Gastos de Gerenciamiento y Operativos del Programa;
+b) Gastos de Gerenciamiento y Operativos del Programa.
 
-c) Mejoramiento de infraestructura, fortalecimiento de la red de frío, adquisición y/o mantenimiento de equipos de cómputo, vehículos y desarrollo de los demás componentes de vacunación y vigilancia epidemiológica;
+c) Mejoramiento de infraestructura, fortalecimiento de la red de frío, adquisición y/o mantenimiento de equipos de cómputo, vehículos, combustible y desarrollo de los demás componentes de vacunación y vigilancia epidemiológica.
 
-d) Diseño, producción e implementación de campañas de Información, Educación y Comunicación (IEC) orientadas a la creación de una cultura de prevención.
+d) Diseño, producción e implementación de campañas de Información, Educación y Comunicación (IEC), orientadas a la creación de una cultura de prevención.
+
+Así mismo se incluirá en el Presupuesto General de la Nación, un Fondo de Emergencia para el Programa Ampliado de Inmunizaciones (PAI), equivalente al 15 % (quince por ciento), del presupuesto ordinario de este programa, para cubrir gastos de:
+
+a) Campañas nacionales de vacunación, cuando existiera acúmulo de susceptibles que justificaran la necesidad de la misma ante situación de alerta regional de enfermedades prevenibles por vacunas capaces de generar epidemias o brotes.
+
+b) Implementación de nuevas vacunas para actualizar, ampliar o mejorar el esquema nacional de vacunación.
+
+c) Implementación de nuevas vacunas en caso de aparición de enfermedades emergentes, pandemias, que la justifiquen.
+
+> *Modificado por Ley N° 6685 (2020-12-22)*
 
 ### Artículo 25°
 
@@ -281,11 +292,22 @@ Queda prohibida la importación de vacunas sin la autorización expresa del Mini
 
 ### Artículo 30°
 
-Las vacunas y jeringas adquiridas por el Programa Ampliado de Inmunizaciones contempladas dentro del Esquema Nacional de Vacunación y aquellas que se requieran para el servicio de vacunación, serán consideradas insumos de seguridad nacional.
 
-En ese sentido, se establecerá como sistema exclusivo de compra, la adquisición de vacunas y jeringas a través del Fondo Rotatorio de Vacunas de la Organización Panamericana de la Salud.
+Las vacunas y jeringas adquiridas por el Ministerio de Salud Pública y Bienestar Social, contempladas dentro del Esquema Nacional de Vacunación y aquellas que se requieran para el servicio de vacunación, serán consideradas insumos de seguridad nacional.
 
-La adquisición de vacunas por parte del Programa Ampliado de Inmunizaciones realizada a través del mecanismo previsto en este artículo solo podrá ser exceptuada, cuando el Fondo Rotatorio no oferte las vacunas y/o no disponga de la cantidad suficiente para cubrir los requerimientos del Esquema Nacional de Vacunación. En estos casos, se deberá derivar a los procedimientos de adquisiciones públicas ordinarias y las vacunas deberán cumplir con todos los requerimientos establecidos por la Autoridad Nacional Regulatoria.
+En ese sentido, se establecerá como sistema de compra, la adquisición de vacunas y jeringas a través del Fondo Rotatorio de Vacunas de la Organización Panamericana de la Salud.
+
+La adquisición de vacunas, por parte del Ministerio de Salud Pública y Bienestar Social, realizada a través del mecanismo previsto en este artículo podrá ser exceptuada:
+
+a) En caso que el Fondo Rotatorio de Vacunas de la Organización Panamericana de la Salud no oferte las vacunas o no disponga de la cantidad suficiente para cubrir los requerimientos, en base a la población objetivo de la vacuna, perteneciente al Esquema Nacional de Vacunación.
+
+b) En caso de Emergencia Sanitaria, ante la pandemia del Covid-19, que justifique la intervención y protección inmediata de la población, objetivo con vacunas.
+
+En este caso, se autoriza al Ministerio de Salud Pública y Bienestar Social, la adquisición de los biológicos mediante otros mecanismos distintos al Fondo Rotatorio de Vacunas de la Organización Panamericana de la Salud, ya sea a través de otros organismos internacionales o directamente, de los proveedores autorizados. Así mismo, se autoriza la tramitación y el pago de anticipos correspondientes, para la adquisición de nuevas vacunas.
+
+Las vacunas deberán cumplir con todos los requisitos, que serán establecidos por la Autoridad Nacional Regulatoria.
+
+> *Modificado por Ley N° 6685 (2020-12-22)*
 
 ### Artículo 31°
 
