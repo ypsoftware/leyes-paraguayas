@@ -15,11 +15,17 @@ short_title: "QUE RECONOCE AL INSTITUTO TECNICO SUPERIOR “SAN PATRICIO DE…"
 
 ### Artículo 1°
 
-Reconócese al Instituto Técnico Superior “San Patricio de Irlanda del Norte” como Institución Superior en Ciencias de la Salud del sector privado, que se regirá por la presente Ley, el Artículo 79 de la Constitución Nacional, la Ley N° 1264/98 “GENERAL DE EDUCACION” y las demás normas pertinentes.
+
+Reconócese al Instituto Superior “San Patricio de Irlanda del Norte”, como Instituto Superior en Ciencias de la Salud “San Patricio de Irlanda del Norte”, de gestión privada, que se regirá por el artículo 79 de la Constitución Nacional, la presente ley y las disposiciones legales vigentes de la Educación Superior.
+
+> *Modificado por Ley N° 6690 (2020-12-30)*
 
 ### Artículo 2°
 
-Facúltase al Instituto Superior en Ciencias de la Salud “San Patricio de Irlanda del Norte” a implementar planes y programas de estudios en el campo de la salud y a expedir títulos de grado y maestría en dicha área del conocimiento, incorporando la investigación y la extensión académica.
+
+Facúltase al Instituto Superior en Ciencias de la Salud “San Patricio de Irlanda del Norte”, a implementar carreras de grado y programas de postgrado, incorporando la investigación y la extensión académica en el área de las ciencias de la salud y a otorgar títulos de conformidad con las carreras y programas implementados.
+
+> *Modificado por Ley N° 6690 (2020-12-30)*
 
 ### Artículo 3°
 
