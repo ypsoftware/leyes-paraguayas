@@ -49,7 +49,10 @@ En el caso en que el sujeto protegido por esta Ley, haya aportado además el 12,
 
 ### Artículo 7°
 
-Créase la Comisión de Certificación que estará integrada por un representante del Ministerio de Educación y Cultura, quien ocupará la Presidencia; un representante del Viceministerio de Trabajo y Seguridad Social y cinco representantes de los gremios del área pertinente, con personería jurídica y con mayor número de afiliados.
+
+Créase la Comisión de Certificación que estará integrada por un representante del Poder Ejecutivo - Secretaría Nacional de Cultura, quien ocupará la Presidencia, un representante del Ministerio de Educación y Ciencias, un representante del Ministerio de Trabajo, Empleo y Seguridad Social, un representante del Instituto de Previsión Social, y un representante de cada gremio con personería jurídica del área pertinente designado por sus pares, que sea sujeto de la presente Ley.
+
+> *Modificado por Ley N° 6871 (2021-01-20)*
 
 ### Artículo 8°
 
