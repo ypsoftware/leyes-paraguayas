@@ -30,9 +30,12 @@ La Comisión estará compuesta por tres senadores, tres diputados, dos represent
 
 
 
-Una vez instalada la Comisión, que funcionará en la sede del Congreso Nacional, elevará a consideración del Poder Legislativo, en el plazo de dos años, sus conclusiones.
 
-> *Modificado por Ley N° 6505 (2020-03-16)*
+La Comisión, elevará sus conclusiones a consideración del Poder Legislativo, en el plazo de cuatro años. La misma funcionará en la sede del Congreso Nacional.”
+
+Artìculo 2º. Comuníquese al Poder Ejecutivo.
+
+> *Modificado por Ley N° 6721 (2021-04-06)*
 
 ### Artículo 4°
 
