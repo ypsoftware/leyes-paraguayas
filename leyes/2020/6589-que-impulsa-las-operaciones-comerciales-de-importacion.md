@@ -31,9 +31,12 @@ Dirección Nacional de Aeronáutica Civil (DINAC).
 
 ### Artículo 3°
 
-REDUCCIÓN DE TASAS Y TARIFAS DE AEROPUERTOS NACIONALES.
 
-Se reducirá en un 50% (cincuenta por ciento), el monto de las tasas y tarifas vigentes a la fecha de promulgación de la presente Ley, establecidas para los usuarios regulares y no regulares por servicios aeroportuarios de carga aérea de importación, exportación y tránsito, establecidos según el Decreto N° 8701/2012 “POR EL CUAL SE FIJAN Y ACTUALIZAN TASAS Y TARIFAS POR LA PRESTACIÓN DE SERVICIOS AERONÁUTICOS AEROPORTUARIOS, METEOROLÓGICOS Y OTROS MEDIOS DE RECURSOS A CARGO DE LA DIRECCIÓN NACIONAL DE AEROÁUTICA CIVIL - DINAC” y sus modificaciones.
+**REDUCCIÓN DE TASAS Y TARIFAS DE AEROPUERTOS NACIONALES.**
+
+Se reducirá en un 30% (treinta por ciento), el monto de las tasas y tarifas vigentes a la fecha de promulgación de la presente Ley, establecidas para los usuarios regulares y no regulares por servicios aeroportuarios de carga aérea de importación, exportación y tránsito, establecidos según el Decreto Nº 8701/2012 “POR EL CUAL SE FIJAN Y ACTUALIZAN TASAS Y TARIFAS POR LA PRESENTACIÓN DE SERVICIOS AERONÁUTICOS, AEROPORTUARIOS, METEOROLÓGICOS Y OTROS MEDIOS DE RECURSOS A CARGO DE LA DIRECCIÓN NACIONAL DE AERONÁUTICA CIVIL - DINAC” y sus modificaciones.
+
+> *Modificado por Ley N° 6741 (2021-05-17)*
 
 ### Artículo 4°
 
