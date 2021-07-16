@@ -1440,9 +1440,14 @@ El que matara a otro que se hallase gravemente enfermo o herido, obedeciendo a s
 
 ### Artículo 107°
 
-Homicidio culposo
+
+Homicidio Culposo
 
 El que por acción culposa causara la muerte de otro, será castigado con pena privativa de libertad de hasta cinco años o con multa.
+
+Si la acción descripta en el inciso anterior fuera realizada infringiendo lo establecido en los numerales 1 y 2 del artículo 217 de este Código y sus modificatorias, será castigado con una pena privativa de libertad de tres a ocho años, y la aplicación obligatoria de lo dispuesto en el artículo 58 por un período de tiempo no menor de dos años y máximo de cinco años a ser computados desde el día siguiente de que el condenado esté en libertad.
+
+> *Modificado por Ley N° 6771 (2021-07-16)*
 
 ### Artículo 108°
 
