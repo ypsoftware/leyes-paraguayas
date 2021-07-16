@@ -20,142 +20,177 @@ DE LA AGENCIA FINANCIERA DE DESARROLLO
 ### Artículo 1°
 
 
+
 **Creación, características y régimen jurídico de la Entidad.**
 
-Créase la Agencia Financiera de Desarrollo, en adelante denominada AFD, como persona jurídica de derecho público, autónoma y autárquica, para que desempeñe las funciones como:
+La Agencia Financiera de Desarrollo, en adelante denominada AFD, es una persona jurídica de derecho público, autónoma y autárquica, que desempeña funciones como:
 
-a) única banca pública de segundo piso;
+a) Única banca pública de segundo piso.
 
-b) único organismo ejecutor de los convenios de préstamos o donaciones para la financiación de proyectos y programas de desarrollo, a través de la actividad de intermediación financiera del Estado, que cuenten con la garantía del Estado paraguayo; y,
+b) Único organismo ejecutor de los convenios de préstamos o donaciones para la financiación de proyectos y programas de desarrollo, a través de la actividad de intermediación financiera del Estado, que cuenten o no con la garantía del Estado paraguayo.
 
-c) único canal de préstamos del sector público a las entidades de intermediación financiera de primer piso públicas y privadas, cooperativas supervisadas y reguladas por el Instituto Nacional de Cooperativismo del Paraguay (INCOOP) y otras entidades creadas por Ley, en adelante denominadas IFIs. La AFD se relacionará con el Poder Ejecutivo por medio del Ministerio de Hacienda.
+c) Único canal de préstamos del sector público a las Instituciones Financieras Intermediarias (IFIs), cuya definición se especifica en el presente cuerpo legal.
 
-La AFD se regirá en todo lo no expresamente previsto en la presente Ley, por la Ley Nº 861/96, “GENERAL DE BANCOS, FINANCIERAS Y OTRAS ENTIDADES DE CREDITO”, y estará sometida a la supervisión de la Superintendencia de Bancos. A la AFD no le serán aplicables el Artículo 54 de la Ley Nº 861/96 “GENERAL DE BANCOS, FINANCIERAS Y OTRAS ENTIDADES DE CREDITO” y la Resolución Nº 8 del 27 de noviembre del 2003, del Banco Central del Paraguay y sus modificaciones, en caso que existieren.
+A los efectos de la presente Ley, se entenderá por intermediación financiera del Estado, toda operación en virtud de la cual la AFD, obtenga recursos financieros y los preste a las IFIs. La AFD se relacionará con el Poder Ejecutivo por medio del Ministerio de Hacienda.
 
-Para la obtención de otros recursos la AFD podrá, por resolución del Directorio, emitir bonos en moneda nacional o extranjera con garantía del Estado, previa autorización del Congreso Nacional en cada caso. Los bonos podrán ser ofrecidos incluso a la suscripción pública a través de la Bolsa de Valores.
+La AFD se regirá en todo lo no expresamente previsto por la Ley N° 2640/2005 “QUE CREA LA AGENCIA FINANCIERA DE DESARROLLO” y sus modificaciones, por la Ley Nº 861/1996 “GENERAL DE BANCOS, FINANCIERAS Y OTRAS ENTIDADES DE CRÉDITO”, y sus modificaciones y estará sometida a la supervisión de la Superintendencia de Bancos. A la AFD no le serán aplicables las disposiciones referentes a las normas de clasificación de activos, riesgos crediticios, previsiones y devengamiento de intereses.
 
-Las operaciones que la AFD realice con las entidades financieras intermediarias (IFIs) constituirán créditos privilegiados respecto de las demás operaciones realizadas por las IFIs, debiendo registrarse en sus estados contables en forma separada del resto de sus operaciones.
+Para la obtención de otros recursos la AFD podrá, por Resolución del Directorio, emitir bonos en moneda nacional o extranjera con o sin garantía del Estado, previa autorización del Congreso Nacional en el Presupuesto General de la Nación.
 
-Las operaciones que la AFD realice con las IFIs tendrán privilegio especial respecto de las demás operaciones realizadas por éstas y tendrán el tratamiento de obligaciones de primer orden establecido por el Artículo 20, inciso a) numeral 3 de la Ley Nº 2334/03 “DE GARANTIA DE DEPOSITOS Y RESOLUCION DE ENTIDADES DE INTERMEDIACION FINANCIERA SUJETOS DE LA LEY GENERAL DE BANCOS, FINANCIERAS Y OTRAS ENTIDADES DE CREDITO” para casos de resolución. En estos supuestos, se transferirán los activos de las IFIs y sus respectivas garantías a favor de la AFD, en pago total o parcial de lo debido, según el caso.
+Los bonos podrán ser ofrecidos en los mercados locales e internacionales, incluso a suscripción pública, a través de la Bolsa de Valores u otras plataformas de negociación administradas por instituciones u organismos habilitados y reconocidos para el efecto.
 
-Las IFIs deben registrar estas operaciones en sus estados contables separadas del resto de sus operaciones.
+La AFD deberá informar al Ministerio de Hacienda respecto a las decisiones de emisión de bonos ya sea con o sin garantía del Estado, en todos los casos, precisando para el efecto como mínimo: el monto a emitir, si será con o sin garantía del Estado, las condiciones financieras y el calendario de emisiones.
 
-Igual tratamiento recibirán las entidades cooperativas supervisadas por el INCOOP en caso de su disolución, debiendo los liquidadores transferir inmediatamente a la AFD la cartera de créditos y las garantías afectadas a los fondos adjudicados por ésta
+Para el caso de los bonos con garantía del Estado, deberá contar con el parecer del Ministerio de Hacienda el cual podrá requerir informaciones complementarias y deberá pronunciarse en un plazo no superior a 15 días hábiles de recibida la solicitud de parecer con las informaciones mínimas.
 
-> *Modificado por Ley N° 3330 (2007-10-18)*
+Las operaciones que la AFD realice con las IFIs constituirán créditos privilegiados respecto de las demás operaciones realizadas por las IFIs, debiendo registrarse en sus estados contables en forma separada del resto de sus operaciones.
+
+Cuando una entidad del sistema financiero quede sometida a un régimen de resolución bancaria en virtud de la Ley Nº 2334/2003 “DE GARANTíA DE DEPÓSITOS Y RESOLUCIÓN DE ENTIDADES DE INTERMEDIACIóN FINANCIERA SUJETOS DE LA LEY GENERAL DE BANCOS, FINANCIERAS Y OTRAS ENTIDADES DE CRÉDITO”, y sus modificaciones, previamente a la conformación del Balance de Exclusión, será desagregada en forma directa toda operación activa de crédito que haya sido otorgada con recursos de la AFD. En estos supuestos, se transferirán en forma directa estos activos de las IFIs y sus respectivas garantías a favor de la AFD, en pago total o parcial de las obligaciones pendientes, según el caso. La AFD podrá administrar los créditos recibidos, gestionando directa o indirectamente el cobro a los beneficiarios finales, o disponer la cesión o venta de los créditos recibidos a otras IFIs. Para la administración o comercialización de la cartera recibida, se podrán constituir fideicomisos, de los cuales la AFD será el fideicomitente, pudiendo además ser el beneficiario.
+
+Igual tratamiento recibirán las entidades cooperativas supervisadas por el Instituto Nacional de Cooperativismo (INCOOP), en caso de su disolución, los liquidadores deberán transferir inmediatamente a la AFD la cartera de créditos y las garantías afectadas a los fondos otorgados por ésta, siguiendo los procedimientos establecidos en el párrafo inmediato anterior.
+
+Los interventores o liquidadores, a los efectos de hacer cumplir los privilegios de la AFD, sobre las IFIs en proceso de Resolución o Liquidación, tienen la obligación de conformar y excluir de los balances la cartera de créditos de la AFD.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 2°
 
-Duración, Domicilio y Competencia.
 
-La AFD tendrá duración indefinida y su domicilio legal en la ciudad de Asunción, capital de la República del Paraguay.
+**Duración, Domicilio y Competencia.**
 
-Serán competentes los tribunales de la ciudad de Asunción en los juicios de cualquier naturaleza en que la AFD sea parte.
+La AFD tiene duración indefinida y su domicilio legal en la ciudad de Asunción, capital de la República del Paraguay. Los juzgados y tribunales de la capital serán competentes en todos los asuntos judiciales en que la AFD fuere parte como actora o demandada. También la AFD podrá someterse a los tribunales arbitrales nacionales en caso de que así lo hubiere pactado.
+
+En los asuntos internacionales, económicos o financieros en los que sea parte la AFD podrá someterse al derecho y tribunales judiciales o arbitrales extranjeros, siempre y cuando se relacione con la emisión o colocación de bonos de la AFD en el mercado internacional.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 3°
 
 
+
 **Objeto Social.**
 
-La AFD tendrá por objeto otorgar crédito para complementar la estructura de fondeo de las entidades de intermediación financiera de primer piso, cooperativas y otras entidades creadas por Ley, con el fin de posibilitar la ejecución de programas de desarrollo de corto, mediano y largo plazo a través de dichas entidades, con fondos externos o internos provenientes de préstamos concedidos con garantía del Estado paraguayo, de donaciones de terceros, de dotaciones presupuestarias, de su capital propio y recursos financieros obtenidos con la emisión de bonos.
+La AFD tiene por objeto otorgar financiamiento para complementar la estructura de fondeo de las Instituciones Financieras Intermediarias (IFIs) a fin de posibilitar la ejecución de programas de desarrollo de corto, mediano y largo plazo a través de dichas entidades, con fondos externos o internos provenientes de préstamos concedidos con o sin garantía del Estado paraguayo, de donaciones de terceros, de dotaciones presupuestarias, de su capital propio, de negocios fiduciarios permitidos por Ley y recursos financieros obtenidos con la emisión de títulos de deuda y de los que provengan de las operaciones que realice la AFD.
 
-Asimismo podrá:
+Las actividades para la obtención de fondeo no serán consideradas inversión pública.
 
-a) actuar como fideicomitente, fiduciario y beneficiario en negocios fiduciarios relacionados con su objeto social;
+También se encuentra facultada a:
 
-b) crear y/o administrar un Fondo de Garantías para las Micro, Pequeñas y Medianas Empresas;
+a) Actuar como fiduciario, así como fideicomitente y beneficiario, en negocios fiduciarios vinculados a su objeto social o al desarrollo del mercado financiero, de capitales, de seguros, de fondos previsionales o de infraestructura. El Directorio establecerá los límites de riesgo que la AFD estará facultada a asumir en estos roles.
 
-c) participar en procesos de financiamiento para obras de infraestructura pública, a través de la conformación de “fideicomisos públicos”, cuando las obras sean ejecutadas por el sector privado;
+b) Crear y/o administrar Fondos de Garantías y Fondos de Capital de Riesgo, sean estos con recursos propios o de terceros, tanto del sector privado como del sector público nacional o del exterior, cuyos niveles de capital, operación, riesgos y pérdidas serán definidos por el Directorio, los que no formarán parte del patrimonio de la AFD, debiendo contabilizarse en forma separada del mismo. Cuando se traten de recursos provenientes del sector privado, local o del exterior, se deberán aplicar las normativas de la debida diligencia en el marco de la Ley Nº 1015/1997 “QUE PREVIENE Y REPRIME LOS ACTOS ILÍCITOS DESTINADOS A LA LEGITIMACIÓN DE DINERO O BIENES”, sus modificaciones y la reglamentación aplicable a la institución.
 
-d) participar en los mercados de derivados financieros, únicamente para la cobertura de los riesgos propios de su actividad como banca de segundo piso; y,
+c) Participar en procesos de financiamiento para obras de infraestructura pública, a través de fideicomisos.
 
-e) comprar y vender Instrumentos de Regulación Monetaria (IRMs) emitidos por el Banco Central del Paraguay, pagarés, bonos y debentures emitidos por empresas o entidades privadas, a través de las Bolsas de Valores.
+d) Participar en los mercados de derivados financieros de cualquier tipo vinculado a su negocio, contratando futuros, forwards, swaps o cualquier otro contrato de este tipo con instituciones especializadas, públicas o privadas, locales o del exterior.
 
-También traspasará fondos de asistencia técnica que pudieran existir asociados a dichos programas por medio de fideicomisos constituidos a ese efecto y administrados por la AFD, quien actuará como fiduciario.
+e) Comprar y vender directa o indirectamente Instrumentos de Regulación Monetaria (IRMs), emitidos por el Banco Central del Paraguay (BCP), Certificados de Depósitos de Ahorros (CDAs), pagarés, bonos, debentures, otros títulos de deuda y operaciones de reporto, emitidos en guaraníes o en moneda extranjera por entidades privadas que cuenten con calificación de riesgo, a través de Bolsas de Valores u otras plataformas de negociación administradas por instituciones u organismos habilitados y reconocidos para el efecto.
 
-> *Modificado por Ley N° 3330 (2007-10-18)*
+f) Traspasar fondos de asistencia técnica vinculados con los programas de financiamiento internacional, por medio de fideicomisos constituidos a esos efectos y administrados por la AFD, quien actuará como fiduciario.
+
+g) Prestar servicios de diseño, y estructuración de proyectos para entidades públicas y privadas; para lo cual la AFD deberá establecer unidades o dependencias totalmente diferentes e independientes con relación a las demás, a efectos de evitar cualquier tipo de conflicto de interés entre las mismas.
+
+h) Realizar otras actividades que se encuentren previamente enmarcadas en su Plan Estratégico Institucional y relacionadas a su objeto social.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 4°
 
-Del Capital.
 
-El capital autorizado de la AFD, es de G. 250.000.000.000 (doscientos cincuenta mil millones de guaraníes), que se mantendrá a valores constantes y será actualizado anualmente al cierre del ejercicio financiero, en función del Indice General de Precios al Consumidor (IPC) calculado por el Banco Central del Paraguay.
+**Del Capital.**
+
+El monto de capital mínimo de la AFD, deberá ser el quíntuple del capital mínimo exigido para entidades bancarias sujetas a la supervisión del Banco Central del Paraguay (BCP). Su actualización será anual, bajo la misma modalidad prevista para aquellas entidades.
 
 El capital integrado de la AFD podrá incrementarse por decisión del Directorio de la AFD con recursos provenientes de:
 
-a) Aportes del Estado;
+a) Aportes del Estado.
 
-b) Donaciones o aportes especiales provenientes de entidades nacionales, extranjeras o internacionales;
+b) Donaciones o aportes especiales provenientes de entidades nacionales, extranjeras o internacionales.
 
-c) Capitalización de reservas y utilidades;
+c) Capitalización de reservas y utilidades.
 
-d) El patrimonio neto de las entidades financieras públicas de segundo piso cuya disolución se dispone por esta ley.
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 5°
 
 
+
 **Canalización de recursos y destino de los fondos.**
 
-La administración de los fondos de la AFD se realizará exclusivamente mediante su adjudicación a las IFIs, que además de cumplir con estándares prudenciales equivalentes a los vigentes para las entidades controladas por la Superintendencia de Bancos, acrediten el cumplimiento de los requisitos establecidos en el reglamento de crédito de la AFD. Dicha adjudicación, en lo posible, se hará a través de sistemas competitivos de adjudicación, conforme al régimen previsto en el Artículo 17 de la Ley Nº 2640/05.
+La administración de los fondos de la AFD se realizará en las condiciones de otorgamiento de recursos contempladas en la presente Ley, que además de cumplir con estándares prudenciales equivalentes a los vigentes para las entidades controladas por la Superintendencia de Bancos, acrediten el cumplimiento de los requisitos establecidos en el Reglamento de Crédito de la AFD.
 
-Los fondos de la AFD adjudicados a las IFIs solo podrán destinarse a:
+Los fondos de la AFD concedidos a las IFIs solo podrán destinarse a:
 
-a) Proyectos de desarrollo rural, industrial, comercial y de servicios;
+a) Proyectos de desarrollo rural, industrial, comercial, educación y de servicios.
 
-b) Créditos para las Micro, Pequeñas y Medianas Empresas (MPYMES);
+b) Créditos para las Micro, Pequeñas y Medianas Empresas (MIPYMES).
 
-c) Creación y desarrollo empresarial, con énfasis en empresas pequeñas y medianas;
+c) Creación y desarrollo empresarial, con énfasis en empresas pequeñas y medianas.
 
-d) Exportaciones de bienes y servicios, e importaciones de bienes de capital a mediano y largo plazo, especialmente para pequeñas y medianas empresas;
+d) Exportaciones de bienes y servicios, e importaciones de bienes de capital a mediano y largo plazo, especialmente para pequeñas y medianas empresas.
 
-e) Proyectos para el desarrollo del Turismo;
+e) Proyectos para el desarrollo del Turismo.
 
-f) Proyectos de inversión en infraestructuras básicas, realizadas por el sector privado, o adjudicados a éste para su ejecución; y,
+f) Proyectos de inversión en infraestructura pública, realizadas por el sector privado, o ejecutados por éste.
 
 g) Desarrollo de programas habitacionales, urbanísticos y demás acciones orientadas a reducir el déficit habitacional.
 
-La AFD obligatoriamente deberá proveer fondos para financiar Programas Habitacionales, Viviendas Individuales, Micro, Pequeñas y Medianas Empresas.
+h) Operaciones de financiamiento a empresas de leasing, factoring y otras que correspondan a empresas reguladas por leyes especiales, habilitadas y supervisadas por el Banco Central del Paraguay (BCP), conforme a la reglamentación a ser dictada por la AFD para el efecto.
 
-Las IFIs adjudicadas no podrán, con recursos de la AFD, otorgar préstamos al Estado, municipios o entidades del sector público.
+Las IFIs no podrán, con recursos de la AFD, otorgar préstamos a los Municipios, Gobernaciones y Empresas Públicas, salvo que se traten de préstamos destinados a inversión en infraestructura, en cuyo caso, los Municipios, Gobernaciones y Empresas Públicas, de que se trate deberá constituir la respectiva garantía o instrumentos de cobertura del riesgo crediticio que pudiera acontecer.
 
-El total de los créditos otorgados por la AFD a las IFIs no podrá exceder el 90% de su Patrimonio Neto.
+El monto total de préstamos destinados exclusivamente a inversiones en infraestructura pública que la AFD pudiera otorgar a las entidades señaladas en el párrafo anterior, no podrá superar en su conjunto el 30% (treinta por ciento), del patrimonio neto de la AFD existente al cierre del ejercicio económico del año anterior.
 
-> *Modificado por Ley N° 3330 (2007-10-18)*
+Los proyectos de inversión pública que fuesen financiados por la AFD deberán contar con un código del Sistema Nacional de Inversión Pública (SNIP) en los casos que requieran las regulaciones del Ministerio de Hacienda.
+
+De conformidad a la potestad de la AFD prevista en el inciso g) del Artículo 3° de la presente normativa, para proyectos regidos por las Leyes Nºs 5074/2013 “QUE MODIFICA Y AMPLÍA LA LEY Nº 1302/98 ‘QUE ESTABLECE MODALIDADES Y CONDICIONES ESPECIALES Y COMPLEMENTARIAS A LA LEY Nº 1045/83 ‘QUE ESTABLECE EL RÉGIMEN DE OBRAS PÚBLICAS” y 5102/2013 “DE PROMOCIóN DE LA INVERSIóN EN INFRAESTRUCTURA PúBLICA Y AMPLIACIóN Y MEJORAMIENTO DE LOS BIENES Y SERVICIOS A CARGO DEL ESTADO”, y sus modificatorias, en el que intervenga como estructurador financiero, o financiador, deberá contar con los procedimientos reglamentados por la AFD que regulen dicha participación.
+
+En los casos en que la AFD participe en procesos de financiamiento de conformidad al inciso c) del Artículo 3°, la forma y porcentajes de participación será determinada por el Directorio de la AFD de acuerdo al tamaño, monto, complejidad, del proyecto.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 6°
+
 
 
 **Operaciones prohibidas.**
 
 La AFD no podrá:
 
-a) Depositar sus fondos en una entidad distinta al Banco Central del Paraguay, a excepción de los montos necesarios para cubrir los gastos operativos y cobranzas de crédito de la AFD;
+a) Depositar sus fondos en una entidad distinta al Banco Central del Paraguay (BCP), a excepción de los montos necesarios para cubrir los gastos operativos y cobranzas de crédito de la AFD, operaciones fiduciarias y aquellos destinados a las operaciones mencionadas en el Artículo 3° incisos b), d), e) y f) de la presente Ley.
 
-b) Prestar o transferir sus recursos propios o los que administre en los programas de desarrollo, bajo cualquier forma o modalidad, directa o indirectamente, al Estado y demás instituciones públicas, excepto a las instituciones financieras públicas, en los términos contenidos en esta Ley;
+b) Prestar o transferir sus recursos propios o los que administre en los programas de desarrollo, bajo cualquier forma o modalidad, de manera directa al Estado y demás instituciones públicas, excepto a las instituciones financieras públicas, en los términos contenidos en la presente Ley.
 
-c) Captar depósitos del público o contraer deudas de cualquier clase distintas a las contempladas en el Artículo 3° de la presente Ley;
+c) Captar depósitos del público o contraer deudas de cualquier clase distintas a las contempladas en el Artículo 3° de la presente Ley.
 
-d) Otorgar avales o garantías a favor de terceros;
+d) Otorgar avales o garantías a favor de terceros que no provengan de la administración de fondos de garantía creados y/o administrados por la AFD.
 
-e) Prestar en divisas, salvo para la financiación de proyectos que las generen en cuantía suficiente para su repago, en forma directa e indirecta;
+e) Prestar en divisas, salvo para la financiación de proyectos que las generen en cuantía suficiente para su repago, en forma directa e indirecta.
 
-f) Adquirir activos fijos, excepto lo indispensable para su funcionamiento, pero podrá adquirir y reponer los bienes muebles indispensables para el logro de sus objetivos;
+f) Adquirir activos fijos, excepto lo indispensable para su funcionamiento, pero podrá adquirir y reponer los bienes muebles indispensables para el logro de sus objetivos.
 
-g) Prestar en forma directa asistencia técnica a los prestatarios finales; y,
+g) Facilitar la prestación de asistencia técnica a los prestatarios finales.
 
 h) En general realizar cualquier actividad propia de las entidades de intermediación financiera distintas a las autorizadas en la presente Ley.
 
-> *Modificado por Ley N° 3330 (2007-10-18)*
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 7°
 
-Dirección y Administración.
 
-La AFD estará administrada por un Directorio integrado por un Presidente y cuatro miembros designados por el Poder Ejecutivo.
+**Dirección y Administración.**
 
-El Presidente durará cinco años en sus funciones. Los miembros del primer Directorio, en su primera sesión, establecerán por sorteo un orden de sustitución anual de sus miembros a razón de uno por año. Los Directores nombrados en su sustitución y los subsiguientes durarán cinco años en sus funciones, El Presidente y los Directores podrán ser nombrados por un período adicional.
+La AFD estará administrada por un Directorio integrado por un Presidente y cuatro Miembros designados por el Poder Ejecutivo.
 
-Los integrantes del Directorio deberán ser de nacionalidad paraguaya, probos e idóneos, con experiencia mínima de diez años en cargos ejecutivos de dirección y en materia financiera, económica o bancaria. Su remuneración no podrá ser superior a la de los miembros del Directorio del Banco Central del Paraguay. Sus miembros no podrán desempeñar ningún otro cargo, con excepción de la docencia, ni cumplir ninguna otra función, sea ésta gratuita o remunerada, nacional o internacional, pública o privada.
+El Presidente y los Miembros del Directorio de la AFD durarán en sus cargos cinco años, pudiendo ser reconfirmados mediante una nueva designación por un periodo adicional.
+
+Los integrantes del Directorio durarán en su cargo, hasta tanto sea nombrado su sucesor. Los Miembros del Directorio serán nombrados a razón de uno por cada año por el período de cinco años a fin de garantizar una renovación periódica y parcial del Directorio. Se considerará a los efectos del cómputo, el período afectado al cargo, no a la persona designada.
+
+Los integrantes del Directorio deberán ser de nacionalidad paraguaya, probos e idóneos, con experiencia mínima de diez años en cargos ejecutivos de dirección y en materia financiera, económica o bancaria. Su remuneración no podrá ser superior a la de los miembros del Directorio del Banco Central del Paraguay (BCP). Sus miembros no podrán desempeñar ningún otro cargo, con excepción de la docencia, ni cumplir ninguna otra función, sea ésta gratuita o remunerada, nacional o internacional, pública o privada.
+
+En caso de renuncia o cesantía del Presidente u otro miembro del Directorio, será reemplazado por otra persona que será designada por el Poder Ejecutivo para el cargo por todo el tiempo que reste del período.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 8°
 
@@ -181,31 +216,47 @@ c) remoción del cargo por disposición del Poder Ejecutivo.
 
 ### Artículo 10°
 
-Del Directorio.
 
-Las reuniones del Directorio serán convocadas por el Presidente, o a pedido de por lo menos dos de sus miembros, y sesionarán validamente con el quórum de tres miembros titulares, por lo menos dos veces por semana, o cuantas veces sean necesarias y sus Resoluciones serán adoptadas por simple mayoría. El Presidente, tiene derecho a voto, y en caso de empate, decide con su doble voto.
+**Del Directorio.**
 
-El Directorio tendrá las facultades que le sean otorgadas vía reglamentaria, entre las que se incluirán:
+Las sesiones del Directorio serán convocadas por el Presidente, o a pedido de por lo menos dos de sus miembros, y sesionarán válidamente con el quórum de tres miembros, al menos cuatro veces por mes o cuantas veces sean necesarias y sus Resoluciones serán adoptadas por simple mayoría. El Presidente, tiene derecho a voto, y en caso de empate, decide con su doble voto. El Directorio de la AFD tendrá las facultades que le sean otorgadas vía reglamentaria, entre las que se incluirán:
 
-a) cumplir y hacer cumplir las disposiciones de las leyes relativas a sus funciones, así como su propio reglamento;
+a) Cumplir y hacer cumplir las leyes relativas a su funcionamiento y sus reglamentos.
 
-b) crear la estructura orgánica de la AFD dentro de las limitaciones establecidas en esta ley;
+b) Aprobar los reglamentos internos sobre las cuales se regirá la AFD, para adaptarlos a las prácticas y el mejor funcionamiento y operatividad de la AFD.
 
-c) aprobar el presupuesto anual, los estados patrimoniales, económicos, financieros y la Memoria de la AFD;
+c) Crear y modificar la estructura orgánica de la AFD dentro de las limitaciones establecidas en la presente Ley.
 
-d) definir las políticas, programas y procedimientos para las actividades de la AFD, aprobar los manuales administrativos y operativos;
+d) Aprobar el anteproyecto del presupuesto anual de la Institución, los estados patrimoniales, económicos y financieros y la memoria de la AFD.
 
-e) autorizar la tramitación judicial o extrajudicial de toda clase de cuestiones jurídicas, promover y contestar toda clase de acciones judiciales, otorgando los poderes generales o especiales suficientes y constituir servidumbre, como sujeto activo o pasivo, y en general efectuar todos los actos que de acuerdo a la ley requieren poder especial; y,
+e) Definir políticas, programas y procedimientos para las actividades de la AFD y aprobar los manuales administrativos y operativos.
 
-f) ejercer las demás facultades que correspondan al objeto de la presente ley, conforme a lo establecido en su Artículo 3º.
+f) Autorizar la tramitación judicial o extrajudicial de toda clase de cuestiones jurídicas, promover y contestar toda clase de acciones judiciales, encargando al Presidente el otorgamiento de poderes generales o especiales suficientes y en general efectuar toda clase de actos jurídicos de acuerdo a la Ley.
+
+g) Otorgar quitas de intereses, comisiones y gastos, de conformidad a la reglamentación dictada por la AFD, tomando en consideración reglas de sana administración y en defensa del patrimonio de la AFD, en aquellos casos en que la imposibilidad de efectivizar la totalidad de los créditos así lo aconsejen.
+
+h) Crear o suprimir filiales, sucursales y agencias y establecer corresponsalías en el país o en el exterior.
+
+i) Designar y remover al Gerente General, de acuerdo a los requisitos, funciones y atribuciones conferidas en la presente Ley.
+
+j) Dictar los reglamentos internos en materia disciplinaria, el estatuto del personal y las normas sobre las remuneraciones.
+
+k) Disponer de los activos de la Institución para la celebración de contratos fiduciarios, de compraventa, permuta u otras figuras o modalidades jurídicas para adquirir, edificar, refaccionar, remodelar sus locales o establecimientos; que sean indispensables para su funcionamiento.
+
+l) Resolver cualquier otro asunto vinculado con la gestión de la AFD, dentro de sus atribuciones legales y que correspondan al objeto de la presente Ley.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 11°
 
-Atribuciones del Presidente del Directorio.
 
-El Presidente ejercerá la representación legal de la AFD para todos los efectos y será también Gerente General de la AFD. Podrá conferir o revocar poderes o mandatos y suscribir con otro miembro del Directorio autorizado a tal fin, las obligaciones, los contratos u otros instrumentos y documentos necesarios para la gestión de la entidad.
+**Atribuciones del Presidente del Directorio.**
 
-El Presidente, en caso de permiso o ausencia, será reemplazado por un miembro del Directorio por el tiempo que dura la ausencia. En caso de renuncia o cesantía del Presidente u otro miembro del Directorio será reemplazado por otra persona que será designada por el Poder Ejecutivo para el cargo por todo el tiempo que le reste del período.
+El Presidente ejercerá la representación legal de la AFD para todos los efectos. Suscribirá con el Gerente General los poderes o mandatos, las obligaciones, contratos u otros instrumentos determinados por el Directorio y aquellos relacionados con los asuntos de su competencia.
+
+El Presidente, en caso de permiso o ausencia, será reemplazado por un miembro del Directorio por el tiempo que dura la ausencia.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 12°
 
@@ -217,24 +268,34 @@ La AFD será sometida a auditoría externa cada 12 meses respecto a su gestión 
 
 ### Artículo 13°
 
-Presupuesto anual, contabilidad por programas y rendición de cuentas.
 
-La AFD presentará anualmente su presupuesto al Poder Ejecutivo para su inclusión en la Ley de Presupuesto General de la Nación. La AFD elaborará sus estados financieros, de conformidad con la normativa bancaria y, con independencia de sus obligaciones contables derivadas de ésta, llevará una contabilidad separada por cada uno de los programas que administre, posibilitando el control detallado de la ejecución de cada uno de ellos.
+**Presupuesto anual, contabilidad por programas y rendición de cuentas.**
 
-La AFD deberá adecuarse a las normas prudenciales que la Superintendencia de Bancos dicte para la evaluación de gestión de riesgos, en las condiciones establecidas por esta ley y su reglamentación estará sujeto a un límite máximo en la financiación de sus gastos, que será fijado en el reglamento de la presente ley.
+La AFD presentará anualmente su anteproyecto de presupuesto al Poder Ejecutivo para su inclusión en el proyecto de Ley de Presupuesto General de la Nación.
 
-La AFD rendirá cuentas de su gestión auditada anualmente al Poder Ejecutivo, y por su intermedio, al Honorable Congreso de la Nación mediante una memoria anual de actividades.
+La AFD elaborará sus estados financieros, de conformidad con la normativa bancaria y las normas establecidas por el Ministerio de Hacienda para su integración en los Estados Financieros Consolidados del sector Público.
+
+La AFD deberá adecuarse a las normas prudenciales que la Superintendencia de Bancos dicte para la evaluación de gestión de riesgos, en las condiciones establecidas por la presente Ley y su reglamentación.
+
+La AFD rendirá cuentas de su gestión al Poder Ejecutivo, y por su intermedio, al Congreso de la Nación mediante una memoria anual de actividades.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 14°
 
 
+
 **Relaciones con el Banco Central del Paraguay.**
 
-La AFD depositará en el Banco Central del Paraguay los recursos en moneda nacional o extranjera que administre. Los depósitos en moneda extranjera generarán intereses a la tasa de remuneración recibida por las colocaciones de las reservas internacionales del Banco Central del Paraguay en los plazos colocados por la AFD. Para los depósitos en moneda nacional, la AFD podrá realizarlos en las condiciones contractualmente pactadas con el BCP.
+La AFD depositará en el Banco Central del Paraguay, los recursos en moneda nacional o extranjera que administre, salvo lo exceptuado por el Artículo 6º, inciso a) de la presente Ley y lo dispuesto en el Artículo 75 de la Ley Nº 489/1995 “ORGáNICA DEL BANCO CENTRAL DEL PARAGUAY”, modificada y ampliada por la Ley Nº 6104/2018 “QUE MODIFICA Y AMPLÍA LA LEY N° 489/95 ‘ORGÁNICA DEL BANCO CENTRAL DEL PARAGUAY”.
 
-El Banco Central del Paraguay prestará a la AFD los servicios de caja y depósito, tanto en moneda nacional como extranjera. La AFD pagará por estos servicios al Banco Central del Paraguay en las condiciones contractualmente pactadas y acordadas. Las operaciones cambiarias entre ambas instituciones se realizarán conforme a las cotizaciones de mercado.
+Los depósitos en moneda nacional y extranjera no serán remunerados.
 
-> *Modificado por Ley N° 3330 (2007-10-18)*
+El Banco Central del Paraguay, prestará a la AFD los servicios de caja y depósito, tanto en moneda nacional como extranjera. La AFD pagará por estos servicios al Banco Central del Paraguay, en las condiciones contractualmente pactadas y acordadas.
+
+La AFD podrá realizar operaciones cambiarias con el Banco Central del Paraguay y/o cualquier banco de plaza, conforme a las cotizaciones de mercado.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 15°
 
@@ -246,19 +307,27 @@ Las tasas de interés, que en todo caso seguirán una tasa de referencia de larg
 
 ### Artículo 16°
 
-Obligaciones de las entidades adjudicatarias.
 
-Las entidades que intermedien fondos adjudicados por la AFD son responsables ante ésta por el riesgo del crédito y de mercado y, en caso de financiación de proyectos que generen divisas para su repago, por la devolución en la misma moneda en la que recibió los recursos. El incumplimiento de las normas establecidas en el reglamento de crédito de la AFD, conllevará la obligación de la devolución inmediata del capital e intereses por parte de la entidad y la suspensión de su participación en los programas de la AFD durante tres años.
+**Obligaciones de las Instituciones Financieras Intermediarias.**
+
+A los efectos de la presente Ley, podrán ser consideradas Instituciones Financieras Intermediarias (IFIs) todas aquellas entidades financieras de primer piso, públicas o privadas, supervisadas por la Superintendencia de Bancos del Banco Central del Paraguay, Cooperativas supervisadas y reguladas por el Instituto Nacional de Cooperativismo (INCOOP), otras entidades creadas por ley cuyo objeto social principal sea el de realizar actividades similares a las previstas en la Ley N° 861/1996 “GENERAL DE BANCOS, FINANCIERAS Y OTRAS ENTIDADES DE CRÉDITO” y sus modificatorias, sometidas a lo dispuesto por la Ley N° 2334/2003 “DE GARANTÍA DE DEPóSITOS Y RESOLUCIóN DE ENTIDADES DE INTERMEDIACIóN FINANCIERA SUJETOS DE LA LEY GENERAL DE BANCOS, FINANCIERAS Y OTRAS ENTIDADES DE CRéDITO” y sus modificatorias; y otras empresas reguladas por leyes especiales, habilitadas y supervisadas por el Banco Central del Paraguay.
+
+Las entidades que intermedien fondos otorgados por la AFD son responsables ante ésta por el riesgo de crédito y de mercado y, en caso de financiación de proyectos que generen divisas para su repago, por la devolución en la misma moneda en la que recibió los recursos. El incumplimiento de las normas establecidas en el reglamento de crédito y demás reglamentaciones de la AFD, conllevará la aplicación de las penalidades que el Directorio establecerá, conforme a un régimen de gradualidad, las que consistirán en amonestaciones, apercibimientos, reducción de líneas de crédito, multas, cancelación del capital e intereses de los préstamos otorgados, hasta la suspensión temporal o definitiva en los programas de la AFD.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 17°
 
-Condiciones de adjudicación de recursos.
 
-La AFD establecerá y publicará las bases para las colocaciones de fondos, utilizando factores objetivos de selección y procedimientos de participación, competitivos y transparentes, que busquen la equidad por proyectos y programas, que excluyan cualquier tipo de exigencia que pueda significar dar condiciones preferenciales a algún intermediario, o grupo de intermediarios, frente a los demás.
+**Condiciones de otorgamiento de recursos.**
 
-Las bases de colocación indicarán, entre otros, el monto de fondos a adjudicar y las condiciones de plazo y tasa a que serán adjudicados a los intermediarios financieros, para su administración.
+La AFD reglamentará el procedimiento para el otorgamiento de fondos, utilizando factores objetivos y transparentes de selección, que excluyan cualquier tipo de exigencia que pueda significar dar condiciones preferenciales a algún intermediario, o grupo de intermediarios, frente a los demás.
 
-Para la equidad en su evaluación, la AFD tomará en consideración, además de otros criterios, el Capital Integrado y el nivel de relación Activo/Patrimonio (Artículo 56 Ley N° 861/96) de las IFIs propuestas.
+La reglamentación indicará, entre otros, el monto de fondos a colocar y las condiciones de plazo y tasa en que se efectuarán las colocaciones a los intermediarios financieros, para su administración.
+
+A efectos de la evaluación, la AFD tomará en consideración, además de otros criterios, el Capital Integrado y el nivel de relación Activo/Patrimonio según las regulaciones prudenciales vigentes.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 CAPITULO II
 
@@ -298,9 +367,14 @@ REGIMEN ESPECIAL, DISPOSICIONES FINALES Y TRANSITORIAS
 
 ### Artículo 20°
 
-Instrumento de ejecución y privilegio especial.
 
-A los efectos del cobro vía Judicial ante los estrados judiciales, como título que trae aparejada ejecución, el certificado de estado de cuenta deberá ser firmado por el Presidente y un miembro del Directorio designado para el efecto. Todas las acciones para reclamar el pago de los préstamos otorgados por la AFD prescriben a los diez años.
+**Instrumento de ejecución y privilegio especial.**
+
+A los efectos del cobro vía Judicial ante los estrados judiciales, como título que trae aparejada ejecución, será emitido un Certificado de Deuda que deberá ser firmado por el Presidente y el Gerente General. Todas las acciones para reclamar el pago de los préstamos otorgados por la AFD prescriben a los diez años.
+
+En los casos en que exista un proceso de Resolución o Liquidación de algún Banco, Empresa Financiera o Cooperativa, la AFD tiene privilegio especial en relación a las operaciones que realice con dichas instituciones. Tales operaciones tendrán el tratamiento de primer orden, de conformidad con lo previsto en el Artículo 20, inciso a), numeral 3), de la Ley N° 2334/2003 “DE GARANTÍA DE DEPóSITOS Y RESOLUCION DE ENTIDADES DE INTERMEDIACIóN FINANCIERA SUJETOS DE LA LEY GENERAL DE BANCOS, FINANCIERAS Y OTRAS ENTIDADES DE CRéDITO” y sus modificatorias. En tal sentido, los créditos otorgados con recursos de la AFD que conforman los activos de las IFIs sometidas a resolución o liquidación, se desafectarán del Balance y se transferirán por el Interventor/Liquidador a la AFD, en pago total o parcial de lo debido.
+
+> *Modificado por Ley N° 6769 (2021-07-16)*
 
 ### Artículo 21°
 
