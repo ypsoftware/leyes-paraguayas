@@ -477,9 +477,10 @@ Podrán ser electos, pero no podrán desempeñar sus funciones como Concejales q
 
 ### Artículo 27°
 
-Prohibiciones.
 
-Queda prohibido a los Concejales, sin perjuicio de lo que se establezca en otras leyes:
+**Prohibiciones.**
+
+Queda prohibido a los Concejales, sin perjuicio de lo que establezcan en otras leyes:
 
 a) utilizar la autoridad o influencia que pudiere tener a través del cargo, o la que se derive por influencia de terceras personas, para ejercer presión sobre la conducta de sus subordinados;
 
@@ -499,17 +500,22 @@ h) efectuar o patrocinar para terceros trámites o gestiones administrativas ant
 
 i) dirigir, administrar, asesorar, patrocinar, representar o prestar servicios remunerados o no, a personas físicas o jurídicas que gestionen o exploten concesiones en la municipalidad donde ejerzan sus funciones, o que fueren proveedores o contratistas de la misma;
 
-j) celebrar contrato con la Municipalidad, relacionado con la industria o el comercio, sea personalmente como socio o miembro de la dirección, administración o sindicatura de sociedades con fines de lucro. También es incompatible con toda ocupación que no pueda conciliarse con las obligaciones o la dignidad del cargo.
+j) celebrar contrato con la Municipalidad, relacionado con la industria o el comercio, sea personalmente como socio o miembro de la dirección, administración o sindicatura de sociedades con fines de lucro. También es incompatible con toda ocupación que no pueda conciliarse con las obligaciones o la dignidad del cargo;
+
+k) ejercer la función de titular de Unidad de Administración y Finanzas, Director Financiero o Administrativo de la Junta Municipal, en contravención a las disposiciones de los Artículos 36 y 51 de la Ley N° 3966/2010 “ORGÁNICA MUNICIPAL”, donde se establecen expresamente las funciones y atribuciones tanto de la Junta Municipal y la Intendencia Municipal, respectivamente.
+
+> *Modificado por Ley N° 6784 (2021-08-03)*
 
 ### Artículo 28°
 
-Dietas para Concejales.
+
+**Dietas para Concejales.**
 
 Los miembros de las Juntas Municipales percibirán una dieta mensual, la que será prevista en cada ejercicio presupuestario y cuyo monto será establecido como sigue:
 
 Municipalidades: Forma de Liquidación
 
-Asunción: no superior a ocho salarios mínimos para actividades diversas no especificadas en la República por cada Concejal;
+Asunción: no superior a ocho salarios mínimos para actividades diversas no especificadas en la República por cada Concejal.
 
 Primer y Segundo Grupos: hasta el 12% (doce por ciento) sobre el monto de los ingresos corrientes ejecutados, según el último informe anual de ejecución presupuestaria;
 
@@ -517,9 +523,15 @@ Tercer Grupo: hasta el 14% (catorce por ciento) sobre el monto de los ingresos c
 
 Cuarto Grupo: hasta el 18% (dieciocho por ciento) sobre el monto de los ingresos corrientes ejecutados, según el último informe anual de ejecución presupuestaria.
 
-En todos los grupos de municipalidades, salvo Asunción, el monto de la dieta que podrán percibir los Concejales, en ningún caso, podrá superar los seis salarios mínimos mensuales por cada Concejal.
+En todos los grupos de municipalidades, salvo Asunción, el monto de la dieta que podrán percibir los Concejales, en ningún caso, podrá superar los seis salarios mínimos mensuales por cada Concejal. La suma de cualquier otra remuneración fuera de la dieta que perciban los Concejales no deberá superar el 70% (setenta por ciento) de la dieta correspondiente.
 
 Para el cálculo de los porcentajes establecidos en este artículo no se incluirán, dentro de los ingresos corrientes ejecutados, las transferencias corrientes que reciban las municipalidades.
+
+En ningún caso la dieta mensual o cualquier otro ingreso que le corresponda a los Concejales, sufrirá descuento, dilación o falta de pago injustificados.
+
+El Intendente Municipal será el encargado de velar por la no discriminación en los pagos mencionados, en caso de verificarse tal discriminación, el Ministerio de Hacienda procederá a retener los Royalties provenientes de las Entidades Binacionales que transfiere al municipio afectado mientras se mantenga esta situación irregular.
+
+> *Modificado por Ley N° 6784 (2021-08-03)*
 
 Sección 2
 
