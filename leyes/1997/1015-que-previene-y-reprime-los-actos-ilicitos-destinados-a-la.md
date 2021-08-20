@@ -143,6 +143,7 @@ Este Capítulo abarca los lineamientos básicos y políticas que todo sujeto obl
 ### Artículo 13°
 
 
+
 **Sujetos obligados.**
 
 Quedan sujetos a las obligaciones establecidas en el presente capítulo, los siguientes sectores:
@@ -169,25 +170,27 @@ j) las que explotan juegos de azar;
 
 k) las inmobiliarias;
 
-l) las organizaciones sin fines de lucro (OSL)
+l) las organizaciones sin fines de lucro (OSL);
 
-m) las casas de empeño;
+m) las casas de empeños;
 
-n) las entidades gubernamentales,
+n) las entidades gubernamentales;
 
-ñ) las actividades y profesiones no financieras,
+ñ) las actividades y profesiones no financieras;
 
-o) la/s persona/s física/s o jurídica/s que se dedique de manera habitual a la intermediación financiera,
+o) la/s persona/s física/s o jurídica/s que se dedique de manera habitual a la intermediación financiera;
 
 p) el comercio de joyas, piedras y metales preciosos;
 
-q) objetos de arte y antigüedades, a la inversión filatélica o numismática; y,
+q) objetos de arte y antigüedades, a la inversión filatélica o numismática;
 
-r) las que realicen actos de comercio en general, que impliquen transferencias de dineros o valores, sean éstas formales o informales, de conformidad a lo establecido en esta Ley.
+r) las que realicen actos de comercio en general, que impliquen transferencias de dineros o valores, sean éstas formales o informales, de conformidad a lo establecido en esta Ley;
 
-Esta enumeración no será taxativa.
+s) los proveedores de servicios de activos virtuales (PSAV).
 
-> *Modificado por Ley N° 3783 (2009-07-20)*
+Esta enumeración no es taxativa, debiendo responder a los estándares y criterios reconocidos en la materia.
+
+> *Modificado por Ley N° 6797 (2021-08-20)*
 
 ### Artículo 14°
 
