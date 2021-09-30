@@ -1974,13 +1974,14 @@ Y LA INTIMIDAD DE LA PERSONA
 ### Artículo 142°
 
 
+
 **Invasión de inmueble ajeno.**
 
-1º.- El que individualmente o en concierto con otras personas, y sin consentimiento del titular, ingresara con violencia o clandestinidad a un inmueble ajeno, será castigado con pena privativa de libertad de hasta dos años o con multa.
+1.- El que, individualmente o en concierto con otras personas, ingresara con violencia o clandestinidad a un inmueble ajeno, será castigado con pena privativa de libertad de hasta seis años.
 
-2º.- Cuando la invasión en sentido del inciso anterior se realizara con el objeto de instalarse en él, la pena será privativa de libertad de hasta cinco años.
+2.- Cuando la invasión en el sentido del numeral anterior se realizara con el objeto de instalarse en él u ocasionando daño patrimonial a los bienes existentes en el inmueble ajeno, la pena privativa de libertad será de hasta diez años.
 
-> *Modificado por Ley N° 3440 (2008-07-16)*
+> *Modificado por Ley N° 6830 (2021-09-30)*
 
 ### Artículo 143°
 
