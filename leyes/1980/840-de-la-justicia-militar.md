@@ -174,7 +174,10 @@ De los Jueces de Primera Instancia
 
 ### Artículo 19°
 
-Habrá dos o más Jueces de 1a. Instancia. Los Jueces de dicha Institución serán designados por el Poder Ejecutivo, previo acuerdo de la Suprema Corte de Justicia Militar, debiendo recaer el nombramiento en Oficiales Superiores con el grado de Teniente Coronel de Justicia Militar y tendrán como Secretario a Oficiales Subalternos de Justicia Militar.
+
+Habrá dos o más Jueces de Primera Instancia, que serán nombrados por el Poder Ejecutivo, previo acuerdo de la Suprema Corte de Justicia Militar, debiendo recaer la designación en Oficiales de Justicia Militar, con dieciocho años de servicio, como mínimo, en el referido cuadro y tendrán como Secretario a Oficiales Subalternos de Justicia Militar con un año de servicio como mínimo en el cuadro.
+
+> *Modificado por Ley N° 6825 (2021-10-13)*
 
 ### Artículo 20°
 
@@ -186,7 +189,10 @@ De los Jueces de Instrucción
 
 ### Artículo 21°
 
-Habrá tres o más Juzgados de Instrucción. Los Jueces de dichos Juzgados serán nombrados por el Poder Ejecutivo, previo acuerdo de la Suprema Corte de Justicia Militar debiendo recaer el nombramiento en Oficiales Superiores con el Grado de Mayor de Justicia Militar y tendrán como Secretario un Oficial Subalterno de Justicia Militar.
+
+Habrá dos o más Jueces de Instrucción, que serán nombrados por el Poder Ejecutivo, previo acuerdo de la Suprema Corte de Justicia Militar, debiendo recaer la designación en Oficiales de Justicia Militar con doce años de servicio, como mínimo, en el referido cuadro y tendrán como Secretario a Oficiales Subalternos de Justicia Militar con un año de servicio como mínimo en el cuadro.
+
+> *Modificado por Ley N° 6825 (2021-10-13)*
 
 ### Artículo 22°
 
@@ -198,7 +204,10 @@ Del Ministerio Público
 
 ### Artículo 23°
 
-El Ministerio Público será ejercido por el Fiscal General y por los Agentes Fiscales nombrados por el Poder Ejecutivo previo acuerdo de la Suprema Corte de Justicia Militar, debiendo recaer el nombramiento en Oficiales Superiores. Para ser Fiscal General es requerido el Grado de Coronel de Justicia Militar y para los Agentes Fiscales el Grado de Mayor de Justicia Militar.
+
+El Ministerio Público será ejercido por el Fiscal General y por los Agentes Fiscales Militares, nombrados por el Poder Ejecutivo, previo acuerdo de la Suprema Corte de Justicia Militar. La designación del Fiscal General Militar deberá recaer en Oficiales de Justicia Militar con veinticuatro años de servicio, como mínimo, en el referido cuadro y la de los Agentes Fiscales en Oficiales de Justicia Militar con catorce años de servicio como mínimo en el cuadro.
+
+> *Modificado por Ley N° 6825 (2021-10-13)*
 
 ### Artículo 24°
 
@@ -224,7 +233,10 @@ Del Defensor de Pobres
 
 ### Artículo 25°
 
-Habrá uno o más Defensores de Pobres. Los Defensores de Pobres serán designados por el Poder Ejecutivo, previo acuerdo de la Suprema Corte de Justicia Militar, debiendo recaer el nombramiento en Oficiales Superiores con el grado de Mayor de Justicia Militar y tendrán como Secretario a un Oficial Subalterno de Justicia Militar.
+
+Habrá uno o más Defensores de Pobres. Los Defensores de Pobres serán designados por el Poder Ejecutivo, previo acuerdo de la Suprema Corte de Justicia Militar, debiendo recaer la designación en Oficiales de Justicia Militar con diez años de servicio en el cuadro respectivo, como mínimo y tendrán como Secretario a un Oficial Subalterno de Justicia Militar.
+
+> *Modificado por Ley N° 6825 (2021-10-13)*
 
 ### Artículo 26°
 
