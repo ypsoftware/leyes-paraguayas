@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/1386/texto
 short_title: "QUE REGULA EL PROCEDIMIENTO PARA EL ENJUICIAMIENTO Y…"
+derogada: true
+derogada_por: Ley 6814
+derogada_fecha: 2021-10-13
 ---
 
 # LEY Nº 3759
@@ -406,3 +409,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a dieciséis días del mes de abril del año dos mil nueve, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a cuatro días del mes de junio del año dos mil nueve, de conformidad a lo dispuesto en Artículo 207, numeral 1) de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 6814 (2021-10-13)*
