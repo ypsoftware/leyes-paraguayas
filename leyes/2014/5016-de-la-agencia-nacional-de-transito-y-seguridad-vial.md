@@ -1776,9 +1776,10 @@ Faltas leves. Constituyen faltas leves todas aquellas infracciones no calificada
 
 ### Artículo 112°
 
+
 Faltas graves. Constituyen faltas graves las siguientes:
 
-a) Las que violando las disposiciones vigentes en la presente Ley y su reglamentación, resulten atentatorias contra la seguridad en el tránsito.
+a) Las que violando las disposiciones vigentes en la presente ley y su reglamentación, resulten atentatorias contra la seguridad en el tránsito.
 
 b) Las que:
 
@@ -1832,9 +1833,12 @@ v) Mantener abiertas las puertas de un vehículo al servicio del transporte púb
 
 w) Negarse a pagar o evadir el pago de la tarifa de peaje.
 
-x) La conducción en estado de intoxicación alcohólica desde 0.200 a 0.799 mg/L de CAAL y 0.400 a 1.599 g/L de CAS.
+x) La conducción en estado de intoxicación alcohólica desde 0.200 a 0.250 mg/L de CAAL y 0.400 a 0.500 g/l de CAS.
+
+> *Modificado por Ley N° 6842 (2021-11-08)*
 
 ### Artículo 113°
+
 
 Faltas gravísimas. Constituyen faltas gravísimas las siguientes:
 
@@ -1850,7 +1854,7 @@ e) Cuando el infractor sea funcionario y cometa la falta abusando de tal caráct
 
 f) Fugarse o negarse a suministrar documentación o información, cuando lo exigiere la autoridad de aplicación.
 
-g) La conducción en estado de intoxicación alcohólica, estupefacientes u otra sustancia que disminuya las condiciones psicofísicas normales y/o en estado de agotamiento.
+g) La conducción en estado de intoxicación alcohólica, desde 0.251 mg/L a 0.399 mg/L CAAL (miligramo de alcohol por litro de aire exhalado) o desde 0.501 g/l a 0.799 g/l de CAS (gramo de alcohol por litro de sangre), la constatación laboratorial de intoxicación por consumo de estupefacientes u otras sustancias psicoactivas que alteren las condiciones psicofísicas normales requeridas para conducir. Superado este límite, los antecedentes serán remitidos al Ministerio Público para la persecución penal y aplicación de la pena conforme a lo establecido en la Ley N° 1160/1997 “CODIGO PENAL”.
 
 h) La negativa a someterse a la realización de la prueba de alcoholemia y/o espirometría y/o testeo de estupefacientes.
 
@@ -1865,6 +1869,8 @@ l) Conducir un vehículo en sentido contrario al tránsito.
 m) El consumo de bebidas alcohólicas, cualquiera sea su graduación, en la vía pública y en establecimientos comerciales que tengan acceso directo desde autopistas, rutas nacionales, ramales o caminos departamentales.
 
 n) La destrucción, inutilización o daño de cualquier señal de tránsito dispuesta por la autoridad competente, sin perjuicio de que además esté tipificado como hecho punible en la legislación penal.
+
+> *Modificado por Ley N° 6842 (2021-11-08)*
 
 ### Artículo 114°
 
