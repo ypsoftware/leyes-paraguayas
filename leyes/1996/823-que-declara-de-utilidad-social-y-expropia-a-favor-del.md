@@ -18,7 +18,12 @@ Declárase de utilidad social y exprópiase a favor del Instituto de Bienestar R
 
 ### Artículo 2°
 
-El Ministerio de Hacienda procederá a indemnizar a los propietarios de las Fincas expropiadas en el artículo 1o. de la presente Ley con el monto proveniente del remate de la Finca No. 2.277 de la Colonia Juan León Mallorquín, Distrito Juan E. O'Leary, Departamento Alto Paraná, depositado en el Banco Central del Paraguay en la Cuenta No. 490 "Otros Recursos" del Ministerio de Hacienda y a nombre del Comando del Ejército. Autorízase al Poder Ejecutivo a ampliar el Presupuesto General de la Nación 1996 en la suma indicada.
+
+Procédase a indemnizar a las personas que legítimamente acrediten la calidad de propietario de la finca expropiada, conforme con lo dispuesto en la Constitución Nacional y las leyes. El Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT) y los propietarios acordarán en un plazo no mayor de noventa días el precio de la finca expropiada. En caso de no haber acuerdo en el citado plazo, las partes recurrirán al Juzgado de Primera Instancia que corresponda, a los efectos de la determinación judicial del precio.
+
+En caso que, el Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT), no cuente con fondos para cumplir con esta obligación a la promulgación de la presente ley, deberá incluir el monto acordado o determinado en su proyecto de Presupuesto para el ejercicio posterior a la promulgación de la presente ley, a fin de su aprobación en el Presupuesto General de la Nación, para indemnizar a los propietarios.
+
+> *Modificado por Ley N° 6852 (2021-11-23)*
 
 ### Artículo 3°
 
