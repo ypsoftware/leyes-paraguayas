@@ -1162,6 +1162,7 @@ El cambio de luz alta por luz baja se deberá realizar por lo menos doscientos m
 
 ### Artículo 66°
 
+
 Prohibiciones. Está prohibido en la vía pública:
 
 a) Conducir con impedimentos físicos, psíquicos o agotamiento, sin la licencia correspondiente o estando esta vencida, o habiendo consumido bebidas alcohólicas, estupefacientes o medicamentos que disminuyan la aptitud para la conducción de todo tipo de vehículo, cualquiera sea la concentración por litro de sangre. La autoridad competente realizará el respectivo control mediante el método adecuado aprobado a tal fin por el organismo competente.
@@ -1190,7 +1191,7 @@ l) A los ómnibus y camiones transitar en los caminos manteniendo entre sí una 
 
 m) Remolcar automotores, salvo para los vehículos destinados a tal fin. Los demás vehículos podrán hacerlo en caso de fuerza mayor, utilizando elementos rígidos de acople y con la debida precaución. En horas de la noche, no se podrá remolcar un vehículo sin estar debidamente iluminado.
 
-n) Circular con un convoy de vehículos integrado con más de un acoplado, salvo lo dispuesto para la maquinaria especial y agrícola.
+n) con un convoy de vehículos integrado con más de un acoplado, salvo lo dispuesto para la maquinaria especial y agrícola.
 
 ñ) Transportar residuos, escombros, tierra, arena, grava, aserrín, otra carga a granel, polvorientas, que difunda olor desagradable, emanaciones nocivas o sean insalubres, en vehículos o continentes no destinados a ese fin. Las unidades para transporte de animales o sustancias nauseabundas deben ser lavadas y desinfectadas en el lugar de descarga y en cada ocasión, salvo las excepciones reglamentarias para la zona rural.
 
@@ -1208,15 +1209,19 @@ t) Usar la bocina o señales acústicas, salvo en caso de peligro o en zona rura
 
 u) Circular con vehículos que emitan gases, humos, ruidos, radiaciones u otras emanaciones contaminantes del ambiente, que excedan los límites reglamentarios.
 
-v) Conducir utilizando auriculares y/o sistemas de comunicación móvil de operación manual contínua.
+v) Conducir utilizando auriculares y/o sistemas de comunicación móvil de operación manual continua.
 
-w) Circular con vehículos que posean defensas delanteras y/o traseras, enganches sobresalientes, o cualquier otro elemento que, excediendo los límites de los paragolpes o laterales de la carrocería, pueden ser potencialmente peligrosos para el resto de los usuarios de la vía pública.
+w) Circular con vehículos que posean defensas delanteras y/o traseras, enganches sobresalientes, o cualquier otro elemento que, excediendo los límites de los paragolpes o laterales de la carrocería, pueden ser potencialmente peligrosas para el resto de los usuarios de la vía pública.
 
 x) Conducir vehículos que tengan instalados inhibidores de radar u otros mecanismos encaminados a interferir el correcto funcionamiento de los sistemas de vigilancia del tránsito.
 
 y) Instalar en la parte delantera de los vehículos, y especialmente sobre el tablero, equipos de televisión, monitores o pantallas.
 
 z) Conducir vehículos al servicio del transporte público con un número de pasajeros superior a la capacidad autorizada. La autoridad que sorprenda tal acto, hará descender del vehículo a los pasajeros que viajen de pie, debiéndose devolver el precio del pasaje en su caso. No se aplicará la presente disposición al transporte público urbano.
+
+aa) El uso de indicadores rotativos luminosos para los vehículos no mencionados en el artículo 65 numeral 3.
+
+> *Modificado por Ley N° 6868 (2021-12-13)*
 
 ### Artículo 67°
 
