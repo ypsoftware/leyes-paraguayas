@@ -23,7 +23,10 @@ Objeto. Por la presente Ley, se crea el mecanismo legal simplificado denominado 
 
 ### Artículo 2°
 
-Fin. El Sistema Unificado para la Apertura y Cierre de Empresas (SUACE) operará como una ventanilla única de entrada de las solicitudes de los trámites requeridos para la apertura y cierre de empresas con el fin de facilitar, agilizar y transparentar dichos procesos, así como la unificación de datos estadísticos e implementación de políticas públicas de incentivo al sector empresarial, prestadores de servicios, parques industriales y otras entidades comerciales conforme a las Leyes especiales que las promueven.
+
+Fin. El Sistema Unificado para la Apertura y Cierre de Empresas (SUACE), operará como una ventanilla única, a través de una plataforma digital de entrada de las solicitudes de los trámites requeridos para la apertura y cierre de empresas con el fin de facilitar, agilizar y transparentar dichos procesos, así como la unificación de datos estadísticos e implementación de políticas públicas de incentivo al sector empresarial, prestadores de servicios, parques industriales y otras entidades comerciales, conforme a las leyes especiales que las promueven.
+
+> *Modificado por Ley N° 6867 (2021-12-13)*
 
 ### Artículo 3°
 
@@ -31,31 +34,38 @@ Creación y Naturaleza Jurídica. A los efectos de la presente Ley, créase la D
 
 ### Artículo 4°
 
+
 Entidades Adheridas. A los efectos de la presente Ley, serán consideradas entidades adheridas al Sistema Unificado para la Apertura y Cierre de Empresas (SUACE), las siguientes instituciones:
 
-a) Dirección General de los Registros Públicos, dependiente de la Corte Suprema de Justicia o la institución que tenga bajo su supervisión y control los registros públicos;
+a) Ministerio de Industria y Comercio.
 
-b) Ministerio de Industria y Comercio;
+b) Ministerio de Justicia.
 
-c) Ministerio de Justicia y Trabajo;
+c) Ministerio de Trabajo, Empleo y Seguridad Social.
 
-d) Ministerio de Hacienda;
+d) Ministerio de Hacienda (Dirección General de Personas y Estructuras Jurídicas y de Beneficiarios Finales y Secretaría de Estado de Tributación).
 
-e) Ministerio del Interior;
+e) Ministerio del Interior (Dirección General de Migraciones; Departamento de Identificaciones).
 
-f) Instituto de Previsión Social;
+f) Ministerio del Ambiente y Desarrollo Sostenible.
 
-g) Dirección Nacional de Aduanas;
+g) Ministerio de Relaciones Exteriores.
 
-h) Dirección Nacional de Contrataciones Públicas;
+h) Instituto de Previsión Social.
 
-i) Las Municipalidades; y,
+i) Dirección Nacional de Aduanas.
 
-j) Las demás instituciones que se adhieran al Sistema Unificado para la Apertura y Cierre de Empresas (SUACE), de conformidad a la presente Ley.
+j) Banco Nacional de Fomento.
 
-Estas instituciones serán denominadas en adelante entidades adheridas al Sistema Unificado para la Apertura y Cierre de Empresas (SUACE).
+k) Las Municipalidades.
 
-Las entidades adheridas al Sistema Unificado para la Apertura y Cierre de Empresas (SUACE), dictarán normas destinadas a lograr la facilitación, eficiencia, agilidad y transparencia de los trámites y colaborarán con la difusión y operatividad del sistema a través de sus recursos tecnológicos permitiendo, entre otros, el acceso a través de sus páginas web a la página de internet del Sistema Unificado para la Apertura y Cierre de Empresas (SUACE).
+l) Dirección General de los Registros Públicos, dependiente de la Corte Suprema de Justicia o la institución que tenga bajo su supervisión y control los registros públicos.
+
+m) Las demás instituciones que se adhieran al Sistema Unificado para la Apertura y Cierre de Empresas (SUACE), de conformidad a la presente Ley.
+
+Estas instituciones serán denominadas en adelante entidades adheridas al Sistema Unificado para la Apertura y Cierre de Empresas (SUACE). Las entidades adheridas al Sistema Unificado para la Apertura y Cierre de Empresas (SUACE), dictarán normas destinadas a lograr la facilitación, eficiencia, agilidad y transparencia de los tramites y colaborarán con la difusión y operatividad del sistema a través de sus recursos tecnológicos permitiendo, entre otros, el acceso a través de sus páginas web a la página de internet del Sistema Unificado para la Apertura y Cierre de Empresas (SUACE).
+
+> *Modificado por Ley N° 6867 (2021-12-13)*
 
 ### Artículo 5°
 
@@ -101,19 +111,27 @@ DE LA ESTRUCTURA ORGANICA BASICA DEL SISTEMA UNIFICADO PARA LA APERTURA Y CIERRE
 
 ### Artículo 7°
 
-Estructura Orgánica. El Sistema Unificado para la Apertura y Cierre de Empresas (SUACE), tendrá la siguiente estructura administrativa básica, sin perjuicio de que el Ministerio de Industria y Comercio amplíe la misma, a los efectos de su eficiencia y funcionamiento adecuado:
 
-a) Dirección General;
+Estructura Orgánica. El Sistema Unificado para la Apertura y Cierre de Empresas (SUACE), tendrá la siguiente estructura administrativa básica, sin perjuicio de que el Ministerio de Industria y Comercio, amplíe la misma, a los efectos de su eficiencia y funcionamiento adecuado:
 
-b) Secretaría;
+a) Dirección General.
 
-c) Dirección de Gestión de Trámites; y,
+b) Secretaría.
 
-d) Dirección de Registros Administrativos y de Fiscalización.
+c) Dirección de Gestión de Trámites.
+
+d) Dirección de Registros Administrativos y de Verificación.
+
+e) Dirección de Inversiones y Regímenes Especiales.
+
+> *Modificado por Ley N° 6867 (2021-12-13)*
 
 ### Artículo 8°
 
-Manual de Funciones y Procedimientos. El Ministerio de Industria y Comercio deberá dictar un Manual de Funciones para los funcionarios propios del Sistema Unificado para la Apertura y Cierre de Empresas (SUACE) y una guía de procedimientos a los efectos de garantizar las funciones del sistema.
+
+Manual de Funciones y Procedimientos. Las dependencias que formen parte de la Estructura Orgánica del Sistema Unificado de Apertura y Cierre de Empresas (SUACE), así como las demás entidades adheridas, conforme a los Artículos 4° y 7° de la presente Ley, respectivamente, deberán actualizar los Manuales de Funciones para los funcionarios que forman parte del Sistema Unificado de Apertura y Cierre de Empresas (SUACE) y establecer una guía de procedimientos, a los efectos de garantizar las funciones del sistema.
+
+> *Modificado por Ley N° 6867 (2021-12-13)*
 
 CAPITULO IV
 
@@ -125,7 +143,10 @@ Director General. La Dirección General del Sistema Unificado para la Apertura y
 
 ### Artículo 10°
 
-Requisitos. El Director General del Sistema Unificado para la Apertura y Cierre de Empresas (SUACE) debe ser de nacionalidad paraguaya, de reconocida idoneidad, haber cumplido treinta años de edad y poseer título universitario en una carrera directamente relacionada con la materia de su competencia.
+
+Requisitos. El Director General del Sistema Unificado para la Apertura y Cierre de Empresas (SUACE), debe ser de nacionalidad paraguaya, de reconocida idoneidad y poseer título universitario.
+
+> *Modificado por Ley N° 6867 (2021-12-13)*
 
 ### Artículo 11°
 
@@ -163,25 +184,44 @@ d) Coordinar el procesamiento documental, la implementación de los trámites po
 
 ### Artículo 13°
 
+
 Funcionarios Delegados. Sin perjuicio de las funciones que se establezcan por reglamentos de aplicación general para las entidades adheridas al Sistema Unificado para la Apertura y Cierre de Empresas (SUACE) y sus Delegados, las siguientes constituyen las funciones propias de los Delegados de las entidades adheridas al Sistema Unificado para la Apertura y Cierre de Empresas (SUACE):
 
-a) El Delegado de la Dirección General de Registros Públicos en su carácter de representante de las oficinas de Personas Jurídicas y Asociaciones y Registro Público de Comercio realizará los trámites y las inscripciones de las entidades jurídicas y comerciales conforme la legislación vigente y que fueran de su competencia.
+a) El Delegado de la Dirección General de los Registros Públicos, en su carácter de representante de las oficinas de Personas Jurídicas y Asociaciones y Registro Público de Comercio realizará los trámites y las inscripciones de las entidades jurídicas y comerciales conforme la legislación vigente y que fueran de su competencia.
 
-b) El Delegado de la Abogacía del Tesoro realizará la función de revisión de los actos de constitución, modificación y extinción de las personas jurídicas.
+b) El Delegado de la Dirección General de Personas y Estructuras Jurídicas y Beneficiarios Finales (DGPEJBF), realizará la función de revisión de los actos de constitución, registro de constitución, modificación y extinción de las personas jurídicas.
 
-c) El Delegado del Ministerio de Justicia y Trabajo realizará la inscripción patronal de las Personas Jurídicas que lo soliciten, así como cualquier otro eventual procedimiento administrativo que una Persona Jurídica deba realizar ante dicho Ministerio.
+c) El Delegado de la Subsecretaría de Estado de Tributación (SET), del Ministerio de Hacienda, al momento del ingreso de la solicitud, realizará el correspondiente registro de las personas físicas o jurídicas y emitirá la constancia del Registro Único de Contribuyentes (RUC).
 
-d) El Delegado del Instituto de Previsión Social (IPS), o de cualquier entidad que en el futuro sustituya a dicho Instituto, realizará la inscripción patronal ante dicho organismo.
+d) El Delegado del Ministerio de Trabajo, Empleo y Seguridad Social, realizará la inscripción patronal de las personas juridicas que lo soliciten, asi como cualquier otro eventual procedimiento administrativo que una persona jurídica deba realizar ante dicho Ministerio.
 
-e) El Delegado de la Subsecretaría de Tributación del Ministerio de Hacienda registrará a las Personas Jurídicas ante el fisco, y emitirá el certificado del Registro Unico de Contribuyentes (RUC); y el certificado de cumplimiento tributario correspondiente.
+e) El Delegado del Instituto de Previsión Social, o de cualquier entidad que en el futuro sustituya a dicho Instituto, realizará la inscripción patronal ante dicho organismo.
 
-f) El Delegado de la Dirección Nacional de Aduanas registrará a las Personas Físicas o Jurídicas en todos los Registros que las Leyes en materia aduanera requieran para poder realizar gestiones en dicha dirección.
+f) En caso de que el solicitante lo requiera, el Delegado de la Dirección Nacional de Aduanas, recabará y registrará todos los documentos y firmas necesarias de las personas físicas o jurídicas en los sistemas de registros establecidos por la legislación vigente en materia aduanera y sus correspondientes normativas jurídicas cuyos requerimientos son necesarios para la realización de gestiones en la Dirección Nacional de Aduanas.
 
-g) El Delegado de la Dirección Nacional de Contrataciones Públicas realizará el registro a las Personas Físicas o Jurídicas conforme a su normativa vigente.
+g) El Delegado del Ministerio del Ambiente y Desarrollo Sostenible, a través de la dependencia correspondiente tramitará el otorgamiento del permiso o licencia ambiental.
 
-h) El Delegado del Ministerio del Interior, a través de la Dirección de Migraciones; tramitará el otorgamiento de la residencia a los ciudadanos extranjeros que formen parte de las personas jurídicas en trámite y todas aquellas gestiones de naturaleza migratoria que pudieran afectar a la apertura, operación y cierre de las empresas.
+h) El Delegado del Ministerio del Interior, a través de la Dirección General de Migraciones y el Departamento de Identificaciones, tramitarán el otorgamiento de la residencia y la cédula de identidad paraguaya a los ciudadanos extranjeros que formen parte de las personas jurídicas en trámite y todas aquellas gestiones de naturaleza migratoria que pudieran afectar a la apertura, operación y cierre de las empresas.
 
-i) Los Delegados de las Municipalidades que se constituyan serán encargados de emitir la constancia de pago de patente y la licencia municipal y cualquier otro trámite que se incorpore a los procesos previstos en la presente Ley.
+i) Los Delegados de las Municipalidades que se constituyan serán encargados de emitir la constancia de pago de patente, la licencia municipal y cualquier otro tramite que se incorpore a los procesos previstos en la presente Ley.
+
+j) El Delegado del Ministerio de Relaciones Exteriores, será el encargado de tramitar y facilitar los documentos necesarios para los técnicos, especialistas y demás expertos, que deberán ingresar al país como personal técnico en el proceso de instalación de las empresas o industrias extranjeras.”
+
+“CAPÍTULO VI
+
+DE LA DIRECCIÓN DE REGISTROS ADMINISTRATIVOS Y DE VERIFICACIÓN
+
+Art.- 14.- Atribuciones. La Dirección de Registros Administrativos y de Verificación tendrá a su cargo las siguientes funciones:
+
+a) Coordinar, mantener y unificar la base de datos de los registros administrativos que son competencia del Ministerio de Industria y Comercio.
+
+b) Verificar la implementación de las nomenclaturas y clasificadores para cada registro y la elaboración de un formulario adecuado que posibilite la recolección de la información necesaria.
+
+c) Proponer la firma de convenios con el sector público y privado que pudieran ser útiles para el cumplimiento de sus funciones.
+
+d) Elaborar un registro y mantener actualizada la base de datos de las personas físicas y/o jurídicas que realizan asesoramiento a los inversionistas que concurren ante el Sistema Unificado para la Apertura y Cierre de Empresas (SUACE).
+
+> *Modificado por Ley N° 6867 (2021-12-13)*
 
 CAPITULO VI
 
@@ -203,7 +243,14 @@ DEL FINANCIAMIENTO
 
 ### Artículo 15°
 
-Presupuesto. El Presupuesto de la Dirección General del Sistema Unificado para la Apertura y Cierre de Empresas (SUACE) se integrará con los fondos que anualmente destine al efecto la Ley del Presupuesto General de la Nación al Ministerio de Industria y Comercio, ingresos que perciba por las tasas previstas en la presente Ley, donaciones, aportes y préstamos no reembolsables o cooperaciones que obtuviera.
+
+Presupuesto. El Ministerio de Industria y Comercio, a través del Presupuesto General de la Nación, deberá prever los recursos necesarios para el funcionamiento de las dependencias que conforman la Estructura Orgánica Básica del Sistema Unificado para la Apertura y Cierre de Empresas (SUACE), así como los que fueren necesarios para la ejecución de los procesos, conforme a los procedimientos específicos establecidos en los articulados de la presente Ley, en consecuencia con el Organigrama a ser aprobado por el Poder Ejecutivo. Para instrumentar efectivamente los requerimientos contemplados en la mejora legislativa contínua, pero con eficacia, adaptando a las innovaciones y competitividad regional y mundial, los Organismos y Entidades del Estado (OEE), involucrados deberán aunar esfuerzos para consolidar los procesos técnicos y administrativos para asegurar la interconexión e interoperabilidad de sus sistemas informáticos, asegurando así el logro eficaz contemplado en la presente Ley, en concordancia con la Ley N° 6562/2020 “DE LA REDUCCLÓN DE LA UTILIZACIÓN DE PAPEL EN LA GESTIÓN PÚBLICA Y SU REEMPLAZO POR EL FORMATO DIGITAL”; la Ley N° 4017/2010 “DE VALIDEZ JURÍDICA DE LA FIRMA ELECTRÓNICA, LA FIRMA DIGITAL, LOS MENSAJES DE DATOS Y EL EXPEDIENTE ELECTRÓNICO”; y su modificatoria, la Ley N° 4610/2012; y demás leyes, así como otras normativas vigentes.”
+
+“CAPÍTULO X
+
+PROCEDIMIENTO Y PLAZOS PARA CUMPLIMIENTO DE TRÁMITES EN ENTIDADES ADHERIDAS
+
+> *Modificado por Ley N° 6867 (2021-12-13)*
 
 CAPITULO VIII
 
