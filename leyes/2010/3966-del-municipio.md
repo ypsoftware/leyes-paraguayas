@@ -725,17 +725,22 @@ El Ministerio del Interior y cada gobierno departamental deberán implementar un
 
 ### Artículo 44°
 
-Publicación de Ordenanzas.
 
-Las ordenanzas tendrán fuerza obligatoria desde el día siguiente de su publicación íntegra en cuanto menos un diario de amplia circulación local.
+**Publicación de Ordenanzas.**
 
-A falta de diarios de circulación local o de recursos económicos para la publicación, las Ordenanzas tendrán fuerza obligatoria después de la exposición de su texto íntegro durante diez días, por lo menos, en sitios públicos del municipio o mediante la difusión por otros medios idóneos escritos, radiales, televisivos o medios electrónicos durante el mismo plazo.
+Las Ordenanzas tendrán fuerza obligatoria desde el día siguiente de su publicación íntegra, en cuanto menos un diario de amplia circulación local y/o en el sitio web de la institución o en el que el Ministerio del Interior habilite al efecto.
 
-En estos casos, deberá dejarse constancia de las fechas de difusión o exhibición mediante acta labrada por el Secretario General de la Municipalidad.
+A falta de diarios de circulación local o de recursos económicos para la publicación, tendrá fuerza obligatoria después de la exposición de su texto íntegro durante diez días, por lo menos, en sitios públicos del municipio o mediante la difusión por otros medios idóneos escritos, radiales, televisivos o medios electrónicos durante el mismo plazo. En estos casos, deberá dejarse constancia de las fechas de difusión o exhibición mediante acta labrada por el Secretario General de la Municipalidad.
 
-Copias íntegras de todas las Ordenanzas, Reglamentos y Resoluciones municipales deberán estar a libre disposición del público en el local de la Municipalidad respectiva.
+Deberá asimismo realizarse obligatoriamente la publicación digital en el sitio web de la institución o en el habilitado por el Ministerio del Interior a tal efecto, para lo cual la Municipalidad enviará en todos los casos en un plazo máximo de cinco días de promulgada, una copia de la Ordenanza a dicho Ministerio, el cual coordinará con instituciones del Estado la publicación de las mismas en un sitio oficial a su cargo.
+
+En caso de que no se cumpla con la publicación en un diario de amplia circulación local y no se preceda de conformidad al segundo párrafo del presente artículo, se considerará igualmente publicada la ordenanza que haya sido difundida a través del sitio web de la institución o el que el Ministerio del Interior habilite al efecto.
+
+Copias íntegras en formato físico y digital de todas las Ordenanzas, Reglamentos y Resoluciones municipales, deberán estar a libre disposición del público en el local de la Municipalidad respectiva y en el sitio web de la institución.
 
 El Intendente Municipal y el Secretario General de la Municipalidad deberán velar por el cumplimiento de las disposiciones previstas en este artículo, so pena de incurrir en mal desempeño de sus funciones.
+
+> *Modificado por Ley N° 6866 (2021-12-13)*
 
 ### Artículo 45°
 
