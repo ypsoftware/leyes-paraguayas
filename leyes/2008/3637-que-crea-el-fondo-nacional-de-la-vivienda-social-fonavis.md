@@ -15,7 +15,18 @@ short_title: "QUE CREA EL FONDO NACIONAL DE LA VIVIENDA SOCIAL – FONAVIS."
 
 ### Artículo 1°
 
-Créase el Fondo Nacional de la Vivienda Social, en adelante FONAVIS, que se regirá por lo establecido en la presente Ley y en su reglamentación.
+
+Créase el Fondo Nacional de la Vivienda Social, en adelante FONAVIS, que se regirá por lo establecido en la presente ley y en su reglamentación, respondiendo a los principios de:
+
+Economía y eficiencia.
+
+Igualdad y libre competencia.
+
+Transparencia y publicidad.
+
+Simplificación y modernización administrativa.
+
+> *Modificado por Ley N° 6807 (2021-12-21)*
 
 ### Artículo 2°
 
@@ -43,23 +54,26 @@ A los efectos de la interpretación de la presente Ley, se entenderá por:
 
 ### Artículo 4°
 
-Los recursos del FONAVIS estarán constituidos de la siguiente manera:
 
-a) un aporte inicial del Estado de G. 30.000.000.000 (Guaraníes treinta mil millones), a ser incluido en el presupuesto del año siguiente a la promulgación de esta Ley;
+Los recursos del FONAVIS, estarán constituidos de la siguiente manera:
 
-b) los aportes anuales del Tesoro Nacional equivalente al 0,1% (cero coma un por ciento) del Producto Interno Bruto (PIB) del año anterior, que se incluyen en la Ley de Presupuesto General de la Nación;
+Un aporte inicial del Estado de G. 30.000.000.000 (Guaraníes treinta mil millones), a ser incluido en el presupuesto del año siguiente a la promulgación de la presente ley.
 
-c) el 5% (cinco por ciento) de los Royaltíes de las empresas Binacionales, Itaipú y Yacyretá, concerniente al Estado central;
+Los aportes anuales del Tesoro Nacional equivalente al 0,1% (cero coma un por ciento) del Producto Interno Bruto (PIB) del año anterior, que se incluyen en la Ley de Presupuesto General de la Nación.
 
-d) los provenientes de contratos de préstamos internos y externos que sean celebrados, a los fines previstos por esta Ley;
+El 5% (cinco por ciento) de los Royaltíes de las empresas Binacionales, Itaipú y Yacyretá, concerniente al Estado central.
 
-e) las donaciones o legados que se efectuaren a favor del Estado paraguayo para destinarlos a diversos programas de vivienda;
+Los provenientes de contratos de préstamos internos y externos que sean celebrados, a los fines previstos por la presente ley.
 
-f) los provenientes de las devoluciones de Subsidios de Vivienda otorgados en los casos previstos en esta Ley y sus reglamentaciones;
+Las donaciones o legados que se efectuaren a favor del Estado paraguayo para destinarlos a diversos programas de vivienda.
 
-g) las sumas que le transfieran los gobiernos departamentales y/o municipales para financiar los planes y programas de inversión acordados con los mismos; y,
+Los provenientes de las devoluciones de Subsidios de Vivienda otorgados en los casos previstos en la presente ley y sus reglamentaciones.
 
-h) los demás recursos que las disposiciones legales destinen a dicho fondo.
+Las sumas que le transfieran los gobiernos departamentales y/o municipales para financiar los planes y programas de inversión acordados con los mismos.
+
+Los demás recursos que las disposiciones legales destinen a dicho fondo.
+
+> *Modificado por Ley N° 6807 (2021-12-21)*
 
 ### Artículo 5°
 
@@ -71,61 +85,102 @@ Los recursos financieros no ejecutados al final del ejercicio presupuestario anu
 
 ### Artículo 7°
 
-La administración del FONAVIS estará a cargo del CONAVI o la Institución que la reemplace y tendrá las siguientes atribuciones:
 
-a) definir las políticas generales del fondo y fijar procedimientos para su utilización;
+La administración del FONAVIS, estará a cargo del Ministerio de Urbanismo, Vivienda y Hábitat (MUVH) o la institución que la reemplace y tendrá las siguientes atribuciones:
 
-b) priorizar la ejecución de programas de viviendas para sectores de pobreza y extrema pobreza;
+Definir las políticas generales del fondo y fijar procedimientos para su utilización.
 
-c) gestionar convenios con organismos nacionales e internacionales, a fin de obtener y acrecentar los recursos del fondo;
+Priorizar la ejecución de programas de viviendas para sectores de pobreza y extrema pobreza.
 
-d) fijar los montos a ser desembolsados en función de los diferentes estratos socioeconómicos y niveles de subsidio, de acuerdo con los planes y programas que la Institución ejecute;
+Gestionar convenios con organismos nacionales e internacionales, a fin de obtener y acrecentar los recursos del fondo.
 
-e) fijar y reglamentar procedimientos, características y requisitos que deben reunir las instituciones u organizaciones que financien los créditos complementarios a los subsidios, precautelando el interés social perseguido en esta Ley;
+Fijar los montos a ser desembolsados en función de los diferentes estratos socioeconómicos y niveles de subsidio, de acuerdo con los planes y programas que la Institución ejecute.
 
-f) determinar y declarar los proyectos a nivel nacional, que formen parte de los programas de Vivienda Social.
+Dictar reglamentos y procedimientos, que contemplen las características que deben reunir las instituciones que financien créditos complementarios a los subsidios, las condiciones que deben reunir los prestadores de servicios y constructoras, que intervengan en la ejecución de proyectos de viviendas y sus obligaciones, así como también ejercer la función contralora y disciplinaria sancionadora de los mismos, aplicando sanciones administrativas, sin perjuicio de comunicar a los organismos competentes, según el caso.
+
+Determinar y declarar los proyectos a nivel nacional, que formen parte de los programas de Vivienda Social.
+
+> *Modificado por Ley N° 6807 (2021-12-21)*
 
 ### Artículo 8°
 
-Modalidad de acción: Para el cumplimiento de sus objetivos, el FONAVIS posibilitará la disponibilidad de fondos para el otorgamiento de subsidios destinados al sector habitacional, de acuerdo con las siguientes características:
 
-a) El Subsidio Nacional de la Vivienda Social constituirá una ayuda estatal, sin cargo de restitución, otorgada por una sola vez a los beneficiarios de los programas del CONAVI (o la Institución que la reemplace) para la adquisición, construcción, ampliación o mejora de la vivienda, con el fin de posibilitar el acceso a una vivienda digna al beneficiario y su grupo familiar.
+Modalidad de acción: Para el cumplimiento de sus objetivos, el FONAVIS, posibilitará la disponibilidad de fondos para el otorgamiento de subsidios destinados al sector habitacional, de acuerdo con las siguientes características:
 
-b) El subsidio será explícito, de monto conocido y diferenciado según el ingreso familiar promedio del beneficiario y el costo del valor máximo del tipo de vivienda y de acuerdo con los siguientes estratos:
+El Subsidio Nacional de la Vivienda Social constituirá una ayuda estatal, sin cargo de restitución, otorgada por una sola vez a los beneficiarios de los programas del Ministerio de Urbanismo, Vivienda y Hábitat (MUVH) o la institución que la reemplace, para la adquisición, construcción, ampliación o mejora de la vivienda, con el fin de posibilitar el acceso a una vivienda digna al beneficiario y su grupo familiar.
 
-TIPO NIVEL INGRESO FAMILIAR en USM
+El subsidio será explícito, de monto conocido y diferenciado según el ingreso familiar promedio del beneficiario y el costo del valor máximo del tipo de vivienda y de acuerdo con los siguientes estratos:
 
-Viviendas Económicas 1 3,5 a 5
+TIPO
 
-Viviendas de Interés Social 2 2 a 3,4
+NIVE NIVEL
 
-Viviendas de Interés Social 3 1 a 1,9
+INGRESO FAMILIAR en USM
 
-Viviendas de Interés Social 4 nferior a 1
+Viviendas Económicas
 
-Los subsidios serán otorgados tanto individualmente como a nivel de grupos organizados y cooperativas de viviendas. En los casos de grupos organizados, las organizaciones y las cooperativas deberán presentar la documentación requerida a cada uno de los beneficiarios.
+1
 
-c) Los niveles de subsidio serán como máximo para los estratos:
+3,5 a 5
 
-Nivel 1: hasta un 15 % (quince por ciento) del valor de la vivienda;
+Viviendas de Interés Social
 
-Nivel 2: hasta un 40 % (cuarenta por ciento) del valor de la vivienda;
+2
 
-Nivel 3: hasta un 70 % (setenta por ciento) del valor de la vivienda;
+2 a 3,4
+
+Viviendas de Interés Social
+
+3
+
+1 a 1,9
+
+Viviendas de Interés Social
+
+4
+
+inferior a 1
+
+Los subsidios serán otorgados tanto individualmente como a nivel de grupos organizados y cooperativas de viviendas.
+
+En los casos de grupos organizados, las organizaciones y las cooperativas deberán presentar la documentación requerida a cada uno de los beneficiarios.
+
+Los niveles de subsidio serán como máximo para los estratos:
+
+Nivel 1: hasta un 15 % (quince por ciento) del valor de la vivienda.
+
+Nivel 2: hasta un 40 % (cuarenta por ciento) del valor de la vivienda.
+
+Nivel 3: hasta un 70 % (setenta por ciento) del valor de la vivienda.
 
 Nivel 4: hasta un 95 % (noventa y cinco por ciento) del valor de la vivienda.
 
 El porcentaje máximo de subsidio que efectivamente se dará al beneficiario, así como el valor máximo de la vivienda para cada nivel se fijará en la reglamentación, teniendo en cuenta: el estrato al cual pertenece, el ahorro previo, el aporte de ayuda mutua o autoayuda y la necesidad social.
 
-d) La condición indispensable para el otorgamiento del subsidio, será el ahorro o aporte previo del beneficiario que solicite la adquisición, construcción, ampliación o mejora de una Vivienda Social. El subsidio constituirá un complemento de dicho aporte previo, y si lo necesitare, el beneficiario deberá obtener un crédito complementario que financie la adquisición, construcción, ampliación o mejora de la Vivienda Social. En ningún caso, dicho crédito complementario obtenido por el beneficiario del subsidio será objeto de subsidio, y en consecuencia, se regirá por las condiciones financieras previstas para su otorgamiento por la reglamentación respectiva.
+La condición indispensable para el otorgamiento del subsidio, será el ahorro o aporte previo del beneficiario que solicite la adquisición, construcción, ampliación o mejora de una Vivienda Social. El subsidio constituirá un complemento de dicho aporte previo, y si lo necesitare, el beneficiario deberá obtener un crédito complementario que financie la adquisición, construcción, ampliación o mejora de la Vivienda Social. En ningún caso, dicho crédito complementario obtenido por el beneficiario del subsidio será objeto de subsidio, y en consecuencia, se regirá por las condiciones financieras previstas para su otorgamiento por la reglamentación respectiva.
 
-e) El monto del subsidio, el ingreso familiar mensual del beneficiario y el costo o valor de la vivienda económica o de la vivienda de interés social, deberán determinarse y/o expresarse en Unidades de Salario Mínimo (USM), entendiéndose como tal el valor del salario mínimo mensual establecido por la autoridad competente para trabajadores de actividades diversas no especificadas de la República.
+El monto del subsidio, el ingreso familiar mensual del beneficiario y el costo o valor de la vivienda económica o de la vivienda de interés social, deberán determinarse y/o expresarse en Unidades de Salario Mínimo (USM), entendiéndose como tal el valor del salario mínimo mensual establecido por la autoridad competente para trabajadores de actividades diversas no especificadas de la capital de la República.
 
-f) Las viviendas adquiridas, construidas, ampliadas o mejoradas con el Subsidio Nacional de la Vivienda Social, concedido conforme a las disposiciones de la presente Ley y sus reglamentaciones, sólo podrán ser enajenadas, hipotecadas, arrendadas o cedidas en uso y goce, una vez trascurrido diez años de la fecha de haberse efectivizado el pago del subsidio, y cancelada totalmente la obligación contraída por el beneficiario para complementar el Subsidio Nacional de la Vivienda Social. Serán, asimismo, inembargables durante todo el plazo que dure la cancelación total de la obligación contraída por el beneficiario para complementar el Subsidio Nacional de la Vivienda Social. Sólo podrán ser hipotecados para garantizar los créditos concedidos para la financiación de las mismas y la inembargabilidad no será aplicada en los demás casos de demandas promovidas para el cobro de dicho crédito.
+Las viviendas adquiridas, construidas, ampliadas o mejoradas con el Subsidio Nacional de la Vivienda Social, concedido conforme a las disposiciones de la presente ley y sus reglamentaciones, solo podrán ser enajenadas, hipotecadas, arrendadas o cedidas en uso y goce, una vez trascurrido diez años de la fecha de haberse efectivizado el pago del subsidio, y cancelada totalmente la obligación contraída por el beneficiario para complementar el Subsidio Nacional de la Vivienda Social. Serán, asimismo, inembargables durante todo el plazo que dure la cancelación total de la obligación contraída por el beneficiario para complementar el Subsidio Nacional de la Vivienda Social. Sólo podrán ser hipotecados para garantizar los créditos concedidos para la financiación de las mismas y la inembargabilidad no será aplicada en los demás casos de demandas promovidas para el cobro de dicho crédito.
+
+A los efectos de materializar los subsidios en unidades habitacionales para grupos organizados, los beneficiarios deberán contratar un Servicio de Asistencia Técnica (SAT) y una constructora, quienes colaboran con el Ministerio de Urbanismo, Vivienda y Hábitat (MUVH), en el cumplimiento de la presente ley.
+
+Tanto el Servicio de Asistencia Técnica (SAT), como la constructora, deberán formar parte de un registro especial administrado por el Ministerio de Urbanismo, Vivienda y Hábitat (MUVH), quien reglamentará las funciones, obligaciones, capacidad de construcción de viviendas acorde a los proyectos, así como las garantías necesarias para resguardar el patrimonio público, además de los aspectos operativos y sanciones administrativas ante eventuales incumplimientos, garantizando la materialización del subsidio estatal.
+
+Los beneficiarios de subsidios individuales, deberán contratar a una constructora registrada.
+
+En todos los casos, el Ministerio de Urbanismo, Vivienda y Hábitat (MUVH) convalidará esos contratos entre el beneficiario y el prestador de servicios y la constructora, exigiendo las garantías que estime necesarias.
+
+En los proyectos dentro del marco de la presente ley deberán observarse la aplicación de aspectos urbanísticos de acuerdo a los lineamientos dados por los ODS, y el Plan Nacional de Desarrollo (PND), fomentando así una política habitacional en cuanto al entorno, urbanización, seguridad y calidad de vida.
+
+> *Modificado por Ley N° 6807 (2021-12-21)*
 
 ### Artículo 9°
 
-El Poder Ejecutivo reglamentará la presente Ley dentro de los noventa días de su promulgación. Si cumplido el plazo no se decretase dicha reglamentación el CONAVI (o la Institución que la reemplace), se constituirá de pleno derecho y adoptará su reglamento en el que se determinen las condiciones, requisitos, modalidades y todo lo concerniente para la mejor implementación y desarrollo del Subsidio Nacional de la Vivienda Social.
+
+El Poder Ejecutivo reglamentará a través del Ministerio de Urbanismo, Vivienda y Hábitat (MUVH) la presente ley y adoptará su reglamento en el que se determinen las condiciones, requisitos, modalidades y todo lo concerniente para la mejor implementación y desarrollo del Subsidio Nacional de la Vivienda Social.
+
+> *Modificado por Ley N° 6807 (2021-12-21)*
 
 ### Artículo 10°
 
