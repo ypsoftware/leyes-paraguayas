@@ -18,15 +18,30 @@ Créase el Registro Nacional de Sustancias Estupefacientes y Drogas Peligrosas, 
 
 ### Artículo 2°
 
-A los efectos de esta ley, se entiende por sustancias estupefacientes y drogas peligrosas las de origen natural o sintético, nocivas a la salud, capaces de crear estados de dependencia y alterar la función síquica, motora o sensorial y modificar la conducta. El Ministerio de Salud Pública y Bienestar Social elaborará la lista de dichas sustancias y procederá a su ampliación periódica, incluyendo en ellas las mencionadas en las leyes Nºs. 338 y 339 de fecha 17 de diciembre de 1.971, por las que se han aprobado y ratificado la Convención Única sobre Estupefacientes y el Convenio sobre Substancias Psicotrópicas.
+
+La persona física o jurídica que habitualmente u ocasionalmente comercie, venda, suministre, transporte, almacene, importe, exporte, fabrique, industrialice, transforme, extraiga, refine, posea o distribuya sustancias estupefacientes y drogas peligrosas, a las que se refiere la presente ley, y sus derivados: sales, preparaciones y especialidades farmacéuticas o cualquier producto o sustancia empleable en su elaboración, transformación o industrialización, deberá inscribirse antes del inicio de sus actividades ante el Registro Nacional de Sustancias Estupefacientes y Drogas Peligrosas de la Dirección Nacional de Vigilancia Sanitaria (DINAVISA), del Ministerio de Salud Pública y Bienestar Social (MSPYBS), quien expedirá un certificado de habilitación.
+
+Luego de cada inscripción o reinscripción, las personas físicas o jurídicas registradas, deberán solicitar la inspección ante la Secretaría Nacional Antidroga (SENAD), quien, tras realizar su tarea, expedirá un certificado de fiscalización. Tanto la constancia de habilitación y fiscalización deberán ser expuestas en un lugar visible para el público. El incumplimiento del requisito de fiscalización, será sancionado con multas de hasta cien jornales mínimos diarios para actividades diversas no especificadas, y en caso de reincidencia se dispondrá la inhabilitación para operar por el plazo de un año, sin perjuicio de las disposiciones penales. Las fiscalizaciones serán realizadas por lo menos una vez al año por la Secretaría Nacional Antidroga (SENAD).
+
+La reinscripción deberá realizarse dentro de los primeros noventa días de cada año. Estas inscripciones, reinscripciones y fiscalizaciones tendrán carácter registral.
+
+> *Modificado por Ley N° 6902 (2022-04-07)*
 
 ### Artículo 3°
 
-El Registro y su organización estarán a cargo del Ministerio de Salud Pública y Bienestar Social donde deberá efectuarse la inscripción, debiendo remitirse la nómina de los inscriptos al Ministerio de Interior.
+
+Solamente la persona física o jurídica registrada y fiscalizada, conforme al artículo anterior, podrá realizar las actividades previstas en la presente ley.
+
+> *Modificado por Ley N° 6902 (2022-04-07)*
 
 ### Artículo 4°
 
-Solamente las personas inscriptas en el Registro podrán efectuar las actividades establecidas en el artículo 1º de esta ley, debiendo sujetarse a los reglamentos y controles que establezcan las autoridades del Ministerio de Salud Pública y Bienestar Social.
+
+La persona física o jurídica registrada y fiscalizada, deberá remitir un informe mensual detallado de sus operaciones a la Secretaría Nacional Antidroga (SENAD) y al Ministerio de Salud Pública y Bienestar Social (MSPYBS), quienes promoverán las investigaciones pertinentes en los casos en que puedan presumirse irregularidades.
+
+La que no remitiere el informe dentro de los diez primeros días hábiles del mes, será pasible de multa equivalente a cincuenta jornales mínimos diarios para actividades diversas no especificadas, respectivamente a cada institución en el ámbito de sus funciones y responsabilidades. En caso de reincidencia, con la cancelación definitiva de su inscripción en el Registro. El monto percibido por la Secretaría Nacional Antidroga (SENAD), será destinado a las tareas propias de fiscalización.
+
+> *Modificado por Ley N° 6902 (2022-04-07)*
 
 ### Artículo 5°
 
@@ -122,7 +137,10 @@ Si los instrumentos del delito pudieran ser empleados en usos lícitos, en vez d
 
 ### Artículo 23°
 
-Los funcionarios públicos encargados de la prevención y persecución de los delitos previstos en esta ley, que fueren negligentes u omitieren tomar las providencias respectivas para evitar la comisión de dichos delitos, sufrirán las penas de destitución, penitenciaria de seis meses a dos años, e inhabilitación, por el tiempo de la pena.
+
+La importación y exportación de sustancias estupefacientes, psicotrópicas, precursores y productos químicos controlados, a los que se refiere la presente ley, serán efectuadas exclusivamente por las aduanas habilitadas en las ciudades de Asunción; el Departamento Central, Aeropuerto Internacional Silvio Pettirossi y Aeropuerto Internacional Guaraní, Ciudad del Este, Encarnación, Pilar, Mariscal José Félix Estigarribia, Pedro Juan Caballero, Salto del Guairá, previa autorización del Ministerio de Salud Pública y Bienestar Social (MSPYBS) y previa fiscalización de la Secretaría Nacional Antidroga (SENAD), una vez cumplidos los requisitos técnicos, establecidos en las normativas vigentes.
+
+> *Modificado por Ley N° 6902 (2022-04-07)*
 
 ### Artículo 24°
 
