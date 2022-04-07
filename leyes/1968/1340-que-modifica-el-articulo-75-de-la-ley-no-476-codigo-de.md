@@ -23,7 +23,14 @@ AL NORTE: derechos de Natan Rossin, Yohanes Munillo y Mario Mathia; AL SUR: dere
 
 ### Artículo 2°
 
-Comuníquese al Poder Ejecutivo.
+
+La persona física o jurídica que habitualmente u ocasionalmente comercie, venda, suministre, transporte, almacene, importe, exporte, fabrique, industrialice, transforme, extraiga, refine, posea o distribuya sustancias estupefacientes y drogas peligrosas, a las que se refiere la presente ley, y sus derivados: sales, preparaciones y especialidades farmacéuticas o cualquier producto o sustancia empleable en su elaboración, transformación o industrialización, deberá inscribirse antes del inicio de sus actividades ante el Registro Nacional de Sustancias Estupefacientes y Drogas Peligrosas de la Dirección Nacional de Vigilancia Sanitaria (DINAVISA), del Ministerio de Salud Pública y Bienestar Social (MSPYBS), quien expedirá un certificado de habilitación.
+
+Luego de cada inscripción o reinscripción, las personas físicas o jurídicas registradas, deberán solicitar la inspección ante la Secretaría Nacional Antidroga (SENAD), quien, tras realizar su tarea, expedirá un certificado de fiscalización. Tanto la constancia de habilitación y fiscalización deberán ser expuestas en un lugar visible para el público. El incumplimiento del requisito de fiscalización, será sancionado con multas de hasta cien jornales mínimos diarios para actividades diversas no especificadas, y en caso de reincidencia se dispondrá la inhabilitación para operar por el plazo de un año, sin perjuicio de las disposiciones penales. Las fiscalizaciones serán realizadas por lo menos una vez al año por la Secretaría Nacional Antidroga (SENAD).
+
+La reinscripción deberá realizarse dentro de los primeros noventa días de cada año. Estas inscripciones, reinscripciones y fiscalizaciones tendrán carácter registral.
+
+> *Modificado por Ley N° 6902 (2022-04-07)*
 
 ---
 
