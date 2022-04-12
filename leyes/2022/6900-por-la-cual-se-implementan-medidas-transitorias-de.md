@@ -19,7 +19,10 @@ OBJETO Y FINALIDAD
 
 ### Artículo 1°
 
-La presente Ley tiene por objeto implementar medidas transitorias de contingencia para la comercialización del Diésel / Gasoil Tipo III y Nafta 93 Octanos por parte de Petróleos Paraguayos, a los consumidores finales y se establecen otras medidas de racionalización del gasto público; como así también, aquellas orientadas a lograr una mayor eficiencia en los procesos de compra pública por parte de Petróleos Paraguayos.
+
+Derógase la Ley N° 6900/2022, POR LA CUAL SE IMPLEMENTAN MEDIDAS TRANSITORIAS DE CONTINGENCIA PARA LA COMERCIALIZACIÓN DEL DIÉSEL / GASOIL TIPO III Y NAFTA 93 OCTANOS POR PETRÓLEOS PARAGUAYOS, A TRAVÉS DE SU RED DE ESTACIONES DE SERVICIOS HABILITADAS BAJO EL EMBLEMA “PETROPAR”; Y SE ESTABLECEN MEDIDAS DE RACIONALIZACIÓN DEL GASTO PÚBLICO Y OTRAS, ORIENTADAS A LA EFICIENCIA DE LOS PROCESOS DE COMPRA PÚBLICA PARA LA PROVISIÓN DE COMBUSTIBLES DERIVADOS DEL PETRÓLEO.
+
+> *Modificado por Ley N° 6906 (2022-04-12)*
 
 CAPÍTULO II
 
