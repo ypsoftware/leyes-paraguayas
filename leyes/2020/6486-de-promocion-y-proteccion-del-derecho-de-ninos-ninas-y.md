@@ -1521,11 +1521,16 @@ DISPOSICIONES TRANSITORIAS.
 
 ### Artículo 116°
 
-Obligación de transformación del modelo de atención institucional.
 
-Las entidades de abrigo de tipo institucional que estén en funcionamiento al tiempo de la entrada en vigencia de la presente Ley, deben reconvertirse para integrar el Programa de Cuidados Alternativos en la modalidad de acogimiento familiar o abrigo residencial, así como prestar otra modalidad de atención o prestación que no impliquen cuidado alternativo en el plazo perentorio de 18 (dieciocho) meses computados a partir de la entrada en vigencia de la presente Ley.
+**Obligación de transformación del modelo de atención institucional.**
 
-La entidad de abrigo de tipo institucional que no hubiera logrado su reconversión en el plazo establecido precedentemente, quedará inhabilitada de pleno derecho y en forma irrevocable y será clausurada por la autoridad competente en el plazo de 30 (treinta) días de vencido el plazo.
+Las entidades de abrigo de tipo institucional que estén en funcionamiento al tiempo de la entrada en vigencia de la presente Ley, deben llevar a cabo y concluir su proceso de transformación antes del 6 de enero del año 2023, a fin de integrar el Programa de Cuidados Alternativos en la modalidad de acogimiento familiar o abrigo residencial, así como prestar otra modalidad de atención o prestación que no implique cuidado alternativo.
+
+A ese efecto, aquellas entidades que no hayan presentado su plan de transformación, deberán proceder a su elaboración con el acompañamiento y el apoyo técnico de la Dirección General de Cuidados Alternativos (DICUIDA) y a su presentación en el plazo perentorio de 60 (sesenta) días, computados a partir de la publicación de la presente Ley, en caso contrario se procederá a su clausura por el Ministerio de la Niñez y la Adolescencia. Dicho plan podrá ser readecuado de acuerdo a los requerimientos técnicos.
+
+La entidad de abrigo de tipo institucional que no hubiera logrado su reconversión en el plazo establecido precedentemente, quedará inhabilitada de pleno derecho y en forma irrevocable y será clausurada por la autoridad competente dentro de los 30 (treinta) días posteriores al vencimiento del plazo.
+
+> *Modificado por Ley N° 6891 (2022-05-17)*
 
 ### Artículo 117°
 
