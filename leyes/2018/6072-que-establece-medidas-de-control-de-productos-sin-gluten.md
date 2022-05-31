@@ -41,27 +41,34 @@ Secretaría de Defensa del Consumidor y el Usuario.
 
 ### Artículo 4°
 
-Atribuciones del Ministerio de Salud Pública y Bienestar Social.
 
-Corresponderá al Ministerio de Salud Pública y Bienestar Social:
+Atribuciones del Ministerio de Salud Pública y Bienestar Social y la Dirección Nacional de Vigilancia Sanitaria.
+
+Corresponderá al Ministerio de Salud Pública y Bienestar Social y a la Dirección Nacional de Vigilancia Sanitaria, cada una dentro del ámbito de su competencia:
 
 a) Establecer el contenido máximo de partículas por millón (PPM) de gluten que determina el rango de tolerancia en cada parte del producto permitido en los productos para celíacos, que deberá considerar los valores publicados periódicamente en el “Códex Alimentarius”.
 
 b) Establecer los mecanismos de análisis y certificación de los productos alimenticios, farmacéuticos y otros productos para la salud sin gluten y su proceso de fabricación.
 
-c) Establecer un sistema de vigilancia periódica para el control del contenido de gluten en productos alimenticios, farmacéuticos y otros productos para la salud declarados como sin gluten.
+c) Establecer un sistema de vigilancia periódica para el control del contenido de gluten en productos alimenticios, farmacéuticos y otros productos para la salud, declarados como sin gluten.
 
-d) Promover la formación y capacitación de profesionales de la salud en todos los sectores en el diagnóstico, tratamiento y tratamiento de la enfermedad Celíaca.
+d) Proporcionar para la formación de profesionales de la salud especialistas en el diagnóstico, dentro de las posibilidades presupuestarias, iniciativas para la realización de cursos de especialización, asistencia a congresos de actualización, becas y toda otra medida apropiada a ese fin.
 
-e) Promover la investigación relacionada a la celiaquía en coordinación con el Consejo Nacional de Ciencia y Tecnología, las Universidades y otras entidades académicas, científicas y de investigación pública y privada.
+e) Promover la investigación relacionada a la celiaquía en coordinación con el Consejo Nacional de Ciencia y Tecnología, las Universidades y otras entidades académicas, científicas y de investigación pública y privada. Para el efecto, el Consejo Nacional de Ciencia y Tecnología, deberá destinar obligatoriamente parte de su presupuesto para la investigación en materia de productos libres de gluten y la elaboración de los mismos, siempre que se presenten proyectos sobre el tema.
 
-f) Implementar a nivel nacional, dentro de la red de servicios de salud, la atención médica dirigida al diagnóstico y tratamiento adecuado de la celiaquía.
+f) Implementar a nivel nacional, el acceso a estudios de diagnóstico temprano de la patología, y garantizar su tratamiento adecuado una vez diagnosticado.
 
 g) Llevar un Registro Estadístico Nacional de los pacientes celíacos.
 
 h) Implementar estrategias y actividades educacionales sobre celiaquía, en coordinación con el Ministerio de Educación y Ciencias.
 
 i) Promover la participación social general y en especial de las personas con enfermedad celíaca y sus familias, en la educación, estudio y difusión sobre celiaquía, así como sobre los derechos del consumidor y el derecho a la salud.
+
+j) Garantizar el acceso a los medicamentos y/o suplementos dietarios especiales requeridos para el tratamiento de la enfermedad y sus patologías secundarias, así como los alimentos para pacientes que se encuentren internados en hospitales públicos o privados a nivel nacional.
+
+k) Incluir en las etiquetas de alimentos, medicamentos, y suplementos dietarios la composición del gluten en la formulación.
+
+> *Modificado por Ley N° 6914 (2022-05-31)*
 
 ### Artículo 5°
 
@@ -105,11 +112,14 @@ Las condiciones y requisitos de homologación serán establecidas reglamentariam
 
 ### Artículo 11°
 
-Libro de Registro de Productos Libres de Gluten.
 
-El Ministerio de Salud Pública y Bienestar Social elaborará un libro de registro de productos libres de gluten para facilitar el acceso a la información al público. El mismo deberá ser accesible en material impreso y a través de la página web del ente.
+**Libro de Registro y Recetario de Elaboración de Alimentos Libres de Gluten.**
 
-El libro de registros será actualizado semestralmente.
+El Ministerio de Salud Pública y Bienestar Social, elaborará un libro de registro de productos libres de gluten para facilitar el acceso a la información al público, el cual será actualizado semestralmente, que deberá ser accesible en material impreso y a través de la página web del ente.
+
+El Ministerio de Salud Pública y Bienestar Social, con el apoyo del Consejo Nacional de Ciencia y Tecnología, realizará investigaciones sobre la disponibilidad y ofertas de alimentos libres de gluten en el país.
+
+> *Modificado por Ley N° 6914 (2022-05-31)*
 
 ### Artículo 12°
 
