@@ -1994,13 +1994,14 @@ INICIATIVA POPULAR
 ### Artículo 266°
 
 
-Los electores pueden ejercer la iniciativa popular en las condiciones establecidas en el presente código electoral. El derecho reconocido por la Constitución Nacional a favor de los electores para proponer como iniciativa popular Proyectos de Ley requiere la presentación de una propuesta legislativa que deberá contener lo siguiente:
+
+Los electores pueden ejercer la iniciativa popular en las condiciones establecidas en el presente código electoral. El derecho reconocido por la Constitución Nacional a favor de los electores para proponer como iniciativa popular proyectos de Ley requiere la presentación de una propuesta legislativa que deberá contener lo siguiente:
 
 a) texto articulado del proyecto de Ley dotado de unidad substantiva, precedido de una exposición de motivos.
 
-b) la firma de por lo menos el 2% (dos por ciento) de los electores inscriptos en el Registro Cívico Permanente, identificados con su nombre, apellido y número de documento de identidad civil, cuyas firmas deberán ser recogidas en pliegos proveídos por la Justicia Electoral, numerados y rubricados por uno de los miembros de una de las salas del Tribunal Electoral de la Capital.
+b) la firma de por lo menos el 1% (uno por ciento) de los electores inscriptos en el Registro Cívico Permanente, identificados con su nombre, apellido y número de documento de identidad civil, cuyas firmas deberán ser recogidas en pliegos proveídos por el Tribunal Superior de Justicia Electoral, numerados y rubricados por uno de los miembros de una de las salas del Tribunal Electoral de la Capital
 
-> *Modificado por Ley N° 6652 (2020-12-04)*
+> *Modificado por Ley N° 6922 (2022-06-14)*
 
 ### Artículo 267°
 
