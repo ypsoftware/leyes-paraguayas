@@ -33,6 +33,7 @@ Todo órgano del Estado, cuando deba realizar alguna gestión de carácter ofici
 
 ### Artículo 4°
 
+
 El Ministerio de Relaciones Exteriores tiene como funciones:
 
 a) proponer al Presidente de la República la política exterior, ejecutarla y conducir las relaciones exteriores;
@@ -41,15 +42,19 @@ b) ejercer la representación del Estado ante otros Estados, en los organismos i
 
 c) negociar, suscribir y ratificar tratados, convenciones, acuerdos y otros instrumentos internacionales, con la cooperación, si fuera el caso, de entidades nacionales, y velar por el cumplimiento de dichos instrumentos;
 
-d) conducir las negociaciones sobre asuntos económicos internacionales, comercio exterior, procesos de integración, cooperación internacional y emprendimientos binacionales y multinacionales, en coordinación, cuando corresponda, con otros órganos estatales;
+d) conducir las neqociaciones sobre asuntos económicos internacionales, comercio exterior, procesos de integración, cooperación internacional y emprendimientos binacionales y multinacionales, en coordinación, cuando corresponda, con otros órganos estatales;
 
 e) velar por el respeto y protección de los intereses del país y los de sus nacionales en el exterior;
 
 f) recibir agentes diplomáticos, autorizar el funcionamiento en la República de oficinas consulares y acordar el establecimiento de representaciones de organismos internacionales y de otros sujetos de Derecho Internacional;
 
-g) establecer y hacer cumplir el protocolo; y,
+g) establecer y hacer cumplir el protocolo;
 
-h) las demás funciones determinadas por los tratados internacionales ratificados por la República y las leyes.
+h) las demás funciones determinadas por los tratados internacionales ratificados por la República y las leyes; y,
+
+i) rendir informes en forma semestral a las Cámaras del Congreso de la Nación sobre la gestión que vienen desarrollando los jefes de misión, acreditados en el exterior, así como los órganos establecidos en el Articulo 7º de la Ley Nº 1635/2000 “ORGÁNICA DEL MINISTERIO DE RELACIONES EXTERIORES
+
+> *Modificado por Ley N° 6928 (2022-06-24)*
 
 ### Artículo 5°
 
