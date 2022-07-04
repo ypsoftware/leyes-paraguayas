@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/8874/texto
 short_title: "QUE ESTABLECE LA PUBLICIDAD DE LAS SESIONES DE LA CORTE…"
+derogada: true
+derogada_por: Ley 6937
+derogada_fecha: 2022-07-04
 ---
 
 # LEY Nº 6299
@@ -86,3 +89,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a ocho días del mes de noviembre del año dos mil dieciocho, quedando sancionado el mismo por la Honorable Cámara de Diputados, a veinticuatro días del mes de abril del año dos mil diecinueve, de conformidad a lo dispuesto en el Artículo 204 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 6937 (2022-07-04)*
