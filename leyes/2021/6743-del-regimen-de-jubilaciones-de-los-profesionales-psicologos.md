@@ -15,11 +15,17 @@ short_title: "DEL RÉGIMEN DE JUBILACIONES DE LOS PROFESIONALES PSICÓLOGOS."
 
 ### Artículo 1°
 
-El objetivo de la presente ley es establecer el régimen de Jubilaciones para los profesionales Psicólogos del Ministerio de Salud Pública y Bienestar Social (MSPYBS).
+
+El objetivo de la presente ley es establecer el Régimen de Jubilaciones para los profesionales Psicólogos que prestan servicios en todos los Organismos y Entidades del Estado (OEE), que aporten al Régimen de Jubilaciones y Pensiones administrado por el Ministerio de Hacienda.
+
+> *Modificado por Ley N° 6886 (2022-07-11)*
 
 ### Artículo 2°
 
-El ámbito de aplicación de la presente ley se refiere al ejercicio profesional de la psicología, así como también al ejercicio de la docencia, investigación, asesorías, administración, gestión y cualquier otra función ejercida por un profesional Psicólogo, dependiente del Ministerio de Salud Pública y Bienestar Social (MSPYBS).
+
+El ámbito de aplicación de la presente ley se refiere al ejercicio profesional de la Psicología, así como también al ejercicio de la docencia, investigación, asesorías, administración, gestión y cualquier otra función ejercida por un profesional Psicólogo, dependiente de cualquiera de los Organismos y Entidades del Estado (OEE), que aporte al Régimen de Jubilaciones y Pensiones administrado por el Ministerio de Hacienda.
+
+> *Modificado por Ley N° 6886 (2022-07-11)*
 
 ### Artículo 3°
 
