@@ -144,7 +144,8 @@ Este Capítulo abarca los lineamientos básicos y políticas que todo sujeto obl
 
 
 
-**Sujetos obligados.**
+
+**Sujetos Obligados.**
 
 Quedan sujetos a las obligaciones establecidas en el presente capítulo, los siguientes sectores:
 
@@ -156,7 +157,7 @@ c) las compañías de seguro;
 
 d) las casas de cambio;
 
-e) las sociedades y agencias de valores (bolsas de valores);
+e) las sociedades y agencias de valores (bolsa de valores);
 
 f) las sociedades de inversión;
 
@@ -178,19 +179,25 @@ n) las entidades gubernamentales;
 
 ñ) las actividades y profesiones no financieras;
 
-o) la/s persona/s física/s o jurídica/s que se dedique de manera habitual a la intermediación financiera;
+o) las empresas dedicadas a la producción, distribución y comercialización de tabacos, cigarrillos y similares;
 
-p) el comercio de joyas, piedras y metales preciosos;
+p) los clubes deportivos, cualquiera sea su disciplina;
 
-q) objetos de arte y antigüedades, a la inversión filatélica o numismática;
+q) las uniones, federaciones, confederaciones y asociaciones de las distintas modalidades deportivas;
 
-r) las que realicen actos de comercio en general, que impliquen transferencias de dineros o valores, sean éstas formales o informales, de conformidad a lo establecido en esta Ley;
+r) la/s personas física/s o jurídica/s que se dedique de manera habitual a la intermediación financiera y al comercio de contratos deportivos;
 
-s) los proveedores de servicios de activos virtuales (PSAV).
+s) el comercio de joyas, piedras y metales preciosos;
+
+t) objetos de arte y antigüedades, a la inversión filatélica o numismática;
+
+u) las que realicen actos de comercio en general, que impliquen transferencias de dinero o valores, sean estas formales o informales, de conformidad con lo establecido en la presente Ley; y,
+
+v) los proveedores de servicios de activos virtuales (PSAV).
 
 Esta enumeración no es taxativa, debiendo responder a los estándares y criterios reconocidos en la materia.
 
-> *Modificado por Ley N° 6797 (2021-08-20)*
+> *Modificado por Ley N° 6960 (2022-07-15)*
 
 ### Artículo 14°
 
@@ -361,19 +368,24 @@ A los funcionarios, empleados, directores y altos gerentes de las personas jurí
 
 ### Artículo 25°
 
-Gradación de las sanciones.
+
+**Gradación de las sanciones.**
 
 Las sanciones aplicables por la comisión de infracciones del artículo anterior se graduarán tomando en consideración las siguientes circunstancias:
 
 a) el grado de responsabilidad o intencionalidad en los hechos;
 
-b) la conducta anterior del sujeto obligado en relación con las exigencias previstas en esta ley;
+b) la conducta anterior del sujeto obligado en relación con las exigencias previstas en la presente Ley;
 
 c) las ganancias obtenidas como consecuencia de las infracciones;
 
-d) el haber procedido a subsanar la infracción por propia iniciativa; y,
+d) el haber procedido a subsanar la infracción por propia iniciativa;
 
-e) la gravedad de la infracción cometida, a los efectos de esta ley.
+e) la gravedad de la infracción cometida, a los efectos de la presente Ley; y,
+
+f) la reincidencia por parte del sujeto obligado, la cual se comprobará según el registro establecido en el Artículo 28 de la presente Ley.
+
+> *Modificado por Ley N° 6960 (2022-07-15)*
 
 CAPITULO IV
 
@@ -405,31 +417,34 @@ Estará a cargo de un Secretario Ejecutivo, quien ostenta el rango, las prerroga
 ### Artículo 28°
 
 
+
 **Atribuciones.**
 
-Son funciones y atribuciones de la Secretaría de Prevención de Lavado de Dinero o Bienes dentro del ámbito de aplicación que le confiere la presente Ley:
+Son funciones y atribuciones de la Secretaría de Prevención de Lavado de Dinero o Bienes, dentro del ámbito de aplicación que le confiere la presente Ley:
 
-1. dictar en el marco de las leyes que rigen la materia, los reglamentos de carácter administrativo que deban observar los sujetos obligados con el fin de evitar, detectar y reportar las operaciones de lavado de dinero y las operaciones, relacionados al ámbito de aplicación de la presente Ley;
+1. Dictar en el marco de las leyes que rigen la materia, los reglamentos de carácter administrativo que deban observar los sujetos obligados con el fin de evitar, detectar y reportar las operaciones de lavado de dinero y las operaciones, relacionados al ámbito de aplicación de la presente Ley.
 
-2. recabar de las instituciones públicas y de los sujetos obligados toda la información que pueda tener vinculación con las informaciones analizadas;
+2. Recabar de las instituciones públicas y de los sujetos obligados toda la información que pueda tener vinculación con las informaciones analizadas.
 
-3. analizar la información obtenida, a fin de determinar transacciones sospechosas, así como operaciones o patrones relacionados al ámbito de aplicación de la presente Ley;
+3. Analizar la información obtenida, a fin de determinar transacciones sospechosas, así como operaciones o patrones relacionados al ámbito de aplicación de la presente Ley.
 
-4. mantener estadísticas del movimiento financiero relacionadas con las informaciones sometidas a su competencia;
+4. Mantener estadísticas del movimiento financiero relacionadas con las informaciones sometidas a su competencia.
 
-5. disponer la investigación de las operaciones de las cuales se deriven indicios racionales de hechos relacionados con el ámbito de aplicación de la presente Ley;
+5. Disponer la investigación de las operaciones de las cuales se deriven indicios racionales de hechos relacionados con el ámbito de aplicación de la presente Ley.
 
-6. elevar al Ministerio Público los casos en que surjan indicios vehementes de la comisión de delitos relacionados con el ámbito de aplicación de la presente Ley para que se inicie la investigación correspondiente;
+6. Elevar al Ministerio Público los casos en que surjan indicios vehementes de la comisión de delitos relacionados con el ámbito de aplicación de la presente Ley para que se inicie la investigación correspondiente.
 
-7. elevar los antecedentes a los órganos e instituciones encargados de supervisar a los sujetos obligados cuando se detecten infracciones administrativas a la ley o los reglamentos, a los efectos de su investigación y sanción en su caso;
+7. Elevar los antecedentes a los órganos e instituciones encargados de supervisar a los sujetos obligados cuando se detecten infracciones administrativas a la Ley o los reglamentos, a los efectos de su investigación y sanción en su caso.
 
-8. disponer la reglamentación, supervisión y sanción de los sujetos obligados establecidos en el Artículo 13 de esta Ley, que no cuenten con entidades reguladoras o supervisores naturales;
+8. Registrar todas las personas físicas y jurídicas que hayan sido sancionadas en virtud de lo previsto en el Artículo 24 de la Ley N° 6497/2019 “QUE MODIFICA DISPOSICIONES DE LA LEY N° 1015/1997 ‘QUE PREVIENE Y REPRIME LOS ACTOS ILÍCITOS DESTINADOS A LA LEGITIMACIÓN DE DINERO O BIENES’ Y SU MODIFICATORIA LEY N° 3783/2009”. En el caso de las personas jurídicas, en el registro se deberá identificar a aquellas quienes la integraban al momento de la comisión de los hechos que generaron la sanción.
 
-9. percibir aranceles en contraprestación de los servicios que esta Secretaría brinde. Estos recursos serán destinados a la implementación, operación, desarrollo, mantenimiento y actualización de los mecanismos destinados a la lucha del lavado de dinero y financiamiento del terrorismo; y,
+9. Disponer la reglamentación, supervisión y sanción de los sujetos obligados establecidos en el Artículo 13 de la presente Ley, que no cuenten con entidades reguladoras o supervisores naturales.
 
-10.recibir y aceptar como fuente de recursos extraordinarios, donaciones y legados de terceros.
+10. Percibir aranceles en contraprestación de los servicios que esta Secretaría brinde. Estos recursos serán destinados a la implementación, operación, desarrollo, mantenimiento y actualización de los mecanismos destinados a la lucha del lavado de dinero y financiamiento del terrorismo.
 
-> *Modificado por Ley N° 3783 (2009-07-20)*
+11. Recibir y aceptar como fuente de recursos extraordinarios, donaciones y legados de terceros.
+
+> *Modificado por Ley N° 6960 (2022-07-15)*
 
 ### Artículo 29°
 
