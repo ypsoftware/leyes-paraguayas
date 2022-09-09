@@ -744,19 +744,18 @@ Para ejercer el derecho a sufragar es preciso que el elector se halle inscripto 
 
 ### Artículo 91°
 
+
 No podrán ser electores:
 
-a) los interdictos declarados tales en juicio;
+a) los interdictos declarados tales en juicio, cuando la sentencia limite expresamente al ejercicio de los derechos políticos;
 
-b) los sordomudos que no sepan hacerse entender por escrito o por otros medios;
+b) los soldados conscriptos y clases de las Fuerzas Armadas y Policiales de institutos de enseñanza militar y policial;
 
-c) los soldados conscriptos y clases de las Fuerzas Armadas y Policiales y los alumnos de institutos de enseñanzas militares y policiales;
+c) los condenados a penas privativas de libertad o de inhabilitación electoral; y,
 
-d) los detenidos o privados de su libertad por orden de Juez competente;
+d) los declarados rebeldes en causa penal común o militar.
 
-e) los condenados a penas privativas de libertad o de inhabilitación electoral; y,
-
-f) los declarados rebeldes en causa penal común o militar.
+> *Modificado por Ley N° 6971 (2022-09-09)*
 
 ### Artículo 92°
 
@@ -770,17 +769,22 @@ El Tribunal Electoral podrá, igualmente de oficio o a petición del afectado, p
 
 ### Artículo 94°
 
-Están eximidos de la obligación de sufragar
+
+Están eximidos de la obligación de sufragar:
 
 a) las personas mayores de setenta y cinco años de edad;
 
 b) los magistrados del fuero electoral y el personal judicial afectado a los actos comiciales;
 
-c) las personas que por razones de trabajo, sumariamente justificadas ante la autoridad judicial del lugar se hallen a más de cincuenta kilómetros del local en que les corresponde sufragar;
+c) las personas que, por razones de trabajo, sumariamente justificadas ante la autoridad judicial del lugar se hallen a más de cincuenta kilómetros del local en que les corresponde sufragar;
 
-d) los enfermos imposibilitados de trasladarse a la sede en que les correspondería sufragar, toda vez que tal situación resulte comprobada con el certificado de su médico tratante o de la Dirección de la institución asistencial donde se halle internado; y,
+d) los enfermos imposibilitados de trasladarse a la sede en que les correspondería sufragar, toda vez que tal situación resulte comprobada con el certificado de su médico tratante o de la dirección de la institución asistencial donde se halle internado;
 
-e) las personas que desempeñan funciones en los servicios públicos cuya interrupción no fuere posible.
+e) las personas que desempeñan funciones en los servicios públicos cuya interrupción no fuere posible; y,
+
+f) los detenidos o privados de su libertad por orden de juez competente.
+
+> *Modificado por Ley N° 6971 (2022-09-09)*
 
 CAPITULO II
 
@@ -1526,15 +1530,20 @@ Solamente pueden acceder al recinto en que se realiza la votación los integrant
 
 ### Artículo 207°
 
+
 Los electores votarán en el orden de su llegada, para cuyo efecto deberán formar fila de a uno. La mesa dará preferencia a:
 
-a) mujeres embarazadas y minusválidos;
+mujeres embarazadas;
 
-b) enfermos;
+personas con discapacidad;
 
-c) electores mayores de setenta y cinco años; y
+enfermos;
 
-d) autoridades electorales y candidatos.
+electores mayores de setenta y cinco años; y,
+
+autoridades electorales y candidatos.
+
+> *Modificado por Ley N° 6971 (2022-09-09)*
 
 ### Artículo 208°
 
@@ -1578,7 +1587,12 @@ En caso de indisposición súbita del presidente de mesa o de cualquier otro mie
 
 ### Artículo 217°
 
-Las personas que por defecto físico estén impedidas de marcar los boletines e introducirlos en la urna podrán servirse para estas operaciones de una persona de confianza.
+
+El Tribunal Superior de Justicia Electoral deberá adoptar los mecanismos de inclusión requeridos para asegurar que todas las personas con discapacidad puedan ejercer el derecho al voto, para lo cual deberá establecer la reglamentación con asistencia de la Secretaria Nacional por los Derechos Humanos de las Personas con Discapacidad y la Comisión Nacional de los Derechos de las Personas con Discapacidad.
+
+Las personas con discapacidad tienen derecho a emitir su voto de manera independiente y cuando se trate de personas con discapacidad visual o de miembros superiores, podrán ser asistidas por una persona de confianza durante el procedimiento de votación, quien deberá ser designada en forma exclusiva por el elector, únicamente en el caso que los mecanismos de accesibilidad establecidos reglamentariamente no sean adecuados para asegurar el ejercicio del sufragio.
+
+> *Modificado por Ley N° 6971 (2022-09-09)*
 
 ### Artículo 218°
 
