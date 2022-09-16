@@ -2009,13 +2009,18 @@ INICIATIVA POPULAR
 
 
 
-Los electores pueden ejercer la iniciativa popular en las condiciones establecidas en el presente código electoral. El derecho reconocido por la Constitución Nacional a favor de los electores para proponer como iniciativa popular proyectos de Ley requiere la presentación de una propuesta legislativa que deberá contener lo siguiente:
 
-a) texto articulado del proyecto de Ley dotado de unidad substantiva, precedido de una exposición de motivos.
+Los electores pueden ejercer la iniciativa popular en las condiciones establecidas en el presente Código Electoral. El derecho reconocido por la Constitución Nacional a favor de los electores para proponer como iniciativa popular proyectos de Ley requiere la presentación de una propuesta legislativa que deberá cumplir cuanto sigue:
 
-b) la firma de por lo menos el 1% (uno por ciento) de los electores inscriptos en el Registro Cívico Permanente, identificados con su nombre, apellido y número de documento de identidad civil, cuyas firmas deberán ser recogidas en pliegos proveídos por el Tribunal Superior de Justicia Electoral, numerados y rubricados por uno de los miembros de una de las salas del Tribunal Electoral de la Capital
+a) la redacción del texto articulado del proyecto de Ley precedido de una exposición de motivos.
 
-> *Modificado por Ley N° 6922 (2022-06-14)*
+b) la firma ológrafa o electrónica de por lo menos el 1% (uno por ciento) de los electores inscriptos en el Registro Cívico Permanente.
+
+c) las firmas ológrafas deberán ser recogidas en pliegos proveídos por la Justicia Electoral, numerados y rubricados por uno de los miembros de una de las salas del Tribunal Electoral de la Capital y deberán ser identificadas con el nombre, apellido y número de documento de identidad civil de los firmantes.
+
+d) las firmas electrónicas deberán ser recogidas en un portal de acceso público en internet habilitado para el efecto en el sitio web del Tribunal Superior de Justicia Electoral, no tendrán costo alguno para el firmante y requerirá completar un formulario electrónico el cual será reglamentado por la Autoridad de Aplicación. La validación de los datos cargados en el formulario se dará siguiendo la definición que para la firma electrónica se establece en la legislación vigente en la materia.
+
+> *Modificado por Ley N° 6983 (2022-09-16)*
 
 ### Artículo 267°
 
