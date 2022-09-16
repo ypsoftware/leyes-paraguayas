@@ -4021,9 +4021,14 @@ DEL DESALOJO
 
 ### Artículo 621°
 
+
 Procedencia. El juicio de desalojo procederá contra el locatario, sublocatario o cualquier ocupante precario cuya obligación de restituir un inmueble o parte de él fuere exigible.
 
 La demanda se presentará por escrito y se correrá traslado de ella al demandado por el plazo de seis días.
+
+El juicio de desalojo no procederá cuando la demanda sea dirigida contra ascendientes de la tercera edad o personas con discapacidad cuyo deber legal de prestar alimentos sea atribuible al actor o propietario del inmueble respectivo, y produjera con el desahucio un estado de vulnerabilidad y abandono grave. Tal extremo podrá ser probado en cualquier estado del proceso por los trámites de los incidentes, no suspendiéndose la prosecución del proceso y debiéndose resolver con la sentencia definitiva previo dictamen de la Defensoría Pública.
+
+> *Modificado por Ley N° 6979 (2022-09-16)*
 
 ### Artículo 622°
 
