@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/9461/texto
 short_title: "QUE DISPONE EL USO OBLIGATORIO DE MASCARILLAS HIGIÉNICAS EN…"
+derogada: true
+derogada_por: Ley 6990
+derogada_fecha: 2022-10-11
 ---
 
 # LEY Nº 6699
@@ -204,3 +207,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los quince días del mes de diciembre del año dos mil veinte, y por la Honorable Cámara de Senadores, a los diecisiete días del mes de diciembre del año dos mil veinte, queda sancionado, de conformidad con lo dispuesto en el artículo 204 de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 6990 (2022-10-11)*
