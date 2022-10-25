@@ -15,11 +15,17 @@ short_title: "QUE RECONOCE AL INSTITUTO TECNICO SUPERIOR “KYRE’Ỹ SÃSO”,
 
 ### Artículo 1°
 
-Reconócese al Instituto Técnico Superior “KYRE’Ỹ SÃSO”, como Institución de Educación Superior, con autonomía institucional, que se regirá por la presente Ley, el Artículo 79 de la Constitución Nacional, y las demás normas pertinentes.
+
+Reconócese al Instituto Superior “KYRE’Ỹ SÃSO”, como Institución de Educación Superior, que se regirá por la presente Iey, el artículo 79 de la Constitución y las demás normas pertinentes.
+
+> *Modificado por Ley N° 7002 (2022-10-25)*
 
 ### Artículo 2°
 
-Facúltase al Instituto Superior “KYRE’Ỹ SÃSO” a implementar planes y programas de estudios de alta exigencia en el campo de la Educación Artística y la Cultura, a través de la investigación y extensión académica en las distintas áreas y a expedir títulos de grado y maestría de acuerdo a las carreras ofrecidas.
+
+Facúltase al Instituto Superior “KYRE’Ỹ SÃSO”, a implementar planes y programas de estudios de alta exigencia en el campo de la Educación Artística y la Cultura, incorporando la investigación y la extensión en las distintas áreas y a expedir títulos de grado y posgrado, debiendo ajustar en cada caso, las condiciones institucionales y académicas conforme a las normativas vigentes, a los fines de garantizar la calidad de los programas ofrecidos, con excepción a lo dispuesto en el artículo 68 de la Ley N° 4995/2013, DE EDUCACION SUPERIOR.
+
+> *Modificado por Ley N° 7002 (2022-10-25)*
 
 ### Artículo 3°
 
