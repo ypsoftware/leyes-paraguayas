@@ -15,21 +15,37 @@ short_title: "QUE DESAFECTA DEL DOMINIO PUBLICO MUNICIPAL Y AUTORIZA A LA…"
 
 ### Artículo 1°
 
-Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo a transferir a título oneroso a favor del MOVIMIENTO FILOSOFICO SEICHO NO IE del Paraguay, una fracción de terreno individualizada como lote Nº 8, parte de la Finca Nº 9206, Distrito San Lorenzo, bajo el número uno y al folio uno y siguientes de fecha 6 de agosto de 1975, Manzana VI, ubicada en el barrio Laurelty del citado municipio, cuyas dimensiones y linderos son los siguientes:
 
-AL NORTE: Mide 12,01 m. (doce metros con un centímetro) y linda con derechos de Gabriel Malbetti;
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de San Lorenzo, a transferir a Título oneroso a favor del Movimiento Filosófico Seicho No Ie del Paraguay, una fracción de terreno individualizada como Lote Nº 8, parte de la Finca Nº 9206 del Distrito de San Lorenzo, bajo el número uno y al folio uno y siguientes de fecha 6 de agosto de 1975, Manzana VI, ubicada en el barrio Laurelty del citado municipio, cuyas dimensiones y linderos son los siguientes:
 
-AL SUR: Mide 12 m. (doce metros) y linda con la ex calle 1 y actual calle 26 de febrero;
+Al Norte: Mide 12,01 m (doce metros con un centímetro), linda con derechos de Gabriel Malbetti;
 
-AL ESTE: Mide 32,25 m. (treinta y dos metros con veinticinco centímetros) y linda con el lote Nº 7, de la misma fracción municipal destinada para plaza; y,
+Al Sur: Mide 12 m (doce metros), linda con la ex calle 1 y actual calle 26 de febrero;
 
-AL OESTE: Mide 31,68 m. (treinta y un metros con sesenta y ocho centímetros) y linda con el lote Nº 9, de la misma fracción municipal destinada para plaza.
+Al Este: Mide 32,25 m (treinta y dos metros con veinticinco centímetros), linda con el Lote Nº 7, de la misma fracción municipal destinada para plaza; y,
 
-SUPERFICIE: 385,58 m2 (trescientos ochenta y cinco metros con cincuenta y ocho centímetros cuadrados).
+Al Oeste: Mide 31,68 m (treinta y un metros con sesenta y ocho centímetros), linda con el Lote Nº 9, de la misma fracción municipal destinada para plaza.
+
+SUPERFICIE: 385,58 m2 (TRESCIENTOS OCHENTA Y CINCO METROS CUADRADOS CON CINCUENTA Y OCHO CENTÍMETROS CUADRADOS).
+
+Las Coordenadas UTM
+
+Punto 1 E: 447967.00
+
+N: 7199075.00
+
+Punto 2: E: 447963.00
+
+N: 7199068.00.
+
+> *Modificado por Ley N° 7020 (2022-10-31)*
 
 ### Artículo 2°
 
-La suma obtenida por la venta del inmueble individualizado en el artículo 1º de la presente ley, será destinada exclusivamente para la adquisición de otro inmueble para espacio verde o plaza.
+
+Establécese que la Municipalidad de San Lorenzo realizará la venta del inmueble individualizado en el Artículo 1º de la presente Ley, al precio de avalúo fiscal y la suma obtenida por la venta del inmueble individualizado en el Artículo 1º de esta Ley, será destinada exclusivamente para la adquisición de otro inmueble para espacio verde o plaza.
+
+> *Modificado por Ley N° 7020 (2022-10-31)*
 
 ### Artículo 3°
 
