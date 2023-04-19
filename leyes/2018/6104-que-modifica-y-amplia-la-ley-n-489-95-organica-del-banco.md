@@ -771,29 +771,36 @@ Serán aplicadas a las faltas leves las siguientes sanciones disciplinarias.
 
 ### Artículo 7°
 
-Faltas graves de funcionarios.
 
-Serán consideradas faltas graves las siguientes:
+**Excepciones al Secreto.**
 
-1) Asistencia tardía o irregular al trabajo, sin justificación, cuando exceda de 8 (ocho) veces durante el mismo mes;
+Además de las excepciones previstas en leyes especiales, se exceptúan de la prohibición establecida en el artículo anterior:
 
-2) Ausencia injustificada por más de 3 (tres) días continuos o 5 (cinco) alternados en el año;
+Las estadísticas y otras informaciones que publique el Banco Central del Paraguay, en ejercicio de sus funciones;
 
-3) Abandono del cargo;
+Los informes que requiera la autoridad judicial competente en virtud de resolución firme dictada en juicio, en el que el afectado sea parte. Deberán adoptarse las medidas pertinentes que garanticen la reserva;
 
-4) Incumplimiento de una orden del superior jerárquico, cuando ella se ajuste a sus obligaciones;
+Las informaciones que requiera la Contraloría General de la República, en ejercicio de sus atribuciones;
 
-5) Reiteración o reincidencia en las faltas leves; ocurrida en el plazo de 6 (seis) meses computados desde la fecha en que la sanción anterior quede firme;
+Las informaciones de las entidades de crédito que se hayan declarado, o que hayan sido declaradas judicialmente, en estado de insolvencia. Esta excepción no alcanza a las informaciones sobre las operaciones de los clientes de dichas entidades;
 
-6) Violación del secreto profesional, sobre hechos o actos vinculados a su función que revistan el carácter reservado en virtud de la Ley, el reglamento o por su naturaleza;
+Las informaciones solicitadas por las Cámaras del Congreso y las comisiones de investigación, conforme con lo establecido en los artículos 192 y 195 de la Constitución Nacional, respectivamente. La información que podrá ser requerida y otorgada es la relativa a las entidades financieras, no así la de las operaciones de los clientes de las mismas. El Banco Central del Paraguay, deberá responder los pedidos con toda la información requerida en documentación certificada por el presidente de la entidad, para lo cual deberá arbitrar los mecanismos para excluir las informaciones sobre las operaciones de los clientes de las entidades financieras;
 
-7) Recibir dádivas o ventajas indebidas de cualquier índole que provengan de terceros por razón del cargo;
+Otras informaciones, datos y documentos que, por virtud de las leyes, sean de carácter público;
 
-8) Malversación, distracción, retención o desvío de bienes públicos;
+Las informaciones requeridas por el Ministerio de Hacienda a través de la Subsecretaría de Estado de Tributación, en ejercicio de sus funciones;
 
-9) Comisión de hechos punibles tipificados en el Código Penal contra el Estado y contra las funciones del Estado;
+Las informaciones requeridas por la Secretaría de Prevención de Lavado de Dinero o Bienes, en ejercicio de sus funciones;
 
-10) Los demás casos no previstos en esta Ley, pero contemplados en el Código de Trabajo y las demás leyes como causa justificada de terminación del contrato por voluntad unilateral del empleador.
+Las informaciones requeridas por la Fiscalía General del Estado y los agentes fiscales que conforman el Ministerio Público, en el marco de las atribuciones que le son legalmente conferidas por la legislación.
+
+Las informaciones solicitadas por los órganos del Estado mencionadas precedentemente deberán poseer una justificación y deberán hacer referencia a una persona determinada, debiendo la misma encontrarse, necesariamente, sujeta a un sumario administrativo, a un proceso judicial, de verificación impositiva o a una investigación iniciada por cualquiera de las instituciones incluidas en este artículo.
+
+El deber de secreto y las responsabilidades derivadas de su incumplimiento se transmiten y extienden a las instituciones y personas exceptuadas en los incisos anteriores, así como a todos los sujetos destinatarios de la información resguardada por el deber de secreto.
+
+El Banco Central del Paraguay y los destinatarios de la información deberán conjuntamente adoptar las medidas pertinentes para garantizar la inviolabilidad de la información solicitada. Esta información no podrá extenderse, en ningún caso a otra persona que no sea el Banco Central del Paraguay y/o entidad solicitante.
+
+> *Modificado por Ley N° 7066 (2023-04-19)*
 
 ### Artículo 8°
 
