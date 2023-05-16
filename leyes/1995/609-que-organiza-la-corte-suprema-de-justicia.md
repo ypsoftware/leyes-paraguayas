@@ -73,9 +73,18 @@ d) Todos los demás que establezcan la ley, el reglamento interno, las acordadas
 
 ### Artículo 8°
 
-Integración de Salas y Elección de Autoridades. La Corte Suprema de Justicia en sesión plenaria, que se realizará en el mes de febrero de cada año, procederá a integrar sus salas y a elegir a su Presidente, por el voto secreto favorable de por lo menos cinco de sus ministros.
 
-Seguidamente, los ministros procederán a elegir, entre los miembros de las salas que no integra el Presidente, al Vicepresidente Primero. Finalmente, entre los miembros de la sala restante, elegirán al Vicepresidente Segundo.
+**Integración de Salas, Elección de Autoridades y Superintendentes.**
+
+La Corte Suprema de Justicia, en sesión plenaria, que se realizará en el mes de febrero de cada año, procederá a integrar sus salas y a elegir a su Presidente.
+
+Seguidamente, los ministros procederán a elegir, entre los miembros de las salas que no integra el Presidente, al Vicepresidente Primero; y entre los miembros de la sala restante, elegirán al Vicepresidente Segundo.
+
+Además se elegirán a los Ministros Superintendentes de cada una de las Circunscripciones Judiciales del país, cuyo período en el cargo será de dos años. No podrán ser reelectos para la misma Circunscripción salvo por períodos alternados.
+
+En todas las elecciones citadas precedentemente, se requerirá el voto nominal y a viva voz, siendo necesaria una mayoría calificada de al menos cinco de sus miembros.
+
+> *Modificado por Ley N° 7058 (2023-05-16)*
 
 ### Artículo 9°
 
