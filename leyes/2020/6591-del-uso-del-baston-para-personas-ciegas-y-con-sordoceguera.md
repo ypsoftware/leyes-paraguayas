@@ -8,6 +8,9 @@ fuente: bacn.gov.py
 status: derogada
 source: https://www.bacn.gov.py/leyes-paraguayas/9336/texto
 short_title: "DEL USO DEL BASTÓN PARA PERSONAS CIEGAS Y CON SORDOCEGUERA"
+derogada: true
+derogada_por: Ley 7093
+derogada_fecha: 2023-05-29
 ---
 
 # LEY Nº 6591
@@ -44,3 +47,5 @@ Comuníquese al Poder Ejecutivo.
 ---
 
 *Aprobado el Proyecto de Ley por la Honorable Cámara de Senadores, a los treinta días del mes de abril del año dos mil veinte, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a los treinta y un días del mes de julio del año dos mil veinte, de conformidad a lo dispuesto en el Artículo 207 numeral 2) de la Constitución Nacional.*
+
+> *Derogada en su totalidad por Ley N° 7093 (2023-05-29)*
