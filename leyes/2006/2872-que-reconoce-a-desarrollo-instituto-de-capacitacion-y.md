@@ -15,11 +15,17 @@ short_title: "QUE RECONOCE A “DESARROLLO, INSTITUTO DE CAPACITACIÓN Y…"
 
 ### Artículo 1°
 
-Reconócese a “DESARROLLO, INSTITUTO DE CAPACITACION Y ESTUDIOS”, como Institución de Educación Superior, que se regirá por la presente Ley, el Artículo 79 de la Constitución Nacional y las normas pertinentes.
+
+Reconócese al “Instituto Desarrollo”, como Institución de Educación Superior, que se regirá por la presente Ley, el Artículo 79 de la Constitución Nacional, la Ley N° 4995/2013 “DE EDUCACIÓN SUPERIOR” y las demás normas pertinentes.
+
+> *Modificado por Ley N° 7125 (2023-07-07)*
 
 ### Artículo 2°
 
-Facúltase al Instituto de Educación Superior “DESARROLLO, INSTITUTO DE CAPACITACIÓN Y ESTUDIOS”, a implementar planes y programas de estudios en el campo de la economía-gestión y desarrollo, y a expedir títulos de grado y maestría en dicha área del conocimiento.
+
+Facúltase a la Institución de Educación Superior “Instituto Desarrollo”, a implementar previa aprobación del Consejo Nacional de Educación Superior cursos de pregrado, carreras de grado y programas de postgrado, incorporando la investigación y la extensión académica en el campo de la economía, gestión y desarrollo; y otorgar títulos de conformidad con los cursos, carreras y programas ofrecidos, de acuerdo con lo establecido en la Ley N° 4995/2013 “DE EDUCACIÓN SUPERIOR”.
+
+> *Modificado por Ley N° 7125 (2023-07-07)*
 
 ### Artículo 3°
 
