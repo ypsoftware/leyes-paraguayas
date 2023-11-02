@@ -15,11 +15,17 @@ short_title: "QUE RECONOCE AL INSTITUTO SUPERIOR DE EDUCACION POLICIAL…"
 
 ### Artículo 1°
 
-Reconócese al Instituto Superior de Educación Policial (ISEPOL), como Institución de Educación Superior, que se regirá por la presente Ley, el Artículo 79 de la Constitución Nacional, la Ley Nº 1264/98 “GENERAL DE EDUCACION”, y las normas pertinentes de la Ley Nº 222/93 “ORGANICA DE LA POLICIA NACIONAL”.
+
+Reconócese al Instituto Superior de Educación Policial (ISEPOL), como Institución de Educación Superior, que se regirá por la presente ley, el Artículo 79 de la Constitución Nacional, la Ley N° 4995/2013 “DE EDUCACION SUPERIOR”, la Ley Nº 1264/1998 “GENERAL DE EDUCACIÓN”, y las normas pertinentes de la Ley Nº 222/1993 “ORGÁNICA DE LA POLICÍA NACIONAL”, y sus modificaciones.
+
+> *Modificado por Ley N° 7198 (2023-11-02)*
 
 ### Artículo 2°
 
-Facúltase al Instituto Superior de Educación Policial (ISEPOL), a implementar planes y programas de estudios en el campo de las Ciencias Policiales y a expedir títulos de grado y maestría, de acuerdo a las carreras ofrecidas.
+
+Facúltase al Instituto Superior de Educación Policial (ISEPOL), a implementar cursos de pre-grado, carreras de grado y programas de postgrado en el campo de las ciencias policiales y a expedir títulos correspondientes.
+
+> *Modificado por Ley N° 7198 (2023-11-02)*
 
 ### Artículo 3°
 
