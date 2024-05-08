@@ -15,11 +15,23 @@ short_title: "QUE ESTABLECE QUE TODA DESAFECTACIÓN DE BIENES INMUEBLES…"
 
 ### Artículo 1°
 
-Establécese que a partir de la vigencia de la presente ley, todos los bienes inmuebles del Estado paraguayo – Ministerio de Defensa Nacional – Fuerzas Armadas de la Nación, que sean objeto de desafectación serán únicamente a título oneroso y a cotización actualizada.
+
+Establécese que, a partir de la vigencia de la presente ley, todos los bienes inmuebles del Estado paraguayo – Ministerio de Defensa Nacional – Fuerzas Armadas de la Nación, que sean objeto de desafectación serán únicamente a título oneroso y a cotización actualizada, previo informe técnico y conformidad del Ministerio de Defensa Nacional.
+
+Declárase de interés estratégico para la Defensa Nacional todos los inmuebles a nombre del Estado paraguayo – Ministerio de Defensa Nacional – Fuerzas Armadas de la Nación.
+
+> *Modificado por Ley N° 7267 (2024-05-08)*
 
 ### Artículo 2°
 
+
 Los recursos obtenidos de dichas operaciones serán destinados a la modernización y fortalecimiento de las Fuerzas Armadas de la Nación, incorporándose al Presupuesto General de la Nación dentro de un marco regulador de inversiones.
+
+La contraprestación fijada por la desafectación de un inmueble podrá realizarse también con otros tipos de compensaciones que las partes interesadas acuerden en beneficio de las Fuerzas Armadas de la Nación.
+
+Las desafectaciones de inmuebles pertenecientes al Ministerio de Defensa Nacional solo podrán ser planteadas para casos de proyectos que redunden en beneficio de la sociedad en las áreas de salud, educación, o proyecto de intereses vitales de la República, siempre y cuando, estos inmuebles no estén afectados a las actividades propias o proyectos de las unidades militares.
+
+> *Modificado por Ley N° 7267 (2024-05-08)*
 
 ### Artículo 3°
 
