@@ -181,17 +181,26 @@ Administración. La Secretaría Nacional de Administración de Bienes Incautados
 
 ### Artículo 13°
 
-Decisiones de administración. La Secretaría Nacional de Administración de Bienes Incautados y Comisados (SENABICO), para la administración de los bienes y con la finalidad de optimizar la gestión, tomará en consideración las disposiciones siguientes:
 
-Los bienes serán administrados procurando los costos más bajos, sin detrimento de su estado de conservación.
+Decisiones de administración. La Secretaría Nacional de Administración de Bienes Incautados y Comisados, para la administración de los bienes y con la finalidad de optimizar la gestión, tomará en consideración las disposiciones siguientes:
 
-Se procurará que los bienes se mantengan productivos de acuerdo a su naturaleza.
+a) Los bienes serán administrados procurando los costos más bajos, sin detrimento de su estado de conservación.
 
-Si los bienes resultaren de difícil u oneroso mantenimiento se solicitará a la autoridad competente la aplicación de la venta anticipada.
+b) Se procurará que los bienes se mantengan productivos de acuerdo a su naturaleza.
 
-Gestionará ante la autoridad competente la aplicación de la figura del abandono.
+c) Si los bienes resultaren de difícil u oneroso mantenimiento o hayan sido instrumentos, de conformidad a la presente ley, podrán gestionar la aplicación de la venta anticipada.
 
-Las demás que determinen las leyes, los reglamentos o directrices emanadas.
+d) Gestionará ante la autoridad competente la aplicación de la figura del abandono.
+
+e) En caso de administración de animales, deberá contar con una marca de administración de semovientes, que será puesta en los mismos. Dicha diligencia se pondrá a conocimiento de todos los organismos competentes.
+
+Igualmente, podrá solicitar a la Dirección de Marcas y Señales la expedición de las boletas de marcas y señales, como así mismo la marca de los semovientes que se encuentren bajo su administración.
+
+Así también, el Servicio Nacional de Calidad y Salud Animal, actualizará en su base de datos los semovientes administrados por la Secretaría Nacional de Administración de Bienes Incautados y Comisados, para las correspondientes altas y bajas. A su vez, realizará las modificaciones reglamentarias a fin de que la Secretaría Nacional de Administración de Bienes Incautados y Comisados pueda expedir las guías de traslado del ganado necesarias para que la institución administradora traslade los mismos a otros establecimientos ganaderos administrados por ésta o a terceros, una vez que sean subastados en los procesos establecidos en la presente ley.
+
+f) Las demás que determinen las leyes, los reglamentos o directrices emanadas.
+
+> *Modificado por Ley N° 7254 (2024-05-27)*
 
 ### Artículo 14°
 
@@ -227,21 +236,24 @@ Bases de datos. La Secretaría Nacional de Administración de Bienes Incautados 
 
 ### Artículo 18°
 
-Valoracion de los bienes. La Secretaría Nacional de Administración de Bienes Incautados y Comisados (SENABICO), para el avalúo de los bienes podrá solicitar el apoyo a los peritos que correspondan en cualquiera de las instituciones del Estado. Sin perjuicio de lo anterior podrá por si misma realizar las valoraciones de los bienes de acuerdo al valor del mercado y los impuestos adeudados por el bien a la fecha de la valoración.
+
+Valoración de los bienes. La Secretaría Nacional de Administración de Bienes Incautados y Comisados, para el avalúo de los bienes deberá solicitar el apoyo a los peritos que correspondan en cualquiera de las instituciones del Estado, de acuerdo con el valor del mercado y los impuestos adeudados por el bien a la fecha de la valoración.
 
 En casos especiales a su criterio podrán contratar terceros especializados para la valoración de los bienes, tomando en consideración los valuadores, al que ofrezca una tarifa competitiva dentro del mercado y el tipo de servicio idóneo a la situación de valoración que se requiera.
 
 Los avalúos y las referencias de valor de los bienes podrán actualizarse al menos en los casos siguientes para efectos administrativos:
 
-Previo al inicio del procedimiento de enajenación de los bienes.
+a) Previo al inicio del procedimiento de enajenación de los bienes.
 
-Como resultado de caso fortuito o de fuerza mayor, el bien sufrió algún deterioro significativo.
+b) Como resultado de caso fortuito o de fuerza mayor, el bien sufrió algún deterioro significativo.
 
-Para renovar las pólizas de seguro correspondientes, en caso que se requiera.
+c) Para renovar las pólizas de seguro correspondientes, en caso que se requiera.
 
-Cuando el bien en comiso sea donado.
+d) Cuando el bien en comiso sea donado.
 
-En caso de que el avalúo sea para realizar el trámite de venta anticipada, el afectado podrá oponerse a la valoración efectuada y en cuyo caso deberá presentar un avalúo para que ambos sean valorados por el juez competente en su resolución.
+En caso que el avalúo tenga por finalidad el trámite de venta anticipada, el resultado será notificado al afectado. Si no fuere posible la notificación al afectado, se realizará mediante publicación en medios radiales del Estado con difusión nacional. El afectado tendrá 5 (cinco) días hábiles para oponerse interponiendo recurso fundado de revisión ante la máxima instancia de la Secretaría Nacional de Administración de Bienes Incautados y Comisados. Esta resolverá en el plazo de 3 (tres) días hábiles, lo que será irrecurrible. Este procedimiento no será aplicable al tratarse de instrumentos.
+
+> *Modificado por Ley N° 7254 (2024-05-27)*
 
 ### Artículo 19°
 
@@ -265,15 +277,24 @@ Creacion del Fondo Especial. Para cubrir los gastos operativos y la contratació
 
 ### Artículo 23°
 
-Venta anticipada. Cuando los bienes incautados presenten riesgo de perecer, deteriorarse, desvalorizarse o cuya conservación ocasione perjuicios o gastos desproporcionados a su valor o administración, podrán ser vendidos anticipadamente pretendiendo mantener la productividad de los mismos.
 
-En este caso, la Secretaría Nacional de Administración de Bienes Incautados y Comisados (SENABICO), solicitará al Juez competente mediante resolución motivada la aplicación de la medida para que este autorice la venta anticipada.
+Venta anticipada. Cuando los bienes incautados sean instrumentos o presenten riesgo de perecer, deteriorarse, desvalorizarse o cuya conservación ocasione perjuicios o gastos desproporcionados a su valor o administración, podrán ser vendidos anticipadamente pretendiendo mantener la productividad de ellos.
 
-Una vez que el juez competente reciba la solicitud dará traslado al titular del bien por el plazo de 10 (diez) días para que haga valer sus derechos y pueda oponerse a la medida. En caso de oposición el juez analizará las razones expuestas de las partes y emitirá la resolución que corresponda.
+En cuanto a los bienes muebles y semovientes, la Secretaría Nacional de Administración de Bienes Incautados y Comisados, mediante un informe técnico del área misional y a través de un acto jurídico administrativo, dispondrá la venta anticipada de los mismos, según lo previsto en el Artículo 18.
 
-Si vencido el plazo señalado anteriormente, sin que el titular haga manifiesta su oposición, el juez competente emitirá la resolución respectiva de venta anticipada.
+En caso de tratarse de bienes inmuebles, la Secretaría Nacional de Administración de Bienes Incautados y Comisados, solicitará al juez competente mediante resolución motivada la aplicación de la medida para que este autorice la venta anticipada.
 
-El producto de la venta será depositado en las cuentas bancarias de dineros incautados que administra la Secretaría Nacional de Administración de Bienes Incautados y Comisados (SENABICO) y remitirá copia del depósito efectuado al juez competente para que conste en el expediente judicial del proceso y se mantendrá bajo administración hasta que se determine su devolución al afectado o se ordene su comiso.
+Una vez que el juez competente reciba la solicitud dará traslado al titular del bien por el plazo de 5 (cinco) días para que haga valer sus derechos y pueda oponerse a la medida. Si el afectado no tiene domicilio conocido, la notificación se realizará por medios de difusión estatales. En caso de oposición por parte del afectado, el juez analizará las razones expuestas por las partes y emitirá la resolución que corresponda.
+
+Vencido el plazo señalado anteriormente, sin que el titular haga manifiesta su oposición, el juez competente emitirá la resolución respectiva de venta anticipada en un plazo no mayor a 5 (cinco) días.
+
+En todos los casos, las medidas cautelares que pesaren sobre los bienes serán levantadas por las autoridades competentes, incluyéndose también a las dictadas en otros procesos judiciales.
+
+El producto de la venta será depositado en las cuentas bancarias de dineros incautados que administra la Secretaría Nacional de Administración de Bienes Incautados y Comisados y remitirá copia del depósito efectuado al juez competente para que conste en el expediente judicial del proceso y se mantendrá bajo administración hasta que se determine su devolución al afectado o se ordene su comiso.
+
+La Secretaría Nacional de Administración de Bienes Incautados y Comisados, como parte de la aplicación de este mecanismo, reportará, además de al juez competente, a la Contraloría General de la República y a la Auditoría General del Poder Ejecutivo, presentando un informe trimestral detallado acerca de las acciones realizadas en el marco de la venta anticipada.
+
+> *Modificado por Ley N° 7254 (2024-05-27)*
 
 ### Artículo 24°
 
