@@ -85,9 +85,10 @@ e) en el caso de especialidades medicinales o farmacéuticas importadas de los p
 
 ### Artículo 11°
 
-A los efectos de esta Ley se considera países de alta vigilancia sanitaria a: Alemania, Austria, Bélgica, Canadá, Dinamarca, España, Estados Unidos, Francia, Israel, Italia, Japón, Países Bajos, Reino Unido, Suecia y Suiza.
 
-Asimismo, a los efectos de esta Ley, se consideran países de adecuada vigilancia sanitaria a: Australia, Chile, Cuba, Finlandia, Hungría, Irlanda, Luxemburgo, Méjico, Noruega y Nueva Zelanda.
+A los efectos de la presente ley se considera países de alta vigilancia sanitaria a países con Autoridades Sanitarias Estrictas (ARES) y Autoridades Reguladoras de Referencia con máximo nivel de madurez, según la Organización Mundial de la Salud (OMS), siempre utilizando, la lista de alcance correspondiente a medicamentos.
+
+> *Modificado por Ley N° 7256 (2024-05-29)*
 
 ### Artículo 12°
 
