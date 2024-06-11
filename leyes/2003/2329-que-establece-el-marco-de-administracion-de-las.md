@@ -25,23 +25,25 @@ De las características
 
 ### Artículo 2°
 
+
 Las Cooperativas de Vivienda podrán realizar otros tipos de actividades para alcanzar sus fines, particularmente:
 
-a) el ahorro para la vivienda y otorgamiento de créditos para la adquisición, construcción o ampliación de viviendas para sus socios; y,
+a) El ahorro para la vivienda y otorgamiento de créditos para la adquisición, construcción o ampliación de viviendas para sus socios.
 
-b) la actividad productiva y/o servicios para recaudar fondos exclusivamente para la adquisición, construcción o ampliación de viviendas y la infraestructura barrial.
+b) La actividad productiva y/o servicios para recaudar fondos exclusivamente para la adquisición, construcción o ampliación de viviendas y la infraestructura barrial.”
 
 De las exigencias
 
+> *Modificado por Ley N° 7277 (2024-06-11)*
+
 ### Artículo 3°
 
-Las Cooperativas de Vivienda están sujetas al cumplimiento de las prescripciones de las Leyes N°s. 118/90 y 438/94.
 
-Están obligadas a la fiscalización del INCOOP y deben cumplir los requisitos que se exigen a toda cooperativa.
+Las Cooperativas de Vivienda están sujetas al cumplimiento de las prescripciones de las Leyes N°s 6152/2018 “QUE CREA EL MINISTERIO DE URBANISMO, VIVIENDA Y HÁBITAT (MUVH) Y ESTABLECE SU CARTA ORGÁNICA”, 438/1994 “DE COOPERATIVAS”, 5501/2015 “QUE MODIFICA VARIOS ARTÍCULOS DE LA LEY N° 438/94 ‘DE COOPERATIVAS”, 2157/2003 “QUE REGULA EL FUNCIONAMIENTO DEL INSTITUTO NACIONAL DE COOPERATIVISMO Y ESTABLECE SU CARTA ORGANICA” y sus reglamentaciones.”
 
-II. Tipos de aporte
+De la relación jurídica entre el beneficiario y la cooperativa
 
-De los aportes
+> *Modificado por Ley N° 7277 (2024-06-11)*
 
 ### Artículo 4°
 
@@ -51,17 +53,14 @@ De la relación jurídica entre el beneficiario y la cooperativa
 
 ### Artículo 5°
 
+
 Las Cooperativas de Vivienda pueden ser:
 
-a) de propietarios: son las Cooperativas de Vivienda conformadas exclusivamente para la construcción de la vivienda y que, terminada esta etapa, las viviendas son adjudicadas a cada integrante de la cooperativa. La Cooperativa de Vivienda de Propietarios subsistirá durante la etapa de pago, a fin de facilitar éste y entregar los títulos a cada propietario una vez pagado todo el financiamiento.
+a) De propietarios: son las Cooperativas de Vivienda conformadas para el financiamiento, la adquisición de inmuebles y construcción de viviendas e infraestructura para sus miembros y que, terminada esta etapa, las viviendas son adjudicadas a cada integrante de la cooperativa. La Cooperativa de Vivienda de Propietarios subsistirá durante la etapa de pago, a fin de facilitar éste y entregar los títulos a cada propietario una vez pagado todo el financiamiento. Bajo esta modalidad, la propiedad de la vivienda pertenece al socio de la cooperativa.
 
-Bajo esta modalidad, la propiedad de la vivienda pertenece al socio de la cooperativa; y,
+b) De usuarios: son las Cooperativas de Vivienda, conformadas no sólo para el financiamiento, la adquisición de inmuebles y la construcción de la vivienda e infraestructura del miembro de la cooperativa y el pago, sino su uso y habitación. La propiedad de las viviendas y de la infraestructura del barrio que no forme parte del dominio público es de la Cooperativa de Vivienda, de acuerdo con la aprobación pertinente y las familias que ocupan las viviendas son usuarias de las mismas. El miembro titular de la Cooperativa de Vivienda de usuarios posee, junto con su familia, el derecho de uso sobre la vivienda por cincuenta años, renovable, no obstante, la propiedad de la vivienda deberá transferirse a los usuarios por decisión de la asamblea una vez que el valor de la vivienda adjudicada haya sido pagado en su totalidad por los mismos a las cooperativas.
 
-b) de usuarios: son las Cooperativas de Vivienda conformadas no sólo para la construcción de la vivienda y el pago, sino su uso y habitación. La propiedad de las viviendas y de la infraestructura del barrio que no forme parte del dominio público es de la Cooperativa de Vivienda, de acuerdo con la aprobación pertinente, y las familias que ocupan las viviendas son usuarias de las mismas.
-
-El miembro titular de la Cooperativa de Vivienda de usuarios posee, junto con su familia, el derecho de uso sobre la vivienda por cincuenta años, renovable.
-
-III. De los Departamentos de Vivienda de otros tipos de Cooperativas
+> *Modificado por Ley N° 7277 (2024-06-11)*
 
 ### Artículo 6°
 
@@ -89,7 +88,12 @@ d) las integradas por familias en las que la suma del ingreso familiar, en prome
 
 ### Artículo 8°
 
-No podrán acceder a subsidios directos del Estado aquellos socios de cooperativas con ingreso familiar total mayor de cinco salarios mínimos para actividades diversas no especificadas en la República.
+
+Los subsidios que otorgará el Estado, serán sobre la tasa de interés del crédito concedido, siendo estos subsidios indirectos, no pudiendo acceder a los mismos aquellos socios de cooperativas con ingreso familiar total mayor de cinco salarios mínimos para actividades diversas no especificadas en la República.”
+
+De la administración de los recursos
+
+> *Modificado por Ley N° 7277 (2024-06-11)*
 
 ### Artículo 9°
 
@@ -105,9 +109,12 @@ De la administración de los recursos
 
 ### Artículo 11°
 
-La administración de los fondos destinados a los socios de las Cooperativas de Vivienda, estará a cargo del Consejo Nacional de la Vivienda (CONAVI).
 
-Del precio y formas de pago
+La administración de los fondos destinados a los socios de las Cooperativas de Vivienda, estará a cargo del Ministerio de Urbanismo, Vivienda y Hábitat.”
+
+De las condiciones
+
+> *Modificado por Ley N° 7277 (2024-06-11)*
 
 ### Artículo 12°
 
@@ -117,21 +124,24 @@ De las condiciones
 
 ### Artículo 13°
 
-Para acceder al fondo público para la vivienda, se deben cumplir las siguientes condiciones:
 
-a) las cooperativas deben tener existencia legal según las Leyes N°s. 118/90, 438/94, la presente Ley y sus reglamentos;
+Para acceder al fondo público para la vivienda, se deberán cumplir los siguientes requisitos:
 
-b) estará fiscalizada adecuadamente por el INCOOP;
+a) Las cooperativas deberán estar reconocidas legalmente.
 
-c) los socios beneficiados con el fondo público y sus familias no deben poseer vivienda propia;
+b) Las cooperativas deberán estar supervisadas por el Instituto Nacional de Cooperativismo.
 
-d) los socios beneficiarios deben contar con ahorro previo sobre la base de un reglamento establecido por el Comité de Vivienda y aprobado por el Consejo Administrativo;
+c) Los socios beneficiarios con el fondo público y aquellos familiares que residen en la misma no deben poseer vivienda propia.
 
-e) la cooperativa tiene obligación de crear los fondos legales establecidos en las Leyes N°s. 438/94 y 118/90, incluyendo las reservas legales; y,
+d) Los socios beneficiarios deben contar con ahorro previo sobre la base de un reglamento establecido por el Comité de Vivienda y aprobado por el Consejo de Administración de la Cooperativa.
 
-f) las Cooperativas de Vivienda para ser beneficiadas deben observar todo lo establecido en las Leyes N°s.438/94 y 118/90 y sus reglamentos.
+e) La cooperativa tiene la obligación de crear los fondos legales establecidos en la Ley N° 6152/2018 “QUE CREA EL MINISTERIO DE URBANISMO, VIVIENDA Y HÁBITAT (MUVH) Y ESTABLECE SU CARTA ORGÁNICA”, incluyendo las reservas legales.
 
-De los plazos
+VI. De las normas de las cooperativas
+
+Del cumplimiento de los aportes y cuotas
+
+> *Modificado por Ley N° 7277 (2024-06-11)*
 
 ### Artículo 14°
 
@@ -149,7 +159,10 @@ Del cumplimiento de los aportes y cuotas
 
 ### Artículo 16°
 
-Las cuotas sociales de los socios, la suscripción e integración de capital deben estar contempladas en los estatutos sociales de la cooperativa, observando el marco legal de las Leyes N°s. 118/90, 438/94 y sus reglamentos.
+
+Las cuotas sociales de los socios, la suscripción e integración de los aportes de capital deben estar contempladas en los estatutos sociales de la cooperativa, observando el marco legal vigente.
+
+> *Modificado por Ley N° 7277 (2024-06-11)*
 
 ### Artículo 17°
 
