@@ -15,11 +15,17 @@ short_title: "QUE RECONOCE AL INSTITUTO “VIA PRO DESARROLLO”, COMO…"
 
 ### Artículo 1°
 
-Reconócese al Instituto Superior de Educación “VIA PRO DESARROLLO”, creado por Decreto del Poder Ejecutivo N° 418 del 18 de setiembre de 1998, como una Institución de Educación Superior, que se regirá por la presente Ley, el Artículo 79 de la Constitución Nacional, y las normas pertinentes.
+
+Reconócese al Instituto Superior “VÍA PRO DESARROLLO”, como Institución de Educación Superior, que se regirá por la presente ley, el artículo 79 de la Constitución, la Ley N° 4995/2013 “DE EDUCACIÓN SUPERIOR” y las demás normas pertinentes.
+
+> *Modificado por Ley N° 7275 (2024-07-12)*
 
 ### Artículo 2°
 
-Facúltase al Instituto Superior de Educación “VIA PRO DESARROLLO”, a desarrollar planes y programas educativos, extensión e investigaciones científicas en el campo de la gestión, administración y gerenciamiento de las instituciones públicas y privadas, y a expedir títulos de grado y maestría, de acuerdo a las carreras ofrecidas.
+
+Facúltase al Instituto Superior “VÍA PRO DESARROLLO”, a implementar planes y programas educativos, extensión e investigaciones científicas, en el campo del comercio y administración de las instituciones públicas y privadas y a expedir títulos de pregrado, grado y postgrado, de acuerdo a los cursos, carreras y programas ofrecidos, de conformidad con lo establecido en la Ley N° 4995/2013 “DE EDUCACION SUPERIOR”.
+
+> *Modificado por Ley N° 7275 (2024-07-12)*
 
 ### Artículo 3°
 
