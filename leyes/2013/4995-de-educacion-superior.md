@@ -257,9 +257,16 @@ Los representantes de estudiantes cesarán automáticamente en sus funciones una
 
 ### Artículo 15°
 
-El Consejo Nacional de Educación Superior, una vez integrado y con la presencia de la mitad más uno de sus miembros, elegirá entre sus integrantes en elecciones con voto secreto a su Presidente, Vicepresidente y Secretario.
 
-El Consejo Nacional de Educación Superior se reunirá regularmente al menos una vez por mes y extraordinariamente, todas las veces que sean necesarias. Para sesionar, requerirá la presencia de la mitad más uno de sus miembros y sus decisiones se tomarán por mayoría simple de votos de los miembros presentes.
+El Consejo Nacional de Educación Superior será presidido por el Ministro de Educación y Ciencias.
+
+El Ministro de Educación y Ciencias podrá delegar dicha función, por resolución fundada, en un representante que reúna los requisitos de idoneidad y experiencia necesarios para ejercer dicho cargo.
+
+Una vez integrado el Consejo, y con la presencia de la mitad más uno de sus miembros, se elegirá de entre sus integrantes al Vicepresidente y al Secretario.
+
+El Consejo Nacional de Educación Superior se reunirá regularmente al menos una vez por mes y, extraordinariamente, todas las veces que sean necesarias. Para sesionar, requerirá la presencia de la mitad más uno de sus miembros y sus decisiones se tomarán por mayoría simple de votos de los miembros presentes.
+
+> *Modificado por Ley N° 7301 (2024-07-22)*
 
 SECCION VII
 
