@@ -2425,9 +2425,14 @@ Cuando la apropiación o el hurto previsto en los artículos 160 y 161 afectara 
 
 ### Artículo 172°
 
-Persecución de hechos bagatelarios
 
-Cuando la apropiación o el hurto previsto en los artículos 160 y 161 se refiera a una cosa de valor menor a diez jornales, la persecución penal del hecho dependerá de la instancia de la víctima, salvo que, a criterio del Ministerio Público, un interés público especial requiera una persecución de oficio.
+**Persecución de hechos bagatelarios.**
+
+1º Cuando la apropiación o el hurto previsto en los Artículos 160 y 161 se refiera a una cosa de valor menor a cinco jornales, la persecución penal del hecho dependerá de la instancia de la víctima, salvo que, a criterio del Ministerio Público, un interés público especial requiera una persecución de oficio.
+
+2º En caso de reincidencia, el Ministerio Público actuará de oficio.
+
+> *Modificado por Ley N° 7220 (2024-07-23)*
 
 CAPITULO II
 
