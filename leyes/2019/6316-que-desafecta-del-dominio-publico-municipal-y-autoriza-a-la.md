@@ -15,19 +15,22 @@ short_title: "QUE DESAFECTA DEL DOMINIO PÚBLICO MUNICIPAL Y AUTORIZA A LA…"
 
 ### Artículo 1°
 
-Desaféctase del dominio público municipal y autorízase a la Municipalidad de Asunción, a transferir a Título oneroso a favor de Intercambios Mercantiles SA., una Fracción de inmueble individualizado como parte de la Finca N° 23118 del Distrito de la Recoleta del citado municipio, cuyas dimensiones y linderos son los siguientes:
+
+Desaféctase del dominio público municipal y autorízase a la Municipalidad de Asunción, a transferir a título oneroso a favor de Intercambios Mercantiles SA., una fracción de inmueble individualizado como parte de la Finca N° 23118 del Distrito de la Recoleta del citado municipio, cuyas dimensiones y linderos son los siguientes:
 
 FRACCIÓN A
 
-AL NORTE: Con rumbo magnético S 61° 13’ 37’’ E (Sur, sesenta y un grados, trece minutos, treinta y siete segundos, Este), mide 19 m (diecinueve metros), linda con parte del Lote con Cta. Cte. Ctral. N° 14-0589-36;
+Al NORTE: con rumbo magnético S 61° 13' 37" E (Sur, sesenta y un grados, trece minutos, treinta y siete segundos, Este), mide 19 m (diecinueve metros), linda con parte del Lote con Cta. Cte. Ctral. N° 14-0589-36;
 
-AL ESTE: Con rumbo magnético S 36° 23’ 22’’ W (Sur, treinta y seis grados, veintitrés minutos, veintidós segundos, Oeste), mide 1,68 m (un metro con sesenta y ocho centímetros), linda con la calle Teniente Juan Benítez;
+Al ESTE: con rumbo magnético S 36° 23' 22" W (Sur, treinta y seis grados, veintitrés minutos, veintidós segundos, Oeste), mide 1,68 m (un metro con sesenta y ocho centímetros), linda con la calle Teniente Juan Benítez;
 
-AL SUR: Con rumbo magnético N 64° 18’ 57’’ W (Norte, sesenta y cuatro grados, dieciocho minutos, cincuenta y siete segundos, Oeste), mide 19,30 m (diecinueve metros con treinta centímetros), linda con la Fracción Callejón (Resto); y,
+Al SUR: con rumbo magnético N 64° 18' 57" W (Norte, sesenta y cuatro grados, dieciocho minutos, cincuenta y siete segundos, Oeste), mide 19,30 m (diecinueve metros con treinta centímetros), linda con la Fracción Callejón (Resto); y,
 
-AL OESTE: Con rumbo magnético N 39° 10’ 17’’ E (Norte, treinta y nueve grados, diez minutos, diecisiete segundos, Este), mide 2,75 m (dos metros con setenta y cinco centímetros), linda con Callejón 132.
+Al OESTE: con rumbo magnético N 39° 10' 17" E (Norte, treinta y nueve grados, diez minutos, diecisiete segundos, Este), mide 2,75 m (dos metros con setenta y cinco centímetros), linda con Callejón 132.
 
-SUPERFICIE: 41 m2 62 cm2 (CUARENTA Y UN METROS CUADRADOS CON SESENTA Y DOS CENTÍMETROS CUADRADOS).
+SUPERFICIE: 41 m2 62 dm2 (CUARENTA Y UN METROS CUADRADOS CON SESENTA Y DOS DECÍMETROS CUADRADOS).
+
+> *Modificado por Ley N° 7303 (2024-08-02)*
 
 ### Artículo 2°
 
